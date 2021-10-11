@@ -24,9 +24,7 @@
                
                We home in on a snake crawling through the undergrowth.
 
-               TITLES
-
-               INT. DARK ROOM - NIGHT TIME
+               TITLES<setting>INT. DARK ROOM - NIGHT TIME</setting>
 
                An old man lights a gas oven with a match, he is preparing food. 
                He notices a light on in the large house opposite, he stops what 
@@ -37,8 +35,7 @@
 
                He leaves the house and heads towards the light.
 
-               
-               EXT. DARKNESS
+              <setting>EXT. DARKNESS</setting>
 
                The old man is wandering up to the house carrying a lit torch. 
                He opens the front door, inside is just as dark. He begins climbing 
@@ -112,8 +109,7 @@
                          back to sleep. Come on Ron! Your mother 
                          says breakfast's ready.
  
-               
-               EXT. GRASSLAND
+              <setting>EXT. GRASSLAND</setting>
 
 <character>HARRY</character>
                          Where are we actually going?
@@ -242,8 +238,7 @@
 <character>ARTHUR</character>
                          Home sweet home.
 
-               
-               INT. TENT
+              <setting>INT. TENT</setting>
 
                They enter the tent, the inside is many times bigger than the 
                outside.
@@ -268,13 +263,11 @@
 <character>HARRY</character>
                          (Smiling) I love magic.
 
-               
-               EXT. HILLSIDE
+              <setting>EXT. HILLSIDE</setting>
 
                We pan up the hillside onto a large stadium which seems to have 
                a huge number of floors.
- 
-               INT. STADIUM
+<setting>INT. STADIUM</setting>
 
                The Weasleys and Harry are finding their seats.
 
@@ -336,8 +329,7 @@
                          to the final of the 422nd Quidditch 
                          World Cup. Let the match begin!
  
-               
-               INT. TENT
+              <setting>INT. TENT</setting>
 
 <character>RON</character>
                          There's no one like Krum. He's like 
@@ -369,8 +361,7 @@
                          Stop! Stop it. It's not the irish. We've 
                          gotta get out of here. Now.
  
-               
-               EXT. OUTSIDE THE TENT
+              <setting>EXT. OUTSIDE THE TENT</setting>
 
 <character>ARTHUR</character>
                          Get back to the portkey everybody, and 
@@ -381,8 +372,7 @@
                across the campsite chanting ominous noises. The crowd is paniced 
                and rushing all over. Harry is trampled unconscious.
  
-               
-               EXT. OUTSIDE - TIME PASSED
+              <setting>EXT. OUTSIDE - TIME PASSED</setting>
 
                The crowds have all gone. A man walks through the rubble kicking 
                at things. He casts a spell which causes a bright flash and a 
@@ -452,8 +442,7 @@
 <character>HARRY</character>
                          I dunno. I didn't see his face.
 
-               
-               INT. TRAIN CARRIAGE
+              <setting>INT. TRAIN CARRIAGE</setting>
 
                Harry, Ron and Hermione are seated on a train. A voice calls 
                out.
@@ -526,8 +515,7 @@
                Harry has written a letter, he marks Sirius Black on an envelope 
                and gives it to an owl.
  
-               
-               EXT. HOGWARTS
+              <setting>EXT. HOGWARTS</setting>
 
                We see four flying horses flying through the air pulling a carriage 
                coming in to land at Hogwarts. The crowds cheer.
@@ -599,8 +587,7 @@
 
                They embrace.
 
-               
-               EXT. HOGWARTS - STORMY - NIGHT
+              <setting>EXT. HOGWARTS - STORMY - NIGHT</setting>
 
 <character>MADAME MAXIME</character>
                          Professor Dumbledore, my horses have 
@@ -622,8 +609,7 @@
 <character>MAN</character>
                          You idiot!
 
-               
-               INT. ASSEMBLY ROOM
+              <setting>INT. ASSEMBLY ROOM</setting>
 
 <character>DUMBLEDORE</character>
                          Your attention please! I would like 
@@ -712,13 +698,12 @@
                          no turning back. As from this moment 
                          the tri-wizard tournament has begun.
  
-                    INT. ASSEMBLY ROOM - NIGHT
+   <setting>INT. ASSEMBLY ROOM - NIGHT</setting>
 
                We see a suspicious character enter the room where the goblet 
                is still burning and close the door behind him.
  
-               
-               INT. CLASSROOM
+              <setting>INT. CLASSROOM</setting>
 
 <character>MAD-EYE</character>
                          Alastor Moody.
@@ -858,8 +843,7 @@
  
                He approaches Harry's desk and takes a drink.
 
-               
-               INT. STAIRS
+              <setting>INT. STAIRS</setting>
 
 <character>RON</character>
                          Brilliant isn't he! Completely demented 
@@ -889,8 +873,7 @@
                          Come on, we'll have a cup of tea. I 
                          want to show you something.
  
-               
-               INT. GOBLET ROOM
+              <setting>INT. GOBLET ROOM</setting>
 
                Older students are placing their names into the flame and others 
                are applauding, Cedric is one of them.
@@ -1012,8 +995,7 @@
                          He's a cheat! He's not even seventeen 
                          yet.
  
-               
-               INT. ROOM
+              <setting>INT. ROOM</setting>
 
                Harry is in a room with the other champions. Dumbledore bursts 
                in and grabs Harry.
@@ -1068,7 +1050,7 @@
                          Mr Potter has no choice, he is as of 
                          tonight... a tri-wizards champion.
  
-                    INT. DARKENED TOWER ROOM
+   <setting>INT. DARKENED TOWER ROOM</setting>
 
 <character>MCGONAGALL</character>
                          This can't go on Albus. First the dark 
@@ -1113,7 +1095,7 @@
                          anxious enough as it is... knowing what 
                          lies ahead. Then again, we all are.
  
-                    INT. BEDROOM
+   <setting>INT. BEDROOM</setting>
 
 <character>RON</character>
                          How did you do it?
@@ -1149,8 +1131,7 @@
 <character>RON</character>
                          Piss off.
 
-               
-               INT. HOGWARTS
+              <setting>INT. HOGWARTS</setting>
 
                A woman appears in a puff of smoke. She's well groomed and dressed 
                colorfully.
@@ -1241,8 +1222,7 @@
                          aren't glistening with the ghosts of 
                          my past. 
  
-               
-               INT. ROOFTOP
+              <setting>INT. ROOFTOP</setting>
 
                An owl flies in with a letter for Harry, he takes it and begins 
                to read.
@@ -1265,7 +1245,7 @@
 <character>SIR</character>
                          (VOICEOVER CONT'D) The bird bites.
  
-                    INT. GRIFFINDORE COMMON ROOM
+   <setting>INT. GRIFFINDORE COMMON ROOM</setting>
 
 <character>HARRY</character>
                          Sirius?
@@ -1439,8 +1419,7 @@
 <character>HERMIONE</character>
                          I'm NOT an owl!
 
-               
-               INT. FOREST
+              <setting>INT. FOREST</setting>
 
                Harry and Hagrid are walking through a dark forest.
 
@@ -1536,7 +1515,7 @@
 <character>HARRY</character>
                          No he didn't. He didn't tell me a thing.
  
-                    EXT. HOGWARTS - DAYTIME
+   <setting>EXT. HOGWARTS - DAYTIME</setting>
 
                We're zoomed in on a badge, it depicts Cedric on a bright yellow 
                background. Then the badge spins and shows Harry on a green background 
@@ -1678,8 +1657,7 @@
 <character>MAD-EYE</character>
                          (To Harry) come with me.
 
-               
-               INT. MAD-EYE'S ROOM
+              <setting>INT. MAD-EYE'S ROOM</setting>
 
                Mad-Eye takes off his prosthetic leg and takes a seat.
 
@@ -1728,13 +1706,11 @@
 <character>MAD-EYE</character>
                          You're allowed a wand.
 
-               
-               EXT. ARENA - TOURNAMENT STAGE 1
+              <setting>EXT. ARENA - TOURNAMENT STAGE 1</setting>
 
                The crowds are cheering, people are taking bets.
 
-               
-               INT. WAITING TENT
+              <setting>INT. WAITING TENT</setting>
 
                Harry is pacing nervously. Hermione is standing by the tent door 
                whispering in.
@@ -1843,8 +1819,7 @@
 
                Transcribed by IMSDb.com
 
-               
-               INT. TENT 
+              <setting>INT. TENT </setting>
 
                Harry is sitting alone nervously.
 
@@ -1868,8 +1843,7 @@
                gives chase. The dragon bursts through the crowd and they look 
                stunned.
  
-               
-               EXT. HOGWARTS SKY
+              <setting>EXT. HOGWARTS SKY</setting>
 
                Harry is flying at high speed around the Hogwarts buildings. 
                The dragon cuts him off and whips him off his broom, he lands 
@@ -1881,8 +1855,7 @@
                with a bridge, he flies through a gap in the bridge but the dragon 
                crashes into it and falls into the water.
  
-               
-               INT. ARENA
+              <setting>INT. ARENA</setting>
 
                The crowds are mostly silent. We see Harry flying towards us 
                and the crowd erupts. He goes straight for the golden egg.
@@ -1977,8 +1950,7 @@
 <character>HERMIONE</character>
                          Boys.
 
-               
-               INT. CLASSROOM
+              <setting>INT. CLASSROOM</setting>
 
                Harry is looking at Cho. When she looks back he spills drink 
                from his mouth. They laugh at him.
@@ -2037,8 +2009,7 @@
 <character>RON</character>
                          Dress robes? for what?
 
-               
-               INT. ASSEMBLY ROOM
+              <setting>INT. ASSEMBLY ROOM</setting>
 
 <character>MCGONAGALL</character>
                          The yule ball has been a tradition of 
@@ -2127,8 +2098,7 @@
 
                Neville stands.
 
-               
-               EXT. HOGWARTS - DAYTIME
+              <setting>EXT. HOGWARTS - DAYTIME</setting>
 
 <character>HARRY</character>
                          Why do they always have to travel in 
@@ -2167,8 +2137,7 @@
                          as it were. But enough of me, what about 
                          you!
  
-               
-               EXT. LAKESIDE
+              <setting>EXT. LAKESIDE</setting>
 
                Viktor Krum is training, a group of girls are following him around.
  
@@ -2230,8 +2199,7 @@
 <character>HARRY</character>
                          Agreed.
 
-               
-               EXT. HOGWARTS - SNOWY
+              <setting>EXT. HOGWARTS - SNOWY</setting>
 
                Harry is walking up some steps. He reaches the top and bumps 
                into Cho who has come around the corner.
@@ -2277,8 +2245,7 @@
 <character>CHO</character>
                          Harry I really am sorry.
 
-               
-               INT. COMMON ROOM
+              <setting>INT. COMMON ROOM</setting>
 
                Ron is being helped into the room, he looks shaky.
 
@@ -2330,8 +2297,7 @@
 <character>HARRY</character>
                          Hey!
 
-               
-               INT. DANCEHALL
+              <setting>INT. DANCEHALL</setting>
 
                Soft music plays and everyone is well dressed, gathered in the 
                hall. 
@@ -2371,8 +2337,7 @@
                          I smell like my great aunt Tessie. Murder 
                          me Harry.
  
-               
-               INT. DANCEHALL
+              <setting>INT. DANCEHALL</setting>
 
                Harry and Ron are walking down the stairs into the hall. Ron 
                is fidgeting with his outfit.
@@ -2555,8 +2520,7 @@
 <character>HERMIONE</character>
                          Ron you spoil everything!
 
-               
-               INT. BEDROOM
+              <setting>INT. BEDROOM</setting>
 
                NIGHTMARE SEQUENCE
 
@@ -2583,8 +2547,7 @@
                          
                He chuckles and dances off.
 
-               
-               EXT. A BRIDGE OUTSIDE HOGWARTS
+              <setting>EXT. A BRIDGE OUTSIDE HOGWARTS</setting>
 
 <character>HERMIONE</character>
                          Harry you told me you'd figured the 
@@ -2648,8 +2611,7 @@
                          take your egg and mull things over in 
                          the hot water.
  
-               
-               INT. BATHROOM
+              <setting>INT. BATHROOM</setting>
 
                Harry is taking his clothes off, he gets in the bath. He has 
                his golden egg on the side.
@@ -2713,8 +2675,7 @@
  
                Myrtle laughs and Harry is embarrassed.
 
-               
-               INT. COMMON ROOM
+              <setting>INT. COMMON ROOM</setting>
 
 <character>HERMIONE</character>
                          Harry, tell me again.
@@ -2783,8 +2744,7 @@
                          I don't know about a turnip but you 
                          can always use gilliweed.
  
-               
-               EXT. LAKESIDE
+              <setting>EXT. LAKESIDE</setting>
 
                The Weasly twins are shouting, busy taking bets. Harry is walking 
                along with Neville, he has some green plantlife in his hand.
@@ -2875,8 +2835,7 @@
                Harry swims among the fish and rocks. Singing voices start echoing. 
                We see Fleur get trapped, she screams. 
  
-               
-               EXT. ABOVE WATER
+              <setting>EXT. ABOVE WATER</setting>
 
 <character>DUMBLEDORE</character>
                          (Over the loudspeaker) The Beauxbatons 
@@ -2884,8 +2843,7 @@
                          been forced to retire. She will take 
                          no further part in this task. 
  
-               
-               EXT. UNDERWATER
+              <setting>EXT. UNDERWATER</setting>
 
                Harry is still searching around. He hears muffled screams. He 
                finds Ron, Hermione, Cho Chan and a blonde girl from Beauxbatons 
@@ -2903,23 +2861,20 @@
                it has legs and it's Viktor. He takes Hermione and heads for 
                the surface. Harry frees Ron. 
  
-               
-               EXT. ABOVE WATER
+              <setting>EXT. ABOVE WATER</setting>
 
                Cedric and Cho emerge, the crowd cheers. Viktor and Hermione 
                next, the crows chants 'Krum, Krum, Krum'. The Beauxbatons girls 
                look worried.
  
-               
-               EXT. UNDERWATER
+              <setting>EXT. UNDERWATER</setting>
 
                Harry looks over and sees the blonde girl that Fleur was unable 
                to rescue. He loosens her rope too and starts heading for the 
                surface with the both of them. He's attacked and gets held down, 
                he pushes Ron and the girl towards the surface.
  
-               
-               EXT. ABOVE WATER
+              <setting>EXT. ABOVE WATER</setting>
 
                Ron and the girl come up, they are coughing but safe. They're 
                helped out of the water by a girl from Beauxbatons. Underwater 
@@ -3032,8 +2987,7 @@
 <character>MAD-EYE</character>
                          And they say I'm mad.
 
-               
-               EXT. DARK FOREST
+              <setting>EXT. DARK FOREST</setting>
 
 <character>HAGRID</character>
                          So I remember, I remember when I first 
@@ -3058,8 +3012,7 @@
 <character>HARRY</character>
                          Mr Crouch?
 
-               
-               INT. HOGWARTS DARK ROOM
+              <setting>INT. HOGWARTS DARK ROOM</setting>
 
 <character>DUMBLEDORE</character>
                          A man has died here. And he won't be 
@@ -3120,8 +3073,7 @@
                and place. It's a courtroom, the walls have a red glow. Dumbledore 
                is seated next to where Harry is.
  
-               
-               INT. COURTROOM
+              <setting>INT. COURTROOM</setting>
 
 <character>HARRY</character>
                          Professor?
@@ -3318,8 +3270,7 @@
 <character>DUMBLEDORE</character>
                          Cast them away.
 
-               
-               INT. CORRIDOR
+              <setting>INT. CORRIDOR</setting>
 
                Harry is walking along, we hear raised voices from inside the 
                herbs store.
@@ -3371,8 +3322,7 @@
  
                Severus closes the door in Harry's face.
 
-               
-               EXT. ARENA
+              <setting>EXT. ARENA</setting>
 
                Music is playing and a large crowd is gathered. The champions 
                emerge.
@@ -3489,7 +3439,7 @@
 <character>HARRY</character>
                          Together, on three. One, two, three!
  
-                    EXT. GRAVEYARD
+   <setting>EXT. GRAVEYARD</setting>
 
                Harry and Cedric have ported to a graveyard. 
 
@@ -3739,8 +3689,7 @@
 <character>VOLDEMORT</character>
                          No!
 
-               
-               EXT. ARENA
+              <setting>EXT. ARENA</setting>
 
                Back at the arena Harry appears with Cedric's body. The crowd 
                don't understand what has taken place and they all cheer, triumphant 
@@ -3776,8 +3725,7 @@
                          
                Amos breaks down wailing. The crowd look on distraught.
 
-               
-               INT. DARKENED ROOM
+              <setting>INT. DARKENED ROOM</setting>
 
                Mad-Eye Moody enters and closes the door behind him. Harry is 
                in the room still sobbing. They sit. 
@@ -3958,8 +3906,7 @@
                          Perhaps. Personally I've never had much 
                          time for heroes.
  
-               
-               INT. ASSEMBLY ROOM
+              <setting>INT. ASSEMBLY ROOM</setting>
 
 <character>DUMBLEDORE</character>
                          (Speaking to all pupils) Today we acknowledge 
@@ -3986,8 +3933,7 @@
                          a boy who was kind and honest and brave 
                          and true right to the very end.
  
-               
-               INT. BEDROOM
+              <setting>INT. BEDROOM</setting>
 
                Harry is sitting on a bed, Dumbledore walks in.
 
@@ -4017,8 +3963,7 @@
                          is easy. But remember this, you have 
                          friends here. You're not alone.
  
-               
-               EXT. HOGWARTS
+              <setting>EXT. HOGWARTS</setting>
 
                There's a large crowd gathered, the pupils are going home. Viktor 
                Krum gives Hermione a kiss and hands her some paper.
