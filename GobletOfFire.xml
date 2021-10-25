@@ -30,7 +30,9 @@
                He notices a light on in the large house opposite, he stops what 
                he's doing and walks to the door.
  
-<character>OLD MAN</character>
+
+
+<speech><character_speak>>OLD MAN</character_speak>
                          Bloody kids.
 
                He leaves the house and heads towards the light.
@@ -43,34 +45,46 @@
                The old man waits outside the room where the conversation is 
                taking place and listens on.
  
-<character>WORMTAIL</character>
+</speech>
+
+<speech><character_speak>>WORMTAIL</character_speak>
                          Oh no no no my Lord Voldemort. I only 
                          meant... perhaps if we were to do it 
                          without the boy..
  
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          NO! The boy is everything, it cannot 
                          be done without him and it WILL be done 
                          exactly as I say.
  
-<character>UNKNOWN MAN</character>
+</speech>
+
+<speech><character_speak>>UNKNOWN MAN</character_speak>
                          I will not disappoint you my lord.
  
                          
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Good. First, gather our old comrades. 
                          Send them a sign.
  
                A snake slithers past the old man and into the room. 
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Nagini tells me the old caretaker is 
                          standing outside the door.
  
                Wormtail stands in the doorway and looks at the old man. The 
                old man looks terrified.
  
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Step aside so I can give our guest a 
                          proper greeting.
  
@@ -78,147 +92,215 @@
  
           INT. BEDROOM
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                         <character_ref>Harry</character_ref>!
 
               <character_ref>Harry</character_ref> is flustered and still panicing.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Are you alright?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Hermione. Bad dream. When did you get 
                          here?
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Just now. You?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Last night.
 
                Hermione goes over to Ron's bed.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Wake up. Wake up<character_ref>Ronald</character_ref>!
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Bloody hell.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Honestly. Get dressed, and don't go 
                          back to sleep. Come on Ron! Your mother 
                          says breakfast's ready.
  
               <setting>EXT. GRASSLAND</setting>
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Where are we actually going?
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Don't know. Hey Dad! Where are we going?
  
                          
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Haven't the foggiest, keep up!
 
-<character>AMOS</character>
+</speech>
+
+<speech><character_speak>>AMOS</character_speak>
                          Arthur! It's about time son.
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Sorry Amos. Some of us had a bit of 
                          a sleepy start. This is Amos Diggory 
                          everyone, he works with me at the ministry. 
                          And this strapping young lad must be 
                          Cedric, am I right?
  
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Yes sir. 
 
-<character>AMOS</character>
+</speech>
+
+<speech><character_speak>>AMOS</character_speak>
                          Merlin's beard, you must be <character_ref>Harry Potter</character_ref>.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yes sir. This way.
 
-<character>AMOS</character>
+</speech>
+
+<speech><character_speak>>AMOS</character_speak>
                          Great great pleasure.
 
                They shake hands.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Pleasure to meet you too sir.
 
                They walk on up the hill.
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          That's it sir, just over there.
 
-<character>AMOS</character>
+</speech>
+
+<speech><character_speak>>AMOS</character_speak>
                          Shall we? We don't want to be late.
  
                          
                Camera homes in on a boot on top of the hillside.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Why are they all standing around that 
                          manky old boot?
  
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          That isn't just any old manky boot mate.
  
                          
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          It's a portkey.
 
                Everyone is in a circle putting their hands on the boot.
 
-<character>AMOS</character>
+</speech>
+
+<speech><character_speak>>AMOS</character_speak>
                          Time to go. Ready?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What's a 'portkey'?
 
-<character>AMOS</character>
+</speech>
+
+<speech><character_speak>>AMOS</character_speak>
                          After 3. One... Two...
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                         <character_ref>Harry</character_ref>!
 
               <character_ref>Harry</character_ref> rushes over and puts his hand on the boot.
 
-<character>AMOS</character>
+</speech>
+
+<speech><character_speak>>AMOS</character_speak>
                          Three!
 
                There's a white flash and suddenly they're all flying through 
                the air. Everyone cheers. 
  
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Let go kids!
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          What??
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Let! Go!
 
               <character_ref>Harry</character_ref>, Hermione and the young Weasleys crash to the ground with 
                a thump. Arthur, Amos and Cedric come down more gracefully.
  
                
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          I bet that cleared your sinuses eh?
  
                          
                Cedric helps<character_ref>Harry</character_ref> to his feet.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Thanks.
 
                They walk across the field and we see there's a massive crowd 
                gathered and cheering, tents are set up all over.
  
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Well kids, welcome to the Quidditch 
                          World Cup!
  
@@ -226,16 +308,22 @@
                and people fly about overhead on brooms. They approach a small 
                tent.
  
-<character>AMOS</character>
+</speech>
+
+<speech><character_speak>>AMOS</character_speak>
                          Parting of the waves I think old chap, 
                          see you at the match.
  
                Amos and Cedric separate and walk off.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          See ya later Cedric.
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Home sweet home.
 
               <setting>INT. TENT</setting>
@@ -243,24 +331,34 @@
                They enter the tent, the inside is many times bigger than the 
                outside.
  
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Girls. Choose a bunk and unpack. Ron, 
                          get out of the kitchen we're all hungry.
  
                          
-<character>TWINS</character>
+</speech>
+
+<speech><character_speak>>TWINS</character_speak>
                          Yeah get out of the kitchen Ron.
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Feet off the table.
 
-<character>TWINS</character>
+</speech>
+
+<speech><character_speak>>TWINS</character_speak>
                          Feet off the table.
 
                They take their feet off the table and put them back on as soon 
                as Arthur has walked past.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          (Smiling) I love magic.
 
               <setting>EXT. HILLSIDE</setting>
@@ -271,36 +369,50 @@
 
                The Weasleys and<character_ref>Harry</character_ref> are finding their seats.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Blimey Dad, how far up ARE we?
 
                Lucius Malfoy and Draco are walking below them.
 
-<character>LUCIUS</character>
+</speech>
+
+<speech><character_speak>>LUCIUS</character_speak>
                          Well put it this way, if it rains... 
                          you'll be the first to know
  
-<character>DRACO</character>
+</speech>
+
+<speech><character_speak>>DRACO</character_speak>
                          Father and I are in the minister's box, 
                          by personal invitation of Cornelius 
                          Fudge himself.
  
-<character>LUCIUS</character>
+</speech>
+
+<speech><character_speak>>LUCIUS</character_speak>
                          Don't boast Draco. There's no need with 
                          these people. Do enjoy yourself won't 
                          you. While you can.
  
                The ceremonies begin. Balloons fly and fireworks go off.
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Come on up, take your seats. I told 
                          you these seats would be worth waiting 
                          for.
  
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          Come on!
 
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          It's the Irish!
 
                Five green and white figures fly through the air on their brooms 
@@ -308,22 +420,30 @@
                appears in the sky and starts dancing. Everyone is excited.
  
                
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          Here come the Bulgarians!
 
                Five red figures this time, one of them performs a stunt on his 
                broom. One of them appears on the large screen. The crowd begins 
                to chant 'Krum, Krum, Krum'. 
  
-<character>WEASLEYS</character>
+</speech>
+
+<speech><character_speak>>WEASLEYS</character_speak>
                          Krum!!!
 
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          Yes!
 
                Viktor Krum waves to the crowd.
 
-<character>ANNOUNCER</character>
+</speech>
+
+<speech><character_speak>>ANNOUNCER</character_speak>
                          Good evening! It gives me great pleasure 
                          to welcome each and every one of you 
                          to the final of the 422nd Quidditch 
@@ -331,7 +451,9 @@
  
               <setting>INT. TENT</setting>
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          There's no one like Krum. He's like 
                          a bird the way he rides the wind. He's 
                          more than an athlete, he's an artist.
@@ -340,30 +462,42 @@
                The twins are bumbling about in a comical way muttering 'KRUMMMM'.
  
                
-<character>GINNY</character>
+</speech>
+
+<speech><character_speak>>GINNY</character_speak>
                          Think you're in love Ron?
 
-<character>TWINS</character>
+</speech>
+
+<speech><character_speak>>TWINS</character_speak>
                          (Singing) Viktor I love you! Viktor 
                          I do!
  
               <character_ref>Harry</character_ref> joins in.
 
-<character>BOYS</character>
+</speech>
+
+<speech><character_speak>>BOYS</character_speak>
                          When we're apart my heart beats only 
                          for youuu!
  
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          Sounds like the irish have got their 
                          pride on.
  
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Stop! Stop it. It's not the irish. We've 
                          gotta get out of here. Now.
  
               <setting>EXT. OUTSIDE THE TENT</setting>
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Get back to the portkey everybody, and 
                          stick together. Fred, George... Ginny 
                          is your responsibility.
@@ -381,65 +515,99 @@
                the man standing there.<character_ref>Harry</character_ref> runs. The familiar voices of Ron 
                and Hermione are calling for him.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Been looking for you for ages. Thought 
                          we lost you.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What is THAT?
 
                They look at the monstrous thing in the sky,<character_ref>Harry</character_ref> holds his 
                head in pain. Suddenly they are fired on. 
  
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Stop! That's my son.
 
                Arthur and others approach.
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Ron,<character_ref>Harry</character_ref>, Hermione are you alright?
  
                          
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Which of you conjured this?
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          You can't possibly..
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Do not lie! You have been discovered 
                          at the scene of the crime!
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Crime?
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                          Barty, they're just kids.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What crime?
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                         <character_ref>Harry</character_ref> it's his mark.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Those people tonight, in the masks... 
                          they're his too aren't they? they're 
                          his followers. 
  
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Follow me.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          There was a man. Before. There.
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          All of you, this way.
 
-<character>ARTHUR</character>
+</speech>
+
+<speech><character_speak>>ARTHUR</character_speak>
                         <character_ref>Harry</character_ref>, who?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I dunno. I didn't see his face.
 
               <setting>INT. TRAIN CARRIAGE</setting>
@@ -447,67 +615,97 @@
               <character_ref>Harry</character_ref>, Ron and Hermione are seated on a train. A voice calls 
                out.
  
-<character>LADY OFFSCREEN</character>
+</speech>
+
+<speech><character_speak>>LADY OFFSCREEN</character_speak>
                          Anything from the trolley? Anything 
                          from the trolley?
  
                The lady appears at their door.
 
-<character>LADY</character>
+</speech>
+
+<speech><character_speak>>LADY</character_speak>
                          Anything from the trolley dears?
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Packet of drewbals and a liquorice wand.
  
                          
                Ron sees he hasn't enough money.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          On second thought, just the drewbals.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          It's alright I'll get it.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Just the drewbals, thanks.
 
                Cho Chan walks up to the trolley.
 
-<character>CHO</character>
+</speech>
+
+<speech><character_speak>>CHO</character_speak>
                          Two pumpkin pasties please.
 
               <character_ref>Harry</character_ref> and Cho look at each other and smile.
 
-<character>CHO</character>
+</speech>
+
+<speech><character_speak>>CHO</character_speak>
                          Thank you.
 
-<character>LADY</character>
+</speech>
+
+<speech><character_speak>>LADY</character_speak>
                          Anything sweet for you dear?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Oh no thank you I'm not hungry.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          This is horrible, how can the ministry 
                          not know who conjured it. Isn't there 
                          any security or?
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Loads according to Dad, that's what 
                          worried them so much. Happened right 
                          under their noses.
  
                Hermione sees<character_ref>Harry</character_ref> rubbing his head.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          It's hurting again isn't it, your scar.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I'm fine.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          You know Sirius will want to hear about 
                          this. What you saw at the world cup, 
                          and the dream.
@@ -520,17 +718,23 @@
                We see four flying horses flying through the air pulling a carriage 
                coming in to land at Hogwarts. The crowds cheer.
  
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          Clear the runway.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Well there's something you don't see 
                          every day.
  
                A large ship emerges from under the water and approaches too.
  
                
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Now we're all settled in and sorted, 
                          I'd like to make an announcement. This 
                          castle will not only be your home this 
@@ -541,7 +745,9 @@
                A man runs up the aisle limping in a comical way, he whispers 
                something to Dumbledore and leaves in the same fashion.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          So Hogwarts has been choosen to host 
                          a legendary event. The Tri-Wizard tournament. 
                          Now for those of you who do not know, 
@@ -561,10 +767,14 @@
                A group of girls dressed in blue dance up the aisle and release 
                butterflies into the air. They bow and everyone applauds.
  
-<character>STUDENT</character>
+</speech>
+
+<speech><character_speak>>STUDENT</character_speak>
                          Blimey, that's one big woman.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          And now our friends from the north, 
                          please greet the proud sons of Durmstrang 
                          and the high master Igor Karkaroff.
@@ -574,44 +784,60 @@
                twirling them around and periodically stabbing them into the 
                ground with a spark effect.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Blimey it's him, Viktor Krum!
 
                The boys breathe some fire.
 
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          Albus!
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Igor.
 
                They embrace.
 
               <setting>EXT. HOGWARTS - STORMY - NIGHT</setting>
 
-<character>MADAME MAXIME</character>
+</speech>
+
+<speech><character_speak>>MADAME MAXIME</character_speak>
                          Professor Dumbledore, my horses have 
                          travelled a long way. They will need 
                          attending to.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Not to worry Madame Maxime, our gamekeeper 
                          Hagrid's more than capable of seeing 
                          to them.
  
-<character>MADAME MAXIME</character>
+</speech>
+
+<speech><character_speak>>MADAME MAXIME</character_speak>
                          But you know Monsieur Hagrid, they drink 
                          only single malt whiskey.
  
                The man seated next to Hagrid yelps. Hagrid has stabbed a fork 
                into his hand.
  
-<character>MAN</character>
+</speech>
+
+<speech><character_speak>>MAN</character_speak>
                          You idiot!
 
               <setting>INT. ASSEMBLY ROOM</setting>
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Your attention please! I would like 
                          to say a few words. Eternal glory, that 
                          is what awaits the student who wins 
@@ -620,10 +846,14 @@
                          tasks. Three extremely dangerous tasks.
  
                          
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          Wicked.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          For this reason the ministry has seen 
                          fit to impose a new rule. To explain 
                          all this we have the head of the department 
@@ -635,13 +865,19 @@
                casts some magic upwards and seals the roof. Peace is restored.
  
                
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Bloody hell, it's Mad-Eye Moody.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Alastor Moody? The aura.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          He was a catcher. Half the cells in 
                          Azkaban are full thanks to him. He's 
                          supposed to be mad as a hatter though 
@@ -651,24 +887,34 @@
                through his mechanical eye. He limps, breathing heavily as he 
                goes.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          My dear old friend, thanks for coming.
  
                          
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          That stupid roof.
 
                Mad-Eye takes a drink.
 
-<character>PUPIL</character>
+</speech>
+
+<speech><character_speak>>PUPIL</character_speak>
                          What's that he's drinking do you suppose?
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I don't know but I don't think it's 
                          Pumpkin Juice.
  
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          After much deliberation the ministry 
                          has concluded that for their own safety 
                          no student under the age of seventeen 
@@ -678,17 +924,23 @@
  
                The crowd is unsettled, people are booing.
 
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          That's rubbish! You don't know what 
                          you're doing!
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Silence! 
 
                Dumbledore casts magic over a box which melds into a goblet containing 
                a blue flame.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          The goblet of fire. Anyone wishing to 
                          submit themselves for the tournament 
                          merely write their name upon a piece 
@@ -705,12 +957,16 @@
  
               <setting>INT. CLASSROOM</setting>
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Alastor Moody.
 
                He writes his name on the board.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Ministry malcontent. And your new defence 
                          against the dark arts teacher. I'm here 
                          because Dumbledore asked me, end of 
@@ -720,17 +976,25 @@
                          which of you can tell me how many unforgivable 
                          curses there are?
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Three sir.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          And they are so named?
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Because they are unforgivable. Use of 
                          any one of them will...
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Will earn you a one way ticket to Azkaban. 
                          Correct. Now the ministry says you're 
                          too young to see what these curses do. 
@@ -740,27 +1004,39 @@
                          your chewing gum other than the underside 
                          of your desk Mr Finnigan!
  
-<character>PUPIL</character>
+</speech>
+
+<speech><character_speak>>PUPIL</character_speak>
                          Aw no way, the old codger can see out 
                          the back of his head.
  
                Mad-Eye throws the chalk in anger.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          So, which curse shall we see first? 
                          WEASLEY!
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Yes...
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Give us a curse.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Well, my dad did tell me about one... 
                          The imperious curse.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Ahhh yes, your father would know all 
                          about that. Gave the ministry quite 
                          a bit of grief a few years ago. Perhaps 
@@ -768,27 +1044,37 @@
  
                Mad-Eye pops open a jar with a spider in it.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Hello. What a little beauty. 
 
                He uses his wand to send it around the class.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Don't worry. Completely harmless.
 
                The class is unsettled.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          But if she bites... she's lethal!
 
                Draco laughs.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          What are you laughing at?
 
                Mad-Eye sends the spider onto Draco's face.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Talented isn't she? What shall I have 
                          her do next? Jump out the window? Drown 
                          herself?
@@ -796,7 +1082,9 @@
                Mad-Eye has the spider over a bucket of water, it's wriggling.
  
                
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Scores of witches and wizards have claimed 
                          that they only do did you-know-whose 
                          bidding under the influence of the imperious 
@@ -807,36 +1095,48 @@
                          
                Neville Longbottom stands.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Professor Sprout tells me you have an 
                          aptitude for herbology.
  
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          There's the um... The cruciatus curse.
  
                          
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Correct! Correct! come come. Particularly 
                          nasty. The torture curse.
  
                Mad-Eye begins torturing the spider with magic, it squeals.
  
                
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Stop it! Can't you see it's bothering 
                          him, stop it!
  
                Mad-Eye stops. Neville is disturbed. Mad-Eye picks up the spider 
                which is still making a noise.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Perhaps you could give us the last unforgivable 
                          curse Miss Granger.
  
                Hermione shakes her head. He casts a spell and the spider disintegrates.
  
                
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          The killing curse. Only one person is 
                          known to have survived it. And he's 
                          sitting in this room.
@@ -845,13 +1145,17 @@
 
               <setting>INT. STAIRS</setting>
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Brilliant isn't he! Completely demented 
                          of course. Terrifying to be in the same 
                          room with, he's really BEEN there you 
                          know.
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          There's a reason those curses are unforgivable, 
                          and to perform them in a classroom. 
                          I mean did you see Neville's face.
@@ -859,17 +1163,23 @@
                          
                They see a boy on the stairs facing the window.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Neville?
 
                Mad-Eye approaches Neville and pats him on the shoulder.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Son. You alright?
 
                Neville nods.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Come on, we'll have a cup of tea. I 
                          want to show you something.
  
@@ -878,48 +1188,72 @@
                Older students are placing their names into the flame and others 
                are applauding, Cedric is one of them.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Eternal glory, be brilliant wouldn't 
                          it? In three years from now we'll be 
                          old enough to be choosen.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yeah well rather you than me.
 
                The twins come up cheering.
 
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          Thank you thank you, well lads we've 
                          done it.
  
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          Cooked it up just this morning. 
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          It's not going to work.
 
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          Oh yeah? And why's that Granger.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          You see this? This is an age line. Dumbledore 
                          drew it himself.
  
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          So?
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          So a genius like Dumbledore couldn't 
                          possibly be fooled by something pathetically 
                          dimwitted such as an age potion.
  
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          That's why it's so brilliant.
 
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          Ready Fred?
 
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          Ready George?
 
                They jump inside the age line, and cheer. They put their names 
@@ -927,7 +1261,9 @@
                flung across the room onto the floor. When they get up they have 
                full heads of grey hair and beards.
  
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          You said..
 
                Fred You said..
@@ -938,7 +1274,9 @@
  
           INT. GOBLET ROOM - THURSDAY NIGHT
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Sit down please. And now the moment 
                          you've all been waiting for, the champions 
                          selection! 
@@ -946,26 +1284,34 @@
                Dumbledore approaches the blue flame and it glows red. A name 
                comes out. Everyone looks on anxiously.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          The Durmstrang champion is ... Viktor 
                          Krum!
  
                The Durmstrang crowd cheer. Another name comes out.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          The champion from Beauxbatons... Fleur 
                          Delacour
  
                The Beauxbatons girls cheer as Fleur walks up. Another name comes 
                out.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          The Hogwarts champion... Cedric Diggory.
  
                          
                Hogwarts pupils cheer as Cedric takes the stage.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Excellent! we now have our three champions! 
                          But in the end only one will go down 
                          in history. Only one will hoist this 
@@ -975,23 +1321,33 @@
                People cheer, but the goblet glows red once more and another 
                name flies out. Dumbledore takes it and reads...
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          <character_ref>Harry Potter</character_ref>. <character_ref>Harry Potter</character_ref>? 
 
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          No... No.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          <character_ref>Harry Potter</character_ref>!
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Go on<character_ref>Harry</character_ref>.<character_ref>Harry</character_ref> for goodness sake.
  
                          
               <character_ref>Harry</character_ref> slowly walks up. Dumbledore gives him the paper. Voices 
                in the crowd shout out.
  
-<character>VOICE</character>
+</speech>
+
+<speech><character_speak>>VOICE</character_speak>
                          He's a cheat! He's not even seventeen 
                          yet.
  
@@ -1000,30 +1356,46 @@
               <character_ref>Harry</character_ref> is in a room with the other champions. Dumbledore bursts 
                in and grabs<character_ref>Harry</character_ref>.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                         <character_ref>Harry</character_ref>! Did you put your name in the 
                          goblet of fire?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          No sir.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Did you ask one of the older students 
                          to do it for you?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          No sir.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          You're absolutely sure?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yes sir.
 
-<character>MADAME MAXIME</character>
+</speech>
+
+<speech><character_speak>>MADAME MAXIME</character_speak>
                          Well of course he is lying.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          The hell he is. The goblet of fire is 
                          an exceptionally powerful magical object, 
                          only an exceptionally powerful conjurer 
@@ -1031,20 +1403,28 @@
                          beyond the talents of a fourth year.
  
                          
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          You seem to have given this a fair bit 
                          of thought Mad-Eye.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          It was once my job to think as dark 
                          wizards do Karkaroff perhaps you remember?
  
                          
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          That doesn't help Alastor. Leave this 
                          to you Barty.
  
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          The rules are absolute, the goblet of 
                          fire constitutes a binding magical contract. 
                         <character_ref>Mr Potter</character_ref>has no choice, he is as of 
@@ -1052,83 +1432,119 @@
  
    <setting>INT. DARKENED TOWER ROOM</setting>
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          This can't go on Albus. First the dark 
                          mark, now this?
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          What do you suggest Minerva?
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Put an end to it. Don't let <character_ref>Potter</character_ref> compete.
  
                          
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          You heard Barty the rules are clear.
  
                          
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Well the devil with Barty and his rules. 
                          And since when did you accomodate them...
  
                          
-<character>SEVERUS</character>
+</speech>
+
+<speech><character_speak>>SEVERUS</character_speak>
                          Master I too find it difficult to believe 
                          this mere coincidence, if we are to 
                          truly discover the meaning of these 
                          events perhaps we should for the time 
                          being let them unfold.
  
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Do nothing?? Offer him up as bait? <character_ref>Potter</character_ref> 
                          is a boy not a piece of meat.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          I agree with Severus. Alastor, keep 
                          an eye on<character_ref>Harry</character_ref> will you?
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          I can do that.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Don't let him know though, he must be 
                          anxious enough as it is... knowing what 
                          lies ahead. Then again, we all are.
  
    <setting>INT. BEDROOM</setting>
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          How did you do it?
 
               <character_ref>Harry</character_ref> is silent.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Never mind. Doesn't matter. You could 
                          have let your best friend know though.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Let you know what?
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          You know bloody well what.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I didn't ask for this to happen Ron. 
                          Okay? You're being stupid.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Yeah that's me,<character_ref>Ron Weasley</character_ref>...<character_ref>Harry</character_ref> 
                          Potter's stupid friend.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I didn't put my name in that cup. I 
                          don't WANT eternal glory I just wanna 
                          be.. Look, I don't know what happened 
                          tonight and I don't know why, it just 
                          did ok.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Piss off.
 
               <setting>INT. HOGWARTS</setting>
@@ -1136,14 +1552,18 @@
                A woman appears in a puff of smoke. She's well groomed and dressed 
                colorfully.
  
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          What a charismatic quartet. Hello!
  
                          
                The four tri-wizard champions are stood together in a group. 
                She walks over to them and shakes each of their hands.
  
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          I'm Rita Skeeter, I write for the daily 
                          prophet. But of course you know that 
                          don't you. It's you we don't know, you're 
@@ -1159,55 +1579,81 @@
                          
                She takes<character_ref>Harry</character_ref> by the hand into a closet.
 
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          This is cosy.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          It's a broomcupboard.
 
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          You should feel right at home then. 
                          Don't mind if I use the quill do you?
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Oh, no.
 
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          So<character_ref>Harry</character_ref>, here you sit, a mere boy of 
                          twelve..
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I'm fourteen.
 
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          ...about to compete against three students. 
                          Not only vastly more emotionally mature 
                          than yourself but have mastered spells 
                          that you wouldn't attempt in your dizziest 
                          daydreams. Concerned?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I dunno I haven't really thought about 
                          it.
  
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          Course you're not just any ordinary 
                          boy of twelve are you...
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Fourteen.
 
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          The story's legend. Do you think it 
                          was the trauma of your past that made 
                          you so keen to enter such a dangerous 
                          tournament.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          No I didn't enter.
 
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          Course you didn't. Everyone loves a 
                          rebel<character_ref>Harry</character_ref>. (to the quill) Scratch 
                          that last. Speaking of your parents, 
@@ -1217,7 +1663,9 @@
                          need for attention, at worst a psychotic 
                          deathwish.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          (looking at the notepad) Hey, my eyes 
                          aren't glistening with the ghosts of 
                          my past. 
@@ -1227,7 +1675,9 @@
                An owl flies in with a letter for<character_ref>Harry</character_ref>, he takes it and begins 
                to read.
  
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          (VOICEOVER)<character_ref>Harry</character_ref>. I couldn't risk sending 
                          Edward. It was since the world cup and 
                          the ministry's been intercepting more 
@@ -1239,21 +1689,29 @@
  
                The owl nips<character_ref>Harry</character_ref>'s finger.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          AGH!
 
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          (VOICEOVER CONT'D) The bird bites.
  
    <setting>INT. GRIFFINDORE COMMON ROOM</setting>
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Sirius?
 
               <character_ref>Harry</character_ref> picks up a newspaper, the headline reads "THE CHAMPIONS 
                ARE SELECTED" and reads.
  
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          (VOICEOVER) <character_ref>Harry Potter</character_ref> aged 12, suspect 
                          entrant in the tri-wizard tournament. 
                          His eyes swimming with the ghosts of 
@@ -1263,54 +1721,78 @@
                puts it on the fire. The fire flares up a little, a face appears 
                in it.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Sirius?! How...
 
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          I don't have much time<character_ref>Harry</character_ref> so let 
                          me get straight to it. Did you or did 
                          you not put your name into the goblet 
                          of fire?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          No!
 
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          Shh... I had to ask. Now, tell me about 
                          this dream of yours. You mentioned Wormtail 
                          and Voldemort, but who was the third 
                          man in the room?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I dunno.
 
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          You didn't hear a name?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          No. Umm.. Voldemort was giving him a 
                          job to do. Something important.
  
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          What was that?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          He wanted... me. I dunno why, but he 
                          was gonna use this man to get to me. 
                          I mean it was only a dream right?
  
                          
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          Yes. It's just a dream. Look<character_ref>Harry</character_ref>, 
                          the deatheaters at the world cup, your 
                          name rising from that goblet these are 
                          not just coincidences. Hogwarts isn't 
                          safe any more.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What are you saying?
 
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          I'm saying the devils are inside the 
                          walls. Igor Karkaroff, he was a deatheater. 
                          And no one, no one stops being a deatheater. 
@@ -1318,44 +1800,66 @@
                          stone, sent his OWN son to Azkaban.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Do you think one of them put my name 
                          in the goblet?
  
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          I haven't a clue who put your name in 
                          that goblet<character_ref>Harry</character_ref> but whoever did it 
                          is no friend to you. People die in this 
                          tournament.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I'm not ready for this Sirius.
 
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          You don't have a choice.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Someone's coming!
 
-<character>SIR</character>
+</speech>
+
+<speech><character_speak>>SIR</character_speak>
                          Keep your friends close<character_ref>Harry</character_ref>.
 
                Ron enters the room.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Who you talking to?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Who says I was talking to anyone.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          I heard voices. 
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Maybe you're imagining things, wouldn't 
                          be the first time.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          You're probably just practicing for 
                          your next interview I expect.
  
@@ -1364,26 +1868,38 @@
  
           EXT. LAKESIDE
 
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          Amazing. Amazing.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Neville! You're doing it again!
 
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          Oh, right sorry.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          (reading a book) Magical water plants 
                          of the highland Lochs?
  
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          Moody gave it to me. That day we had 
                          tea.
  
                Neville waves. Hermione and Ron are walking up to them.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          (Whispering to Ron) We've already been 
                          through enough people why don't you 
                          just go and do it yourself? Ughh. What 
@@ -1394,125 +1910,177 @@
  
                Hermione walks up to<character_ref>Harry</character_ref>.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                         <character_ref>Ronald</character_ref> would like me to tell you that 
                          Seamus told him that Dean was told by 
                          Parvati that Hagrid was looking for 
                          you.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Is that right? Well.... what?
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Uhhh...
 
                She walks back to Ron for more whispering and comes back.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Dean was told by Parvati that... Please 
                          don't ask me say it again. Hagrid's 
                          looking for you.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Well you can tell<character_ref>Ronald</character_ref>...
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          I'm NOT an owl!
 
               <setting>INT. FOREST</setting>
 
               <character_ref>Harry</character_ref> and Hagrid are walking through a dark forest.
 
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          Did you bring your father's cloak like 
                          I asked you?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yeah I brought the cloak. Hagrid where 
                          are we going?
  
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          You'll see soon enough. Pay attention 
                          this is important.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What's with the flower? Hagrid have 
                          you combed your hair?
  
                Hagrid is looking more dapper than usual and is carrying a big 
                red flower.
  
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          As a matter of fact I have. You might 
                          like to try the same thing now and again.
  
                          
                We hear animal noises. Madame Maxime calls out to Hagrid.
 
-<character>MADAME MAXIME</character>
+</speech>
+
+<speech><character_speak>>MADAME MAXIME</character_speak>
                          Hagrid?
 
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          Oh, the cloak. Put the cloak on.
 
               <character_ref>Harry</character_ref> does as he's told.
 
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          Bonsoir Olympe.
 
-<character>MADAME MAXIME</character>
+</speech>
+
+<speech><character_speak>>MADAME MAXIME</character_speak>
                          Oh Hagrid. I thought you weren't coming, 
                          I thought perhaps... you had... forgotten 
                          me.
  
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          Couldn't forget you Olympe.
 
-<character>MADAME MAXIME</character>
+</speech>
+
+<speech><character_speak>>MADAME MAXIME</character_speak>
                          What is it you want to show me? When 
                          we spoke earlier you sounded so exhilirated.
  
                          
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          You'll be glad you came. Trust me.
  
                          
                A dragon nearby gives a loud roar.
 
-<character>MADAME MAXIME</character>
+</speech>
+
+<speech><character_speak>>MADAME MAXIME</character_speak>
                          Ahh, c'est magnifique!
 
                In an opening we see people are running about, dragons are roaring 
                and breathing fire.
  
-<character>MADAME MAXIME</character>
+</speech>
+
+<speech><character_speak>>MADAME MAXIME</character_speak>
                          Can we get closer?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Dragons? That's the first task? You're 
                          joking.
  
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          Come on<character_ref>Harry</character_ref>. They're seriously misunderstood 
                          creatures. 
  
                A huge flame fires up.
 
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          Although, I have to admit that horntail 
                          is a right nasty piece of work. Poor 
                          Ron nearly fainted just seeing him you 
                          know.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Ron was here?
 
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          Oh sure. His brother Charlie helped 
                          bring him over from Romania. Didn't 
                          Ron tell you that?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          No he didn't. He didn't tell me a thing.
  
    <setting>EXT. HOGWARTS - DAYTIME</setting>
@@ -1523,83 +2091,121 @@
                pupils aim insults at him saying he stinks. A young boy runs 
                past.
  
-<character>BOY</character>
+</speech>
+
+<speech><character_speak>>BOY</character_speak>
                          Cedric rules!
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Thanks.
 
               <character_ref>Harry</character_ref> gets to a doorway, two pupils stand in his way.
 
-<character>BOY</character>
+</speech>
+
+<speech><character_speak>>BOY</character_speak>
                          Like the badge?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Excuse me..
 
                They laugh,<character_ref>Harry</character_ref> pushes his way through. He approaches Cedric 
                who is standing around with his friends. Cedric's friends hurl 
                off more insults.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          (to Cedric) Can I have a word?
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Alright.
 
                They walk away some distance.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Dragons. That's the first task. They've 
                          got one for each of us.
  
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Are you serious? And Fleur and Krum, 
                          do they...?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yes.
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Right. Hey listen, about the badges. 
                          I've asked them not to wear them.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Don't worry about it.
 
                Ron and Seamus are walking along.<character_ref>Harry</character_ref> approaches them.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          (To Ron) You're a right foul git you 
                          know that?
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          You think so?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I know so.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Anything else?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yeah. Stay away from me.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Fine.
 
                
                Draco calls out, he's sitting up a tree.
 
-<character>DRACO</character>
+</speech>
+
+<speech><character_speak>>DRACO</character_speak>
                          Why so tense Potter? My father and I 
                          have a bet you see. I don't think you're 
                          gonna last ten minutes in this tournament. 
                          He disagrees. He thinks you won't last 
                          FIVE.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I don't give a damn what you or your 
                          father thinks Malfoy. He's vile and 
                          cruel, and you're just pathetic.
@@ -1607,21 +2213,31 @@
               <character_ref>Harry</character_ref> walks away and Draco angrily tries casting a spell. Mad-Eye 
                appears and quickly turns Malfoy into a ferret.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          I'll teach you to cast when someone's 
                          back is turned.
  
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Professor Moody what are you doing?
  
                          
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Teaching.
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Is that a student?
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Technically it's a ferret.
 
                Mad-Eye is making the ferret hover around. He sends it up the 
@@ -1630,38 +2246,54 @@
                Eventually it comes back out and McGonagall turns Draco back 
                to normal.
  
-<character>DRACO</character>
+</speech>
+
+<speech><character_speak>>DRACO</character_speak>
                          My father will hear about this!
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Is that a threat! 
 
                Draco runs away. Mad-Eye shouts after him.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          I could tell you stories about your 
                          father that would curl even your greasy 
                          hair boy! It doesn't end here!
  
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          We never use transfigration as a punishment, 
                          surely Dumbledore told you that.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          He might've mentioned it.
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Well you will do well to remember it.
  
                          
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          (To<character_ref>Harry</character_ref>) come with me.
 
               <setting>INT. MAD-EYE'S ROOM</setting>
 
                Mad-Eye takes off his prosthetic leg and takes a seat.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          That's a foal glass. Lets me keep an 
                          eye on my enemies. If I can see the 
                          whites of their eyes they're standing 
@@ -1669,17 +2301,23 @@
  
                A noise emerges from a trunk on the floor and it shakes.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Wouldn't even bother telling you what's 
                          in ther. You wouldn't believe it if 
                          I did. Now... what are you going to 
                          do about your dragon?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Oh... um... You know I just thought 
                          I'd...
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Sit. Listen to me Potter. Your pal Diggory, 
                          by your age he could take a whistle 
                          into a watch and have it sing you the 
@@ -1692,18 +2330,26 @@
                          on Potter. What are your strengths?
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Um... I dunno.. I can fly. I mean I'm 
                          a fair flyer.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Better than fair the way I heard it.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          But I'm not allowed a broom.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          You're allowed a wand.
 
               <setting>EXT. ARENA - TOURNAMENT STAGE 1</setting>
@@ -1715,40 +2361,56 @@
               <character_ref>Harry</character_ref> is pacing nervously. Hermione is standing by the tent door 
                whispering in.
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Pssst!<character_ref>Harry</character_ref>? Is that you?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yeah.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          How are you feeling? OK? The key is 
                          to concentrate. After that you just 
                          have to...
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Battle a dragon.
 
                Hermione enters the tent and they hug. A bright camera flashes, 
                Rita Skeeter the journalist approaches.
  
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          Young love! Ohh how.. stirring. If everything 
                          goes unfortunately today you might make 
                          the front page.
  
-<character>VIKTOR</character>
+</speech>
+
+<speech><character_speak>>VIKTOR</character_speak>
                          (To Rita) You have no business here. 
                          This tent is for champions and friends.
  
                          
-<character>RITA</character>
+</speech>
+
+<speech><character_speak>>RITA</character_speak>
                          No matter. We've got what we wanted.
  
                          
                Rita leaves and Dumbledore enters.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Good day champions. Gather round please. 
                          Now you've waited, you've wondered and 
                          at last the moment has arrived. The 
@@ -1757,17 +2419,25 @@
                          
                The champions gather around him in a circle.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          What are you doing here Miss Granger?
  
                          
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Oh um.. Sorry I'll just go.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Barty. The bag.
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Champions, in a circle around me. Miss 
                          Delacour over here, Mr Krum, and <character_ref>Potter</character_ref> 
                          over here. Right. Miss Delacour, if 
@@ -1776,32 +2446,46 @@
                Barty holds up a bag. Fleur takes out a little green dragon.
  
                
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          The welsh green. Mr Krum...
 
                Viktor takes another out
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          The chinese fireball. Oooooh.
 
                Cedric picks one. 
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          The swedish short-snout. Which leaves... 
                          
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          The horntail...
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          What's that boy?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Nothing.
 
               <character_ref>Harry</character_ref> puts his hand in the bag and pulls out the dragon.
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          The hungarian horntail. These represent 
                          very real dragons, each of which has 
                          been given a golden egg to protect. 
@@ -1811,7 +2495,9 @@
                          hope to proceed to the next task. Any 
                          questions?
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Very well. Good luck champions. Mr Diggory 
                          the sound of the cannon...
  
@@ -1823,7 +2509,9 @@
 
               <character_ref>Harry</character_ref> is sitting alone nervously.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          (VOICEOVER THE LOUDSPEAKER) Three of 
                          our champions have now faced their dragons 
                          and so each one of them will proceed 
@@ -1836,7 +2524,9 @@
                the dragon flames him.<character_ref>Harry</character_ref> stumbles and falls around the arena.
  
                
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Your wand harry! Your wand!
 
               <character_ref>Harry</character_ref> summons a broom. He jumps on and flies off, the dragon 
@@ -1865,71 +2555,103 @@
               <character_ref>Harry</character_ref> is lifting the golden egg, people around him cheering. 
                The Weasly twins have<character_ref>Harry</character_ref> sitting on their shoulders.
  
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          We knew you wouldn't die<character_ref>Harry</character_ref>.
 
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          Lose a leg.
 
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          Or an arm.
 
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          Pack it in altogether.
 
-<character>TWINS</character>
+</speech>
+
+<speech><character_speak>>TWINS</character_speak>
                          NEVER!
 
-<character>SEAMUS</character>
+</speech>
+
+<speech><character_speak>>SEAMUS</character_speak>
                          Go on<character_ref>Harry</character_ref>, what's the clue?
 
                Seamus hands<character_ref>Harry</character_ref> the golden egg.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Who wants me to open it? You want me 
                          to open it?
  
                He opens the egg and a loud horrific screech comes out, he closes 
                it again.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What the bloody hell was that?
 
                Ron appears in the doorway.
 
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          Alright everyone, go back to your knitting. 
                          This is gonna be uncomfortable enough 
                          without all you nosey sods listening 
                          in.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          I reckon you'd have to be barking mad 
                          to put your own name in the goblet of 
                          fire.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Caught on have you. Took you long enough.
  
                          
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Wasn't just me who thought you'd done 
                          it. Everyone was saying it behind your 
                          back.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Brilliant. That makes me feel loads 
                          better.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          At least I warned you about the dragons.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Hagrid warned me about the dragons.
  
                          
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Oh no no, I did. Don't you remember? 
                          I told Hermione to tell you that Seamus 
                          told me that Parvati told Dean that 
@@ -1939,15 +2661,21 @@
                          be alright, you know, after you figured 
                          that out.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Who could possibly figure that out? 
                          That's completely mental.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Yeah it is isn't it. Suppose I was a 
                          bit distraught.
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Boys.
 
               <setting>INT. CLASSROOM</setting>
@@ -1955,7 +2683,9 @@
               <character_ref>Harry</character_ref> is looking at Cho. When she looks back he spills drink 
                from his mouth. They laugh at him.
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          (Reading a newspaper) Look at this! 
                          I can't believe it she's done it again. 
                          Miss Granger a plain but ambitious girl 
@@ -1968,50 +2698,72 @@
  
                A young boy walks up holding a package.
 
-<character>NIGEL</character>
+</speech>
+
+<speech><character_speak>>NIGEL</character_speak>
                          Parcel for you Mr Weasley.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Thank you Nigel. 
 
                Nigel is gazing at<character_ref>Harry</character_ref>.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Not now Nigel. Later. Go on.
 
                Nigel leaves.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          I told him I'd get him<character_ref>Harry</character_ref>'s autograph. 
                          Oh look mum's sent me something. Mum 
                          sent me a dress??
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Well it does match your eyes. Is there 
                          a bonnet?
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Ginny these must be for you.
 
-<character>GINNY</character>
+</speech>
+
+<speech><character_speak>>GINNY</character_speak>
                          I'm not wearing that it's ghastly.
  
                          
                Hermione laughs.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          What are you on about?
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          They're not for Ginny they're for you! 
                          Dress robes.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Dress robes? for what?
 
               <setting>INT. ASSEMBLY ROOM</setting>
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          The yule ball has been a tradition of 
                          the tri-wizard tournament since its 
                          inception. On Christmas eve night we 
@@ -2026,7 +2778,9 @@
                Groans emerge from the boys who are listening on. The girls seem 
                a lot more excited.
  
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Silence. The house of Godrick Griffindore 
                          has commanded the respect of the wizard 
                          world for nearly ten centuries. I will 
@@ -2035,81 +2789,113 @@
                          like a babbling, bumbling band of baboons.
  
                          
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          (Whispering to George) Try saying that 
                          five times faster.
  
                They try.
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          (Continued) Now to dance is to let the 
                          body breathe, inside every girl a secret 
                          swan slumbers longing to burst forth 
                          and take flight.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          (Whispering to Seamus) Something's about 
                          to burst out of Hilary but I don't think 
                          it's a swan.
  
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Inside every boy a lordly lion prepared 
                          to prance. Mr Weasly, will you join 
                          me.
  
                She grabs Ron and pulls him up to dance. 
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Now, place your right hand on my waist.
  
                          
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Where?
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          My waist. 
 
                He does so and a wolf whistle comes from the crowd.
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Now bend your arm. Mr Filch...
 
                The music starts.
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          One two three, one two three, one two 
                          three.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          (To the Weasly twins) Oi! Never gonna 
                          let him forget this are you?
  
-<character>TWINS</character>
+</speech>
+
+<speech><character_speak>>TWINS</character_speak>
                          Never.
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Everybody come together.
 
                The girls instantly stand and walk forward, the boys are all 
                still seated.
  
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Boys, on your feet.
 
                Neville stands.
 
               <setting>EXT. HOGWARTS - DAYTIME</setting>
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Why do they always have to travel in 
                          packs? How are you supposed to get one 
                          alone to ask them...
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Blimey<character_ref>Harry</character_ref>, you slayed dragons. If 
                          you can't get a date who can?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I think I'd take the dragon right now.
  
                          
@@ -2119,7 +2905,9 @@
 
                Hagrid and Madame Maxime are walking together.
 
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          I take after my mum. Though I didn't 
                          know her very well, she left when I 
                          was about three. No, not the maternal 
@@ -2131,7 +2919,9 @@
  
                They laugh together and have a moment.
 
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          And then he died when I was still in 
                          school. So I had to make me own way 
                          as it were. But enough of me, what about 
@@ -2143,60 +2933,84 @@
  
           INT. CLASSROOM
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          This is mad. At this rate we'll be the 
                          only ones in our year without dates.
  
                          
                Severus Snape walks past and slaps Ron over the head. 
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Well, us and Neville!
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          But then again he can take himself.
  
                          
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          It might interest you to know that Neville's 
                          already got someone.
  
                Ron gasps.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Now I'm really depressed.
 
                Fred hands Ron a note, it reads "GET A MOVE ON OR ALL THE GOOD 
                ONES WILL HAVE GONE!".
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Well Hermione, you're a girl.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Oh well spotted.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Come on. It's one thing for a bloke 
                          to show up alone. For a girl it's just 
                          sad.
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          I won't be going alone because believe 
                          it or not someone's asked me. And I 
                          said yes.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Bloody hell.
 
                Hermione storms off.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Look. We've just got to grit our teeth 
                          and do it. Tonight when we get back 
                          to the common room, we'll both have 
                          partners. Agreed?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Agreed.
 
               <setting>EXT. HOGWARTS - SNOWY</setting>
@@ -2204,97 +3018,145 @@
               <character_ref>Harry</character_ref> is walking up some steps. He reaches the top and bumps 
                into Cho who has come around the corner.
  
-<character>CHO</character>
+</speech>
+
+<speech><character_speak>>CHO</character_speak>
                         <character_ref>Harry</character_ref>!
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Cho!
 
-<character>CHO</character>
+</speech>
+
+<speech><character_speak>>CHO</character_speak>
                          Watch yourself on the stairs, it's a 
                          bit icey at the top.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Ok thanks. Cho?
 
-<character>CHO</character>
+</speech>
+
+<speech><character_speak>>CHO</character_speak>
                          Yes?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Um. (Mumbling) I just wondered if maybe 
                          you wanted to go to the ball with me?
  
                          
-<character>CHO</character>
+</speech>
+
+<speech><character_speak>>CHO</character_speak>
                          Sorry? I didn't catch that.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Um. I was just wondering if maybe you 
                          wanted to go to the ball with me.
  
                          
-<character>CHO</character>
+</speech>
+
+<speech><character_speak>>CHO</character_speak>
                          Oh. Um.<character_ref>Harry</character_ref> I'm sorry but someone's 
                          already asked me. And well I've said 
                          I'll go with him.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Ok. Great. Fine. No problem. Good.
  
                          
-<character>CHO</character>
+</speech>
+
+<speech><character_speak>>CHO</character_speak>
                         <character_ref>Harry</character_ref> I really am sorry.
 
               <setting>INT. COMMON ROOM</setting>
 
                Ron is being helped into the room, he looks shaky.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What happened to you?
 
-<character>GIRL</character>
+</speech>
+
+<speech><character_speak>>GIRL</character_speak>
                          He just asked Fleur Delacour out.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          What?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What did she say?
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          No of course.
 
                Ron shakes his head. 
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          She said yes??
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Don't be silly.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          There she was walking by. You know I 
                          like it when they walk. I couldn't help 
                          it, it just sort of slipped out.
  
-<character>GIRL</character>
+</speech>
+
+<speech><character_speak>>GIRL</character_speak>
                          Actually he sort of screamed at her, 
                          it was a bit frightening.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What did you do then?
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          What else? I ran for it. I'm not cut 
                          out for this<character_ref>Harry</character_ref>. I don't know what 
                          got into me.
  
                The Patil twins walk past.
 
-<character>PATILS</character>
+</speech>
+
+<speech><character_speak>>PATILS</character_speak>
                          Hi<character_ref>Harry</character_ref>.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Hey!
 
               <setting>INT. DANCEHALL</setting>
@@ -2308,32 +3170,46 @@
                Ron is getting dressed in front of a mirror. He looks paniced 
                and uncomfortable in his ridiculous dress robes.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Bloody hell.
 
               <character_ref>Harry</character_ref> walks in, he's dressed in a more conventional suit.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          What are those??
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          My dress robes.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Well they're alright. No lace, no dodgy 
                          little collar. 
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Well I expect yours are more traditional.
  
                          
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Traditional?? They're ancient! I look 
                          like my great aunt Tessie.
  
                He sniffs at his clothes.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          I smell like my great aunt Tessie. Murder 
                          me<character_ref>Harry</character_ref>.
  
@@ -2342,89 +3218,129 @@
               <character_ref>Harry</character_ref> and Ron are walking down the stairs into the hall. Ron 
                is fidgeting with his outfit.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Leave it alone.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Poor kid, bet she's alone in her room 
                          crying her eyes out.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Who?
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Hermione of course. Come on<character_ref>Harry</character_ref>, why'd 
                          you think she wouldn't tell us who she's 
                          coming with?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Because we'd take the mickey out of 
                          her if she did.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Because nobody asked her. I would have 
                          taken her myself if she weren't so bleeding 
                          proud.
  
                The boys approach the Patil twins.
 
-<character>PARVATI</character>
+</speech>
+
+<speech><character_speak>>PARVATI</character_speak>
                          Hello boys. Don't you look...
 
                She looks at Ron.
 
-<character>PARVATI</character>
+</speech>
+
+<speech><character_speak>>PARVATI</character_speak>
                          ... dashing.
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Here you are Potter. Are you and Miss 
                          Patil ready?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Ready professor?
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          To dance. It's traditional that the 
                          three champions or in this case four 
                          are the first to dance. Surely I told 
                          you that.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          No.
 
-<character>MCGONAGALL</character>
+</speech>
+
+<speech><character_speak>>MCGONAGALL</character_speak>
                          Oh well now you know. Oh, as for your 
                          Mr Weasly you may proceed into the great 
                          hall with Miss Patil.
  
                Hermione enters the room all dressed up.
 
-<character>PARVATI</character>
+</speech>
+
+<speech><character_speak>>PARVATI</character_speak>
                          She looks beautiful.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yeah she does.
 
                Hermione walks down the stairs. Viktor Krum takes her hand and 
                they walk together.
  
-<character>PADMA</character>
+</speech>
+
+<speech><character_speak>>PADMA</character_speak>
                          (To Ron) Is that Hermione Granger? With 
                          Viktor Krum??
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          No. Absolutely not.
 
                Loud music plays as the champions head to the dancefloor with 
                their partners.
  
-<character>PARVATI</character>
+</speech>
+
+<speech><character_speak>>PARVATI</character_speak>
                         <character_ref>Harry</character_ref>. Take my waist.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What?
 
-<character>PARVATI</character>
+</speech>
+
+<speech><character_speak>>PARVATI</character_speak>
                          Now.
 
                They dance. Soon others are joining in, Dumbledore and McGonagall, 
@@ -2435,89 +3351,129 @@
                are sitting some distance away looking miserable. Hermione comes 
                up after a great time with Viktor.
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Hot isn't it? Viktor's gone to get drinks. 
                          Care to join us?
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          No, we'd NOT care to join you and Viktor.
  
                          
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          What's got your wand in a knot?
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          He's a Durmstrang. You're fraternising 
                          with the enemy.
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          The enemy?? Who was it wanting his autograph? 
                          Besides, the whole point of the tournament 
                          is international magical cooperation, 
                          to make friends.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Hrmph, I think he's got a bit more than 
                          friendship on his mind.
  
                Hermione walks off.
 
-<character>PADMA</character>
+</speech>
+
+<speech><character_speak>>PADMA</character_speak>
                          Are you going to ask me to dance or 
                          not?
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          No.
 
                
                LATER
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          (To Hermione) He's using you.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          How dare you! Besides I can take care 
                          of myself.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Doubt it. He's way too old.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          What? What? That's what you think?
  
                          
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Yeah that is what I think.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          You know the solution then don't you.
  
                          
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Go on.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Next time there's a ball pluck up the 
                          courage and ask me before somebody else 
                          does, and not as a last resort.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Well that's completely off the point. 
                         <character_ref>Harry</character_ref>...
  
               <character_ref>Harry</character_ref> walks up.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Where have you been? Nevermind! Off 
                          to bed both of you.
  
               <character_ref>Harry</character_ref> and Ron walk away.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          They get scary when they get older.
  
                          
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Ron you spoil everything!
 
               <setting>INT. BEDROOM</setting>
@@ -2526,13 +3482,17 @@
 
                We're back in the old house. 
 
-<character>VOLDERMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDERMORT</character_speak>
                          Let me see it again.
 
                A sleeve is rolled up and a marking of a skull and snake in on 
                the arm.
  
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Ah yes, the time is close now.<character_ref>Harry</character_ref>! 
                          At last! Step aside Wormtail so I can 
                          give our guest a proper greeting!
@@ -2541,7 +3501,9 @@
               <character_ref>Harry</character_ref> wakes up. The floorboards are creaking, someone is walking 
                up to his bed. It's Neville.
  
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          You alright<character_ref>Harry</character_ref>? I just got in. Me!
  
                          
@@ -2549,16 +3511,22 @@
 
               <setting>EXT. A BRIDGE OUTSIDE HOGWARTS</setting>
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                         <character_ref>Harry</character_ref> you told me you'd figured the 
                          egg out weeks ago. The task is two days 
                          from now.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Really? I had no idea. I suppose Viktor's 
                          already figured it out.
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          I wouldn't know, we didn't actually 
                          talk about the tournament. Actually 
                          we didn't really talk at all, Viktor's 
@@ -2568,10 +3536,14 @@
                          You are trying to figure this egg out 
                          aren't you?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          What's that supposed to mean?
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          I mean these tasks are supposed to test 
                          you, in the most brutal way they're 
                          almost cruel. And um, I'm scared for 
@@ -2579,34 +3551,50 @@
                          nerve, I'm not sure it's going to be 
                          enough this time.
  
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Hey Potter. 
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Cedric.
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          How are you?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Spectacular.
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Look I realise I never really thanked 
                          you properly for tipping me off about 
                          those dragons.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Forget about it. I'm sure you would 
                          have done the same for me.
  
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Exactly. You know the prefects bathroom 
                          on the fifth floor?
  
               <character_ref>Harry</character_ref> nods.
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          It's not a bad place for a bath. Just 
                          take your egg and mull things over in 
                          the hot water.
@@ -2616,59 +3604,81 @@
               <character_ref>Harry</character_ref> is taking his clothes off, he gets in the bath. He has 
                his golden egg on the side.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I must be out of my mind.
 
                He opens the egg and the horrible screech noise comes out.
 
-<character>MYRTLE</character>
+</speech>
+
+<speech><character_speak>>MYRTLE</character_speak>
                          I'd try putting it in the water if I 
                          were you.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Myrtle!
 
-<character>MYRTLE</character>
+</speech>
+
+<speech><character_speak>>MYRTLE</character_speak>
                          Long time no see.
 
                The ghostly figure of little Myrtle flies around.
 
-<character>MYRTLE</character>
+</speech>
+
+<speech><character_speak>>MYRTLE</character_speak>
                          I was circling a blocked drain the other 
                          day and could swear I saw a bit of polyjuice 
                          potion. Not being a bad boy again are 
                          you<character_ref>Harry</character_ref>?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Polyjuice potion! Kicked the habit. 
                          Myrtle, did you say try putting it in 
                          the water?
  
                Myrtle flies around again and gets in the water.
 
-<character>MYRTLE</character>
+</speech>
+
+<speech><character_speak>>MYRTLE</character_speak>
                          Well. That's what he did. The other 
                          boy, the handsome one. Cedric.
  
               <character_ref>Harry</character_ref> takes the egg and puts it under the water.
 
-<character>MYRTLE</character>
+</speech>
+
+<speech><character_speak>>MYRTLE</character_speak>
                          Well go on, open it.
 
               <character_ref>Harry</character_ref> does so and goes underwater himself. He hears a voice singing.
  
                
-<character>VOICE SINGING</character>
+</speech>
+
+<speech><character_speak>>VOICE SINGING</character_speak>
                          Come seek us where our voices sound. 
                          We cannot sing above the ground. An 
                          hour long you'll have to look, to recover 
                          what we took.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Myrtle, there aren't Merpeople in the 
                          black lake are there?
  
-<character>MYRTLE</character>
+</speech>
+
+<speech><character_speak>>MYRTLE</character_speak>
                          Ahhh, very good. Took Cedric ages to 
                          riddle it out. Almost all the bubbles 
                          were gone...
@@ -2677,70 +3687,98 @@
 
               <setting>INT. COMMON ROOM</setting>
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                         <character_ref>Harry</character_ref>, tell me again.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Come seek us where our voices sound.
  
                          
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          The black lake, that's obvious.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          An hour long you'll have to look.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Again obvious, though I must admit potentially 
                          problematic 
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Potentially problematic? When was the 
                          last time you held your breath under 
                          the water for an hour Hermione?
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Look<character_ref>Harry</character_ref>, we can do this. The three 
                          of us can figure it out.
  
                Mad-Eye Moody appears in the doorway.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Hate to break up this scholar session 
                          but Professor McGonagall would like 
                          to see you in her office. Not you Potter, 
                          just Weasly and Granger.
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          But sir, the second task is only hours 
                          away and...
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Exactly. Presumably <character_ref>Potter</character_ref> is well prepared 
                          by now and could do with a good night's 
                          sleep. Go. Now! Longbottom!
  
                Neville appears from behind a bookcase.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Why don't you help <character_ref>Potter</character_ref> put his books 
                          back.
  
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          You know, if you're interested in plants 
                          you'd be better with Gorshok's Guide 
                          to Herbology. Do you know there's a 
                          wizard in Nepal whose growing gravity 
                          resistant trees?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Neville. No offense, but I really don't 
                          care about plants. Now if there's a 
                          Tibetan turnip that will allow me to 
                          breathe underwater for an hour then 
                          great.
  
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          I don't know about a turnip but you 
                          can always use gilliweed.
  
@@ -2750,45 +3788,69 @@
                along with Neville, he has some green plantlife in his hand.
  
                
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          You're sure about this Neville.
 
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          Absolutely.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          For an hour.
 
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          Most likely.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Most likely?
 
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          Well there is some debate among herbologists 
                          as to the effects of freshwater versus 
                          saltwater.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          You're telling me this now? You must 
                          be joking.
  
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          I just wanted to help.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Well that makes you sight better than 
                          Ron and Hermione. Where are they anyway?
  
                          
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          You seem a little tense<character_ref>Harry</character_ref>.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Do I?
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          (Over a loudspeaker) Welcome to the 
                          second task. Last night something was 
                          stolen from each of our champions. A 
@@ -2802,13 +3864,17 @@
                          hour only. After that they'll be on 
                          their own.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          (To<character_ref>Harry</character_ref>) Put that in your mouth.
  
                          
               <character_ref>Harry</character_ref> puts the gilliweed in his mouth and starts choking.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          (Continued) You may begin at the start 
                          of the cannon.
  
@@ -2818,13 +3884,19 @@
  
           EXT. ABOVE WATER
 
-<character>SEAMUS</character>
+</speech>
+
+<speech><character_speak>>SEAMUS</character_speak>
                          What's the matter with him?
 
-<character>FRIEND</character>
+</speech>
+
+<speech><character_speak>>FRIEND</character_speak>
                          I don't know I can't see him.
 
-<character>NEVILLE</character>
+</speech>
+
+<speech><character_speak>>NEVILLE</character_speak>
                          Oh my god I've killed <character_ref>Harry Potter</character_ref>!
  
                          
@@ -2837,7 +3909,9 @@
  
               <setting>EXT. ABOVE WATER</setting>
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          (Over the loudspeaker) The Beauxbatons 
                          champion Miss Delacour has unfortunately 
                          been forced to retire. She will take 
@@ -2851,10 +3925,14 @@
                with him.<character_ref>Harry</character_ref> sets about freeing Ron and Hermione but vicious 
                merpeople appear.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          But she's my friend too!
 
-<character>MERPERSON</character>
+</speech>
+
+<speech><character_speak>>MERPERSON</character_speak>
                          Only one.
 
                What looks like a shark approaches at high speed. We see that 
@@ -2881,63 +3959,91 @@
               <character_ref>Harry</character_ref> casts a spell which propels him towards the surface, he 
                flies out and lands on the decking where the crowd are.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                         <character_ref>Harry</character_ref>! 
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Get him another towel.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          I want all the judges over here now.
  
                          
-<character>FLEUR</character>
+</speech>
+
+<speech><character_speak>>FLEUR</character_speak>
                          (To<character_ref>Harry</character_ref>) You saved her, even though 
                          she wasn't yours to save. My little 
                          sister!
  
                Fleur kisses<character_ref>Harry</character_ref> on the face.
 
-<character>FLEUR</character>
+</speech>
+
+<speech><character_speak>>FLEUR</character_speak>
                          Thank you! And you... (Looks to Ron). 
                          You helped!
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Well... yeah... a bit
 
                Fleur kisses him too.
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Merci.
 
                Hermione comes up to<character_ref>Harry</character_ref> with a towel.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                         <character_ref>Harry</character_ref>!
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Hermione
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Are you alright? You must be freezing! 
                          Personally I think you behaved admirably.
  
                          
                Hermione kisses<character_ref>Harry</character_ref> on the head.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I finished last Hermione.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Next to last.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Attention! Attention! The winner is... 
                          Mr Diggory!
  
                Cedric and his friends cheer.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          For showing unique command of the bubblehead 
                          shark. The way I see it,<character_ref>Mr Potter</character_ref>would 
                          have finished first had it not been 
@@ -2950,20 +4056,28 @@
                As they're walking away from the lake<character_ref>Harry</character_ref>'s friends are cheering 
                him.
  
-<character>FRED</character>
+</speech>
+
+<speech><character_speak>>FRED</character_speak>
                          All that moral fibre eh?
 
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Blimey even when you go wrong it turns 
                          out right.
  
-<character>GEORGE</character>
+</speech>
+
+<speech><character_speak>>GEORGE</character_speak>
                          Well done 'moral fibre'.
 
                
                Barty Crouch is waiting for<character_ref>Harry</character_ref>.
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Congratulations Potter, fine achievement. 
                          Well done boy. I'm sorry we haven't 
                          spoken, after all your story is one 
@@ -2976,7 +4090,9 @@
  
                Mad-Eye approaches them.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Bartimus! Not trying to lure <character_ref>Potter</character_ref> 
                          into one of the ministry's summer internships 
                          are we? Last boy who went into the department 
@@ -2984,22 +4100,30 @@
  
                Barty walks away from him.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          And they say I'm mad.
 
               <setting>EXT. DARK FOREST</setting>
 
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          So I remember, I remember when I first 
                          met you all. Biggest bunch of misfits 
                          I've ever set eyes on. Always reminded 
                          me of myself a little. And here we all 
                          are, four years later.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          We're still misfits.
 
-<character>HAGRID</character>
+</speech>
+
+<speech><character_speak>>HAGRID</character_speak>
                          Maybe. But we've all got each other, 
                          and<character_ref>Harry</character_ref> of course. Soon to be! The 
                          youngest! Tri-Wizard champion there's 
@@ -3009,51 +4133,73 @@
                in pain. On the ground he sees Barty Crouch laying lifeless.
  
                
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Mr Crouch?
 
               <setting>INT. HOGWARTS DARK ROOM</setting>
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          A man has died here. And he won't be 
                          the last, you must take action.
  
-<character>FUDGE</character>
+</speech>
+
+<speech><character_speak>>FUDGE</character_speak>
                          I will not. In times like these the 
                          wizard world looks to its leaders for 
                          strength Dumbledore.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Then for once show them some.
 
-<character>FUDGE</character>
+</speech>
+
+<speech><character_speak>>FUDGE</character_speak>
                          The tri-wizard tournament will not be 
                          cancelled. I will not be seen as a coward.
  
                          
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          But surely that is what's right, no 
                          matter what others think.
  
-<character>FUDGE</character>
+</speech>
+
+<speech><character_speak>>FUDGE</character_speak>
                          What did you say? What did you say to 
                          me?
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Excuse me gentlemen, it may interest 
                          you to know that this conversation is 
                          no longer private.
  
                Mad-Eye points to the door.<character_ref>Harry</character_ref> enters.
 
-<character>FUDGE</character>
+</speech>
+
+<speech><character_speak>>FUDGE</character_speak>
                         <character_ref>Harry</character_ref>!<character_ref>Harry</character_ref> how good to see you again.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I can come back later Professor.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Oh not necessary<character_ref>Harry</character_ref> the minister 
                          and I are done. I'll be back in a moment. 
                          Minister, after you.<character_ref>Harry</character_ref> do feel free 
@@ -3065,7 +4211,9 @@
                and takes a handful. It turns into a small creature which nips 
                at his hand.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Agh!
 
                A compartment in the wall opens, there's a glowing blue pool 
@@ -3075,12 +4223,16 @@
  
               <setting>INT. COURTROOM</setting>
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Professor?
 
                The man seated next to Dumbledore speaks.
 
-<character>MAN</character>
+</speech>
+
+<speech><character_speak>>MAN</character_speak>
                          Professor.
 
                Dumbledore and the man shake hands. Their handshake goes through 
@@ -3088,7 +4240,9 @@
                Proceedings begin, a cage is raised from inside the floor.
  
                
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Igor Karkaroff, you have been brought 
                          from Azkaban at your own request to 
                          present evidence to this counsel. Should 
@@ -3099,58 +4253,86 @@
                          convicted deatheater. Do you accept 
                          these terms?
  
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          I do sir.
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          What do you wish to present?
 
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          I have names sir. There was a Rosier, 
                          Evan Rosier.
  
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Mr Rosier is dead.
 
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          Dead? 
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          (To Dumbledore) Yeah took a piece of 
                          me with him though didn't he.
  
                Mad-Eye points to his mechanical eye.
 
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          I didn't know.
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          If that is all the witness has to offer...
  
                          
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          No! No! There was Rookwood, he was a 
                          spy.
  
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Augustus Rookwood? Of the department 
                          of ministries.
  
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          Ya ya, the same. He passed information 
                          to you know who from inside the ministry 
                          itself.
  
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Very well. Counsel will deliberate. 
                          In the meantime you will be returned 
                          to Azkaban.
  
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          NO! WAIT! PLEASE! I have more. Snape, 
                          Severus Snape.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          The counsel is very much aware you have 
                          given evidence on this matter. Severus 
                          Snape was indeed a deatheater and prior 
@@ -3161,64 +4343,92 @@
                          
                Igor protests loudly.
 
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          It's a lie! Severus Snape remains faithful 
                          to the dark lord.
  
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Silence!
 
                Barty hits the gavel repeatedly.
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Unless the witness possesses any name 
                          of genuine consequence this session 
                          is now concluded.
  
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          Oh no no no no no. I heard about one 
                          more.
  
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          What's that?
 
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          The name...
 
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          Yes?
 
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          I know for a fact this person took part 
                          in the capture, and by means of the 
                          cruciatus curse, torture of the aurer 
                          Frank Longbottom and...
  
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          The name! Give me the wretched name!
  
                          
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          Barty Crouch! ... Junior.
 
                Barty Crouch junior begins to run. Mad-Eye zaps him with magic, 
                he falls into the center of the court. The crowd is in uproar. 
                Guards seize Barty junior.
  
-<character>BARTY JR</character>
+</speech>
+
+<speech><character_speak>>BARTY JR</character_speak>
                          Get your hands off me you pathetic little 
                          men. Hello father.
  
-<character>BARTY</character>
+</speech>
+
+<speech><character_speak>>BARTY</character_speak>
                          You are no son of mine.
 
-<character>BARTY JR</character>
+</speech>
+
+<speech><character_speak>>BARTY JR</character_speak>
                          GAHHHH!
 
               <character_ref>Harry</character_ref> steps out of the blue pool and we're back in the darkened 
                room.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Curiosity's not a sin<character_ref>Harry</character_ref>, but you 
                          should exercise caution. It's a pensieve, 
                          useful if like me you find your mind 
@@ -3232,17 +4442,23 @@
                          to an answer it slips away, it's maddedning.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Sir, Mr Crouch's son, what happened 
                          to him?
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          He was sent to Azkaban. Destroyed Barty 
                          to do it. But he had no choice, the 
                          evidence was overwhelming. Why do you 
                          ask?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          It's just that I had a dream about him. 
                          It was in the summer, before school. 
                          In the dream I was in a house and Voldemort 
@@ -3250,16 +4466,22 @@
                          and Wormtail was there too and Mr Crouch's 
                          son.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Have there been other dreams like this?
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yes. Always the same one. Sir... these 
                          dreams, what I see, you don't think 
                          it's actually happening do you?
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          I think it's unwise for you to linger 
                          over these dreams<character_ref>Harry</character_ref>, I think it's 
                          best that you simply...
@@ -3267,7 +4489,9 @@
                Dumbledore puts up his wand and pulls a quivering string of magic 
                out from his head.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Cast them away.
 
               <setting>INT. CORRIDOR</setting>
@@ -3275,32 +4499,44 @@
               <character_ref>Harry</character_ref> is walking along, we hear raised voices from inside the 
                herbs store.
  
-<character>IGOR</character>
+</speech>
+
+<speech><character_speak>>IGOR</character_speak>
                          It's a sign Severus, you know what it 
                          means as well as I.
  
                The door opens and they see<character_ref>Harry</character_ref>. He looks at them. Igor leaves.
  
                
-<character>SEVERUS</character>
+</speech>
+
+<speech><character_speak>>SEVERUS</character_speak>
                          Potter! What's your hurry? Congratulations, 
                          your performance in the black lake was 
                          inspiring. Gilliweed, am I correct?
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yes sir.
 
-<character>SEVERUS</character>
+</speech>
+
+<speech><character_speak>>SEVERUS</character_speak>
                          Ingenious. A rather rare herb gilliweed, 
                          not something found in your every day 
                          garden. Nor is this, know what it is?
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Bubble juice sir?
 
-<character>SEVERUS</character>
+</speech>
+
+<speech><character_speak>>SEVERUS</character_speak>
                          Veritaserum. Three drops of this and 
                          you-know-who himself will spill his 
                          darkest secrets. The use of this on 
@@ -3310,10 +4546,14 @@
                          just slip over your morning pumpkin 
                          juice. 
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I haven't stolen anything.
 
-<character>SEVERUS</character>
+</speech>
+
+<speech><character_speak>>SEVERUS</character_speak>
                          Don't lie to me. Gilliweed might be 
                          innocuous, but boomslang skin? lacewing 
                          flies? You and your friends are brewing 
@@ -3327,7 +4567,9 @@
                Music is playing and a large crowd is gathered. The champions 
                emerge.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Earlier today Professor Moody placed 
                          the tri-wizards cup deep within the 
                          maze. Only he knows its exact position. 
@@ -3335,14 +4577,18 @@
  
                The crowd cheer on hearing his name.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          (continued) and<character_ref>Mr Potter</character_ref>tied for first 
                          position they will be the first to enter 
                          the maze. Followed by Mr Krum...
  
                The bulgarian crowd go nuts.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          (continued) The first person to touch 
                          the cup will be the winner. I've instructed 
                          the staff to patrol the perimeter, if 
@@ -3352,7 +4598,9 @@
                          wands. Contestants, gather round.
  
                          
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          (To the contestants) In the maze you'll 
                          find not dragons or creatures of the 
                          deep. Instead you'll face something 
@@ -3361,12 +4609,16 @@
                          can, but be very weary you could just 
                          lose yourselves along the way.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Champions! Prepare yourselves.
 
                Cedric hugs his father.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          On the count of three... ONE...
 
                The cannon goes off. Mr Filch shrugs comically. Dumbledore groans. 
@@ -3381,7 +4633,9 @@
                unconscious on the ground, he walks on.<character_ref>Harry</character_ref> sees Fleur being 
                swallowed into the undergrowth.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Fleur? Fleur!
 
                He's too late she's disappeared. He sends up a red spark into 
@@ -3389,7 +4643,9 @@
                runs.<character_ref>Harry</character_ref> sees something shining in the distance and he moves 
                towards it Viktor tries to zap him but misses.
  
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Get down!
 
               <character_ref>Harry</character_ref> ducks and Viktor gets zapped by Cedric. Cedric runs up 
@@ -3397,95 +4653,139 @@
                Viktor's body as if to finish him off,<character_ref>Harry</character_ref> runs up and intervenes.
  
                
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          No stop! He's bewitched Cedric.
 
                They struggle.
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Get off me!
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          He's bewitched!
 
                The two of them begin running towards the cup. The undergrowth 
                grabs Cedric and he falls to the ground.<character_ref>Harry</character_ref> looks back. Cedric 
                is pinned down with no means of escape.
  
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                         <character_ref>Harry</character_ref>!<character_ref>Harry</character_ref>!
 
               <character_ref>Harry</character_ref> zaps the plantlife and Cedric wriggles free.<character_ref>Harry</character_ref> helps 
                him up.
  
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          You know for a moment there I thought 
                          you were gonna let it get me.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          For a moment so did I.
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Some game huh?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Some game.
 
                The wind starts blowing again.
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Go. Take it, you saved me!
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Together, on three. One, two, three!
  
    <setting>EXT. GRAVEYARD</setting>
 
               <character_ref>Harry</character_ref> and Cedric have ported to a graveyard. 
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          You ok?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yeah, you?
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Where are we?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I've been here before.
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          It's a portkey.<character_ref>Harry</character_ref> the cup is a portkey.
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I've been here before in a dream. Cedric, 
                          we have to get back to the cup? Now!
  
                          
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          What are you talking about?
 
               <character_ref>Harry</character_ref> lets out a shout and holds his head, he is in pain.
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          What is it?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Get back to the cup!
 
                We see Wormtail and Voldemort nearby. 
 
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          Who are you? What do you want?
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Kill the spare.
 
                Wormtail casts a spell and kills Cedric.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Cedric!
 
                Cedric lays dead on the ground.
@@ -3493,26 +4793,34 @@
                Wormtail pulls<character_ref>Harry</character_ref> closer, a status grabs hold of<character_ref>Harry</character_ref> and 
                traps him.
  
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Do it, now!
 
                Wormtail drops something into a cauldron,<character_ref>Harry</character_ref> watches on. 
  
                
-<character>WORMTAIL</character>
+</speech>
+
+<speech><character_speak>>WORMTAIL</character_speak>
                          Bones of the father, unwillingly given. 
                          
  
                A bone hovers in the air under Wormtail's control, he drops it 
                into the cauldron.
  
-<character>WORMTAIL</character>
+</speech>
+
+<speech><character_speak>>WORMTAIL</character_speak>
                          Flesh of the servent willingly sacrificed. 
                          
  
                He takes a knife and slashes his arm over the cauldron.
 
-<character>WORMTAIL</character>
+</speech>
+
+<speech><character_speak>>WORMTAIL</character_speak>
                          Blood of the enemy forcibly taken.
  
                          
@@ -3520,31 +4828,43 @@
                Wormtail takes the knife over to the cauldron and lets the drops 
                fall into it.
  
-<character>WORMTAIL</character>
+</speech>
+
+<speech><character_speak>>WORMTAIL</character_speak>
                          The dark lord shall rise again. 
 
                The cauldron bursts into flame and a reformed Voldemort emerges.
  
                
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          My wand Wormtail.
 
                Wormtail hands him the wand and bows deeply.
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Hold out your arm.
 
-<character>WORMTAIL</character>
+</speech>
+
+<speech><character_speak>>WORMTAIL</character_speak>
                          Master. Thank you master.
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          The other arm Wormtail.
 
                Wormtail looks concerned, but does it anyway. Voldemort sticks 
                the wand into Wormtail's arm. The sky changes, others have been 
                summoned.
  
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Welcome my friends. Thirty years it's 
                          been, and yet you stand before me as 
                          though it were only yesterday. I confess 
@@ -3553,47 +4873,67 @@
  
                Voldemort begins slashing angrily at the hooded figures. 
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Not even you, Lucius. 
 
-<character>LUCIUS</character>
+</speech>
+
+<speech><character_speak>>LUCIUS</character_speak>
                          My lord. Had I detected any sign or 
                          even a whisper of your whereabouts.
  
                          
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          There were signs my friend, and more 
                          than whispers. 
  
-<character>LUCIUS</character>
+</speech>
+
+<speech><character_speak>>LUCIUS</character_speak>
                          I assure you I never renounced the old 
                          ways. The face I have been obliged to 
                          present each day since your absence, 
                          that was my true mask.
  
-<character>WORMTAIL</character>
+</speech>
+
+<speech><character_speak>>WORMTAIL</character_speak>
                          I returned.
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Out of fear, not loyalty. Still you 
                          have proved yourself useful these past 
                          few months Wormtail.
  
                Voldemort grants Wormtail a new hand.
 
-<character>WORMTAIL</character>
+</speech>
+
+<speech><character_speak>>WORMTAIL</character_speak>
                          Thank you master, thank you.
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          (To Cedric's corpse) Oh, such a handsome 
                          boy. 
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Don't touch him.
 
               <character_ref>Harry</character_ref> struggles to get free.
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                         <character_ref>Harry</character_ref>! I'd almost forgotten you were 
                          here. Standing on the bones of my father. 
                          I'd introduce you but word has it you're 
@@ -3613,7 +4953,9 @@
                          
                Voldemort puts his hand on<character_ref>Harry</character_ref>'s head and he screams.
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Astonishing what a few drops of your 
                          blood will do eh<character_ref>Harry</character_ref>? Pick up your 
                          wand Potter. I said pick it up, get 
@@ -3626,12 +4968,16 @@
  
                Voldemort forces<character_ref>Harry</character_ref> to bow with magic.
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          That's better. And now...
 
                Voldemort casts at<character_ref>Harry</character_ref> and he wriggles in pain.
 
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Atta boy<character_ref>Harry</character_ref>, your parents would be 
                          proud. Especially your filthy mongrel 
                          mother. I'm going to kill you<character_ref>Harry</character_ref> 
@@ -3645,7 +4991,9 @@
                Voldemort pulls<character_ref>Harry</character_ref> to his feet,<character_ref>Harry</character_ref> begins to move away.
  
                
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Don't you turn your back on me<character_ref>Harry</character_ref> 
                          <character_ref>Potter</character_ref> I want you to look at me when 
                          I kill you, I want to see the lights 
@@ -3653,32 +5001,42 @@
  
               <character_ref>Harry</character_ref> takes steps toward Voldemort.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Have it your way.
 
                They both cast and their streams of magic meet. They both struggle.
  
                
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          Do nothing. He is mine to finish. He's 
                          mine!
  
                Shapes form in the surrounding magical energy. We hear Dumbledore's 
                voice.
  
-<character>HARRY</character>'S DAD
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>'S DAD
                          (voice)<character_ref>Harry</character_ref> when the connection is 
                          broken you must get to the portkey. 
                          We can delay it for a moment to give 
                          you time but only a moment, do you understand?
  
                          
-<character>CEDRIC</character>
+</speech>
+
+<speech><character_speak>>CEDRIC</character_speak>
                          (voice)<character_ref>Harry</character_ref> take my body back will 
                          you? Take my body back to my father.
  
                          
-<character>HARRY</character>'S MOTHER
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>'S MOTHER
                          (voice) Let go. Sweetheart you're ready. 
                          Let go! Let go!
  
@@ -3686,7 +5044,9 @@
                the cup over to them. In an instant the port out. Voldemort looks 
                angry.
  
-<character>VOLDEMORT</character>
+</speech>
+
+<speech><character_speak>>VOLDEMORT</character_speak>
                          No!
 
               <setting>EXT. ARENA</setting>
@@ -3695,31 +5055,43 @@
                don't understand what has taken place and they all cheer, triumphant 
                music starts to play.<character_ref>Harry</character_ref> weeps on Cedric's body. 
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                         <character_ref>Harry</character_ref>!<character_ref>Harry</character_ref>!
 
                Dumbledore tries to prize<character_ref>Harry</character_ref> from Cedric's body.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Tell me what happened!
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          He's back, he's back! Voldemort's back. 
                          Cedric, he asked me to bring his body 
                          back. I couldn't leave him, not there.
  
                          
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          It's alright<character_ref>Harry</character_ref>. It's alright, he's 
                          home, you both are.
  
-<character>FUDGE</character>
+</speech>
+
+<speech><character_speak>>FUDGE</character_speak>
                          Keep everybody in their seats. A boy 
                          has just been killed. The body must 
                          be moved Dumbledore, there are... too 
                          many people.
  
-<character>AMOS</character>
+</speech>
+
+<speech><character_speak>>AMOS</character_speak>
                          Let me through! That's my son! My boy!
  
                          
@@ -3730,38 +5102,56 @@
                Mad-Eye Moody enters and closes the door behind him.<character_ref>Harry</character_ref> is 
                in the room still sobbing. They sit. 
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Are you alright Potter?
 
               <character_ref>Harry</character_ref> nods.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Does it hurt?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Not so much now.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          I'd better take a look at it.
 
                We see<character_ref>Harry</character_ref>'s arm, it has a skull and snake marking.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          The cup was a portkey. Someone had bewitched 
                          it.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          What was it like? What was he like?
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Who?
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          The dark lord. What was it like to stand 
                          in his presence?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          I dunno. It was like I'd fallen into 
                          one of my dreams. One of my nightmares. 
                          
@@ -3770,15 +5160,21 @@
                his bottle but it's empty. He rushes to a chest with other bottles 
                and struggles to find one.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Were there others? In the graveyard, 
                          were there others?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Um. I don't think I said anything about 
                          a graveyard Professor.
  
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Marvellous creatures dragons aren't 
                          they? Do you think that miserable oaf 
                          would have led you into the woods if 
@@ -3792,14 +5188,18 @@
                          that led you straight to it? Huh??
  
                          
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          It was you from the beginning. You put 
                          my name in the goblet of fire. You bewitched 
                          Krum. But...
  
                Mad-Eye makes sobbing noises making fun of<character_ref>Harry</character_ref>.
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          You won because I made it so Potter. 
                          You ended up in that graveyard tonight 
                          because it was meant to be so. And now 
@@ -3814,31 +5214,45 @@
                Dumbledore and Severus come rushing in. Dumbledore takes Mad-Eye 
                by the neck...
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Severus...
 
                Severus administers some veritaserum. Mad-Eye wriggles demonically.
  
                
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Do you know who I am?
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          Albus Dumbledore.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Are you Alastor Moody? Are ya?
 
-<character>MAD-EYE</character>
+</speech>
+
+<speech><character_speak>>MAD-EYE</character_speak>
                          No.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Is he in this room? Is he in this room?
  
                          
                We see a nod.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                         <character_ref>Harry</character_ref> get away from there!
 
                Dumbledore approaches the chest. The chest opens, it contains 
@@ -3846,27 +5260,39 @@
                that there's a pit within holding a man the real Alastor Moody.
  
                
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Are you alright Alastor?
 
-<character>ALASTOR</character>
+</speech>
+
+<speech><character_speak>>ALASTOR</character_speak>
                          I'm sorry Albus.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          That's Moody, but then who's...?
 
                Dumbledore holds up one of Mad-Eye's Bottles.
 
-<character>SEVERUS</character>
+</speech>
+
+<speech><character_speak>>SEVERUS</character_speak>
                          Polyjuice potion.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Now we know who's been stealing it from 
                          your store Severus.
  
                Dumbledore looks into the pit.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          We'll get you up in a minute.
 
                Alastor Moody groans. The Mad-Eye Moody they have captive in 
@@ -3875,40 +5301,56 @@
                which falls on the floor, we see that he's transformed into Barty 
                Crouch Junior.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Barty Crouch Junior.
 
-<character>BARTY JR</character>
+</speech>
+
+<speech><character_speak>>BARTY JR</character_speak>
                          I'll show you mine if you show me yours.
  
                          
                Barty Jr rolls up his sleeve to reveal a skull and snake marking.
  
                
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Your arm<character_ref>Harry</character_ref>.
 
-<character>BARTY JR</character>
+</speech>
+
+<speech><character_speak>>BARTY JR</character_speak>
                          You know what this means don't you? 
                          He's back. Lord Voldemort has returned.
  
                          
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Send an owl to Azkaban, think they'll 
                          find they're missing a prisoner. 
  
                          
-<character>BARTY JR</character>
+</speech>
+
+<speech><character_speak>>BARTY JR</character_speak>
                          I'll be welcomed back like a hero.
  
                          
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Perhaps. Personally I've never had much 
                          time for heroes.
  
               <setting>INT. ASSEMBLY ROOM</setting>
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          (Speaking to all pupils) Today we acknowledge 
                          a really terrible loss. Cedric Diggory 
                          was as you all know, exceptionally hard 
@@ -3937,25 +5379,33 @@
 
               <character_ref>Harry</character_ref> is sitting on a bed, Dumbledore walks in.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          I never liked these curtains. Set them 
                          on fire in my fourth year, by accident 
                          of course. I put you in terrible danger 
                          this year<character_ref>Harry</character_ref> I'm sorry.
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Professor, when I was in the graveyard 
                          there was a moment... um... when Voldemort's 
                          wand and mine sort of connected.
  
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          Priorium Contatum. You saw your parents 
                          that night didn't you? They reappeared.
  
                          
               <character_ref>Harry</character_ref> nods.
 
-<character>DUMBLEDORE</character>
+</speech>
+
+<speech><character_speak>>DUMBLEDORE</character_speak>
                          No spell can reawaken the dead<character_ref>Harry</character_ref> 
                          I trust you know that. Dark and diffiult 
                          times lie ahead. Soon we must all face 
@@ -3968,53 +5418,78 @@
                There's a large crowd gathered, the pupils are going home. Viktor 
                Krum gives Hermione a kiss and hands her some paper.
  
-<character>VIKTOR</character>
+</speech>
+
+<speech><character_speak>>VIKTOR</character_speak>
                          Write to me. Promise.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Bye.
 
                Ron is sitting alone. The french sisters approach him, they both 
                in turn give him a kiss on the head.
  
-<character>FLEUR</character>
+</speech>
+
+<speech><character_speak>>FLEUR</character_speak>
                          Au revoir Ron.
 
                The Beauxbatons girls leave in uniform, the crowd applauds. The 
                Durmstrang boys leave too, shaking hands as they go.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Do you think we'll ever just have a 
                          quiet year at Hogwarts?
  
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          No.
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          No I don't think so.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Everything's going to change now isn't 
                          it?
  
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yes.
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                          Promise you'll write this summer. Both 
                          of you.
  
-<character>RON</character>
+</speech>
+
+<speech><character_speak>>RON</character_speak>
                          Well I won't. You know I won't!
 
-<character>HERMIONE</character>
+</speech>
+
+<speech><character_speak>>HERMIONE</character_speak>
                         <character_ref>Harry</character_ref> will won't you?
 
-<character>HARRY</character>
+</speech>
+
+<speech><character_speak>>HARRY</character_speak>
                          Yeah. Every week.
 
                They look over the balcony, the flying horses pulling a carriage 
                head off into the distance. The Bulgarians' ship goes underwater.
  
           FADE OUT.
+</speech>
 </root>
