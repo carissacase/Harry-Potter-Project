@@ -1,0 +1,31 @@
+s. <character_speak>>([A-Z|\s|-]+)</character_speak> r. <speaker charName="\1">\1</speaker>
+s. charName r. name
+s. (Harry Potter*|Harry*) r. <ref name="\1">\1</ref>
+s. (Ronald Weasley|Ron Weasley|Ronald|Ron) r. <ref name="\1">\1</ref>
+s. (Hermione Granger|Hermione|Granger) r. <ref name="\1">\1</ref>
+s. (Draco Malfoy|Draco|Malfoy) r. <ref name="\1">\1</ref
+s. (Ginny Weasley|Ginny|Ginerva) r. <ref name="\1">\1</ref
+s. (Mrs. Weasley|Molly Weasley|Molly) STRING NOT FOUND
+s. (Mr. Weasley|Arthur Weasley|Arthur) r. <ref name="\1">\1</ref
+s. (Fred Weasley|Fred) r. <ref name="\1">\1</ref
+s. (George Weasley|George) r. <ref name="\1">\1</ref
+s. (Weasly|weasly) r. Weasley
+s. (Charlie Weasley|Charlie) r. <ref name="\1">\1</ref
+s. (Bill Weasley|Bill) STRING NOT FOUND
+s. (Percy Weasley|Percy) STRING NOT FOUND
+s. (Albus Dumbledore|Professor Dumbledore|Albus|Dumbledore) r. <ref name="Albus Dumbledore">\1</ref>
+s. (Uncle Vernon|Vernon) STRING NOT FOUND
+s. (Aunt Petunia|Petunia) STRING NOT FOUND
+s. (Dudley) STRING NOT FOUND
+s. (Lord Voldemort|My Lord|my Lord Voldemort|my Lord|Voldemort) r. <ref name="Voldemort">\1</ref>
+s. (Cedric Diggory|Cedric) r. <ref name="Cedric Diggory">\1</ref>
+s. (Mad-Eye|Mad-Eye Moody|Moody|Professor Moody|Alastor Moody) r. <ref name="Alastor Moody">\1</ref>
+s. (Viktor Krum|Viktor|Krum) r. <ref name="Viktor Krum">\1</ref>
+s. (Sirius Black|Sirius|Black) r. <ref name="Sirius Black">\1</ref>
+s. Barty AND (Bartimus Crouch|Barty Crouch|Mr Crouch) r. went through and marked Barty Crouch and Barty Crouch Junior manually, used <ref name="Bartimus Crouch"></ref> and <ref name="Barty Crouch Junior"></ref>
+s. (Fleur Delacour|Miss Delacour|Fleur) r. <ref name="Fleur Delacour">\1</ref>
+s. (Madame Maxime|Maxime) r. <ref name="Madame Maxine">\1</ref>
+s. (Rubeus Hagrid|Monsieur Hagrid|Hagrid) r. <ref name="Rubeus Hagrid">\1</ref>
+s. (Peter Pettigrew|Peter|Wormtail) r. <ref name="Peter Pettigrew">\1</ref>
+s. (Moaning Myrtle|Myrtle) r. <ref name="Moaning Myrtle">\1</ref>
+s. 
