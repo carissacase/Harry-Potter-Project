@@ -28,4 +28,18 @@ s. (Madame Maxime|Maxime) r. <ref name="Madame Maxine">\1</ref>
 s. (Rubeus Hagrid|Monsieur Hagrid|Hagrid) r. <ref name="Rubeus Hagrid">\1</ref>
 s. (Peter Pettigrew|Peter|Wormtail) r. <ref name="Peter Pettigrew">\1</ref>
 s. (Moaning Myrtle|Myrtle) r. <ref name="Moaning Myrtle">\1</ref>
+s. (Amos Diggory|
+s. (Lucius Malfoy|
+s. (Cornelius Fudge|
+s. (Neville Longbottom|Neville
+s. (Cho Chang|Cho
+s. (Seamus Finnigan|Seamus
+s. (Argus Filch|Filch
+s. (Padma Patil|Padma
+s. (Parvati Patil|Parvati
+s. (Minerva McGonagall|McGonagall|Professor McGonagall|Professor
+s. (Severus Snape|Professor Snape|Snape
+s. (Rita Skeeter
+s. (Vincent Crabbe|Crabbe
+s. (Gregory Goyle|Goyle
 s. 
