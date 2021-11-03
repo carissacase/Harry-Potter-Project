@@ -30,13 +30,13 @@ s. (Peter Pettigrew|Peter|Wormtail) r. <ref name="Peter Pettigrew">\1</ref>
 s. (Moaning Myrtle|Myrtle) r. <ref name="Moaning Myrtle">\1</ref>
 s. (Amos Diggory|
 s. (Lucius Malfoy|
-s. (Cornelius Fudge|
-s. (Neville Longbottom|Neville
-s. (Cho Chang|Cho
-s. (Seamus Finnigan|Seamus
-s. (Argus Filch|Filch
-s. (Padma Patil|Padma
-s. (Parvati Patil|Parvati
+s. (Cornelius Fudge|Mr Fudge|Cornelius) r. <ref name="Cornelius Fudge">\1</ref>
+s. (Neville Longbottom|Mr Longbottom|Neville) r. <ref name="Neville Longbottom">\1</ref>
+s. (Cho Chang|Ms Chang|Cho) r. <ref name="Cho Chang">\1</ref>
+s. (Seamus Finnigan|Mr Finnigan|Seamus) r. <ref name="Seamus Finnigan">\1</ref>
+s. (Argus Filch|Filch) r. <ref name="Argus Filch">\1</ref>
+s. (Padma Patil|Padma) STRING NOT FOUND
+s. (Parvati Patil|Parvati) r. <ref name="Parvati Patil">\1</ref>
 s. (Minerva McGonagall|McGonagall|Professor McGonagall|Professor
 s. (Severus Snape|Professor Snape|Snape
 s. (Rita Skeeter

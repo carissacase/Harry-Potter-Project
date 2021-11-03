@@ -386,8 +386,8 @@
 
 <speech><speaker name="DRACO">DRACO</speaker>
                          Father and I are in the minister's box, </speech>
-                         by personal invitation of Cornelius </speech>
-                         Fudge himself.</speech>
+                         by personal invitation of <ref name="Cornelius Fudge">Cornelius 
+                         Fudge</ref> himself.</speech>
  
 
 
@@ -652,14 +652,14 @@
 <speech><speaker name="RON">RON</speaker>
                          Just the drewbals, thanks.</speech>
 
-<sd>Cho Chan walks up to the trolley.</sd>
+                         <sd><ref name="Cho Chang">Cho Chang</ref> walks up to the trolley.</sd>
 
 
 
 <speech><speaker name="CHO">CHO</speaker>
                          Two pumpkin pasties please.</speech>
-
-<sd><ref name="Harry">Harry</ref>  and Cho look at each other and smile.</sd>
+                         
+<sd><ref name="Harry">Harry</ref>  and <ref name="Cho Chang">Cho</ref> look at each other and smile.</sd>
 
 
 
@@ -1002,7 +1002,7 @@
                          you're up against, you need to be prepared, </speech>
                          you need to find somewhere else to put </speech>
                          your chewing gum other than the underside </speech>
-                         of your desk Mr Finnigan!</speech>
+                         of your desk <ref name="Seamus Finnigan">Mr Finnigan</ref>!</speech>
  
 
 
@@ -1093,7 +1093,7 @@
                          Come on come on. Longbottom is it? Up.</speech>
  
                          
-<sd>Neville Longbottom stands.</sd>
+<sd><ref name="Neville Longbottom">Neville Longbottom</ref> stands.</sd>
 
 
 
@@ -1122,7 +1122,7 @@
                          Stop it! Can't you see it's bothering </speech>
                          him, stop it!</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> stops. Neville is disturbed. <ref name="Alastor Moody">Mad-Eye</ref> picks up the spider </sd>
+<sd><ref name="Alastor Moody">Mad-Eye</ref> stops. <ref name="Neville Longbottom">Neville</ref> is disturbed. <ref name="Alastor Moody">Mad-Eye</ref> picks up the spider </sd>
 <sd>which is still making a noise.</sd>
  
 
@@ -1158,7 +1158,7 @@
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          There's a reason those curses are unforgivable, </speech>
                          and to perform them in a classroom. </speech>
-                         I mean did you see Neville's face.</speech>
+                         I mean did you see <ref name="Neville Longbottom">Neville</ref>'s face.</speech>
  
                          
 <sd>They see a boy on the stairs facing the window.</sd>
@@ -1166,16 +1166,16 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Neville?</speech>
+                         <ref name="Neville Longbottom">Neville</ref>?</speech>
 
-<sd><ref name="Alastor Moody">Mad-Eye</ref> approaches Neville and pats him on the shoulder.</sd>
+<sd><ref name="Alastor Moody">Mad-Eye</ref> approaches <ref name="Neville Longbottom">Neville</ref> and pats him on the shoulder.</sd>
 
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          Son. You alright?</speech>
 
-<sd>Neville nods.</sd>
+<sd><ref name="Neville Longbottom">Neville</ref> nods.</sd>
 
 
 
@@ -1876,7 +1876,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Neville! You're doing it again!</speech>
+                         <ref name="Neville Longbottom">Neville</ref>! You're doing it again!</speech>
 
 
 
@@ -1895,7 +1895,7 @@
                          <ref name="Alastor Moody">Moody</ref> gave it to me. That day we had </speech>
                          tea.</speech>
  
-<sd>Neville waves. <ref name="Hermione">Hermione</ref> and <ref name="Ron">Ron</ref> are walking up to them.</sd>
+<sd><ref name="Neville Longbottom">Neville</ref> waves. <ref name="Hermione">Hermione</ref> and <ref name="Ron">Ron</ref> are walking up to them.</sd>
 
 
 
@@ -1914,8 +1914,8 @@
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          <ref name="Ronald">Ronald</ref>  would like me to tell you that </speech>
-                         Seamus told him that Dean was told by </speech>
-                         Parvati that <ref name="Rubeus Hagrid">Hagrid</ref> was looking for </speech>
+                         <ref name="Seamus Finnigan">Seamus</ref> told him that Dean was told by </speech>
+                         <ref name="Parvati Patil">Parvati</ref> that <ref name="Rubeus Hagrid">Hagrid</ref> was looking for </speech>
                          you.</speech>
  
 
@@ -1933,7 +1933,7 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Dean was told by Parvati that... Please </speech>
+                         Dean was told by <ref name="Parvati Patil">Parvati</ref> that... Please </speech>
                          don't ask me say it again. <ref name="Rubeus Hagrid">Hagrid</ref>'s </speech>
                          looking for you.</speech>
  
@@ -2158,7 +2158,7 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Don't worry about it.</speech>
 
-<sd><ref name="Ron">Ron</ref> and Seamus are walking along. <ref name="Harry">Harry</ref>  approaches them.</sd>
+<sd><ref name="Ron">Ron</ref> and <ref name="Seamus Finnigan">Seamus</ref> are walking along. <ref name="Harry">Harry</ref>  approaches them.</sd>
 
 
 
@@ -2585,7 +2585,7 @@
 <speech><speaker name="SEAMUS">SEAMUS</speaker>
                          Go on <ref name="Harry">Harry</ref> , what's the clue?</speech>
 
-<sd>Seamus hands <ref name="Harry">Harry</ref>  the golden egg.</sd>
+<sd><ref name="Seamus Finnigan">Seamus</ref> hands <ref name="Harry">Harry</ref>  the golden egg.</sd>
 
 
 
@@ -2653,9 +2653,9 @@
 
 <speech><speaker name="RON">RON</speaker>
                          Oh no no, I did. Don't you remember? </speech>
-                         I told <ref name="Hermione">Hermione</ref> to tell you that Seamus </speech>
-                         told me that Parvati told Dean that </speech>
-                         <ref name="Rubeus Hagrid">Hagrid</ref> was looking for you. Seamus never </speech>
+                         I told <ref name="Hermione">Hermione</ref> to tell you that <ref name="Seamus Finnigan">Seamus</ref> </speech>
+                         told me that <ref name="Parvati Patil">Parvati</ref> told Dean that </speech>
+                         <ref name="Rubeus Hagrid">Hagrid</ref> was looking for you. <ref name="Seamus Finnigan">Seamus</ref> never </speech>
                          actually told me anything, so it was </speech>
                          really me all along. I thought you'd </speech>
                          be alright, you know, after you figured </speech>
@@ -2680,7 +2680,7 @@
 
               <setting>INT. CLASSROOM</setting>
 
-<sd><ref name="Harry">Harry</ref>  is looking at Cho. When she looks back he spills drink </sd>
+<sd><ref name="Harry">Harry</ref>  is looking at <ref name="Cho Chang">Cho</ref>. When she looks back he spills drink </sd>
 <sd>from his mouth. They laugh at him.</sd>
  
 
@@ -2808,7 +2808,7 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         (Whispering to Seamus) Something's about 
+                         (Whispering to <ref name="Seamus Finnigan">Seamus</ref>) Something's about 
                          to burst out of Hilary but I don't think </speech>
                          it's a swan.</speech>
  
@@ -2842,7 +2842,7 @@
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         Now bend your arm. Mr Filch...</speech>
+                         Now bend your arm. <ref name="Argus Filch">Mr Filch</ref>...</speech>
 
 <sd>The music starts.</sd>
 
@@ -2876,7 +2876,7 @@
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
                          Boys, on your feet.</speech>
 
-<sd>Neville stands.</sd>
+<sd><ref name="Neville Longbottom">Neville</ref> stands.</sd>
 
               <setting>EXT. HOGWARTS - DAYTIME</setting>
 
@@ -2945,7 +2945,7 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Well, us and Neville!</speech>
+                         Well, us and <ref name="Neville Longbottom">Neville</ref>!</speech>
 
 
 
@@ -2956,7 +2956,7 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         It might interest you to know that Neville's </speech>
+                         It might interest you to know that <ref name="Neville Longbottom">Neville</ref>'s </speech>
                          already got someone.</speech>
  
 <sd><ref name="Ron">Ron</ref> gasps.</sd>
@@ -3016,7 +3016,7 @@
               <setting>EXT. HOGWARTS - SNOWY</setting>
 
 <sd><ref name="Harry">Harry</ref>  is walking up some steps. He reaches the top and bumps </sd>
-<sd>into Cho who has come around the corner.</sd>
+<sd>into <ref name="Cho Chang">Cho</ref> who has come around the corner.</sd>
  
 
 
@@ -3026,7 +3026,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Cho!</speech>
+                         <ref name="Cho Chang">Cho</ref>!</speech>
 
 
 
@@ -3037,7 +3037,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Ok thanks. Cho?</speech>
+                         Ok thanks. <ref name="Cho Chang">Cho</ref>?</speech>
 
 
 
@@ -3344,7 +3344,7 @@
                          Now.</speech>
 
 <sd>They dance. Soon others are joining in, <ref name="Albus Dumbledore">Dumbledore</ref> and McGonagall, </sd>
-<sd>Mr Filch and his cat, <ref name="Rubeus Hagrid">Hagrid</ref> and <ref name="Madame Maxine">Madame Maxime</ref>. <ref name="Alastor Moody">Mad-Eye</ref> sits </sd>
+<sd><ref name="Argus Filch">Mr Filch</ref> and his cat, <ref name="Rubeus Hagrid">Hagrid</ref> and <ref name="Madame Maxine">Madame Maxime</ref>. <ref name="Alastor Moody">Mad-Eye</ref> sits </sd>
 <sd>on the sidelines drinking. The scene changes, the music is now </sd>
 <sd>rock played by the Weird Sisters fronted by Jarvis Cocker from </sd>
 <sd>Pulp. Cool!. The crowd is jumping. <ref name="Harry">Harry</ref> , <ref name="Ron">Ron</ref> and their dates </sd>
@@ -3499,7 +3499,7 @@
  
                          
 <sd><ref name="Harry">Harry</ref>  wakes up. The floorboards are creaking, someone is walking </sd>
-<sd>up to his bed. It's Neville.</sd>
+<sd>up to his bed. It's <ref name="Neville Longbottom">Neville</ref>.</sd>
  
 
 
@@ -3750,7 +3750,7 @@
                          by now and could do with a good night's </speech>
                          sleep. Go. Now! Longbottom!</speech>
  
-<sd>Neville appears from behind a bookcase.</sd>
+<sd><ref name="Neville Longbottom">Neville</ref> appears from behind a bookcase.</sd>
 
 
 
@@ -3770,7 +3770,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Neville. No offense, but I really don't </speech>
+                         <ref name="Neville Longbottom">Neville</ref>. No offense, but I really don't </speech>
                          care about plants. Now if there's a </speech>
                          Tibetan turnip that will allow me to </speech>
                          breathe underwater for an hour then </speech>
@@ -3785,13 +3785,13 @@
               <setting>EXT. LAKESIDE</setting>
 
                          <sd><ref name="Fred and George Weasley">The Weasley twins</ref> are shouting, busy taking bets. <ref name="Harry">Harry</ref>  is walking </sd>
-<sd>along with Neville, he has some green plantlife in his hand.</sd>
+<sd>along with <ref name="Neville Longbottom">Neville</ref>, he has some green plantlife in his hand.</sd>
  
                
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         You're sure about this Neville.</speech>
+                         You're sure about this <ref name="Neville Longbottom">Neville</ref>.</speech>
 
 
 
@@ -3920,8 +3920,8 @@
               <setting>EXT. UNDERWATER</setting>
 
 <sd><ref name="Harry">Harry</ref>  is still searching around. He hears muffled screams. He </sd>
-<sd>finds <ref name="Ron">Ron</ref>, <ref name="Hermione">Hermione</ref>, Cho Chan and a blonde girl from Beauxbatons </sd>
-<sd>tied in place by their ankles. <ref name="Cedric Diggory">Cedric</ref> is there, he takes Cho </sd>
+<sd>finds <ref name="Ron">Ron</ref>, <ref name="Hermione">Hermione</ref>, <ref name="Cho Chang">Cho Chang</ref> and a blonde girl from Beauxbatons </sd>
+<sd>tied in place by their ankles. <ref name="Cedric Diggory">Cedric</ref> is there, he takes <ref name="Cho Chang">Cho</ref> </sd>
 <sd>with him. <ref name="Harry">Harry</ref>  sets about freeing <ref name="Ron">Ron</ref> and <ref name="Hermione">Hermione</ref> but vicious </sd>
 <sd>merpeople appear.</sd>
  
@@ -3941,7 +3941,7 @@
  
               <setting>EXT. ABOVE WATER</setting>
 
-<sd><ref name="Cedric Diggory">Cedric</ref> and Cho emerge, the crowd cheers. <ref name="Viktor Krum">Viktor</ref> and <ref name="Hermione">Hermione</ref> </sd>
+<sd><ref name="Cedric Diggory">Cedric</ref> and <ref name="Cho Chang">Cho</ref> emerge, the crowd cheers. <ref name="Viktor Krum">Viktor</ref> and <ref name="Hermione">Hermione</ref> </sd>
 <sd>next, the crows chants '<ref name="Viktor Krum">Krum</ref>, <ref name="Viktor Krum">Krum</ref>, <ref name="Viktor Krum">Krum</ref>'. The Beauxbatons girls </sd>
 <sd>look worried.</sd>
  
@@ -4621,7 +4621,7 @@
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          On the count of three... ONE...</speech>
 
-<sd>The cannon goes off. Mr Filch shrugs comically. <ref name="Albus Dumbledore">Dumbledore</ref> groans. </sd>
+<sd>The cannon goes off. <ref name="Argus Filch">Mr Filch</ref> shrugs comically. <ref name="Albus Dumbledore">Dumbledore</ref> groans. </sd>
 <sd><ref name="Harry">Harry</ref>  and <ref name="Cedric Diggory">Cedric</ref> enter the maze through different entrances. </sd>
 <sd>The entrance closes up behind <ref name="Harry">Harry</ref> . Heavy mist sets in, we pan </sd>
 <sd>out to see the maze is many stories tall. <ref name="Harry">Harry</ref>  starts traversing </sd>
@@ -5182,7 +5182,7 @@
                          <ref name="Cedric Diggory">Cedric Diggory</ref> would have told you to </speech>
                          hold the egg under the water if I hadn't </speech>
                          have told him first myself? Do you think </speech>
-                         Neville Longbottom the witless wonder </speech>
+                         <ref name="Neville Longbottom">Neville Longbottom</ref> the witless wonder </speech>
                          could have provided you with gilliweed </speech>
                          if I hadn't have given him the book </speech>
                          that led you straight to it? Huh??</speech>
