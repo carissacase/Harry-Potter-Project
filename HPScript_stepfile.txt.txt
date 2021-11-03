@@ -19,7 +19,7 @@ s. (Aunt Petunia|Petunia) STRING NOT FOUND
 s. (Dudley) STRING NOT FOUND
 s. (Lord Voldemort|My Lord|my Lord Voldemort|my Lord|Voldemort) r. <ref name="Voldemort">\1</ref>
 s. (Cedric Diggory|Cedric) r. <ref name="Cedric Diggory">\1</ref>
-s. (Mad-Eye|Mad-Eye Moody|Moody|Professor Moody|Alastor Moody) r. <ref name="Alastor Moody">\1</ref>
+s. (Mad-Eye|Mad-Eye Moody|Moody|Professor Moody|Alastor Moody|Alastor) r. <ref name="Alastor Moody">\1</ref>
 s. (Viktor Krum|Viktor|Krum) r. <ref name="Viktor Krum">\1</ref>
 s. (Sirius Black|Sirius|Black) r. <ref name="Sirius Black">\1</ref>
 s. Barty AND (Bartimus Crouch|Barty Crouch|Mr Crouch) r. went through and marked Barty Crouch and Barty Crouch Junior manually, used <ref name="Bartimus Crouch"></ref> and <ref name="Barty Crouch Junior"></ref>
@@ -28,8 +28,8 @@ s. (Madame Maxime|Maxime) r. <ref name="Madame Maxine">\1</ref>
 s. (Rubeus Hagrid|Monsieur Hagrid|Hagrid) r. <ref name="Rubeus Hagrid">\1</ref>
 s. (Peter Pettigrew|Peter|Wormtail) r. <ref name="Peter Pettigrew">\1</ref>
 s. (Moaning Myrtle|Myrtle) r. <ref name="Moaning Myrtle">\1</ref>
-s. (Amos Diggory|
-s. (Lucius Malfoy|
+s. (Amos Diggory|Amos) r. <ref name="Amos Diggory">\1</ref>
+s. (Lucius Malfoy|Mr Malfoy|Lucius) r. <ref name="Lucius Malfoy">\1</ref>
 s. (Cornelius Fudge|Mr Fudge|Cornelius) r. <ref name="Cornelius Fudge">\1</ref>
 s. (Neville Longbottom|Mr Longbottom|Neville) r. <ref name="Neville Longbottom">\1</ref>
 s. (Cho Chang|Ms Chang|Cho) r. <ref name="Cho Chang">\1</ref>
@@ -38,8 +38,22 @@ s. (Argus Filch|Filch) r. <ref name="Argus Filch">\1</ref>
 s. (Padma Patil|Padma) STRING NOT FOUND
 s. (Parvati Patil|Parvati) r. <ref name="Parvati Patil">\1</ref>
 s. (Minerva McGonagall|McGonagall|Professor McGonagall|Professor
-s. (Severus Snape|Professor Snape|Snape
-s. (Rita Skeeter
-s. (Vincent Crabbe|Crabbe
-s. (Gregory Goyle|Goyle
+s. (Severus Snape|Professor Snape|Snape|Severus) r. <ref name="Severus Snape">\1</ref>
+s. (Rita Skeeter|Ms Skeeter|Rita|Skeeter) r. <ref name="Rita Skeeter">\1</ref>
+s. (Vincent Crabbe|Crabbe|Vincent) STRING NOT FOUND
+s. (Gregory Goyle|Goyle) STRING NOT FOUND
+s. (Igor Karkaroff|Professor Karkaroff|Igor|Karkaroff) r. <ref name="Igor Karkaroff">\1</ref>
+s. (Dean Thomas|Dean|Mr Thomas) r. <ref name="Dean Thomas">\1</ref>
+s. (Madam Pomfrey|Pomfrey) STRING NOT FOUND
+s. (Winky) STRING NOT FOUND
+s. (Gabrielle Delacour|Gabrielle) STRING NOT FOUND
+s. (Professor Flitwick|Filius Flitwick|Filius|Flitwick) STRING NOT FOUND
+s. (Frank Bryce|Frank) STRING NOT FOUND
+s. (Lily Potter|Lily) r. <ref name="Lily Potter">\1</ref>
+s. (James Potter|James) STRING NOT FOUND
+s. (Professor Sinistra|Sinistra) STRING NOT FOUND
+s. (Dobby) STRING NOT FOUND
+s. (Nagini) r. <creature name="\1">\1</creature>
+s. (Dragons) r. <creature name="Dragon">\1</creature>
+s. (Merpeople|merpeople|mermaid|mermaids) r. <creature name="Merepeople">\1</creature>
 s. 

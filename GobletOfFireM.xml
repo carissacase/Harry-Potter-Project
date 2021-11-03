@@ -76,7 +76,7 @@
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Nagini tells me the old caretaker is </speech>
+                         <creature name="Nagini">Nagini</creature> tells me the old caretaker is </speech>
                          standing outside the door.</speech>
  
 <sd><ref name="Peter Pettigrew">Wormtail</ref> stands in the doorway and looks at the old man. The </sd>
@@ -165,8 +165,8 @@
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         Sorry Amos. Some of us had a bit of </speech>
-                         a sleepy start. This is Amos Diggory </speech>
+                         Sorry <ref name="Amos Diggory">Amos</ref>. Some of us had a bit of </speech>
+                         a sleepy start. This is <ref name="Amos Diggory">Amos Diggory</ref> </speech>
                          everyone, he works with me at the ministry. </speech>
                          And this strapping young lad must be </speech>
                          <ref name="Cedric Diggory">Cedric</ref>, am I right?</speech>
@@ -279,7 +279,7 @@
                          Let! Go!</speech>
 
 <sd><ref name="Harry">Harry</ref> , <ref name="Hermione">Hermione</ref> and the young Weasleys crash to the ground with </sd>
-<sd>a thump. <ref name="Arthur">Arthur</ref>, Amos and <ref name="Cedric Diggory">Cedric</ref> come down more gracefully.</sd>
+<sd>a thump. <ref name="Arthur">Arthur</ref>, <ref name="Amos Diggory">Amos</ref> and <ref name="Cedric Diggory">Cedric</ref> come down more gracefully.</sd>
  
                
 
@@ -314,7 +314,7 @@
                          Parting of the waves I think old chap, </speech>
                          see you at the match.</speech>
  
-<sd>Amos and <ref name="Cedric Diggory">Cedric</ref> separate and walk off.</sd>
+<sd><ref name="Amos Diggory">Amos</ref> and <ref name="Cedric Diggory">Cedric</ref> separate and walk off.</sd>
 
 
 
@@ -374,7 +374,7 @@
 <speech><speaker name="RON">RON</speaker>
                          Blimey Dad, how far up ARE we?</speech>
 
-<sd>Lucius Malfoy and <ref name="Draco">Draco</ref> are walking below them.</sd>
+<sd><ref name="Lucius Malfoy">Lucius Malfoy</ref> and <ref name="Draco">Draco</ref> are walking below them.</sd>
 
 
 
@@ -777,7 +777,7 @@
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          And now our friends from the north, </speech>
                          please greet the proud sons of Durmstrang </speech>
-                         and the high master Igor Karkaroff.</speech>
+                         and the high master <ref name="Igor Karkaroff">Igor Karkaroff</ref>.</speech>
  
                          
 <sd>A series of older boys walk up the aisle brandishing bo staffs, </sd>
@@ -799,7 +799,7 @@
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Igor.</speech>
+                         <ref name="Igor Karkaroff">Igor</ref>.</speech>
 
 <sd>They embrace.</sd>
 
@@ -1413,13 +1413,13 @@
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          It was once my job to think as dark </speech>
-                         wizards do Karkaroff perhaps you remember?</speech>
+                         wizards do <ref name="Igor Karkaroff">Karkaroff</ref> perhaps you remember?</speech>
  
                          
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         That doesn't help Alastor. Leave this </speech>
+                         That doesn't help <ref name="Alastor Moody">Alastor</ref>. Leave this </speech>
                          to you <ref name="Bartimus Crouch">Barty</ref>.</speech>
  
 
@@ -1480,7 +1480,7 @@
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         I agree with Severus. Alastor, keep </speech>
+                         I agree with <ref name="Severus Snape">Severus</ref>. <ref name="Alastor Moody">Alastor</ref>, keep </speech>
                          an eye on <ref name="Harry">Harry</ref>  will you?</speech>
  
 
@@ -1564,7 +1564,7 @@
 
 
 <speech><speaker name="RITA">RITA</speaker>
-                         I'm Rita Skeeter, I write for the daily </speech>
+                         I'm <ref name="Rita Skeeter">Rita Skeeter</ref>, I write for the daily </speech>
                          prophet. But of course you know that </speech>
                          don't you. It's you we don't know, you're </speech>
                          the news. What quirks lurk beneath those </speech>
@@ -1794,7 +1794,7 @@
 
 <speech><speaker name="SIR">SIR</speaker>
                          I'm saying the devils are inside the </speech>
-                         walls. Igor Karkaroff, he was a deatheater. </speech>
+                         walls. <ref name="Igor Karkaroff">Igor Karkaroff</ref>, he was a deatheater. </speech>
                          And no one, no one stops being a deatheater. </speech>
                          Then there's <ref name="Bartimus Crouch">Barty Crouch</ref>, heart of </speech>
                          stone, sent his OWN son to Azkaban.</speech>
@@ -1914,7 +1914,7 @@
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          <ref name="Ronald">Ronald</ref>  would like me to tell you that </speech>
-                         <ref name="Seamus Finnigan">Seamus</ref> told him that Dean was told by </speech>
+                         <ref name="Seamus Finnigan">Seamus</ref> told him that <ref name="Dean Thomas">Dean</ref> was told by </speech>
                          <ref name="Parvati Patil">Parvati</ref> that <ref name="Rubeus Hagrid">Hagrid</ref> was looking for </speech>
                          you.</speech>
  
@@ -1933,7 +1933,7 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Dean was told by <ref name="Parvati Patil">Parvati</ref> that... Please </speech>
+                         <ref name="Dean Thomas">Dean</ref> was told by <ref name="Parvati Patil">Parvati</ref> that... Please </speech>
                          don't ask me say it again. <ref name="Rubeus Hagrid">Hagrid</ref>'s </speech>
                          looking for you.</speech>
  
@@ -2047,7 +2047,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Dragons? That's the first task? You're </speech>
+                         <creature name="Dragon">Dragons</creature>? That's the first task? You're </speech>
                          joking.</speech>
  
 
@@ -2132,7 +2132,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Dragons. That's the first task. They've </speech>
+                         <creature name="Dragon">Dragons</creature>. That's the first task. They've </speech>
                          got one for each of us.</speech>
  
 
@@ -2324,7 +2324,7 @@
                          time. <ref name="Fleur Delacour">Miss Delacour</ref>, she's as much a </speech>
                          fairy princess as I am. As for <ref name="Viktor Krum">Krum</ref>, </speech>
                          his head may be filled with sawdust </speech>
-                         but Karkaroff's is NOT. They'll have </speech>
+                         but <ref name="Igor Karkaroff">Karkaroff</ref>'s is NOT. They'll have </speech>
                          a strategy, and you can bet that it'll </speech>
                          play to <ref name="Viktor Krum">Krum</ref>'s strengths. Hmm? Come </speech>
                          on Potter. What are your strengths?</speech>
@@ -2384,7 +2384,7 @@
                          Battle a dragon.</speech>
 
 <sd><ref name="Hermione">Hermione</ref> enters the tent and they hug. A bright camera flashes, </sd>
-<sd>Rita Skeeter the journalist approaches.</sd>
+<sd><ref name="Rita Skeeter">Rita Skeeter</ref> the journalist approaches.</sd>
  
 
 
@@ -2396,7 +2396,7 @@
 
 
 <speech><speaker name="VIKTOR">VIKTOR</speaker>
-                         (To Rita) You have no business here. 
+                         (To <ref name="Rita Skeeter">Rita</ref>) You have no business here. 
                          This tent is for champions and friends.</speech>
  
                          
@@ -2406,7 +2406,7 @@
                          No matter. We've got what we wanted.</speech>
  
                          
-<sd>Rita leaves and <ref name="Albus Dumbledore">Dumbledore</ref> enters.</sd>
+<sd><ref name="Rita Skeeter">Rita</ref> leaves and <ref name="Albus Dumbledore">Dumbledore</ref> enters.</sd>
 
 
 
@@ -2654,7 +2654,7 @@
 <speech><speaker name="RON">RON</speaker>
                          Oh no no, I did. Don't you remember? </speech>
                          I told <ref name="Hermione">Hermione</ref> to tell you that <ref name="Seamus Finnigan">Seamus</ref> </speech>
-                         told me that <ref name="Parvati Patil">Parvati</ref> told Dean that </speech>
+                         told me that <ref name="Parvati Patil">Parvati</ref> told <ref name="Dean Thomas">Dean</ref> that </speech>
                          <ref name="Rubeus Hagrid">Hagrid</ref> was looking for you. <ref name="Seamus Finnigan">Seamus</ref> never </speech>
                          actually told me anything, so it was </speech>
                          really me all along. I thought you'd </speech>
@@ -2940,7 +2940,7 @@
                          only ones in our year without dates.</speech>
  
                          
-<sd>Severus Snape walks past and slaps <ref name="Ron">Ron</ref> over the head. </sd>
+<sd><ref name="Severus Snape">Severus Snape</ref> walks past and slaps <ref name="Ron">Ron</ref> over the head. </sd>
 
 
 
@@ -3673,7 +3673,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Moaning Myrtle">Myrtle</ref>, there aren't Merpeople in the </speech>
+                         <ref name="Moaning Myrtle">Myrtle</ref>, there aren't <creature name="Merepeople">Merpeople</creature> in the </speech>
                          black lake are there?</speech>
  
 
@@ -3923,7 +3923,7 @@
 <sd>finds <ref name="Ron">Ron</ref>, <ref name="Hermione">Hermione</ref>, <ref name="Cho Chang">Cho Chang</ref> and a blonde girl from Beauxbatons </sd>
 <sd>tied in place by their ankles. <ref name="Cedric Diggory">Cedric</ref> is there, he takes <ref name="Cho Chang">Cho</ref> </sd>
 <sd>with him. <ref name="Harry">Harry</ref>  sets about freeing <ref name="Ron">Ron</ref> and <ref name="Hermione">Hermione</ref> but vicious </sd>
-<sd>merpeople appear.</sd>
+<sd><creature name="Merepeople">merpeople</creature> appear.</sd>
  
 
 
@@ -4243,7 +4243,7 @@
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         Igor Karkaroff, you have been brought </speech>
+                         <ref name="Igor Karkaroff">Igor Karkaroff</ref>, you have been brought </speech>
                          from Azkaban at your own request to </speech>
                          present evidence to this counsel. Should </speech>
                          your testimony prove consequential. </speech>
@@ -4327,26 +4327,26 @@
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         NO! WAIT! PLEASE! I have more. Snape, </speech>
-                         Severus Snape.</speech>
+                         NO! WAIT! PLEASE! I have more. <ref name="Severus Snape">Snape</ref>, </speech>
+                         <ref name="Severus Snape">Severus Snape</ref>.</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          The counsel is very much aware you have </speech>
-                         given evidence on this matter. Severus </speech>
-                         Snape was indeed a deatheater and prior </speech>
+                         given evidence on this matter. <ref name="Severus Snape">Severus</ref> </speech>
+                         <ref name="Severus Snape">Snape</ref> was indeed a deatheater and prior </speech>
                          to <ref name="Voldemort">Lord Voldemort</ref>'s downfall turned </speech>
                          spy for us at great personal risk. Today </speech>
                          he's no more a deatheater than I am.</speech>
  
                          
-<sd>Igor protests loudly.</sd>
+<sd><ref name="Igor Karkaroff">Igor</ref> protests loudly.</sd>
 
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         It's a lie! Severus Snape remains faithful </speech>
+                         It's a lie! <ref name="Severus Snape">Severus Snape</ref> remains faithful </speech>
                          to the dark lord.</speech>
  
 
@@ -4390,7 +4390,7 @@
                          I know for a fact this person took part </speech>
                          in the capture, and by means of the </speech>
                          cruciatus curse, torture of the aurer </speech>
-                         Frank Longbottom and...</speech>
+                         <ref name="Frank Longbottom">Frank Longbottom</ref> and...</speech>
  
 
 
@@ -4502,10 +4502,10 @@
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         It's a sign Severus, you know what it </speech>
+                         It's a sign <ref name="Severus Snape">Severus</ref>, you know what it </speech>
                          means as well as I.</speech>
  
-<sd>The door opens and they see <ref name="Harry">Harry</ref> . He looks at them. Igor leaves.</sd>
+<sd>The door opens and they see <ref name="Harry">Harry</ref> . He looks at them. <ref name="Igor Karkaroff">Igor</ref> leaves.</sd>
  
                
 
@@ -4560,7 +4560,7 @@
                          polyjuice potion and believe me I'm </speech>
                          going to find out why.</speech>
  
-<sd>Severus closes the door in <ref name="Harry">Harry</ref> 's face.</sd>
+<sd><ref name="Severus Snape">Severus</ref> closes the door in <ref name="Harry">Harry</ref> 's face.</sd>
 
               <setting>EXT. ARENA</setting>
 
@@ -4876,7 +4876,7 @@
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Not even you, Lucius. </speech>
+                         Not even you, <ref name="Lucius Malfoy">Lucius</ref>. </speech>
 
 
 
@@ -4943,7 +4943,7 @@
                          happened that night thirteen years ago? </speech>
                          Shall I divulge how I truly lost my </speech>
                          powers? It was love. You see when dear </speech>
-                         sweet Lily  Potter  gave her life for </speech>
+                         sweet <ref name="Lily Potter">Lily Potter</ref>  gave her life for </speech>
                          her only son she provided the ultimate </speech>
                          protection. I could not touch you. It </speech>
                          was old magic, something I should have </speech>
@@ -5095,7 +5095,7 @@
                          Let me through! That's my son! My boy!</speech>
  
                          
-<sd>Amos breaks down wailing. The crowd look on distraught.</sd>
+<sd><ref name="Amos Diggory">Amos</ref> breaks down wailing. The crowd look on distraught.</sd>
 
               <setting>INT. DARKENED ROOM</setting>
 
@@ -5211,15 +5211,15 @@
  
                          
 <sd>A flash of magic occurs and <ref name="Alastor Moody">Mad-Eye</ref> is knocked into the wall. </sd>
-<sd><ref name="Albus Dumbledore">Dumbledore</ref> and Severus come rushing in. <ref name="Albus Dumbledore">Dumbledore</ref> takes <ref name="Alastor Moody">Mad-Eye</ref> </sd>
+<sd><ref name="Albus Dumbledore">Dumbledore</ref> and <ref name="Severus Snape">Severus</ref> come rushing in. <ref name="Albus Dumbledore">Dumbledore</ref> takes <ref name="Alastor Moody">Mad-Eye</ref> </sd>
 <sd>by the neck...</sd>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Severus...</speech>
+                         <ref name="Severus Snape">Severus</ref>...</speech>
 
-<sd>Severus administers some veritaserum. <ref name="Alastor Moody">Mad-Eye</ref> wriggles demonically.</sd>
+<sd><ref name="Severus Snape">Severus</ref> administers some veritaserum. <ref name="Alastor Moody">Mad-Eye</ref> wriggles demonically.</sd>
  
                
 
@@ -5263,7 +5263,7 @@
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Are you alright Alastor?</speech>
+                         Are you alright <ref name="Alastor Moody">Alastor</ref>?</speech>
 
 
 
@@ -5286,7 +5286,7 @@
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          Now we know who's been stealing it from </speech>
-                         your store Severus.</speech>
+                         your store <ref name="Severus Snape">Severus</ref>.</speech>
  
 <sd><ref name="Albus Dumbledore">Dumbledore</ref> looks into the pit.</sd>
 
@@ -5358,8 +5358,8 @@
                          most importantly a fierce fierce friend. </speech>
                          I think therefore you have the right </speech>
                          to know exactly how he died. You see, </speech>
-                         <ref name="Cedric Diggory">Cedric Diggory</ref> was murdered by Lord </speech>
-                         <ref name="Voldemort">Voldemort</ref>. The ministry of magic does </speech>
+                         <ref name="Cedric Diggory">Cedric Diggory</ref> was murdered by <ref name="Voldemort">Lord </speech>
+                         Voldemort.</ref> The ministry of magic does </speech>
                          not wish me to tell you this. But not </speech>
                          to do so I think would be an insult </speech>
                          to his memory. Now the pain we all feel </speech>
