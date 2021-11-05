@@ -32,7 +32,7 @@
  
 
 
-<speech><speaker name="OLD MAN">OLD MAN</speaker>
+<speech><speaker name="OLD_MAN">OLD MAN</speaker>
                          Bloody kids.</speech>
 
 <sd>He leaves the house and heads towards the light.</sd>
@@ -61,7 +61,7 @@
  
 
 
-<speech><speaker name="UNKNOWN MAN">UNKNOWN MAN</speaker>
+<speech><speaker name="UNKNOWN_MAN">UNKNOWN MAN</speaker>
                          I will not disappoint you my lord.</speech>
  
                          
@@ -79,7 +79,7 @@
                          <creature name="Nagini">Nagini</creature> tells me the old caretaker is </speech>
                          standing outside the door.</speech>
  
-<sd><ref name="Peter Pettigrew">Wormtail</ref> stands in the doorway and looks at the old man. The </sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> stands in the doorway and looks at the old man. The </sd>
 <sd>old man looks terrified.</sd>
  
 
@@ -88,16 +88,16 @@
                          Step aside so I can give our guest a </speech>
                          proper greeting.</speech>
  
-<sd>A loud spell is cast and <ref name="Harry">Harry</ref>  wakes up in a flash of panic.</sd>
+<sd>A loud spell is cast and <ref name="Harry_Potter">Harry</ref>  wakes up in a flash of panic.</sd>
  
           INT. BEDROOM
 
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Harry">Harry</ref> !</speech>
+                         <ref name="Harry_Potter">Harry</ref> !</speech>
 
-<sd><ref name="Harry">Harry</ref>  is flustered and still panicing.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is flustered and still panicing.</sd>
 
 
 
@@ -107,7 +107,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Hermione">Hermione</ref>. Bad dream. When did you get </speech>
+                         <ref name="Hermione_Granger">Hermione</ref>. Bad dream. When did you get </speech>
                          here?</speech>
  
 
@@ -120,7 +120,7 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Last night.</speech>
 
-<sd><ref name="Hermione">Hermione</ref> goes over to <ref name="Ron">Ron</ref>'s bed.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> goes over to <ref name="Ron_Weasley">Ron</ref>'s bed.</sd>
 
 
 
@@ -136,7 +136,7 @@
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          Honestly. Get dressed, and don't go </speech>
-                         back to sleep. Come on <ref name="Ron">Ron</ref>! Your mother </speech>
+                         back to sleep. Come on <ref name="Ron_Weasley">Ron</ref>! Your mother </speech>
                          says breakfast's ready.</speech>
  
               <setting>EXT. GRASSLAND</setting>
@@ -160,16 +160,16 @@
 
 
 <speech><speaker name="AMOS">AMOS</speaker>
-                         <ref name="Arthur">Arthur</ref>! It's about time son.</speech>
+                         <ref name="Arthur_Weasley">Arthur</ref>! It's about time son.</speech>
 
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         Sorry <ref name="Amos Diggory">Amos</ref>. Some of us had a bit of </speech>
-                         a sleepy start. This is <ref name="Amos Diggory">Amos Diggory</ref> </speech>
+                         Sorry <ref name="Amos_Diggory">Amos</ref>. Some of us had a bit of </speech>
+                         a sleepy start. This is <ref name="Amos_Diggory">Amos Diggory</ref> </speech>
                          everyone, he works with me at the ministry. </speech>
                          And this strapping young lad must be </speech>
-                         <ref name="Cedric Diggory">Cedric</ref>, am I right?</speech>
+                         <ref name="Cedric_Diggory">Cedric</ref>, am I right?</speech>
  
 
 
@@ -251,9 +251,9 @@
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         <ref name="Harry">Harry</ref> !</speech>
+                         <ref name="Harry_Potter">Harry</ref> !</speech>
 
-<sd><ref name="Harry">Harry</ref>  rushes over and puts his hand on the boot.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  rushes over and puts his hand on the boot.</sd>
 
 
 
@@ -278,8 +278,8 @@
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
                          Let! Go!</speech>
 
-<sd><ref name="Harry">Harry</ref> , <ref name="Hermione">Hermione</ref> and the young Weasleys crash to the ground with </sd>
-<sd>a thump. <ref name="Arthur">Arthur</ref>, <ref name="Amos Diggory">Amos</ref> and <ref name="Cedric Diggory">Cedric</ref> come down more gracefully.</sd>
+<sd><ref name="Harry_Potter">Harry</ref> , <ref name="Hermione_Granger">Hermione</ref> and the young Weasleys crash to the ground with </sd>
+<sd>a thump. <ref name="Arthur_Weasley">Arthur</ref>, <ref name="Amos_Diggory">Amos</ref> and <ref name="Cedric_Diggory">Cedric</ref> come down more gracefully.</sd>
  
                
 
@@ -288,7 +288,7 @@
                          I bet that cleared your sinuses eh?</speech>
  
                          
-<sd><ref name="Cedric Diggory">Cedric</ref> helps <ref name="Harry">Harry</ref>  to his feet.</sd>
+<sd><ref name="Cedric_Diggory">Cedric</ref> helps <ref name="Harry_Potter">Harry</ref>  to his feet.</sd>
 
 
 
@@ -314,12 +314,12 @@
                          Parting of the waves I think old chap, </speech>
                          see you at the match.</speech>
  
-<sd><ref name="Amos Diggory">Amos</ref> and <ref name="Cedric Diggory">Cedric</ref> separate and walk off.</sd>
+<sd><ref name="Amos_Diggory">Amos</ref> and <ref name="Cedric_Diggory">Cedric</ref> separate and walk off.</sd>
 
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         See ya later <ref name="Cedric Diggory">Cedric</ref>.</speech>
+                         See ya later <ref name="Cedric_Diggory">Cedric</ref>.</speech>
 
 
 
@@ -334,14 +334,14 @@
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         Girls. Choose a bunk and unpack. <ref name="Ron">Ron</ref>, </speech>
+                         Girls. Choose a bunk and unpack. <ref name="Ron_Weasley">Ron</ref>, </speech>
                          get out of the kitchen we're all hungry.</speech>
  
                          
 
 
 <speech><speaker name="TWINS">TWINS</speaker>
-                         Yeah get out of the kitchen <ref name="Ron">Ron</ref>.</speech>
+                         Yeah get out of the kitchen <ref name="Ron_Weasley">Ron</ref>.</speech>
 
 
 
@@ -354,7 +354,7 @@
                          Feet off the table.</speech>
 
 <sd>They take their feet off the table and put them back on as soon </sd>
-<sd>as <ref name="Arthur">Arthur</ref> has walked past.</sd>
+<sd>as <ref name="Arthur_Weasley">Arthur</ref> has walked past.</sd>
  
 
 
@@ -367,14 +367,14 @@
 <sd>a huge number of floors.</sd>
 <setting>INT. STADIUM</setting>
 
-<sd>The Weasleys and <ref name="Harry">Harry</ref>  are finding their seats.</sd>
+<sd>The Weasleys and <ref name="Harry_Potter">Harry</ref>  are finding their seats.</sd>
 
 
 
 <speech><speaker name="RON">RON</speaker>
                          Blimey Dad, how far up ARE we?</speech>
 
-<sd><ref name="Lucius Malfoy">Lucius Malfoy</ref> and <ref name="Draco">Draco</ref> are walking below them.</sd>
+<sd><ref name="Lucius_Malfoy">Lucius Malfoy</ref> and <ref name="Draco_Malfoy">Draco</ref> are walking below them.</sd>
 
 
 
@@ -386,13 +386,13 @@
 
 <speech><speaker name="DRACO">DRACO</speaker>
                          Father and I are in the minister's box, </speech>
-                         by personal invitation of <ref name="Cornelius Fudge">Cornelius 
+                         by personal invitation of <ref name="Cornelius_Fudge">Cornelius 
                          Fudge</ref> himself.</speech>
  
 
 
 <speech><speaker name="LUCIUS">LUCIUS</speaker>
-                         Don't boast <ref name="Draco">Draco</ref>. There's no need with </speech>
+                         Don't boast <ref name="Draco_Malfoy">Draco</ref>. There's no need with </speech>
                          these people. Do enjoy yourself won't </speech>
                          you. While you can.</speech>
  
@@ -427,19 +427,19 @@
 
 <sd>Five red figures this time, one of them performs a stunt on his </sd>
 <sd>broom. One of them appears on the large screen. The crowd begins </sd>
-<sd>to chant '<ref name="Viktor Krum">Krum</ref>, <ref name="Viktor Krum">Krum</ref>, <ref name="Viktor Krum">Krum</ref>'. </sd>
+<sd>to chant '<ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>'. </sd>
  
 
 
 <speech><speaker name="WEASLEYS">WEASLEYS</speaker>
-                         <ref name="Viktor Krum">Krum</ref>!!!</speech>
+                         <ref name="Viktor_Krum">Krum</ref>!!!</speech>
 
 
 
 <speech><speaker name="GEORGE">GEORGE</speaker>
                          Yes!</speech>
 
-<sd><ref name="Viktor Krum">Viktor Krum</ref> waves to the crowd.</sd>
+<sd><ref name="Viktor_Krum">Viktor Krum</ref> waves to the crowd.</sd>
 
 
 
@@ -454,7 +454,7 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         There's no one like <ref name="Viktor Krum">Krum</ref>. He's like </speech>
+                         There's no one like <ref name="Viktor_Krum">Krum</ref>. He's like </speech>
                          a bird the way he rides the wind. He's </speech>
                          more than an athlete, he's an artist.</speech>
  
@@ -465,15 +465,15 @@
 
 
 <speech><speaker name="GINNY">GINNY</speaker>
-                         Think you're in love <ref name="Ron">Ron</ref>?</speech>
+                         Think you're in love <ref name="Ron_Weasley">Ron</ref>?</speech>
 
 
 
 <speech><speaker name="TWINS">TWINS</speaker>
-                         (Singing) <ref name="Viktor Krum">Viktor</ref> I love you! <ref name="Viktor Krum">Viktor</ref> 
+                         (Singing) <ref name="Viktor_Krum">Viktor</ref> I love you! <ref name="Viktor_Krum">Viktor</ref> 
                          I do!</speech>
  
-<sd><ref name="Harry">Harry</ref>  joins in.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  joins in.</sd>
 
 
 
@@ -499,21 +499,21 @@
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
                          Get back to the portkey everybody, and </speech>
-                         stick together. <ref name="Fred">Fred</ref>, <ref name="George">George</ref>... <ref name="Ginny">Ginny</ref> </speech>
+                         stick together. <ref name="Fred_Weasley">Fred</ref>, <ref name="George_Weasley">George</ref>... <ref name="Ginny_Weasley">Ginny</ref> </speech>
                          is your responsibility.</speech>
  
 <sd>Some figures in pointed hoods carrying flaming torches are walking </sd>
 <sd>across the campsite chanting ominous noises. The crowd is paniced </sd>
-<sd>and rushing all over. <ref name="Harry">Harry</ref>  is trampled unconscious.</sd>
+<sd>and rushing all over. <ref name="Harry_Potter">Harry</ref>  is trampled unconscious.</sd>
  
               <setting>EXT. OUTSIDE - TIME PASSED</setting>
 
 <sd>The crowds have all gone. A man walks through the rubble kicking </sd>
 <sd>at things. He casts a spell which causes a bright flash and a </sd>
 <sd>large ghostly skull forms in the sky with a snake crawling from </sd>
-<sd>it. The man grins evilly, clearly demented. <ref name="Harry">Harry</ref>  stirs and witnesses </sd>
-<sd>the man standing there. <ref name="Harry">Harry</ref>  runs. The familiar voices of <ref name="Ron">Ron</ref> </sd>
-<sd>and <ref name="Hermione">Hermione</ref> are calling for him.</sd>
+<sd>it. The man grins evilly, clearly demented. <ref name="Harry_Potter">Harry</ref>  stirs and witnesses </sd>
+<sd>the man standing there. <ref name="Harry_Potter">Harry</ref>  runs. The familiar voices of <ref name="Ron_Weasley">Ron</ref> </sd>
+<sd>and <ref name="Hermione_Granger">Hermione</ref> are calling for him.</sd>
  
 
 
@@ -526,7 +526,7 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          What is THAT?</speech>
 
-<sd>They look at the monstrous thing in the sky, <ref name="Harry">Harry</ref>  holds his </sd>
+<sd>They look at the monstrous thing in the sky, <ref name="Harry_Potter">Harry</ref>  holds his </sd>
 <sd>head in pain. Suddenly they are fired on. </sd>
  
 
@@ -534,12 +534,12 @@
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
                          Stop! That's my son.</speech>
 
-<sd><ref name="Arthur">Arthur</ref> and others approach.</sd>
+<sd><ref name="Arthur_Weasley">Arthur</ref> and others approach.</sd>
 
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         <ref name="Ron">Ron</ref>, <ref name="Harry">Harry</ref> , <ref name="Hermione">Hermione</ref> are you alright?</speech>
+                         <ref name="Ron_Weasley">Ron</ref>, <ref name="Harry_Potter">Harry</ref> , <ref name="Hermione_Granger">Hermione</ref> are you alright?</speech>
  
                          
 
@@ -566,7 +566,7 @@
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         <ref name="Bartimus Crouch">Barty</ref>, they're just kids.</speech>
+                         <ref name="Bartimus_Crouch">Barty</ref>, they're just kids.</speech>
 
 
 
@@ -576,7 +576,7 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Harry">Harry</ref>  it's his mark.</speech>
+                         <ref name="Harry_Potter">Harry</ref>  it's his mark.</speech>
 
 
 
@@ -603,7 +603,7 @@
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         <ref name="Harry">Harry</ref> , who?</speech>
+                         <ref name="Harry_Potter">Harry</ref> , who?</speech>
 
 
 
@@ -612,7 +612,7 @@
 
               <setting>INT. TRAIN CARRIAGE</setting>
 
-<sd><ref name="Harry">Harry</ref> , <ref name="Ron">Ron</ref> and <ref name="Hermione">Hermione</ref> are seated on a train. A voice calls </sd>
+<sd><ref name="Harry_Potter">Harry</ref> , <ref name="Ron_Weasley">Ron</ref> and <ref name="Hermione_Granger">Hermione</ref> are seated on a train. A voice calls </sd>
 <sd>out.</sd>
  
 
@@ -634,7 +634,7 @@
                          Packet of drewbals and a liquorice wand.</speech>
  
                          
-<sd><ref name="Ron">Ron</ref> sees he hasn't enough money.</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> sees he hasn't enough money.</sd>
 
 
 
@@ -652,14 +652,14 @@
 <speech><speaker name="RON">RON</speaker>
                          Just the drewbals, thanks.</speech>
 
-                         <sd><ref name="Cho Chang">Cho Chang</ref> walks up to the trolley.</sd>
+                         <sd><ref name="Cho_Chang">Cho Chang</ref> walks up to the trolley.</sd>
 
 
 
 <speech><speaker name="CHO">CHO</speaker>
                          Two pumpkin pasties please.</speech>
                          
-<sd><ref name="Harry">Harry</ref>  and <ref name="Cho Chang">Cho</ref> look at each other and smile.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Cho_Chang">Cho</ref> look at each other and smile.</sd>
 
 
 
@@ -690,7 +690,7 @@
                          worried them so much. Happened right </speech>
                          under their noses.</speech>
  
-<sd><ref name="Hermione">Hermione</ref> sees <ref name="Harry">Harry</ref>  rubbing his head.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> sees <ref name="Harry_Potter">Harry</ref>  rubbing his head.</sd>
 
 
 
@@ -706,11 +706,11 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         You know <ref name="Sirius Black">Sirius</ref> will want to hear about </speech>
+                         You know <ref name="Sirius_Black">Sirius</ref> will want to hear about </speech>
                          this. What you saw at the world cup, </speech>
                          and the dream.</speech>
  
-<sd><ref name="Harry">Harry</ref>  has written a letter, he marks <ref name="Sirius Black">Sirius Black</ref> on an envelope </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  has written a letter, he marks <ref name="Sirius_Black">Sirius Black</ref> on an envelope </sd>
 <sd>and gives it to an owl.</sd>
  
               <setting>EXT. HOGWARTS</setting>
@@ -743,7 +743,7 @@
  
                          
 <sd>A man runs up the aisle limping in a comical way, he whispers </sd>
-<sd>something to <ref name="Albus Dumbledore">Dumbledore</ref> and leaves in the same fashion.</sd>
+<sd>something to <ref name="Albus_Dumbledore">Dumbledore</ref> and leaves in the same fashion.</sd>
  
 
 
@@ -761,7 +761,7 @@
                          but more of that later. For now please </speech>
                          join me in welcoming the lovely ladies </speech>
                          of the Beauxbatons Academy of magic </speech>
-                         and their headmistress Madam <ref name="Madame Maxine">Maxime</ref>.</speech>
+                         and their headmistress Madam <ref name="Madame_Maxime">Maxime</ref>.</speech>
  
                          
 <sd>A group of girls dressed in blue dance up the aisle and release </sd>
@@ -777,7 +777,7 @@
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          And now our friends from the north, </speech>
                          please greet the proud sons of Durmstrang </speech>
-                         and the high master <ref name="Igor Karkaroff">Igor Karkaroff</ref>.</speech>
+                         and the high master <ref name="Igor_Karkaroff">Igor Karkaroff</ref>.</speech>
  
                          
 <sd>A series of older boys walk up the aisle brandishing bo staffs, </sd>
@@ -787,19 +787,19 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Blimey it's him, <ref name="Viktor Krum">Viktor Krum</ref>!</speech>
+                         Blimey it's him, <ref name="Viktor_Krum">Viktor Krum</ref>!</speech>
 
 <sd>The boys breathe some fire.</sd>
 
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         <ref name="Albus Dumbledore">Albus</ref>!</speech>
+                         <ref name="Albus_Dumbledore">Albus</ref>!</speech>
 
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         <ref name="Igor Karkaroff">Igor</ref>.</speech>
+                         <ref name="Igor_Karkaroff">Igor</ref>.</speech>
 
 <sd>They embrace.</sd>
 
@@ -808,24 +808,24 @@
 
 
 <speech><speaker name="MADAME MAXIME">MADAME MAXIME</speaker>
-                         <ref name="Albus Dumbledore">Professor Dumbledore</ref>, my horses have </speech>
+                         <ref name="Albus_Dumbledore">Professor Dumbledore</ref>, my horses have </speech>
                          travelled a long way. They will need </speech>
                          attending to.</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Not to worry <ref name="Madame Maxine">Madame Maxime</ref>, our gamekeeper </speech>
-                         <ref name="Rubeus Hagrid">Hagrid</ref>'s more than capable of seeing </speech>
+                         Not to worry <ref name="Madame_Maxime">Madame Maxime</ref>, our gamekeeper </speech>
+                         <ref name="Rubeus_Hagrid">Hagrid</ref>'s more than capable of seeing </speech>
                          to them.</speech>
  
 
 
 <speech><speaker name="MADAME MAXIME">MADAME MAXIME</speaker>
-                         But you know <ref name="Rubeus Hagrid">Monsieur Hagrid</ref>, they drink </speech>
+                         But you know <ref name="Rubeus_Hagrid">Monsieur Hagrid</ref>, they drink </speech>
                          only single malt whiskey.</speech>
  
-<sd>The man seated next to <ref name="Rubeus Hagrid">Hagrid</ref> yelps. <ref name="Rubeus Hagrid">Hagrid</ref> has stabbed a fork </sd>
+<sd>The man seated next to <ref name="Rubeus_Hagrid">Hagrid</ref> yelps. <ref name="Rubeus_Hagrid">Hagrid</ref> has stabbed a fork </sd>
 <sd>into his hand.</sd>
  
 
@@ -857,7 +857,7 @@
                          For this reason the ministry has seen </speech>
                          fit to impose a new rule. To explain </speech>
                          all this we have the head of the department </speech>
-                         of international magic cooperation <ref name="Bartimus Crouch">Mister </speech>
+                         of international magic cooperation <ref name="Bartimus_Crouch">Mister </speech>
                          Bartimus Crouch</ref>.</speech>
  
 <sd>Thunder roars overhead, rain begins leaking through the roof </sd>
@@ -868,12 +868,12 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Bloody hell, it's <ref name="Alastor Moody">Mad-Eye</ref> <ref name="Alastor Moody">Moody</ref>.</speech>
+                         Bloody hell, it's <ref name="Alastor_Moody">Mad-Eye</ref> <ref name="Alastor_Moody">Moody</ref>.</speech>
 
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Alastor Moody">Alastor Moody</ref>? The aura.</speech>
+                         <ref name="Alastor_Moody">Alastor Moody</ref>? The aura.</speech>
 
 
 
@@ -883,7 +883,7 @@
                          supposed to be mad as a hatter though </speech>
                          these days.</speech>
  
-<sd>This character enters the room and begins walking. We see <ref name="Harry">Harry</ref>  </sd>
+<sd>This character enters the room and begins walking. We see <ref name="Harry_Potter">Harry</ref>  </sd>
 <sd>through his mechanical eye. He limps, breathing heavily as he </sd>
 <sd>goes.</sd>
  
@@ -898,7 +898,7 @@
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          That stupid roof.</speech>
 
-<sd><ref name="Alastor Moody">Mad-Eye</ref> takes a drink.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> takes a drink.</sd>
 
 
 
@@ -935,7 +935,7 @@
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          Silence! </speech>
 
-<sd><ref name="Albus Dumbledore">Dumbledore</ref> casts magic over a box which melds into a goblet containing </sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> casts magic over a box which melds into a goblet containing </sd>
 <sd>a blue flame.</sd>
  
 
@@ -960,7 +960,7 @@
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         <ref name="Alastor Moody">Alastor Moody</ref>.</speech>
+                         <ref name="Alastor_Moody">Alastor Moody</ref>.</speech>
 
 <sd>He writes his name on the board.</sd>
 
@@ -969,7 +969,7 @@
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          Ministry malcontent. And your new defence </speech>
                          against the dark arts teacher. I'm here </speech>
-                         because <ref name="Albus Dumbledore">Dumbledore</ref> asked me, end of </speech>
+                         because <ref name="Albus_Dumbledore">Dumbledore</ref> asked me, end of </speech>
                          story, goodbye, the end. Any questions? </speech>
                          When it comes to the dark arts, I believe </speech>
                          in a practical approach. But first, </speech>
@@ -1002,7 +1002,7 @@
                          you're up against, you need to be prepared, </speech>
                          you need to find somewhere else to put </speech>
                          your chewing gum other than the underside </speech>
-                         of your desk <ref name="Seamus Finnigan">Mr Finnigan</ref>!</speech>
+                         of your desk <ref name="Seamus_Finnigan">Mr Finnigan</ref>!</speech>
  
 
 
@@ -1010,7 +1010,7 @@
                          Aw no way, the old codger can see out </speech>
                          the back of his head.</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> throws the chalk in anger.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> throws the chalk in anger.</sd>
 
 
 
@@ -1042,7 +1042,7 @@
                          a bit of grief a few years ago. Perhaps </speech>
                          this will show you why.</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> pops open a jar with a spider in it.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> pops open a jar with a spider in it.</sd>
 
 
 
@@ -1063,14 +1063,14 @@
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          But if she bites... she's lethal!</speech>
 
-<sd><ref name="Draco">Draco</ref> laughs.</sd>
+<sd><ref name="Draco_Malfoy">Draco</ref> laughs.</sd>
 
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          What are you laughing at?</speech>
 
-<sd><ref name="Alastor Moody">Mad-Eye</ref> sends the spider onto <ref name="Draco">Draco</ref>'s face.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> sends the spider onto <ref name="Draco_Malfoy">Draco</ref>'s face.</sd>
 
 
 
@@ -1079,7 +1079,7 @@
                          her do next? Jump out the window? Drown </speech>
                          herself?</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> has the spider over a bucket of water, it's wriggling.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> has the spider over a bucket of water, it's wriggling.</sd>
  
                
 
@@ -1093,7 +1093,7 @@
                          Come on come on. Longbottom is it? Up.</speech>
  
                          
-<sd><ref name="Neville Longbottom">Neville Longbottom</ref> stands.</sd>
+<sd><ref name="Neville_Longbottom">Neville Longbottom</ref> stands.</sd>
 
 
 
@@ -1113,7 +1113,7 @@
                          Correct! Correct! come come. Particularly </speech>
                          nasty. The torture curse.</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> begins torturing the spider with magic, it squeals.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> begins torturing the spider with magic, it squeals.</sd>
  
                
 
@@ -1122,7 +1122,7 @@
                          Stop it! Can't you see it's bothering </speech>
                          him, stop it!</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> stops. <ref name="Neville Longbottom">Neville</ref> is disturbed. <ref name="Alastor Moody">Mad-Eye</ref> picks up the spider </sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> stops. <ref name="Neville_Longbottom">Neville</ref> is disturbed. <ref name="Alastor_Moody">Mad-Eye</ref> picks up the spider </sd>
 <sd>which is still making a noise.</sd>
  
 
@@ -1131,7 +1131,7 @@
                          Perhaps you could give us the last unforgivable </speech>
                          curse Miss <ref name="Granger">Granger</ref>.</speech>
  
-<sd><ref name="Hermione">Hermione</ref> shakes her head. He casts a spell and the spider disintegrates.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> shakes her head. He casts a spell and the spider disintegrates.</sd>
  
                
 
@@ -1141,7 +1141,7 @@
                          known to have survived it. And he's </speech>
                          sitting in this room.</speech>
  
-<sd>He approaches <ref name="Harry">Harry</ref> 's desk and takes a drink.</sd>
+<sd>He approaches <ref name="Harry_Potter">Harry</ref> 's desk and takes a drink.</sd>
 
               <setting>INT. STAIRS</setting>
 
@@ -1158,7 +1158,7 @@
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          There's a reason those curses are unforgivable, </speech>
                          and to perform them in a classroom. </speech>
-                         I mean did you see <ref name="Neville Longbottom">Neville</ref>'s face.</speech>
+                         I mean did you see <ref name="Neville_Longbottom">Neville</ref>'s face.</speech>
  
                          
 <sd>They see a boy on the stairs facing the window.</sd>
@@ -1166,16 +1166,16 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Neville Longbottom">Neville</ref>?</speech>
+                         <ref name="Neville_Longbottom">Neville</ref>?</speech>
 
-<sd><ref name="Alastor Moody">Mad-Eye</ref> approaches <ref name="Neville Longbottom">Neville</ref> and pats him on the shoulder.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> approaches <ref name="Neville_Longbottom">Neville</ref> and pats him on the shoulder.</sd>
 
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          Son. You alright?</speech>
 
-<sd><ref name="Neville Longbottom">Neville</ref> nods.</sd>
+<sd><ref name="Neville_Longbottom">Neville</ref> nods.</sd>
 
 
 
@@ -1186,7 +1186,7 @@
               <setting>INT. GOBLET ROOM</setting>
 
 <sd>Older students are placing their names into the flame and others </sd>
-<sd>are applauding, <ref name="Cedric Diggory">Cedric</ref> is one of them.</sd>
+<sd>are applauding, <ref name="Cedric_Diggory">Cedric</ref> is one of them.</sd>
  
 
 
@@ -1226,7 +1226,7 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         You see this? This is an age line. <ref name="Albus Dumbledore">Dumbledore</ref> </speech>
+                         You see this? This is an age line. <ref name="Albus_Dumbledore">Dumbledore</ref> </speech>
                          drew it himself.</speech>
  
 
@@ -1237,7 +1237,7 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         So a genius like <ref name="Albus Dumbledore">Dumbledore</ref> couldn't </speech>
+                         So a genius like <ref name="Albus_Dumbledore">Dumbledore</ref> couldn't </speech>
                          possibly be fooled by something pathetically </speech>
                          dimwitted such as an age potion.</speech>
  
@@ -1249,12 +1249,12 @@
 
 
 <speech><speaker name="GEORGE">GEORGE</speaker>
-                         Ready <ref name="Fred">Fred</ref>?</speech>
+                         Ready <ref name="Fred_Weasley">Fred</ref>?</speech>
 
 
 
 <speech><speaker name="FRED">FRED</speaker>
-                         Ready <ref name="George">George</ref>?</speech>
+                         Ready <ref name="George_Weasley">George</ref>?</speech>
 
 <sd>They jump inside the age line, and cheer. They put their names </sd>
 <sd>in the flame and do a high-five. The flame fires up and they're </sd>
@@ -1266,11 +1266,11 @@
 <speech><speaker name="GEORGE">GEORGE</speaker>
                          You said..</speech>
 
-<sd><ref name="Fred">Fred</ref> You said..</sd>
+<sd><ref name="Fred_Weasley">Fred</ref> You said..</sd>
 
 <sd>They roll around fighting on the floor and the crowd cheer. The </sd>
-<sd>room suddenly becomes silent as <ref name="Viktor Krum">Viktor Krum</ref> walks in and puts </sd>
-<sd>his name in the flame. He looks at <ref name="Hermione">Hermione</ref> and she smiles.</sd>
+<sd>room suddenly becomes silent as <ref name="Viktor_Krum">Viktor Krum</ref> walks in and puts </sd>
+<sd>his name in the flame. He looks at <ref name="Hermione_Granger">Hermione</ref> and she smiles.</sd>
  
           INT. GOBLET ROOM - THURSDAY NIGHT
 
@@ -1281,33 +1281,33 @@
                          you've all been waiting for, the champions </speech>
                          selection! </speech>
  
-<sd><ref name="Albus Dumbledore">Dumbledore</ref> approaches the blue flame and it glows red. A name </sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> approaches the blue flame and it glows red. A name </sd>
 <sd>comes out. Everyone looks on anxiously.</sd>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         The Durmstrang champion is ... <ref name="Viktor Krum">Viktor</ref> </speech>
-                         <ref name="Viktor Krum">Krum</ref>!</speech>
+                         The Durmstrang champion is ... <ref name="Viktor_Krum">Viktor</ref> </speech>
+                         <ref name="Viktor_Krum">Krum</ref>!</speech>
  
 <sd>The Durmstrang crowd cheer. Another name comes out.</sd>
 
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         The champion from Beauxbatons... <ref name="Fleur Delacour">Fleur</ref> </speech>
+                         The champion from Beauxbatons... <ref name="Fleur_Delacour">Fleur</ref> </speech>
                          Delacour</speech>
  
-<sd>The Beauxbatons girls cheer as <ref name="Fleur Delacour">Fleur</ref> walks up. Another name comes </sd>
+<sd>The Beauxbatons girls cheer as <ref name="Fleur_Delacour">Fleur</ref> walks up. Another name comes </sd>
 <sd>out.</sd>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         The Hogwarts champion... <ref name="Cedric Diggory">Cedric Diggory</ref>.</speech>
+                         The Hogwarts champion... <ref name="Cedric_Diggory">Cedric Diggory</ref>.</speech>
  
                          
-<sd>Hogwarts pupils cheer as <ref name="Cedric Diggory">Cedric</ref> takes the stage.</sd>
+<sd>Hogwarts pupils cheer as <ref name="Cedric_Diggory">Cedric</ref> takes the stage.</sd>
 
 
 
@@ -1319,7 +1319,7 @@
                          victory the tri-wizard cup!</speech>
  
 <sd>People cheer, but the goblet glows red once more and another </sd>
-<sd>name flies out. <ref name="Albus Dumbledore">Dumbledore</ref> takes it and reads...</sd>
+<sd>name flies out. <ref name="Albus_Dumbledore">Dumbledore</ref> takes it and reads...</sd>
  
 
 
@@ -1339,10 +1339,10 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Go on <ref name="Harry">Harry</ref> . <ref name="Harry">Harry</ref>  for goodness sake.</speech>
+                         Go on <ref name="Harry_Potter">Harry</ref> . <ref name="Harry_Potter">Harry</ref>  for goodness sake.</speech>
  
                          
-<sd><ref name="Harry">Harry</ref>  slowly walks up. <ref name="Albus Dumbledore">Dumbledore</ref> gives him the paper. Voices </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  slowly walks up. <ref name="Albus_Dumbledore">Dumbledore</ref> gives him the paper. Voices </sd>
 <sd>in the crowd shout out.</sd>
  
 
@@ -1353,13 +1353,13 @@
  
               <setting>INT. ROOM</setting>
 
-<sd><ref name="Harry">Harry</ref>  is in a room with the other champions. <ref name="Albus Dumbledore">Dumbledore</ref> bursts </sd>
-<sd>in and grabs <ref name="Harry">Harry</ref> .</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is in a room with the other champions. <ref name="Albus_Dumbledore">Dumbledore</ref> bursts </sd>
+<sd>in and grabs <ref name="Harry_Potter">Harry</ref> .</sd>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         <ref name="Harry">Harry</ref> ! Did you put your name in the </speech>
+                         <ref name="Harry_Potter">Harry</ref> ! Did you put your name in the </speech>
                          goblet of fire?</speech>
  
 
@@ -1407,20 +1407,20 @@
 
 <speech><speaker name="IGOR">IGOR</speaker>
                          You seem to have given this a fair bit </speech>
-                         of thought <ref name="Alastor Moody">Mad-Eye</ref>.</speech>
+                         of thought <ref name="Alastor_Moody">Mad-Eye</ref>.</speech>
  
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          It was once my job to think as dark </speech>
-                         wizards do <ref name="Igor Karkaroff">Karkaroff</ref> perhaps you remember?</speech>
+                         wizards do <ref name="Igor_Karkaroff">Karkaroff</ref> perhaps you remember?</speech>
  
                          
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         That doesn't help <ref name="Alastor Moody">Alastor</ref>. Leave this </speech>
-                         to you <ref name="Bartimus Crouch">Barty</ref>.</speech>
+                         That doesn't help <ref name="Alastor_Moody">Alastor</ref>. Leave this </speech>
+                         to you <ref name="Bartimus_Crouch">Barty</ref>.</speech>
  
 
 
@@ -1435,7 +1435,7 @@
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         This can't go on <ref name="Albus Dumbledore">Albus</ref>. First the dark </speech>
+                         This can't go on <ref name="Albus_Dumbledore">Albus</ref>. First the dark </speech>
                          mark, now this?</speech>
  
 
@@ -1458,7 +1458,7 @@
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         Well the devil with <ref name="Bartimus Crouch">Barty</ref> and his rules. </speech>
+                         Well the devil with <ref name="Bartimus_Crouch">Barty</ref> and his rules. </speech>
                          And since when did you accomodate them...</speech>
  
                          
@@ -1480,8 +1480,8 @@
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         I agree with <ref name="Severus Snape">Severus</ref>. <ref name="Alastor Moody">Alastor</ref>, keep </speech>
-                         an eye on <ref name="Harry">Harry</ref>  will you?</speech>
+                         I agree with <ref name="Severus_Snape">Severus</ref>. <ref name="Alastor_Moody">Alastor</ref>, keep </speech>
+                         an eye on <ref name="Harry_Potter">Harry</ref>  will you?</speech>
  
 
 
@@ -1502,7 +1502,7 @@
 <speech><speaker name="RON">RON</speaker>
                          How did you do it?</speech>
 
-<sd><ref name="Harry">Harry</ref>  is silent.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is silent.</sd>
 
 
 
@@ -1524,13 +1524,13 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I didn't ask for this to happen <ref name="Ron">Ron</ref>. </speech>
+                         I didn't ask for this to happen <ref name="Ron_Weasley">Ron</ref>. </speech>
                          Okay? You're being stupid.</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Yeah that's me, <ref name="Ron Weasley">Ron Weasley</ref> ... <ref name="Harry">Harry</ref>  </speech>
+                         Yeah that's me, <ref name="Ron_Weasley">Ron Weasley</ref> ... <ref name="Harry_Potter">Harry</ref>  </speech>
                          Potter's stupid friend.</speech>
  
 
@@ -1564,7 +1564,7 @@
 
 
 <speech><speaker name="RITA">RITA</speaker>
-                         I'm <ref name="Rita Skeeter">Rita Skeeter</ref>, I write for the daily </speech>
+                         I'm <ref name="Rita_Skeeter">Rita Skeeter</ref>, I write for the daily </speech>
                          prophet. But of course you know that </speech>
                          don't you. It's you we don't know, you're </speech>
                          the news. What quirks lurk beneath those </speech>
@@ -1577,7 +1577,7 @@
                          we start with the youngest. Lovely.</speech>
  
                          
-<sd>She takes <ref name="Harry">Harry</ref>  by the hand into a closet.</sd>
+<sd>She takes <ref name="Harry_Potter">Harry</ref>  by the hand into a closet.</sd>
 
 
 
@@ -1604,7 +1604,7 @@
 
 
 <speech><speaker name="RITA">RITA</speaker>
-                         So <ref name="Harry">Harry</ref> , here you sit, a mere boy of </speech>
+                         So <ref name="Harry_Potter">Harry</ref> , here you sit, a mere boy of </speech>
                          twelve..</speech>
  
 
@@ -1655,7 +1655,7 @@
 
 <speech><speaker name="RITA">RITA</speaker>
                          Course you didn't. Everyone loves a </speech>
-                         rebel <ref name="Harry">Harry</ref> . (to the quill) Scratch </speech>
+                         rebel <ref name="Harry_Potter">Harry</ref> . (to the quill) Scratch </speech>
                          that last. Speaking of your parents, </speech>
                          were they alive, how do you think they'd </speech>
                          feel? proud? or concerned that your </speech>
@@ -1672,22 +1672,22 @@
  
               <setting>INT. ROOFTOP</setting>
 
-<sd>An owl flies in with a letter for <ref name="Harry">Harry</ref> , he takes it and begins </sd>
+<sd>An owl flies in with a letter for <ref name="Harry_Potter">Harry</ref> , he takes it and begins </sd>
 <sd>to read.</sd>
  
 
 
 <speech><speaker name="SIR">SIR</speaker>
-                         (VOICEOVER) <ref name="Harry">Harry</ref> . I couldn't risk sending 
+                         (VOICEOVER) <ref name="Harry_Potter">Harry</ref> . I couldn't risk sending 
                          Edward. It was since the world cup and </speech>
                          the ministry's been intercepting more </speech>
                          and more owls and she's too easily recognised. </speech>
-                         We need to talk <ref name="Harry">Harry</ref> . Face to face. </speech>
+                         We need to talk <ref name="Harry_Potter">Harry</ref> . Face to face. </speech>
                          Meet me in the Griffindore common room </speech>
                          at one o clock this Saturday night and </speech>
                          make sure you're alone. P.S....</speech>
  
-<sd>The owl nips <ref name="Harry">Harry</ref> 's finger.</sd>
+<sd>The owl nips <ref name="Harry_Potter">Harry</ref> 's finger.</sd>
 
 
 
@@ -1704,9 +1704,9 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Sirius Black">Sirius</ref>?</speech>
+                         <ref name="Sirius_Black">Sirius</ref>?</speech>
 
-<sd><ref name="Harry">Harry</ref>  picks up a newspaper, the headline reads "THE CHAMPIONS </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  picks up a newspaper, the headline reads "THE CHAMPIONS </sd>
 <sd>ARE SELECTED" and reads.</sd>
  
 
@@ -1724,12 +1724,12 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Sirius Black">Sirius</ref>?! How...</speech>
+                         <ref name="Sirius_Black">Sirius</ref>?! How...</speech>
 
 
 
 <speech><speaker name="SIR">SIR</speaker>
-                         I don't have much time <ref name="Harry">Harry</ref>  so let </speech>
+                         I don't have much time <ref name="Harry_Potter">Harry</ref>  so let </speech>
                          me get straight to it. Did you or did </speech>
                          you not put your name into the goblet </speech>
                          of fire?</speech>
@@ -1743,7 +1743,7 @@
 
 <speech><speaker name="SIR">SIR</speaker>
                          Shh... I had to ask. Now, tell me about </speech>
-                         this dream of yours. You mentioned <ref name="Peter Pettigrew">Wormtail</ref> </speech>
+                         this dream of yours. You mentioned <ref name="Peter_Pettigrew">Wormtail</ref> </speech>
                          and <ref name="Voldemort">Voldemort</ref>, but who was the third </speech>
                          man in the room?</speech>
  
@@ -1779,7 +1779,7 @@
 
 
 <speech><speaker name="SIR">SIR</speaker>
-                         Yes. It's just a dream. Look <ref name="Harry">Harry</ref> , </speech>
+                         Yes. It's just a dream. Look <ref name="Harry_Potter">Harry</ref> , </speech>
                          the deatheaters at the world cup, your </speech>
                          name rising from that goblet these are </speech>
                          not just coincidences. Hogwarts isn't </speech>
@@ -1794,9 +1794,9 @@
 
 <speech><speaker name="SIR">SIR</speaker>
                          I'm saying the devils are inside the </speech>
-                         walls. <ref name="Igor Karkaroff">Igor Karkaroff</ref>, he was a deatheater. </speech>
+                         walls. <ref name="Igor_Karkaroff">Igor Karkaroff</ref>, he was a deatheater. </speech>
                          And no one, no one stops being a deatheater. </speech>
-                         Then there's <ref name="Bartimus Crouch">Barty Crouch</ref>, heart of </speech>
+                         Then there's <ref name="Bartimus_Crouch">Barty Crouch</ref>, heart of </speech>
                          stone, sent his OWN son to Azkaban.</speech>
  
                          
@@ -1810,14 +1810,14 @@
 
 <speech><speaker name="SIR">SIR</speaker>
                          I haven't a clue who put your name in </speech>
-                         that goblet <ref name="Harry">Harry</ref>  but whoever did it </speech>
+                         that goblet <ref name="Harry_Potter">Harry</ref>  but whoever did it </speech>
                          is no friend to you. People die in this </speech>
                          tournament.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I'm not ready for this <ref name="Sirius Black">Sirius</ref>.</speech>
+                         I'm not ready for this <ref name="Sirius_Black">Sirius</ref>.</speech>
 
 
 
@@ -1832,9 +1832,9 @@
 
 
 <speech><speaker name="SIR">SIR</speaker>
-                         Keep your friends close <ref name="Harry">Harry</ref> .</speech>
+                         Keep your friends close <ref name="Harry_Potter">Harry</ref> .</speech>
 
-<sd><ref name="Ron">Ron</ref> enters the room.</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> enters the room.</sd>
 
 
 
@@ -1863,7 +1863,7 @@
                          You're probably just practicing for </speech>
                          your next interview I expect.</speech>
  
-<sd><ref name="Ron">Ron</ref> leaves. <ref name="Harry">Harry</ref>  goes to the fire again but <ref name="Sirius Black">Sirius</ref> is gone. </sd>
+<sd><ref name="Ron_Weasley">Ron</ref> leaves. <ref name="Harry_Potter">Harry</ref>  goes to the fire again but <ref name="Sirius_Black">Sirius</ref> is gone. </sd>
 <sd>The newspaper in the fire has the headline "TEENAGE TRAGEDY".</sd>
  
           EXT. LAKESIDE
@@ -1876,7 +1876,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Neville Longbottom">Neville</ref>! You're doing it again!</speech>
+                         <ref name="Neville_Longbottom">Neville</ref>! You're doing it again!</speech>
 
 
 
@@ -1892,30 +1892,30 @@
 
 
 <speech><speaker name="NEVILLE">NEVILLE</speaker>
-                         <ref name="Alastor Moody">Moody</ref> gave it to me. That day we had </speech>
+                         <ref name="Alastor_Moody">Moody</ref> gave it to me. That day we had </speech>
                          tea.</speech>
  
-<sd><ref name="Neville Longbottom">Neville</ref> waves. <ref name="Hermione">Hermione</ref> and <ref name="Ron">Ron</ref> are walking up to them.</sd>
+<sd><ref name="Neville_Longbottom">Neville</ref> waves. <ref name="Hermione_Granger">Hermione</ref> and <ref name="Ron_Weasley">Ron</ref> are walking up to them.</sd>
 
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         (Whispering to <ref name="Ron">Ron</ref>) We've already been 
+                         (Whispering to <ref name="Ron_Weasley">Ron</ref>) We've already been 
                          through enough people why don't you </speech>
                          just go and do it yourself? Ughh. What </speech>
                          do you want me to say again?</speech>
  
-<sd><ref name="Ron">Ron</ref> whispers some words to <ref name="Hermione">Hermione</ref>. It's clear <ref name="Ron">Ron</ref> and <ref name="Harry">Harry</ref>  </sd>
+<sd><ref name="Ron_Weasley">Ron</ref> whispers some words to <ref name="Hermione_Granger">Hermione</ref>. It's clear <ref name="Ron_Weasley">Ron</ref> and <ref name="Harry_Potter">Harry</ref>  </sd>
 <sd>are not on speaking terms.</sd>
  
-<sd><ref name="Hermione">Hermione</ref> walks up to <ref name="Harry">Harry</ref> .</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> walks up to <ref name="Harry_Potter">Harry</ref> .</sd>
 
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          <ref name="Ronald">Ronald</ref>  would like me to tell you that </speech>
-                         <ref name="Seamus Finnigan">Seamus</ref> told him that <ref name="Dean Thomas">Dean</ref> was told by </speech>
-                         <ref name="Parvati Patil">Parvati</ref> that <ref name="Rubeus Hagrid">Hagrid</ref> was looking for </speech>
+                         <ref name="Seamus_Finnigan">Seamus</ref> told him that <ref name="Dean_Thomas">Dean</ref> was told by </speech>
+                         <ref name="Parvati_Patil">Parvati</ref> that <ref name="Rubeus_Hagrid">Hagrid</ref> was looking for </speech>
                          you.</speech>
  
 
@@ -1928,13 +1928,13 @@
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          Uhhh...</speech>
 
-<sd>She walks back to <ref name="Ron">Ron</ref> for more whispering and comes back.</sd>
+<sd>She walks back to <ref name="Ron_Weasley">Ron</ref> for more whispering and comes back.</sd>
 
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Dean Thomas">Dean</ref> was told by <ref name="Parvati Patil">Parvati</ref> that... Please </speech>
-                         don't ask me say it again. <ref name="Rubeus Hagrid">Hagrid</ref>'s </speech>
+                         <ref name="Dean_Thomas">Dean</ref> was told by <ref name="Parvati_Patil">Parvati</ref> that... Please </speech>
+                         don't ask me say it again. <ref name="Rubeus_Hagrid">Hagrid</ref>'s </speech>
                          looking for you.</speech>
  
 
@@ -1949,7 +1949,7 @@
 
               <setting>INT. FOREST</setting>
 
-<sd><ref name="Harry">Harry</ref>  and <ref name="Rubeus Hagrid">Hagrid</ref> are walking through a dark forest.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Rubeus_Hagrid">Hagrid</ref> are walking through a dark forest.</sd>
 
 
 
@@ -1960,7 +1960,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Yeah I brought the cloak. <ref name="Rubeus Hagrid">Hagrid</ref> where </speech>
+                         Yeah I brought the cloak. <ref name="Rubeus_Hagrid">Hagrid</ref> where </speech>
                          are we going?</speech>
  
 
@@ -1972,10 +1972,10 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         What's with the flower? <ref name="Rubeus Hagrid">Hagrid</ref> have </speech>
+                         What's with the flower? <ref name="Rubeus_Hagrid">Hagrid</ref> have </speech>
                          you combed your hair?</speech>
  
-<sd><ref name="Rubeus Hagrid">Hagrid</ref> is looking more dapper than usual and is carrying a big </sd>
+<sd><ref name="Rubeus_Hagrid">Hagrid</ref> is looking more dapper than usual and is carrying a big </sd>
 <sd>red flower.</sd>
  
 
@@ -1985,19 +1985,19 @@
                          like to try the same thing now and again.</speech>
  
                          
-<sd>We hear animal noises. <ref name="Madame Maxine">Madame Maxime</ref> calls out to <ref name="Rubeus Hagrid">Hagrid</ref>.</sd>
+<sd>We hear animal noises. <ref name="Madame_Maxime">Madame Maxime</ref> calls out to <ref name="Rubeus_Hagrid">Hagrid</ref>.</sd>
 
 
 
 <speech><speaker name="MADAME MAXIME">MADAME MAXIME</speaker>
-                         <ref name="Rubeus Hagrid">Hagrid</ref>?</speech>
+                         <ref name="Rubeus_Hagrid">Hagrid</ref>?</speech>
 
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
                          Oh, the cloak. Put the cloak on.</speech>
 
-<sd><ref name="Harry">Harry</ref>  does as he's told.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  does as he's told.</sd>
 
 
 
@@ -2007,7 +2007,7 @@
 
 
 <speech><speaker name="MADAME MAXIME">MADAME MAXIME</speaker>
-                         Oh <ref name="Rubeus Hagrid">Hagrid</ref>. I thought you weren't coming, </speech>
+                         Oh <ref name="Rubeus_Hagrid">Hagrid</ref>. I thought you weren't coming, </speech>
                          I thought perhaps... you had... forgotten </speech>
                          me.</speech>
  
@@ -2053,7 +2053,7 @@
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         Come on <ref name="Harry">Harry</ref> . They're seriously misunderstood </speech>
+                         Come on <ref name="Harry_Potter">Harry</ref> . They're seriously misunderstood </speech>
                          creatures. </speech>
  
 <sd>A huge flame fires up.</sd>
@@ -2063,20 +2063,20 @@
 <speech><speaker name="HAGRID">HAGRID</speaker>
                          Although, I have to admit that horntail </speech>
                          is a right nasty piece of work. Poor </speech>
-                         <ref name="Ron">Ron</ref> nearly fainted just seeing him you </speech>
+                         <ref name="Ron_Weasley">Ron</ref> nearly fainted just seeing him you </speech>
                          know.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Ron">Ron</ref> was here?</speech>
+                         <ref name="Ron_Weasley">Ron</ref> was here?</speech>
 
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         Oh sure. His brother <ref name="Charlie">Charlie</ref> helped </speech>
+                         Oh sure. His brother <ref name="Charlie_Weasley">Charlie</ref> helped </speech>
                          bring him over from Romania. Didn't </speech>
-                         <ref name="Ron">Ron</ref> tell you that?</speech>
+                         <ref name="Ron_Weasley">Ron</ref> tell you that?</speech>
  
 
 
@@ -2085,23 +2085,23 @@
  
    <setting>EXT. HOGWARTS - DAYTIME</setting>
 
-<sd>We're zoomed in on a badge, it depicts <ref name="Cedric Diggory">Cedric</ref> on a bright yellow </sd>
-<sd>background. Then the badge spins and shows <ref name="Harry">Harry</ref>  on a green background </sd>
-<sd>with the words " Potter  Stinks" on it. As <ref name="Harry">Harry</ref>  walks along other </sd>
+<sd>We're zoomed in on a badge, it depicts <ref name="Cedric_Diggory">Cedric</ref> on a bright yellow </sd>
+<sd>background. Then the badge spins and shows <ref name="Harry_Potter">Harry</ref>  on a green background </sd>
+<sd>with the words " Potter  Stinks" on it. As <ref name="Harry_Potter">Harry</ref>  walks along other </sd>
 <sd>pupils aim insults at him saying he stinks. A young boy runs </sd>
 <sd>past.</sd>
  
 
 
 <speech><speaker name="BOY">BOY</speaker>
-                         <ref name="Cedric Diggory">Cedric</ref> rules!</speech>
+                         <ref name="Cedric_Diggory">Cedric</ref> rules!</speech>
 
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
                          Thanks.</speech>
 
-<sd><ref name="Harry">Harry</ref>  gets to a doorway, two pupils stand in his way.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  gets to a doorway, two pupils stand in his way.</sd>
 
 
 
@@ -2113,14 +2113,14 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Excuse me..</speech>
 
-<sd>They laugh, <ref name="Harry">Harry</ref>  pushes his way through. He approaches <ref name="Cedric Diggory">Cedric</ref> </sd>
-<sd>who is standing around with his friends. <ref name="Cedric Diggory">Cedric</ref>'s friends hurl </sd>
+<sd>They laugh, <ref name="Harry_Potter">Harry</ref>  pushes his way through. He approaches <ref name="Cedric_Diggory">Cedric</ref> </sd>
+<sd>who is standing around with his friends. <ref name="Cedric_Diggory">Cedric</ref>'s friends hurl </sd>
 <sd>off more insults.</sd>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         (to <ref name="Cedric Diggory">Cedric</ref>) Can I have a word?
+                         (to <ref name="Cedric_Diggory">Cedric</ref>) Can I have a word?
 
 
 
@@ -2138,7 +2138,7 @@
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         Are you serious? And <ref name="Fleur Delacour">Fleur</ref> and <ref name="Viktor Krum">Krum</ref>, </speech>
+                         Are you serious? And <ref name="Fleur_Delacour">Fleur</ref> and <ref name="Viktor_Krum">Krum</ref>, </speech>
                          do they...?</speech>
  
 
@@ -2158,12 +2158,12 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Don't worry about it.</speech>
 
-<sd><ref name="Ron">Ron</ref> and <ref name="Seamus Finnigan">Seamus</ref> are walking along. <ref name="Harry">Harry</ref>  approaches them.</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> and <ref name="Seamus_Finnigan">Seamus</ref> are walking along. <ref name="Harry_Potter">Harry</ref>  approaches them.</sd>
 
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         (To <ref name="Ron">Ron</ref>) You're a right foul git you 
+                         (To <ref name="Ron_Weasley">Ron</ref>) You're a right foul git you 
                          know that?</speech>
  
 
@@ -2192,7 +2192,7 @@
                          Fine.</speech>
 
                
-<sd><ref name="Draco">Draco</ref> calls out, he's sitting up a tree.</sd>
+<sd><ref name="Draco_Malfoy">Draco</ref> calls out, he's sitting up a tree.</sd>
 
 
 
@@ -2210,7 +2210,7 @@
                          father thinks Malfoy. He's vile and </speech>
                          cruel, and you're just pathetic.</speech>
  
-<sd><ref name="Harry">Harry</ref>  walks away and <ref name="Draco">Draco</ref> angrily tries casting a spell. <ref name="Alastor Moody">Mad-Eye</ref> </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  walks away and <ref name="Draco_Malfoy">Draco</ref> angrily tries casting a spell. <ref name="Alastor_Moody">Mad-Eye</ref> </sd>
 <sd>appears and quickly turns Malfoy into a ferret.</sd>
  
 
@@ -2222,7 +2222,7 @@
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         <ref name="Alastor Moody">Professor Moody</ref> what are you doing?</speech>
+                         <ref name="Alastor_Moody">Professor Moody</ref> what are you doing?</speech>
  
                          
 
@@ -2240,10 +2240,10 @@
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          Technically it's a ferret.</speech>
 
-<sd><ref name="Alastor Moody">Mad-Eye</ref> is making the ferret hover around. He sends it up the </sd>
-<sd>trouser leg of one of <ref name="Draco">Draco</ref>'s friends. He squirms and looks uncomfortable. </sd>
-<sd>Everyone else is laughing. <ref name="Alastor Moody">Mad-Eye</ref> winks to <ref name="Harry">Harry</ref>  and he laughs. </sd>
-<sd>Eventually it comes back out and McGonagall turns <ref name="Draco">Draco</ref> back </sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> is making the ferret hover around. He sends it up the </sd>
+<sd>trouser leg of one of <ref name="Draco_Malfoy">Draco</ref>'s friends. He squirms and looks uncomfortable. </sd>
+<sd>Everyone else is laughing. <ref name="Alastor_Moody">Mad-Eye</ref> winks to <ref name="Harry_Potter">Harry</ref>  and he laughs. </sd>
+<sd>Eventually it comes back out and <ref name="Minerva_McGonagall">McGonagall</ref> turns <ref name="Draco_Malfoy">Draco</ref> back </sd>
 <sd>to normal.</sd>
  
 
@@ -2256,7 +2256,7 @@
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          Is that a threat! </speech>
 
-<sd><ref name="Draco">Draco</ref> runs away. <ref name="Alastor Moody">Mad-Eye</ref> shouts after him.</sd>
+<sd><ref name="Draco_Malfoy">Draco</ref> runs away. <ref name="Alastor_Moody">Mad-Eye</ref> shouts after him.</sd>
 
 
 
@@ -2269,7 +2269,7 @@
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
                          We never use transfigration as a punishment, </speech>
-                         surely <ref name="Albus Dumbledore">Dumbledore</ref> told you that.</speech>
+                         surely <ref name="Albus_Dumbledore">Dumbledore</ref> told you that.</speech>
  
 
 
@@ -2285,11 +2285,11 @@
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         (To <ref name="Harry">Harry</ref> ) come with me.
+                         (To <ref name="Harry_Potter">Harry</ref> ) come with me.
 
               <setting>INT. MAD-EYE'S ROOM</setting>
 
-<sd><ref name="Alastor Moody">Mad-Eye</ref> takes off his prosthetic leg and takes a seat.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> takes off his prosthetic leg and takes a seat.</sd>
 
 
 
@@ -2321,12 +2321,12 @@
                          Sit. Listen to me Potter. Your pal Diggory, </speech>
                          by your age he could take a whistle </speech>
                          into a watch and have it sing you the </speech>
-                         time. <ref name="Fleur Delacour">Miss Delacour</ref>, she's as much a </speech>
-                         fairy princess as I am. As for <ref name="Viktor Krum">Krum</ref>, </speech>
+                         time. <ref name="Fleur_Delacour">Miss Delacour</ref>, she's as much a </speech>
+                         fairy princess as I am. As for <ref name="Viktor_Krum">Krum</ref>, </speech>
                          his head may be filled with sawdust </speech>
-                         but <ref name="Igor Karkaroff">Karkaroff</ref>'s is NOT. They'll have </speech>
+                         but <ref name="Igor_Karkaroff">Karkaroff</ref>'s is NOT. They'll have </speech>
                          a strategy, and you can bet that it'll </speech>
-                         play to <ref name="Viktor Krum">Krum</ref>'s strengths. Hmm? Come </speech>
+                         play to <ref name="Viktor_Krum">Krum</ref>'s strengths. Hmm? Come </speech>
                          on Potter. What are your strengths?</speech>
  
                          
@@ -2358,13 +2358,13 @@
 
               <setting>INT. WAITING TENT</setting>
 
-<sd><ref name="Harry">Harry</ref>  is pacing nervously. <ref name="Hermione">Hermione</ref> is standing by the tent door </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is pacing nervously. <ref name="Hermione_Granger">Hermione</ref> is standing by the tent door </sd>
 <sd>whispering in.</sd>
  
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Pssst! <ref name="Harry">Harry</ref> ? Is that you?</speech>
+                         Pssst! <ref name="Harry_Potter">Harry</ref> ? Is that you?</speech>
 
 
 
@@ -2383,8 +2383,8 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Battle a dragon.</speech>
 
-<sd><ref name="Hermione">Hermione</ref> enters the tent and they hug. A bright camera flashes, </sd>
-<sd><ref name="Rita Skeeter">Rita Skeeter</ref> the journalist approaches.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> enters the tent and they hug. A bright camera flashes, </sd>
+<sd><ref name="Rita_Skeeter">Rita Skeeter</ref> the journalist approaches.</sd>
  
 
 
@@ -2396,7 +2396,7 @@
 
 
 <speech><speaker name="VIKTOR">VIKTOR</speaker>
-                         (To <ref name="Rita Skeeter">Rita</ref>) You have no business here. 
+                         (To <ref name="Rita_Skeeter">Rita</ref>) You have no business here. 
                          This tent is for champions and friends.</speech>
  
                          
@@ -2406,7 +2406,7 @@
                          No matter. We've got what we wanted.</speech>
  
                          
-<sd><ref name="Rita Skeeter">Rita</ref> leaves and <ref name="Albus Dumbledore">Dumbledore</ref> enters.</sd>
+<sd><ref name="Rita_Skeeter">Rita</ref> leaves and <ref name="Albus_Dumbledore">Dumbledore</ref> enters.</sd>
 
 
 
@@ -2433,32 +2433,32 @@
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         <ref name="Bartimus Crouch">Barty</ref>. The bag.</speech>
+                         <ref name="Bartimus_Crouch">Barty</ref>. The bag.</speech>
 
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
                          Champions, in a circle around me. Miss </speech>
-                         Delacour over here, Mr <ref name="Viktor Krum">Krum</ref>, and  Potter  </speech>
-                         over here. Right. <ref name="Fleur Delacour">Miss Delacour</ref>, if </speech>
+                         Delacour over here, Mr <ref name="Viktor_Krum">Krum</ref>, and  Potter  </speech>
+                         over here. Right. <ref name="Fleur_Delacour">Miss Delacour</ref>, if </speech>
                          you will...</speech>
  
-<sd><ref name="Bartimus Crouch">Barty</ref> holds up a bag. <ref name="Fleur Delacour">Fleur</ref> takes out a little green dragon.</sd>
+<sd><ref name="Bartimus_Crouch">Barty</ref> holds up a bag. <ref name="Fleur_Delacour">Fleur</ref> takes out a little green dragon.</sd>
  
                
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         The welsh green. Mr <ref name="Viktor Krum">Krum</ref>...</speech>
+                         The welsh green. Mr <ref name="Viktor_Krum">Krum</ref>...</speech>
 
-<sd><ref name="Viktor Krum">Viktor</ref> takes another out</sd>
+<sd><ref name="Viktor_Krum">Viktor</ref> takes another out</sd>
 
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
                          The chinese fireball. Oooooh.</speech>
 
-<sd><ref name="Cedric Diggory">Cedric</ref> picks one. </sd>
+<sd><ref name="Cedric_Diggory">Cedric</ref> picks one. </sd>
 
 
 
@@ -2481,7 +2481,7 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Nothing.</speech>
 
-<sd><ref name="Harry">Harry</ref>  puts his hand in the bag and pulls out the dragon.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  puts his hand in the bag and pulls out the dragon.</sd>
 
 
 
@@ -2507,7 +2507,7 @@
 
               <setting>INT. TENT </setting>
 
-<sd><ref name="Harry">Harry</ref>  is sitting alone nervously.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is sitting alone nervously.</sd>
 
 
 
@@ -2518,10 +2518,10 @@
                          to the next task. And now our fourth </speech>
                          and final contestant.</speech>
  
-<sd><ref name="Harry">Harry</ref>  enters the rocky arena. The crowd are cheering his name. </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  enters the rocky arena. The crowd are cheering his name. </sd>
 <sd>He sees the golden egg sitting alone, he makes a run for it but </sd>
-<sd>the dragon appears. <ref name="Harry">Harry</ref> 's forced to retreat behind a rock as </sd>
-<sd>the dragon flames him. <ref name="Harry">Harry</ref>  stumbles and falls around the arena.</sd>
+<sd>the dragon appears. <ref name="Harry_Potter">Harry</ref> 's forced to retreat behind a rock as </sd>
+<sd>the dragon flames him. <ref name="Harry_Potter">Harry</ref>  stumbles and falls around the arena.</sd>
  
                
 
@@ -2529,16 +2529,16 @@
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          Your wand harry! Your wand!</speech>
 
-<sd><ref name="Harry">Harry</ref>  summons a broom. He jumps on and flies off, the dragon </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  summons a broom. He jumps on and flies off, the dragon </sd>
 <sd>gives chase. The dragon bursts through the crowd and they look </sd>
 <sd>stunned.</sd>
  
               <setting>EXT. HOGWARTS SKY</setting>
 
-<sd><ref name="Harry">Harry</ref>  is flying at high speed around the Hogwarts buildings. </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is flying at high speed around the Hogwarts buildings. </sd>
 <sd>The dragon cuts him off and whips him off his broom, he lands </sd>
 <sd>on the roof of Hogwarts, hanging on for dear life. The dragon </sd>
-<sd>is clambering across the roof, strewing tiles as it goes. <ref name="Harry">Harry</ref>  </sd>
+<sd>is clambering across the roof, strewing tiles as it goes. <ref name="Harry_Potter">Harry</ref>  </sd>
 <sd>reaches his broom but it's stuck. He jerks it loose and lets </sd>
 <sd>go of the roof just in time before the dragon swipes at him. </sd>
 <sd>He falls a long way but regains control. He flies on to an area </sd>
@@ -2547,18 +2547,18 @@
  
               <setting>INT. ARENA</setting>
 
-<sd>The crowds are mostly silent. We see <ref name="Harry">Harry</ref>  flying towards us </sd>
+<sd>The crowds are mostly silent. We see <ref name="Harry_Potter">Harry</ref>  flying towards us </sd>
 <sd>and the crowd erupts. He goes straight for the golden egg.</sd>
  
           INT. HOGWARTS
 
-<sd><ref name="Harry">Harry</ref>  is lifting the golden egg, people around him cheering. </sd>
-<sd><ref name="Fred and George Weasley">The Weasley twins</ref> have <ref name="Harry">Harry</ref>  sitting on their shoulders.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is lifting the golden egg, people around him cheering. </sd>
+<sd><ref name="Fred and George Weasley">The Weasley twins</ref> have <ref name="Harry_Potter">Harry</ref>  sitting on their shoulders.</sd>
  
 
 
 <speech><speaker name="GEORGE">GEORGE</speaker>
-                         We knew you wouldn't die <ref name="Harry">Harry</ref> .</speech>
+                         We knew you wouldn't die <ref name="Harry_Potter">Harry</ref> .</speech>
 
 
 
@@ -2583,9 +2583,9 @@
 
 
 <speech><speaker name="SEAMUS">SEAMUS</speaker>
-                         Go on <ref name="Harry">Harry</ref> , what's the clue?</speech>
+                         Go on <ref name="Harry_Potter">Harry</ref> , what's the clue?</speech>
 
-<sd><ref name="Seamus Finnigan">Seamus</ref> hands <ref name="Harry">Harry</ref>  the golden egg.</sd>
+<sd><ref name="Seamus_Finnigan">Seamus</ref> hands <ref name="Harry_Potter">Harry</ref>  the golden egg.</sd>
 
 
 
@@ -2601,7 +2601,7 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          What the bloody hell was that?</speech>
 
-<sd><ref name="Ron">Ron</ref> appears in the doorway.</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> appears in the doorway.</sd>
 
 
 
@@ -2646,16 +2646,16 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Rubeus Hagrid">Hagrid</ref> warned me about the dragons.</speech>
+                         <ref name="Rubeus_Hagrid">Hagrid</ref> warned me about the dragons.</speech>
  
                          
 
 
 <speech><speaker name="RON">RON</speaker>
                          Oh no no, I did. Don't you remember? </speech>
-                         I told <ref name="Hermione">Hermione</ref> to tell you that <ref name="Seamus Finnigan">Seamus</ref> </speech>
-                         told me that <ref name="Parvati Patil">Parvati</ref> told <ref name="Dean Thomas">Dean</ref> that </speech>
-                         <ref name="Rubeus Hagrid">Hagrid</ref> was looking for you. <ref name="Seamus Finnigan">Seamus</ref> never </speech>
+                         I told <ref name="Hermione_Granger">Hermione</ref> to tell you that <ref name="Seamus_Finnigan">Seamus</ref> </speech>
+                         told me that <ref name="Parvati_Patil">Parvati</ref> told <ref name="Dean_Thomas">Dean</ref> that </speech>
+                         <ref name="Rubeus_Hagrid">Hagrid</ref> was looking for you. <ref name="Seamus_Finnigan">Seamus</ref> never </speech>
                          actually told me anything, so it was </speech>
                          really me all along. I thought you'd </speech>
                          be alright, you know, after you figured </speech>
@@ -2680,7 +2680,7 @@
 
               <setting>INT. CLASSROOM</setting>
 
-<sd><ref name="Harry">Harry</ref>  is looking at <ref name="Cho Chang">Cho</ref>. When she looks back he spills drink </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is looking at <ref name="Cho_Chang">Cho</ref>. When she looks back he spills drink </sd>
 <sd>from his mouth. They laugh at him.</sd>
  
 
@@ -2692,7 +2692,7 @@
                          seems to be developing a taste for famous </speech>
                          wizards. Her latest prey sources report </speech>
                          is none other than the Bulgarian bon-bon </speech>
-                         <ref name="Viktor Krum">Viktor Krum</ref>. No word yet on how <ref name="Harry">Harry</ref>  </speech>
+                         <ref name="Viktor_Krum">Viktor Krum</ref>. No word yet on how <ref name="Harry_Potter">Harry</ref>  </speech>
                          Potter's taking this latest emotional </speech>
                          blow.</speech>
  
@@ -2708,7 +2708,7 @@
 <speech><speaker name="RON">RON</speaker>
                          Thank you Nigel. </speech>
 
-<sd>Nigel is gazing at <ref name="Harry">Harry</ref> .</sd>
+<sd>Nigel is gazing at <ref name="Harry_Potter">Harry</ref> .</sd>
 
 
 
@@ -2720,7 +2720,7 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         I told him I'd get him <ref name="Harry">Harry</ref> 's autograph. </speech>
+                         I told him I'd get him <ref name="Harry_Potter">Harry</ref> 's autograph. </speech>
                          Oh look mum's sent me something. Mum </speech>
                          sent me a dress??</speech>
  
@@ -2733,7 +2733,7 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         <ref name="Ginny">Ginny</ref> these must be for you.</speech>
+                         <ref name="Ginny_Weasley">Ginny</ref> these must be for you.</speech>
 
 
 
@@ -2741,7 +2741,7 @@
                          I'm not wearing that it's ghastly.</speech>
  
                          
-<sd><ref name="Hermione">Hermione</ref> laughs.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> laughs.</sd>
 
 
 
@@ -2751,7 +2751,7 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         They're not for <ref name="Ginny">Ginny</ref> they're for you! </speech>
+                         They're not for <ref name="Ginny_Weasley">Ginny</ref> they're for you! </speech>
                          Dress robes.</speech>
  
 
@@ -2792,7 +2792,7 @@
 
 
 <speech><speaker name="FRED">FRED</speaker>
-                         (Whispering to <ref name="George">George</ref>) Try saying that 
+                         (Whispering to <ref name="George_Weasley">George</ref>) Try saying that 
                          five times faster.</speech>
  
 <sd>They try.</sd>
@@ -2808,7 +2808,7 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         (Whispering to <ref name="Seamus Finnigan">Seamus</ref>) Something's about 
+                         (Whispering to <ref name="Seamus_Finnigan">Seamus</ref>) Something's about 
                          to burst out of Hilary but I don't think </speech>
                          it's a swan.</speech>
  
@@ -2816,10 +2816,10 @@
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
                          Inside every boy a lordly lion prepared </speech>
-                         to prance. <ref name="Ron Weasley">Mr Weasley</ref>, will you join </speech>
+                         to prance. <ref name="Ron_Weasley">Mr Weasley</ref>, will you join </speech>
                          me.</speech>
  
-<sd>She grabs <ref name="Ron">Ron</ref> and pulls him up to dance. </sd>
+<sd>She grabs <ref name="Ron_Weasley">Ron</ref> and pulls him up to dance. </sd>
 
 
 
@@ -2842,7 +2842,7 @@
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         Now bend your arm. <ref name="Argus Filch">Mr Filch</ref>...</speech>
+                         Now bend your arm. <ref name="Argus_Filch">Mr Filch</ref>...</speech>
 
 <sd>The music starts.</sd>
 
@@ -2876,7 +2876,7 @@
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
                          Boys, on your feet.</speech>
 
-<sd><ref name="Neville Longbottom">Neville</ref> stands.</sd>
+<sd><ref name="Neville_Longbottom">Neville</ref> stands.</sd>
 
               <setting>EXT. HOGWARTS - DAYTIME</setting>
 
@@ -2890,7 +2890,7 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Blimey <ref name="Harry">Harry</ref> , you slayed dragons. If </speech>
+                         Blimey <ref name="Harry_Potter">Harry</ref> , you slayed dragons. If </speech>
                          you can't get a date who can?</speech>
  
 
@@ -2903,7 +2903,7 @@
  
           INT. HOGWARTS
 
-<sd><ref name="Rubeus Hagrid">Hagrid</ref> and <ref name="Madame Maxine">Madame Maxime</ref> are walking together.</sd>
+<sd><ref name="Rubeus_Hagrid">Hagrid</ref> and <ref name="Madame_Maxime">Madame Maxime</ref> are walking together.</sd>
 
 
 
@@ -2929,7 +2929,7 @@
  
               <setting>EXT. LAKESIDE</setting>
 
-<sd><ref name="Viktor Krum">Viktor Krum</ref> is training, a group of girls are following him around.</sd>
+<sd><ref name="Viktor_Krum">Viktor Krum</ref> is training, a group of girls are following him around.</sd>
  
           INT. CLASSROOM
 
@@ -2940,12 +2940,12 @@
                          only ones in our year without dates.</speech>
  
                          
-<sd><ref name="Severus Snape">Severus Snape</ref> walks past and slaps <ref name="Ron">Ron</ref> over the head. </sd>
+<sd><ref name="Severus_Snape">Severus Snape</ref> walks past and slaps <ref name="Ron_Weasley">Ron</ref> over the head. </sd>
 
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Well, us and <ref name="Neville Longbottom">Neville</ref>!</speech>
+                         Well, us and <ref name="Neville_Longbottom">Neville</ref>!</speech>
 
 
 
@@ -2956,23 +2956,23 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         It might interest you to know that <ref name="Neville Longbottom">Neville</ref>'s </speech>
+                         It might interest you to know that <ref name="Neville_Longbottom">Neville</ref>'s </speech>
                          already got someone.</speech>
  
-<sd><ref name="Ron">Ron</ref> gasps.</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> gasps.</sd>
 
 
 
 <speech><speaker name="RON">RON</speaker>
                          Now I'm really depressed.</speech>
 
-<sd><ref name="Fred">Fred</ref> hands <ref name="Ron">Ron</ref> a note, it reads "GET A MOVE ON OR ALL THE GOOD </sd>
+<sd><ref name="Fred_Weasley">Fred</ref> hands <ref name="Ron_Weasley">Ron</ref> a note, it reads "GET A MOVE ON OR ALL THE GOOD </sd>
 <sd>ONES WILL HAVE GONE!".</sd>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Well <ref name="Hermione">Hermione</ref>, you're a girl.</speech>
+                         Well <ref name="Hermione_Granger">Hermione</ref>, you're a girl.</speech>
 
 
 
@@ -2998,7 +2998,7 @@
 <speech><speaker name="RON">RON</speaker>
                          Bloody hell.</speech>
 
-<sd><ref name="Hermione">Hermione</ref> storms off.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> storms off.</sd>
 
 
 
@@ -3015,18 +3015,18 @@
 
               <setting>EXT. HOGWARTS - SNOWY</setting>
 
-<sd><ref name="Harry">Harry</ref>  is walking up some steps. He reaches the top and bumps </sd>
-<sd>into <ref name="Cho Chang">Cho</ref> who has come around the corner.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is walking up some steps. He reaches the top and bumps </sd>
+<sd>into <ref name="Cho_Chang">Cho</ref> who has come around the corner.</sd>
  
 
 
 <speech><speaker name="CHO">CHO</speaker>
-                         <ref name="Harry">Harry</ref> !</speech>
+                         <ref name="Harry_Potter">Harry</ref> !</speech>
 
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Cho Chang">Cho</ref>!</speech>
+                         <ref name="Cho_Chang">Cho</ref>!</speech>
 
 
 
@@ -3037,7 +3037,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Ok thanks. <ref name="Cho Chang">Cho</ref>?</speech>
+                         Ok thanks. <ref name="Cho_Chang">Cho</ref>?</speech>
 
 
 
@@ -3066,7 +3066,7 @@
 
 
 <speech><speaker name="CHO">CHO</speaker>
-                         Oh. Um. <ref name="Harry">Harry</ref>  I'm sorry but someone's </speech>
+                         Oh. Um. <ref name="Harry_Potter">Harry</ref>  I'm sorry but someone's </speech>
                          already asked me. And well I've said </speech>
                          I'll go with him.</speech>
  
@@ -3079,11 +3079,11 @@
 
 
 <speech><speaker name="CHO">CHO</speaker>
-                         <ref name="Harry">Harry</ref>  I really am sorry.</speech>
+                         <ref name="Harry_Potter">Harry</ref>  I really am sorry.</speech>
 
               <setting>INT. COMMON ROOM</setting>
 
-<sd><ref name="Ron">Ron</ref> is being helped into the room, he looks shaky.</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> is being helped into the room, he looks shaky.</sd>
 
 
 
@@ -3093,7 +3093,7 @@
 
 
 <speech><speaker name="GIRL">GIRL</speaker>
-                         He just asked <ref name="Fleur Delacour">Fleur Delacour</ref> out.</speech>
+                         He just asked <ref name="Fleur_Delacour">Fleur Delacour</ref> out.</speech>
 
 
 
@@ -3110,7 +3110,7 @@
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          No of course.</speech>
 
-<sd><ref name="Ron">Ron</ref> shakes his head. </sd>
+<sd><ref name="Ron_Weasley">Ron</ref> shakes his head. </sd>
 
 
 
@@ -3144,7 +3144,7 @@
 
 <speech><speaker name="RON">RON</speaker>
                          What else? I ran for it. I'm not cut </speech>
-                         out for this <ref name="Harry">Harry</ref> . I don't know what </speech>
+                         out for this <ref name="Harry_Potter">Harry</ref> . I don't know what </speech>
                          got into me.</speech>
  
 <sd>The Patil twins walk past.</sd>
@@ -3152,7 +3152,7 @@
 
 
 <speech><speaker name="PATILS">PATILS</speaker>
-                         Hi <ref name="Harry">Harry</ref> .</speech>
+                         Hi <ref name="Harry_Potter">Harry</ref> .</speech>
 
 
 
@@ -3167,7 +3167,7 @@
                
 <sd>ELSEWHERE</sd>
 
-<sd><ref name="Ron">Ron</ref> is getting dressed in front of a mirror. He looks paniced </sd>
+<sd><ref name="Ron_Weasley">Ron</ref> is getting dressed in front of a mirror. He looks paniced </sd>
 <sd>and uncomfortable in his ridiculous dress robes.</sd>
  
 
@@ -3175,7 +3175,7 @@
 <speech><speaker name="RON">RON</speaker>
                          Bloody hell.</speech>
 
-<sd><ref name="Harry">Harry</ref>  walks in, he's dressed in a more conventional suit.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  walks in, he's dressed in a more conventional suit.</sd>
 
 
 
@@ -3211,11 +3211,11 @@
 
 <speech><speaker name="RON">RON</speaker>
                          I smell like my great aunt Tessie. Murder </speech>
-                         me <ref name="Harry">Harry</ref> .</speech>
+                         me <ref name="Harry_Potter">Harry</ref> .</speech>
  
               <setting>INT. DANCEHALL</setting>
 
-<sd><ref name="Harry">Harry</ref>  and <ref name="Ron">Ron</ref> are walking down the stairs into the hall. <ref name="Ron">Ron</ref> </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Ron_Weasley">Ron</ref> are walking down the stairs into the hall. <ref name="Ron_Weasley">Ron</ref> </sd>
 <sd>is fidgeting with his outfit.</sd>
  
 
@@ -3237,7 +3237,7 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         <ref name="Hermione">Hermione</ref> of course. Come on <ref name="Harry">Harry</ref> , why'd </speech>
+                         <ref name="Hermione_Granger">Hermione</ref> of course. Come on <ref name="Harry_Potter">Harry</ref> , why'd </speech>
                          you think she wouldn't tell us who she's </speech>
                          coming with?</speech>
  
@@ -3261,7 +3261,7 @@
 <speech><speaker name="PARVATI">PARVATI</speaker>
                          Hello boys. Don't you look...</speech>
 
-<sd>She looks at <ref name="Ron">Ron</ref>.</sd>
+<sd>She looks at <ref name="Ron_Weasley">Ron</ref>.</sd>
 
 
 
@@ -3296,10 +3296,10 @@
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
                          Oh well now you know. Oh, as for your </speech>
-                         <ref name="Ron Weasley">Mr Weasley</ref> you may proceed into the great </speech>
+                         <ref name="Ron_Weasley">Mr Weasley</ref> you may proceed into the great </speech>
                          hall with Miss Patil.</speech>
  
-<sd><ref name="Hermione">Hermione</ref> enters the room all dressed up.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> enters the room all dressed up.</sd>
 
 
 
@@ -3311,14 +3311,14 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Yeah she does.</speech>
 
-<sd><ref name="Hermione">Hermione</ref> walks down the stairs. <ref name="Viktor Krum">Viktor Krum</ref> takes her hand and </sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> walks down the stairs. <ref name="Viktor_Krum">Viktor Krum</ref> takes her hand and </sd>
 <sd>they walk together.</sd>
  
 
 
 <speech><speaker name="PADMA">PADMA</speaker>
-                         (To <ref name="Ron">Ron</ref>) Is that <ref name="Hermione Granger">Hermione Granger</ref>? With 
-                         <ref name="Viktor Krum">Viktor Krum</ref>??</speech>
+                         (To <ref name="Ron_Weasley">Ron</ref>) Is that <ref name="Hermione_Granger">Hermione Granger</ref>? With 
+                         <ref name="Viktor_Krum">Viktor Krum</ref>??</speech>
  
 
 
@@ -3331,7 +3331,7 @@
 
 
 <speech><speaker name="PARVATI">PARVATI</speaker>
-                         <ref name="Harry">Harry</ref> . Take my waist.</speech>
+                         <ref name="Harry_Potter">Harry</ref> . Take my waist.</speech>
 
 
 
@@ -3343,24 +3343,24 @@
 <speech><speaker name="PARVATI">PARVATI</speaker>
                          Now.</speech>
 
-<sd>They dance. Soon others are joining in, <ref name="Albus Dumbledore">Dumbledore</ref> and McGonagall, </sd>
-<sd><ref name="Argus Filch">Mr Filch</ref> and his cat, <ref name="Rubeus Hagrid">Hagrid</ref> and <ref name="Madame Maxine">Madame Maxime</ref>. <ref name="Alastor Moody">Mad-Eye</ref> sits </sd>
+<sd>They dance. Soon others are joining in, <ref name="Albus_Dumbledore">Dumbledore</ref> and <ref name="Minerva_McGonagall">McGonagall</ref>, </sd>
+<sd><ref name="Argus_Filch">Mr Filch</ref> and his cat, <ref name="Rubeus_Hagrid">Hagrid</ref> and <ref name="Madame_Maxime">Madame Maxime</ref>. <ref name="Alastor_Moody">Mad-Eye</ref> sits </sd>
 <sd>on the sidelines drinking. The scene changes, the music is now </sd>
 <sd>rock played by the Weird Sisters fronted by Jarvis Cocker from </sd>
-<sd>Pulp. Cool!. The crowd is jumping. <ref name="Harry">Harry</ref> , <ref name="Ron">Ron</ref> and their dates </sd>
-<sd>are sitting some distance away looking miserable. <ref name="Hermione">Hermione</ref> comes </sd>
-<sd>up after a great time with <ref name="Viktor Krum">Viktor</ref>.</sd>
+<sd>Pulp. Cool!. The crowd is jumping. <ref name="Harry_Potter">Harry</ref> , <ref name="Ron_Weasley">Ron</ref> and their dates </sd>
+<sd>are sitting some distance away looking miserable. <ref name="Hermione_Granger">Hermione</ref> comes </sd>
+<sd>up after a great time with <ref name="Viktor_Krum">Viktor</ref>.</sd>
  
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Hot isn't it? <ref name="Viktor Krum">Viktor</ref>'s gone to get drinks. </speech>
+                         Hot isn't it? <ref name="Viktor_Krum">Viktor</ref>'s gone to get drinks. </speech>
                          Care to join us?</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         No, we'd NOT care to join you and <ref name="Viktor Krum">Viktor</ref>.</speech>
+                         No, we'd NOT care to join you and <ref name="Viktor_Krum">Viktor</ref>.</speech>
  
                          
 
@@ -3388,7 +3388,7 @@
                          Hrmph, I think he's got a bit more than </speech>
                          friendship on his mind.</speech>
  
-<sd><ref name="Hermione">Hermione</ref> walks off.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> walks off.</sd>
 
 
 
@@ -3407,7 +3407,7 @@
 
 
 <speech><speaker name="RON">RON</speaker>
-                         (To <ref name="Hermione">Hermione</ref>) He's using you.
+                         (To <ref name="Hermione_Granger">Hermione</ref>) He's using you.
 
 
 
@@ -3453,9 +3453,9 @@
 
 <speech><speaker name="RON">RON</speaker>
                          Well that's completely off the point. </speech>
-                         <ref name="Harry">Harry</ref> ...</speech>
+                         <ref name="Harry_Potter">Harry</ref> ...</speech>
  
-<sd><ref name="Harry">Harry</ref>  walks up.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  walks up.</sd>
 
 
 
@@ -3463,7 +3463,7 @@
                          Where have you been? Nevermind! Off </speech>
                          to bed both of you.</speech>
  
-<sd><ref name="Harry">Harry</ref>  and <ref name="Ron">Ron</ref> walk away.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Ron_Weasley">Ron</ref> walk away.</sd>
 
 
 
@@ -3474,7 +3474,7 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Ron">Ron</ref> you spoil everything!</speech>
+                         <ref name="Ron_Weasley">Ron</ref> you spoil everything!</speech>
 
               <setting>INT. BEDROOM</setting>
 
@@ -3493,18 +3493,18 @@
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Ah yes, the time is close now. <ref name="Harry">Harry</ref> ! </speech>
-                         At last! Step aside <ref name="Peter Pettigrew">Wormtail</ref> so I can </speech>
+                         Ah yes, the time is close now. <ref name="Harry_Potter">Harry</ref> ! </speech>
+                         At last! Step aside <ref name="Peter_Pettigrew">Wormtail</ref> so I can </speech>
                          give our guest a proper greeting!</speech>
  
                          
-<sd><ref name="Harry">Harry</ref>  wakes up. The floorboards are creaking, someone is walking </sd>
-<sd>up to his bed. It's <ref name="Neville Longbottom">Neville</ref>.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  wakes up. The floorboards are creaking, someone is walking </sd>
+<sd>up to his bed. It's <ref name="Neville_Longbottom">Neville</ref>.</sd>
  
 
 
 <speech><speaker name="NEVILLE">NEVILLE</speaker>
-                         You alright <ref name="Harry">Harry</ref> ? I just got in. Me!</speech>
+                         You alright <ref name="Harry_Potter">Harry</ref> ? I just got in. Me!</speech>
  
                          
 <sd>He chuckles and dances off.</sd>
@@ -3514,14 +3514,14 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Harry">Harry</ref>  you told me you'd figured the </speech>
+                         <ref name="Harry_Potter">Harry</ref>  you told me you'd figured the </speech>
                          egg out weeks ago. The task is two days </speech>
                          from now.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Really? I had no idea. I suppose <ref name="Viktor Krum">Viktor</ref>'s </speech>
+                         Really? I had no idea. I suppose <ref name="Viktor_Krum">Viktor</ref>'s </speech>
                          already figured it out.</speech>
  
 
@@ -3529,7 +3529,7 @@
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          I wouldn't know, we didn't actually </speech>
                          talk about the tournament. Actually </speech>
-                         we didn't really talk at all, <ref name="Viktor Krum">Viktor</ref>'s </speech>
+                         we didn't really talk at all, <ref name="Viktor_Krum">Viktor</ref>'s </speech>
                          more of a physical being. I just mean </speech>
                          he's not particularly... Mostly he watches </speech>
                          me study. It's a bit annoying actually. </speech>
@@ -3559,7 +3559,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Cedric Diggory">Cedric</ref>.</speech>
+                         <ref name="Cedric_Diggory">Cedric</ref>.</speech>
 
 
 
@@ -3590,7 +3590,7 @@
                          Exactly. You know the prefects bathroom </speech>
                          on the fifth floor?</speech>
  
-<sd><ref name="Harry">Harry</ref>  nods.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  nods.</sd>
 
 
 
@@ -3601,7 +3601,7 @@
  
               <setting>INT. BATHROOM</setting>
 
-<sd><ref name="Harry">Harry</ref>  is taking his clothes off, he gets in the bath. He has </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is taking his clothes off, he gets in the bath. He has </sd>
 <sd>his golden egg on the side.</sd>
  
 
@@ -3620,14 +3620,14 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Moaning Myrtle">Myrtle</ref>!</speech>
+                         <ref name="Moaning_Myrtle">Myrtle</ref>!</speech>
 
 
 
 <speech><speaker name="MYRTLE">MYRTLE</speaker>
                          Long time no see.</speech>
 
-<sd>The ghostly figure of little <ref name="Moaning Myrtle">Myrtle</ref> flies around.</sd>
+<sd>The ghostly figure of little <ref name="Moaning_Myrtle">Myrtle</ref> flies around.</sd>
 
 
 
@@ -3635,31 +3635,31 @@
                          I was circling a blocked drain the other </speech>
                          day and could swear I saw a bit of polyjuice </speech>
                          potion. Not being a bad boy again are </speech>
-                         you <ref name="Harry">Harry</ref> ?</speech>
+                         you <ref name="Harry_Potter">Harry</ref> ?</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
                          Polyjuice potion! Kicked the habit. </speech>
-                         <ref name="Moaning Myrtle">Myrtle</ref>, did you say try putting it in </speech>
+                         <ref name="Moaning_Myrtle">Myrtle</ref>, did you say try putting it in </speech>
                          the water?</speech>
  
-<sd><ref name="Moaning Myrtle">Myrtle</ref> flies around again and gets in the water.</sd>
+<sd><ref name="Moaning_Myrtle">Myrtle</ref> flies around again and gets in the water.</sd>
 
 
 
 <speech><speaker name="MYRTLE">MYRTLE</speaker>
                          Well. That's what he did. The other </speech>
-                         boy, the handsome one. <ref name="Cedric Diggory">Cedric</ref>.</speech>
+                         boy, the handsome one. <ref name="Cedric_Diggory">Cedric</ref>.</speech>
  
-<sd><ref name="Harry">Harry</ref>  takes the egg and puts it under the water.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  takes the egg and puts it under the water.</sd>
 
 
 
 <speech><speaker name="MYRTLE">MYRTLE</speaker>
                          Well go on, open it.</speech>
 
-<sd><ref name="Harry">Harry</ref>  does so and goes underwater himself. He hears a voice singing.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  does so and goes underwater himself. He hears a voice singing.</sd>
  
                
 
@@ -3673,24 +3673,24 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Moaning Myrtle">Myrtle</ref>, there aren't <creature name="Merepeople">Merpeople</creature> in the </speech>
+                         <ref name="Moaning_Myrtle">Myrtle</ref>, there aren't <creature name="Merepeople">Merpeople</creature> in the </speech>
                          black lake are there?</speech>
  
 
 
 <speech><speaker name="MYRTLE">MYRTLE</speaker>
-                         Ahhh, very good. Took <ref name="Cedric Diggory">Cedric</ref> ages to </speech>
+                         Ahhh, very good. Took <ref name="Cedric_Diggory">Cedric</ref> ages to </speech>
                          riddle it out. Almost all the bubbles </speech>
                          were gone...</speech>
  
-<sd><ref name="Moaning Myrtle">Myrtle</ref> laughs and <ref name="Harry">Harry</ref>  is embarrassed.</sd>
+<sd><ref name="Moaning_Myrtle">Myrtle</ref> laughs and <ref name="Harry_Potter">Harry</ref>  is embarrassed.</sd>
 
               <setting>INT. COMMON ROOM</setting>
 
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Harry">Harry</ref> , tell me again.</speech>
+                         <ref name="Harry_Potter">Harry</ref> , tell me again.</speech>
 
 
 
@@ -3719,23 +3719,23 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Potentially problematic? When was the </speech>
                          last time you held your breath under </speech>
-                         the water for an hour <ref name="Hermione">Hermione</ref>?</speech>
+                         the water for an hour <ref name="Hermione_Granger">Hermione</ref>?</speech>
  
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Look <ref name="Harry">Harry</ref> , we can do this. The three </speech>
+                         Look <ref name="Harry_Potter">Harry</ref> , we can do this. The three </speech>
                          of us can figure it out.</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> <ref name="Alastor Moody">Moody</ref> appears in the doorway.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> <ref name="Alastor_Moody">Moody</ref> appears in the doorway.</sd>
 
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          Hate to break up this scholar session </speech>
-                         but Professor McGonagall would like </speech>
+                         but <ref name="Minerva_McGonagall">Professor McGonagall</ref> would like </speech>
                          to see you in her office. Not you Potter, </speech>
-                         just <ref name="Ron Weasley">Weasley</ref> and <ref name="Granger">Granger</ref>.</speech>
+                         just <ref name="Ron_Weasley">Weasley</ref> and <ref name="Granger">Granger</ref>.</speech>
  
 
 
@@ -3750,7 +3750,7 @@
                          by now and could do with a good night's </speech>
                          sleep. Go. Now! Longbottom!</speech>
  
-<sd><ref name="Neville Longbottom">Neville</ref> appears from behind a bookcase.</sd>
+<sd><ref name="Neville_Longbottom">Neville</ref> appears from behind a bookcase.</sd>
 
 
 
@@ -3770,7 +3770,7 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Neville Longbottom">Neville</ref>. No offense, but I really don't </speech>
+                         <ref name="Neville_Longbottom">Neville</ref>. No offense, but I really don't </speech>
                          care about plants. Now if there's a </speech>
                          Tibetan turnip that will allow me to </speech>
                          breathe underwater for an hour then </speech>
@@ -3784,14 +3784,14 @@
  
               <setting>EXT. LAKESIDE</setting>
 
-                         <sd><ref name="Fred and George Weasley">The Weasley twins</ref> are shouting, busy taking bets. <ref name="Harry">Harry</ref>  is walking </sd>
-<sd>along with <ref name="Neville Longbottom">Neville</ref>, he has some green plantlife in his hand.</sd>
+                         <sd><ref name="Fred and George Weasley">The Weasley twins</ref> are shouting, busy taking bets. <ref name="Harry_Potter">Harry</ref>  is walking </sd>
+<sd>along with <ref name="Neville_Longbottom">Neville</ref>, he has some green plantlife in his hand.</sd>
  
                
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         You're sure about this <ref name="Neville Longbottom">Neville</ref>.</speech>
+                         You're sure about this <ref name="Neville_Longbottom">Neville</ref>.</speech>
 
 
 
@@ -3835,13 +3835,13 @@
 
 <speech><speaker name="HARRY">HARRY</speaker>
                          Well that makes you sight better than </speech>
-                         <ref name="Ron">Ron</ref> and <ref name="Hermione">Hermione</ref>. Where are they anyway?</speech>
+                         <ref name="Ron_Weasley">Ron</ref> and <ref name="Hermione_Granger">Hermione</ref>. Where are they anyway?</speech>
  
                          
 
 
 <speech><speaker name="NEVILLE">NEVILLE</speaker>
-                         You seem a little tense <ref name="Harry">Harry</ref> .</speech>
+                         You seem a little tense <ref name="Harry_Potter">Harry</ref> .</speech>
 
 
 
@@ -3867,10 +3867,10 @@
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         (To <ref name="Harry">Harry</ref> ) Put that in your mouth.
+                         (To <ref name="Harry_Potter">Harry</ref> ) Put that in your mouth.
  
                          
-<sd><ref name="Harry">Harry</ref>  puts the gilliweed in his mouth and starts choking.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  puts the gilliweed in his mouth and starts choking.</sd>
 
 
 
@@ -3879,8 +3879,8 @@
                          of the cannon.</speech>
  
 <sd>The cannon fires and the champions enter the water, three of </sd>
-<sd>them dive in while <ref name="Harry">Harry</ref>  is pushed. Underwater the effects of </sd>
-<sd>gilliweed take hold, <ref name="Harry">Harry</ref> 's hands and feet become webbed. </sd>
+<sd>them dive in while <ref name="Harry_Potter">Harry</ref>  is pushed. Underwater the effects of </sd>
+<sd>gilliweed take hold, <ref name="Harry_Potter">Harry</ref> 's hands and feet become webbed. </sd>
  
           EXT. ABOVE WATER
 
@@ -3900,12 +3900,12 @@
                          Oh my god I've killed  <ref name="Harry Potter">Harry Potter</ref> !</speech>
  
                          
-<sd><ref name="Harry">Harry</ref>  flies into the air like a dolphin and the crowd cheer.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  flies into the air like a dolphin and the crowd cheer.</sd>
  
           EXT. UNDERWATER
 
-<sd><ref name="Harry">Harry</ref>  swims among the fish and rocks. Singing voices start echoing. </sd>
-<sd>We see <ref name="Fleur Delacour">Fleur</ref> get trapped, she screams. </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  swims among the fish and rocks. Singing voices start echoing. </sd>
+<sd>We see <ref name="Fleur_Delacour">Fleur</ref> get trapped, she screams. </sd>
  
               <setting>EXT. ABOVE WATER</setting>
 
@@ -3913,16 +3913,16 @@
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          (Over the loudspeaker) The Beauxbatons 
-                         champion <ref name="Fleur Delacour">Miss Delacour</ref> has unfortunately </speech>
+                         champion <ref name="Fleur_Delacour">Miss Delacour</ref> has unfortunately </speech>
                          been forced to retire. She will take </speech>
                          no further part in this task. </speech>
  
               <setting>EXT. UNDERWATER</setting>
 
-<sd><ref name="Harry">Harry</ref>  is still searching around. He hears muffled screams. He </sd>
-<sd>finds <ref name="Ron">Ron</ref>, <ref name="Hermione">Hermione</ref>, <ref name="Cho Chang">Cho Chang</ref> and a blonde girl from Beauxbatons </sd>
-<sd>tied in place by their ankles. <ref name="Cedric Diggory">Cedric</ref> is there, he takes <ref name="Cho Chang">Cho</ref> </sd>
-<sd>with him. <ref name="Harry">Harry</ref>  sets about freeing <ref name="Ron">Ron</ref> and <ref name="Hermione">Hermione</ref> but vicious </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is still searching around. He hears muffled screams. He </sd>
+<sd>finds <ref name="Ron_Weasley">Ron</ref>, <ref name="Hermione_Granger">Hermione</ref>, <ref name="Cho_Chang">Cho Chang</ref> and a blonde girl from Beauxbatons </sd>
+<sd>tied in place by their ankles. <ref name="Cedric_Diggory">Cedric</ref> is there, he takes <ref name="Cho_Chang">Cho</ref> </sd>
+<sd>with him. <ref name="Harry_Potter">Harry</ref>  sets about freeing <ref name="Ron_Weasley">Ron</ref> and <ref name="Hermione_Granger">Hermione</ref> but vicious </sd>
 <sd><creature name="Merepeople">merpeople</creature> appear.</sd>
  
 
@@ -3936,33 +3936,33 @@
                          Only one.</speech>
 
 <sd>What looks like a shark approaches at high speed. We see that </sd>
-<sd>it has legs and it's <ref name="Viktor Krum">Viktor</ref>. He takes <ref name="Hermione">Hermione</ref> and heads for </sd>
-<sd>the surface. <ref name="Harry">Harry</ref>  frees <ref name="Ron">Ron</ref>. </sd>
+<sd>it has legs and it's <ref name="Viktor_Krum">Viktor</ref>. He takes <ref name="Hermione_Granger">Hermione</ref> and heads for </sd>
+<sd>the surface. <ref name="Harry_Potter">Harry</ref>  frees <ref name="Ron_Weasley">Ron</ref>. </sd>
  
               <setting>EXT. ABOVE WATER</setting>
 
-<sd><ref name="Cedric Diggory">Cedric</ref> and <ref name="Cho Chang">Cho</ref> emerge, the crowd cheers. <ref name="Viktor Krum">Viktor</ref> and <ref name="Hermione">Hermione</ref> </sd>
-<sd>next, the crows chants '<ref name="Viktor Krum">Krum</ref>, <ref name="Viktor Krum">Krum</ref>, <ref name="Viktor Krum">Krum</ref>'. The Beauxbatons girls </sd>
+<sd><ref name="Cedric_Diggory">Cedric</ref> and <ref name="Cho_Chang">Cho</ref> emerge, the crowd cheers. <ref name="Viktor_Krum">Viktor</ref> and <ref name="Hermione_Granger">Hermione</ref> </sd>
+<sd>next, the crows chants '<ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>'. The Beauxbatons girls </sd>
 <sd>look worried.</sd>
  
               <setting>EXT. UNDERWATER</setting>
 
-<sd><ref name="Harry">Harry</ref>  looks over and sees the blonde girl that <ref name="Fleur Delacour">Fleur</ref> was unable </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  looks over and sees the blonde girl that <ref name="Fleur_Delacour">Fleur</ref> was unable </sd>
 <sd>to rescue. He loosens her rope too and starts heading for the </sd>
 <sd>surface with the both of them. He's attacked and gets held down, </sd>
-<sd>he pushes <ref name="Ron">Ron</ref> and the girl towards the surface.</sd>
+<sd>he pushes <ref name="Ron_Weasley">Ron</ref> and the girl towards the surface.</sd>
  
               <setting>EXT. ABOVE WATER</setting>
 
-<sd><ref name="Ron">Ron</ref> and the girl come up, they are coughing but safe. They're </sd>
+<sd><ref name="Ron_Weasley">Ron</ref> and the girl come up, they are coughing but safe. They're </sd>
 <sd>helped out of the water by a girl from Beauxbatons. Underwater </sd>
-<sd><ref name="Harry">Harry</ref>  casts a spell which propels him towards the surface, he </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  casts a spell which propels him towards the surface, he </sd>
 <sd>flies out and lands on the decking where the crowd are.</sd>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         <ref name="Harry">Harry</ref> ! </speech>
+                         <ref name="Harry_Potter">Harry</ref> ! </speech>
 
 
 
@@ -3978,16 +3978,16 @@
 
 
 <speech><speaker name="FLEUR">FLEUR</speaker>
-                         (To <ref name="Harry">Harry</ref> ) You saved her, even though 
+                         (To <ref name="Harry_Potter">Harry</ref> ) You saved her, even though 
                          she wasn't yours to save. My little </speech>
                          sister!</speech>
  
-<sd><ref name="Fleur Delacour">Fleur</ref> kisses <ref name="Harry">Harry</ref>  on the face.</sd>
+<sd><ref name="Fleur_Delacour">Fleur</ref> kisses <ref name="Harry_Potter">Harry</ref>  on the face.</sd>
 
 
 
 <speech><speaker name="FLEUR">FLEUR</speaker>
-                         Thank you! And you... (Looks to <ref name="Ron">Ron</ref>). </speech>
+                         Thank you! And you... (Looks to <ref name="Ron_Weasley">Ron</ref>). </speech>
                          You helped!</speech>
  
 
@@ -3995,24 +3995,24 @@
 <speech><speaker name="RON">RON</speaker>
                          Well... yeah... a bit</speech>
 
-<sd><ref name="Fleur Delacour">Fleur</ref> kisses him too.</sd>
+<sd><ref name="Fleur_Delacour">Fleur</ref> kisses him too.</sd>
 
 
 
 <speech><speaker name="RON">RON</speaker>
                          Merci.</speech>
 
-<sd><ref name="Hermione">Hermione</ref> comes up to <ref name="Harry">Harry</ref>  with a towel.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> comes up to <ref name="Harry_Potter">Harry</ref>  with a towel.</sd>
 
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Harry">Harry</ref> !</speech>
+                         <ref name="Harry_Potter">Harry</ref> !</speech>
 
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Hermione">Hermione</ref></speech>
+                         <ref name="Hermione_Granger">Hermione</ref></speech>
 
 
 
@@ -4021,12 +4021,12 @@
                          Personally I think you behaved admirably.</speech>
  
                          
-<sd><ref name="Hermione">Hermione</ref> kisses <ref name="Harry">Harry</ref>  on the head.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> kisses <ref name="Harry_Potter">Harry</ref>  on the head.</sd>
 
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I finished last <ref name="Hermione">Hermione</ref>.</speech>
+                         I finished last <ref name="Hermione_Granger">Hermione</ref>.</speech>
 
 
 
@@ -4039,7 +4039,7 @@
                          Attention! Attention! The winner is... </speech>
                          Mr Diggory!</speech>
  
-<sd><ref name="Cedric Diggory">Cedric</ref> and his friends cheer.</sd>
+<sd><ref name="Cedric_Diggory">Cedric</ref> and his friends cheer.</sd>
 
 
 
@@ -4048,12 +4048,12 @@
                          shark. The way I see it, Mr Potter would </speech>
                          have finished first had it not been </speech>
                          for his determination to rescue not </speech>
-                         only <ref name="Ron Weasley">Mr Weasley</ref> but the others as well. </speech>
+                         only <ref name="Ron_Weasley">Mr Weasley</ref> but the others as well. </speech>
                          We've agreed to award him second place! </speech>
                          For outstanding moral fibre.</speech>
  
                
-<sd>As they're walking away from the lake <ref name="Harry">Harry</ref> 's friends are cheering </sd>
+<sd>As they're walking away from the lake <ref name="Harry_Potter">Harry</ref> 's friends are cheering </sd>
 <sd>him.</sd>
  
 
@@ -4073,7 +4073,7 @@
                          Well done 'moral fibre'.</speech>
 
                
-<sd><ref name="Bartimus Crouch">Barty Crouch</ref> is waiting for <ref name="Harry">Harry</ref> .</sd>
+<sd><ref name="Bartimus_Crouch">Barty Crouch</ref> is waiting for <ref name="Harry_Potter">Harry</ref> .</sd>
 
 
 
@@ -4088,7 +4088,7 @@
                          your parents would be very proud today </speech>
                          Potter.</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> approaches them.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> approaches them.</sd>
 
 
 
@@ -4098,7 +4098,7 @@
                          are we? Last boy who went into the department </speech>
                          of ministries never came out!</speech>
  
-                         <sd><ref name="Bartimus Crouch">Barty</ref> walks away from him.</sd>
+                         <sd><ref name="Bartimus_Crouch">Barty</ref> walks away from him.</sd>
 
 
 
@@ -4125,12 +4125,12 @@
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
                          Maybe. But we've all got each other, </speech>
-                         and <ref name="Harry">Harry</ref>  of course. Soon to be! The </speech>
+                         and <ref name="Harry_Potter">Harry</ref>  of course. Soon to be! The </speech>
                          youngest! Tri-Wizard champion there's </speech>
                          ever been! Hooray!</speech>
  
-<sd>They walk on singing the Hogwarts song. <ref name="Harry">Harry</ref>  holds his head </sd>
-<sd>in pain. On the ground he sees <ref name="Bartimus Crouch">Barty Crouch</ref> laying lifeless.</sd>
+<sd>They walk on singing the Hogwarts song. <ref name="Harry_Potter">Harry</ref>  holds his head </sd>
+<sd>in pain. On the ground he sees <ref name="Bartimus_Crouch">Barty Crouch</ref> laying lifeless.</sd>
  
                
 
@@ -4151,7 +4151,7 @@
 <speech><speaker name="FUDGE">FUDGE</speaker>
                          I will not. In times like these the </speech>
                          wizard world looks to its leaders for </speech>
-                         strength <ref name="Albus Dumbledore">Dumbledore</ref>.</speech>
+                         strength <ref name="Albus_Dumbledore">Dumbledore</ref>.</speech>
  
 
 
@@ -4184,12 +4184,12 @@
                          you to know that this conversation is </speech>
                          no longer private.</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> points to the door. <ref name="Harry">Harry</ref>  enters.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> points to the door. <ref name="Harry_Potter">Harry</ref>  enters.</sd>
 
 
 
 <speech><speaker name="FUDGE">FUDGE</speaker>
-                         <ref name="Harry">Harry</ref> ! <ref name="Harry">Harry</ref>  how good to see you again.</speech>
+                         <ref name="Harry_Potter">Harry</ref> ! <ref name="Harry_Potter">Harry</ref>  how good to see you again.</speech>
  
                          
 
@@ -4200,14 +4200,14 @@
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Oh not necessary <ref name="Harry">Harry</ref>  the minister </speech>
+                         Oh not necessary <ref name="Harry_Potter">Harry</ref>  the minister </speech>
                          and I are done. I'll be back in a moment. </speech>
-                         Minister, after you. <ref name="Harry">Harry</ref>  do feel free </speech>
+                         Minister, after you. <ref name="Harry_Potter">Harry</ref>  do feel free </speech>
                          to indulge in a liquorice snack in my </speech>
                          absence, but I have to warn you they're </speech>
                          a little bit sharp.</speech>
  
-<sd><ref name="Harry">Harry</ref>  is left alone in the room. He puts his hand in the snackbowl </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is left alone in the room. He puts his hand in the snackbowl </sd>
 <sd>and takes a handful. It turns into a small creature which nips </sd>
 <sd>at his hand.</sd>
  
@@ -4218,8 +4218,8 @@
 
 <sd>A compartment in the wall opens, there's a glowing blue pool </sd>
 <sd>of water there. He looks in. He falls and lands in another time </sd>
-<sd>and place. It's a courtroom, the walls have a red glow. <ref name="Albus Dumbledore">Dumbledore</ref> </sd>
-<sd>is seated next to where <ref name="Harry">Harry</ref>  is.</sd>
+<sd>and place. It's a courtroom, the walls have a red glow. <ref name="Albus_Dumbledore">Dumbledore</ref> </sd>
+<sd>is seated next to where <ref name="Harry_Potter">Harry</ref>  is.</sd>
  
               <setting>INT. COURTROOM</setting>
 
@@ -4228,22 +4228,22 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Professor?</speech>
 
-<sd>The man seated next to <ref name="Albus Dumbledore">Dumbledore</ref> speaks.</sd>
+<sd>The man seated next to <ref name="Albus_Dumbledore">Dumbledore</ref> speaks.</sd>
 
 
 
 <speech><speaker name="MAN">MAN</speaker>
                          Professor.</speech>
 
-<sd><ref name="Albus Dumbledore">Dumbledore</ref> and the man shake hands. Their handshake goes through </sd>
-<sd><ref name="Harry">Harry</ref> 's body, he appears to be some kind of ghost with no presence. </sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> and the man shake hands. Their handshake goes through </sd>
+<sd><ref name="Harry_Potter">Harry</ref> 's body, he appears to be some kind of ghost with no presence. </sd>
 <sd>Proceedings begin, a cage is raised from inside the floor.</sd>
  
                
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         <ref name="Igor Karkaroff">Igor Karkaroff</ref>, you have been brought </speech>
+                         <ref name="Igor_Karkaroff">Igor Karkaroff</ref>, you have been brought </speech>
                          from Azkaban at your own request to </speech>
                          present evidence to this counsel. Should </speech>
                          your testimony prove consequential. </speech>
@@ -4282,10 +4282,10 @@
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         (To <ref name="Albus Dumbledore">Dumbledore</ref>) Yeah took a piece of 
+                         (To <ref name="Albus_Dumbledore">Dumbledore</ref>) Yeah took a piece of 
                          me with him though didn't he.</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> points to his mechanical eye.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> points to his mechanical eye.</sd>
 
 
 
@@ -4327,26 +4327,26 @@
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         NO! WAIT! PLEASE! I have more. <ref name="Severus Snape">Snape</ref>, </speech>
-                         <ref name="Severus Snape">Severus Snape</ref>.</speech>
+                         NO! WAIT! PLEASE! I have more. <ref name="Severus_Snape">Snape</ref>, </speech>
+                         <ref name="Severus_Snape">Severus Snape</ref>.</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          The counsel is very much aware you have </speech>
-                         given evidence on this matter. <ref name="Severus Snape">Severus</ref> </speech>
-                         <ref name="Severus Snape">Snape</ref> was indeed a deatheater and prior </speech>
+                         given evidence on this matter. <ref name="Severus_Snape">Severus</ref> </speech>
+                         <ref name="Severus_Snape">Snape</ref> was indeed a deatheater and prior </speech>
                          to <ref name="Voldemort">Lord Voldemort</ref>'s downfall turned </speech>
                          spy for us at great personal risk. Today </speech>
                          he's no more a deatheater than I am.</speech>
  
                          
-<sd><ref name="Igor Karkaroff">Igor</ref> protests loudly.</sd>
+<sd><ref name="Igor_Karkaroff">Igor</ref> protests loudly.</sd>
 
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         It's a lie! <ref name="Severus Snape">Severus Snape</ref> remains faithful </speech>
+                         It's a lie! <ref name="Severus_Snape">Severus Snape</ref> remains faithful </speech>
                          to the dark lord.</speech>
  
 
@@ -4354,7 +4354,7 @@
 <speech><speaker name="BARTY">BARTY</speaker>
                          Silence!</speech>
 
-<sd><ref name="Bartimus Crouch">Barty</ref> hits the gavel repeatedly.</sd>
+<sd><ref name="Bartimus_Crouch">Barty</ref> hits the gavel repeatedly.</sd>
 
 
 
@@ -4401,11 +4401,11 @@
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         <ref name="Barty Crouch Junior">Barty Crouch</ref>! ... Junior.</speech>
+                         <ref name="Barty_Crouch_Junior">Barty Crouch</ref>! ... Junior.</speech>
 
-                         <sd><ref name="Barty Crouch Junior">Barty Crouch</ref> junior begins to run. <ref name="Alastor Moody">Mad-Eye</ref> zaps him with magic, </sd>
+                         <sd><ref name="Barty_Crouch_Junior">Barty Crouch</ref> junior begins to run. <ref name="Alastor_Moody">Mad-Eye</ref> zaps him with magic, </sd>
 <sd>he falls into the center of the court. The crowd is in uproar. </sd>
-<sd>Guards seize <ref name="Barty Crouch Junior">Barty junior</ref>.</sd>
+<sd>Guards seize <ref name="Barty_Crouch_Junior">Barty junior</ref>.</sd>
  
 
 
@@ -4423,18 +4423,18 @@
 <speech><speaker name="BARTY JR">BARTY JR</speaker>
                          GAHHHH!</speech>
 
-<sd><ref name="Harry">Harry</ref>  steps out of the blue pool and we're back in the darkened </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  steps out of the blue pool and we're back in the darkened </sd>
 <sd>room.</sd>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Curiosity's not a sin <ref name="Harry">Harry</ref> , but you </speech>
+                         Curiosity's not a sin <ref name="Harry_Potter">Harry</ref> , but you </speech>
                          should exercise caution. It's a pensieve, </speech>
                          useful if like me you find your mind </speech>
                          a wee bit stretched. It allows me to </speech>
                          see what small things I've already seen. </speech>
-                         You see <ref name="Harry">Harry</ref>  I've searched and searched </speech>
+                         You see <ref name="Harry_Potter">Harry</ref>  I've searched and searched </speech>
                          for something, some small detail. Something </speech>
                          I might have overlooked, something that </speech>
                          would explain why these terrible things </speech>
@@ -4445,13 +4445,13 @@
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Sir, <ref name="Barty Crouch Junior">Mr Crouch's son</ref>, what happened </speech>
+                         Sir, <ref name="Barty_Crouch_Junior">Mr Crouch's son</ref>, what happened </speech>
                          to him?</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         He was sent to Azkaban. Destroyed <ref name="Bartimus Crouch">Barty</ref> </speech>
+                         He was sent to Azkaban. Destroyed <ref name="Bartimus_Crouch">Barty</ref> </speech>
                          to do it. But he had no choice, the </speech>
                          evidence was overwhelming. Why do you </speech>
                          ask?</speech>
@@ -4463,7 +4463,7 @@
                          It was in the summer, before school. </speech>
                          In the dream I was in a house and <ref name="Voldemort">Voldemort</ref> </speech>
                          was there only he wasn't quite human, </speech>
-                         and <ref name="Peter Pettigrew">Wormtail</ref> was there too and <ref name="Barty Crouch Junior">Mr Crouch's </speech>
+                         and <ref name="Peter_Pettigrew">Wormtail</ref> was there too and <ref name="Barty_Crouch_Junior">Mr Crouch's </speech>
                          son</ref>.</speech>
  
 
@@ -4483,10 +4483,10 @@
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          I think it's unwise for you to linger </speech>
-                         over these dreams <ref name="Harry">Harry</ref> , I think it's </speech>
+                         over these dreams <ref name="Harry_Potter">Harry</ref> , I think it's </speech>
                          best that you simply...</speech>
  
-<sd><ref name="Albus Dumbledore">Dumbledore</ref> puts up his wand and pulls a quivering string of magic </sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> puts up his wand and pulls a quivering string of magic </sd>
 <sd>out from his head.</sd>
  
 
@@ -4496,16 +4496,16 @@
 
               <setting>INT. CORRIDOR</setting>
 
-<sd><ref name="Harry">Harry</ref>  is walking along, we hear raised voices from inside the </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is walking along, we hear raised voices from inside the </sd>
 <sd>herbs store.</sd>
  
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         It's a sign <ref name="Severus Snape">Severus</ref>, you know what it </speech>
+                         It's a sign <ref name="Severus_Snape">Severus</ref>, you know what it </speech>
                          means as well as I.</speech>
  
-<sd>The door opens and they see <ref name="Harry">Harry</ref> . He looks at them. <ref name="Igor Karkaroff">Igor</ref> leaves.</sd>
+<sd>The door opens and they see <ref name="Harry_Potter">Harry</ref> . He looks at them. <ref name="Igor_Karkaroff">Igor</ref> leaves.</sd>
  
                
 
@@ -4560,7 +4560,7 @@
                          polyjuice potion and believe me I'm </speech>
                          going to find out why.</speech>
  
-<sd><ref name="Severus Snape">Severus</ref> closes the door in <ref name="Harry">Harry</ref> 's face.</sd>
+<sd><ref name="Severus_Snape">Severus</ref> closes the door in <ref name="Harry_Potter">Harry</ref> 's face.</sd>
 
               <setting>EXT. ARENA</setting>
 
@@ -4570,7 +4570,7 @@
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Earlier today <ref name="Alastor Moody">Professor Moody</ref> placed </speech>
+                         Earlier today <ref name="Alastor_Moody">Professor Moody</ref> placed </speech>
                          the tri-wizards cup deep within the </speech>
                          maze. Only he knows its exact position. </speech>
                          Now as Mr Diggory...</speech>
@@ -4582,7 +4582,7 @@
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          (continued) and Mr Potter tied for first 
                          position they will be the first to enter </speech>
-                         the maze. Followed by Mr <ref name="Viktor Krum">Krum</ref>...</speech>
+                         the maze. Followed by Mr <ref name="Viktor_Krum">Krum</ref>...</speech>
  
 <sd>The bulgarian crowd go nuts.</sd>
 
@@ -4614,49 +4614,49 @@
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          Champions! Prepare yourselves.</speech>
 
-<sd><ref name="Cedric Diggory">Cedric</ref> hugs his father.</sd>
+<sd><ref name="Cedric_Diggory">Cedric</ref> hugs his father.</sd>
 
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          On the count of three... ONE...</speech>
 
-<sd>The cannon goes off. <ref name="Argus Filch">Mr Filch</ref> shrugs comically. <ref name="Albus Dumbledore">Dumbledore</ref> groans. </sd>
-<sd><ref name="Harry">Harry</ref>  and <ref name="Cedric Diggory">Cedric</ref> enter the maze through different entrances. </sd>
-<sd>The entrance closes up behind <ref name="Harry">Harry</ref> . Heavy mist sets in, we pan </sd>
-<sd>out to see the maze is many stories tall. <ref name="Harry">Harry</ref>  starts traversing </sd>
+<sd>The cannon goes off. <ref name="Argus_Filch">Mr Filch</ref> shrugs comically. <ref name="Albus_Dumbledore">Dumbledore</ref> groans. </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Cedric_Diggory">Cedric</ref> enter the maze through different entrances. </sd>
+<sd>The entrance closes up behind <ref name="Harry_Potter">Harry</ref> . Heavy mist sets in, we pan </sd>
+<sd>out to see the maze is many stories tall. <ref name="Harry_Potter">Harry</ref>  starts traversing </sd>
 <sd>the maze, creature noises are all around.</sd>
  
-<sd><ref name="Cedric Diggory">Cedric</ref> is walking along, the maze walls begin to close in on </sd>
-<sd>him. He makes a run for it. <ref name="Fleur Delacour">Fleur</ref> is running around scared, she </sd>
-<sd>is attacked and knocked down. <ref name="Viktor Krum">Viktor</ref> comes along and sees she's </sd>
-<sd>unconscious on the ground, he walks on. <ref name="Harry">Harry</ref>  sees <ref name="Fleur Delacour">Fleur</ref> being </sd>
+<sd><ref name="Cedric_Diggory">Cedric</ref> is walking along, the maze walls begin to close in on </sd>
+<sd>him. He makes a run for it. <ref name="Fleur_Delacour">Fleur</ref> is running around scared, she </sd>
+<sd>is attacked and knocked down. <ref name="Viktor_Krum">Viktor</ref> comes along and sees she's </sd>
+<sd>unconscious on the ground, he walks on. <ref name="Harry_Potter">Harry</ref>  sees <ref name="Fleur_Delacour">Fleur</ref> being </sd>
 <sd>swallowed into the undergrowth.</sd>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Fleur Delacour">Fleur</ref>? <ref name="Fleur Delacour">Fleur</ref>!</speech>
+                         <ref name="Fleur_Delacour">Fleur</ref>? <ref name="Fleur_Delacour">Fleur</ref>!</speech>
 
 <sd>He's too late she's disappeared. He sends up a red spark into </sd>
-<sd>the air. A heavy wind starts blowing, walls are closing in, <ref name="Harry">Harry</ref>  </sd>
-<sd>runs. <ref name="Harry">Harry</ref>  sees something shining in the distance and he moves </sd>
-<sd>towards it <ref name="Viktor Krum">Viktor</ref> tries to zap him but misses.</sd>
+<sd>the air. A heavy wind starts blowing, walls are closing in, <ref name="Harry_Potter">Harry</ref>  </sd>
+<sd>runs. <ref name="Harry_Potter">Harry</ref>  sees something shining in the distance and he moves </sd>
+<sd>towards it <ref name="Viktor_Krum">Viktor</ref> tries to zap him but misses.</sd>
  
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
                          Get down!</speech>
 
-<sd><ref name="Harry">Harry</ref>  ducks and <ref name="Viktor Krum">Viktor</ref> gets zapped by <ref name="Cedric Diggory">Cedric</ref>. <ref name="Cedric Diggory">Cedric</ref> runs up </sd>
-<sd>and kicks the wand out of <ref name="Viktor Krum">Viktor</ref>'s hand. He points his wand at </sd>
-<sd><ref name="Viktor Krum">Viktor</ref>'s body as if to finish him off, <ref name="Harry">Harry</ref>  runs up and intervenes.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  ducks and <ref name="Viktor_Krum">Viktor</ref> gets zapped by <ref name="Cedric_Diggory">Cedric</ref>. <ref name="Cedric_Diggory">Cedric</ref> runs up </sd>
+<sd>and kicks the wand out of <ref name="Viktor_Krum">Viktor</ref>'s hand. He points his wand at </sd>
+<sd><ref name="Viktor_Krum">Viktor</ref>'s body as if to finish him off, <ref name="Harry_Potter">Harry</ref>  runs up and intervenes.</sd>
  
                
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         No stop! He's bewitched <ref name="Cedric Diggory">Cedric</ref>.</speech>
+                         No stop! He's bewitched <ref name="Cedric_Diggory">Cedric</ref>.</speech>
 
 <sd>They struggle.</sd>
 
@@ -4671,15 +4671,15 @@
                          He's bewitched!</speech>
 
 <sd>The two of them begin running towards the cup. The undergrowth </sd>
-<sd>grabs <ref name="Cedric Diggory">Cedric</ref> and he falls to the ground. <ref name="Harry">Harry</ref>  looks back. <ref name="Cedric Diggory">Cedric</ref> </sd>
+<sd>grabs <ref name="Cedric_Diggory">Cedric</ref> and he falls to the ground. <ref name="Harry_Potter">Harry</ref>  looks back. <ref name="Cedric_Diggory">Cedric</ref> </sd>
 <sd>is pinned down with no means of escape.</sd>
  
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         <ref name="Harry">Harry</ref> ! <ref name="Harry">Harry</ref> !</speech>
+                         <ref name="Harry_Potter">Harry</ref> ! <ref name="Harry_Potter">Harry</ref> !</speech>
 
-<sd><ref name="Harry">Harry</ref>  zaps the plantlife and <ref name="Cedric Diggory">Cedric</ref> wriggles free. <ref name="Harry">Harry</ref>  helps </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  zaps the plantlife and <ref name="Cedric_Diggory">Cedric</ref> wriggles free. <ref name="Harry_Potter">Harry</ref>  helps </sd>
 <sd>him up.</sd>
  
 
@@ -4717,7 +4717,7 @@
  
    <setting>EXT. GRAVEYARD</setting>
 
-<sd><ref name="Harry">Harry</ref>  and <ref name="Cedric Diggory">Cedric</ref> have ported to a graveyard. </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Cedric_Diggory">Cedric</ref> have ported to a graveyard. </sd>
 
 
 
@@ -4742,13 +4742,13 @@
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         It's a portkey. <ref name="Harry">Harry</ref>  the cup is a portkey.</speech>
+                         It's a portkey. <ref name="Harry_Potter">Harry</ref>  the cup is a portkey.</speech>
  
                          
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I've been here before in a dream. <ref name="Cedric Diggory">Cedric</ref>, </speech>
+                         I've been here before in a dream. <ref name="Cedric_Diggory">Cedric</ref>, </speech>
                          we have to get back to the cup? Now!</speech>
  
                          
@@ -4757,7 +4757,7 @@
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
                          What are you talking about?</speech>
 
-<sd><ref name="Harry">Harry</ref>  lets out a shout and holds his head, he is in pain.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  lets out a shout and holds his head, he is in pain.</sd>
 
 
 
@@ -4769,7 +4769,7 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Get back to the cup!</speech>
 
-<sd>We see <ref name="Peter Pettigrew">Wormtail</ref> and <ref name="Voldemort">Voldemort</ref> nearby. </sd>
+<sd>We see <ref name="Peter_Pettigrew">Wormtail</ref> and <ref name="Voldemort">Voldemort</ref> nearby. </sd>
 
 
 
@@ -4781,16 +4781,16 @@
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
                          Kill the spare.</speech>
 
-<sd><ref name="Peter Pettigrew">Wormtail</ref> casts a spell and kills <ref name="Cedric Diggory">Cedric</ref>.</sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> casts a spell and kills <ref name="Cedric_Diggory">Cedric</ref>.</sd>
 
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Cedric Diggory">Cedric</ref>!</speech>
+                         <ref name="Cedric_Diggory">Cedric</ref>!</speech>
 
-<sd><ref name="Cedric Diggory">Cedric</ref> lays dead on the ground.</sd>
+<sd><ref name="Cedric_Diggory">Cedric</ref> lays dead on the ground.</sd>
 
-<sd><ref name="Peter Pettigrew">Wormtail</ref> pulls <ref name="Harry">Harry</ref>  closer, a status grabs hold of <ref name="Harry">Harry</ref>  and </sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> pulls <ref name="Harry_Potter">Harry</ref>  closer, a status grabs hold of <ref name="Harry_Potter">Harry</ref>  and </sd>
 <sd>traps him.</sd>
  
 
@@ -4798,7 +4798,7 @@
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
                          Do it, now!</speech>
 
-<sd><ref name="Peter Pettigrew">Wormtail</ref> drops something into a cauldron, <ref name="Harry">Harry</ref>  watches on. </sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> drops something into a cauldron, <ref name="Harry_Potter">Harry</ref>  watches on. </sd>
  
                
 
@@ -4807,7 +4807,7 @@
                          Bones of the father, unwillingly given. </speech>
                          
  
-<sd>A bone hovers in the air under <ref name="Peter Pettigrew">Wormtail</ref>'s control, he drops it </sd>
+<sd>A bone hovers in the air under <ref name="Peter_Pettigrew">Wormtail</ref>'s control, he drops it </sd>
 <sd>into the cauldron.</sd>
  
 
@@ -4824,8 +4824,8 @@
                          Blood of the enemy forcibly taken.</speech>
  
                          
-<sd>He takes the knife to <ref name="Harry">Harry</ref>  and cuts at his arm. <ref name="Harry">Harry</ref>  shouts. </sd>
-<sd><ref name="Peter Pettigrew">Wormtail</ref> takes the knife over to the cauldron and lets the drops </sd>
+<sd>He takes the knife to <ref name="Harry_Potter">Harry</ref>  and cuts at his arm. <ref name="Harry_Potter">Harry</ref>  shouts. </sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> takes the knife over to the cauldron and lets the drops </sd>
 <sd>fall into it.</sd>
  
 
@@ -4839,9 +4839,9 @@
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         My wand <ref name="Peter Pettigrew">Wormtail</ref>.</speech>
+                         My wand <ref name="Peter_Pettigrew">Wormtail</ref>.</speech>
 
-<sd><ref name="Peter Pettigrew">Wormtail</ref> hands him the wand and bows deeply.</sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> hands him the wand and bows deeply.</sd>
 
 
 
@@ -4856,10 +4856,10 @@
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         The other arm <ref name="Peter Pettigrew">Wormtail</ref>.</speech>
+                         The other arm <ref name="Peter_Pettigrew">Wormtail</ref>.</speech>
 
-<sd><ref name="Peter Pettigrew">Wormtail</ref> looks concerned, but does it anyway. <ref name="Voldemort">Voldemort</ref> sticks </sd>
-<sd>the wand into <ref name="Peter Pettigrew">Wormtail</ref>'s arm. The sky changes, others have been </sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> looks concerned, but does it anyway. <ref name="Voldemort">Voldemort</ref> sticks </sd>
+<sd>the wand into <ref name="Peter_Pettigrew">Wormtail</ref>'s arm. The sky changes, others have been </sd>
 <sd>summoned.</sd>
  
 
@@ -4876,7 +4876,7 @@
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Not even you, <ref name="Lucius Malfoy">Lucius</ref>. </speech>
+                         Not even you, <ref name="Lucius_Malfoy">Lucius</ref>. </speech>
 
 
 
@@ -4909,9 +4909,9 @@
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
                          Out of fear, not loyalty. Still you </speech>
                          have proved yourself useful these past </speech>
-                         few months <ref name="Peter Pettigrew">Wormtail</ref>.</speech>
+                         few months <ref name="Peter_Pettigrew">Wormtail</ref>.</speech>
  
-<sd><ref name="Voldemort">Voldemort</ref> grants <ref name="Peter Pettigrew">Wormtail</ref> a new hand.</sd>
+<sd><ref name="Voldemort">Voldemort</ref> grants <ref name="Peter_Pettigrew">Wormtail</ref> a new hand.</sd>
 
 
 
@@ -4921,7 +4921,7 @@
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         (To <ref name="Cedric Diggory">Cedric</ref>'s corpse) Oh, such a handsome 
+                         (To <ref name="Cedric_Diggory">Cedric</ref>'s corpse) Oh, such a handsome 
                          boy. </speech>
  
 
@@ -4929,21 +4929,21 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Don't touch him.</speech>
 
-<sd><ref name="Harry">Harry</ref>  struggles to get free.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  struggles to get free.</sd>
 
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         <ref name="Harry">Harry</ref> ! I'd almost forgotten you were </speech>
+                         <ref name="Harry_Potter">Harry</ref> ! I'd almost forgotten you were </speech>
                          here. Standing on the bones of my father. </speech>
                          I'd introduce you but word has it you're </speech>
                          almost as famous as me these days. The </speech>
                          boy who lived. How lies have fed your </speech>
-                         legend <ref name="Harry">Harry</ref> . Shall I reveal what really </speech>
+                         legend <ref name="Harry_Potter">Harry</ref> . Shall I reveal what really </speech>
                          happened that night thirteen years ago? </speech>
                          Shall I divulge how I truly lost my </speech>
                          powers? It was love. You see when dear </speech>
-                         sweet <ref name="Lily Potter">Lily Potter</ref>  gave her life for </speech>
+                         sweet <ref name="Lily_Potter">Lily Potter</ref>  gave her life for </speech>
                          her only son she provided the ultimate </speech>
                          protection. I could not touch you. It </speech>
                          was old magic, something I should have </speech>
@@ -4951,36 +4951,36 @@
                          have changed, I can touch you now!</speech>
  
                          
-<sd><ref name="Voldemort">Voldemort</ref> puts his hand on <ref name="Harry">Harry</ref> 's head and he screams.</sd>
+<sd><ref name="Voldemort">Voldemort</ref> puts his hand on <ref name="Harry_Potter">Harry</ref> 's head and he screams.</sd>
 
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
                          Astonishing what a few drops of your </speech>
-                         blood will do eh <ref name="Harry">Harry</ref> ? Pick up your </speech>
+                         blood will do eh <ref name="Harry_Potter">Harry</ref> ? Pick up your </speech>
                          wand Potter. I said pick it up, get </speech>
                          up. Get up! You've been taught how to </speech>
                          duel I presume yes? First we bow to </speech>
-                         each other. Come on now <ref name="Harry">Harry</ref>  the niceties </speech>
-                         must be observed, <ref name="Albus Dumbledore">Dumbledore</ref> would not </speech>
+                         each other. Come on now <ref name="Harry_Potter">Harry</ref>  the niceties </speech>
+                         must be observed, <ref name="Albus_Dumbledore">Dumbledore</ref> would not </speech>
                          want you to forget your manners now </speech>
                          would he? I said bow!</speech>
  
-<sd><ref name="Voldemort">Voldemort</ref> forces <ref name="Harry">Harry</ref>  to bow with magic.</sd>
+<sd><ref name="Voldemort">Voldemort</ref> forces <ref name="Harry_Potter">Harry</ref>  to bow with magic.</sd>
 
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
                          That's better. And now...</speech>
 
-<sd><ref name="Voldemort">Voldemort</ref> casts at <ref name="Harry">Harry</ref>  and he wriggles in pain.</sd>
+<sd><ref name="Voldemort">Voldemort</ref> casts at <ref name="Harry_Potter">Harry</ref>  and he wriggles in pain.</sd>
 
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Atta boy <ref name="Harry">Harry</ref> , your parents would be </speech>
+                         Atta boy <ref name="Harry_Potter">Harry</ref> , your parents would be </speech>
                          proud. Especially your filthy mongrel </speech>
-                         mother. I'm going to kill you <ref name="Harry">Harry</ref>  </speech>
+                         mother. I'm going to kill you <ref name="Harry_Potter">Harry</ref>  </speech>
                          Potter, I'm going to destroy you. After </speech>
                          tonight no one will ever again question </speech>
                          my powers. After tonight if they speak </speech>
@@ -4988,18 +4988,18 @@
                          begged for death, and I being a merciful </speech>
                          lord obliged. Get up.</speech>
  
-<sd><ref name="Voldemort">Voldemort</ref> pulls <ref name="Harry">Harry</ref>  to his feet, <ref name="Harry">Harry</ref>  begins to move away.</sd>
+<sd><ref name="Voldemort">Voldemort</ref> pulls <ref name="Harry_Potter">Harry</ref>  to his feet, <ref name="Harry_Potter">Harry</ref>  begins to move away.</sd>
  
                
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Don't you turn your back on me <ref name="Harry">Harry</ref>  </speech>
+                         Don't you turn your back on me <ref name="Harry_Potter">Harry</ref>  </speech>
                           Potter  I want you to look at me when 
                          I kill you, I want to see the lights </speech>
                          leave your eyes.</speech>
  
-<sd><ref name="Harry">Harry</ref>  takes steps toward <ref name="Voldemort">Voldemort</ref>.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  takes steps toward <ref name="Voldemort">Voldemort</ref>.</sd>
 
 
 
@@ -5015,13 +5015,13 @@
                          Do nothing. He is mine to finish. He's </speech>
                          mine!</speech>
  
-<sd>Shapes form in the surrounding magical energy. We hear <ref name="Albus Dumbledore">Dumbledore</ref>'s </sd>
+<sd>Shapes form in the surrounding magical energy. We hear <ref name="Albus_Dumbledore">Dumbledore</ref>'s </sd>
 <sd>voice.</sd>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>'S DAD
-                         (voice) <ref name="Harry">Harry</ref>  when the connection is 
+                         (voice) <ref name="Harry_Potter">Harry</ref>  when the connection is 
                          broken you must get to the portkey. </speech>
                          We can delay it for a moment to give </speech>
                          you time but only a moment, do you understand?</speech>
@@ -5030,7 +5030,7 @@
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         (voice) <ref name="Harry">Harry</ref>  take my body back will 
+                         (voice) <ref name="Harry_Potter">Harry</ref>  take my body back will 
                          you? Take my body back to my father.</speech>
  
                          
@@ -5040,7 +5040,7 @@
                          (voice) Let go. Sweetheart you're ready. 
                          Let go! Let go!</speech>
  
-<sd>The connection breaks, <ref name="Harry">Harry</ref>  runs over to <ref name="Cedric Diggory">Cedric</ref>'s body and summons </sd>
+<sd>The connection breaks, <ref name="Harry_Potter">Harry</ref>  runs over to <ref name="Cedric_Diggory">Cedric</ref>'s body and summons </sd>
 <sd>the cup over to them. In an instant the port out. <ref name="Voldemort">Voldemort</ref> looks </sd>
 <sd>angry.</sd>
  
@@ -5051,16 +5051,16 @@
 
               <setting>EXT. ARENA</setting>
 
-<sd>Back at the arena <ref name="Harry">Harry</ref>  appears with <ref name="Cedric Diggory">Cedric</ref>'s body. The crowd </sd>
+<sd>Back at the arena <ref name="Harry_Potter">Harry</ref>  appears with <ref name="Cedric_Diggory">Cedric</ref>'s body. The crowd </sd>
 <sd>don't understand what has taken place and they all cheer, triumphant </sd>
-<sd>music starts to play. <ref name="Harry">Harry</ref>  weeps on <ref name="Cedric Diggory">Cedric</ref>'s body. </sd>
+<sd>music starts to play. <ref name="Harry_Potter">Harry</ref>  weeps on <ref name="Cedric_Diggory">Cedric</ref>'s body. </sd>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         <ref name="Harry">Harry</ref> ! <ref name="Harry">Harry</ref> !</speech>
+                         <ref name="Harry_Potter">Harry</ref> ! <ref name="Harry_Potter">Harry</ref> !</speech>
 
-<sd><ref name="Albus Dumbledore">Dumbledore</ref> tries to prize <ref name="Harry">Harry</ref>  from <ref name="Cedric Diggory">Cedric</ref>'s body.</sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> tries to prize <ref name="Harry_Potter">Harry</ref>  from <ref name="Cedric_Diggory">Cedric</ref>'s body.</sd>
 
 
 
@@ -5071,14 +5071,14 @@
 
 <speech><speaker name="HARRY">HARRY</speaker>
                          He's back, he's back! <ref name="Voldemort">Voldemort</ref>'s back. </speech>
-                         <ref name="Cedric Diggory">Cedric</ref>, he asked me to bring his body </speech>
+                         <ref name="Cedric_Diggory">Cedric</ref>, he asked me to bring his body </speech>
                          back. I couldn't leave him, not there.</speech>
  
                          
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         It's alright <ref name="Harry">Harry</ref> . It's alright, he's </speech>
+                         It's alright <ref name="Harry_Potter">Harry</ref> . It's alright, he's </speech>
                          home, you both are.</speech>
  
 
@@ -5086,7 +5086,7 @@
 <speech><speaker name="FUDGE">FUDGE</speaker>
                          Keep everybody in their seats. A boy </speech>
                          has just been killed. The body must </speech>
-                         be moved <ref name="Albus Dumbledore">Dumbledore</ref>, there are... too </speech>
+                         be moved <ref name="Albus_Dumbledore">Dumbledore</ref>, there are... too </speech>
                          many people.</speech>
  
 
@@ -5095,11 +5095,11 @@
                          Let me through! That's my son! My boy!</speech>
  
                          
-<sd><ref name="Amos Diggory">Amos</ref> breaks down wailing. The crowd look on distraught.</sd>
+<sd><ref name="Amos_Diggory">Amos</ref> breaks down wailing. The crowd look on distraught.</sd>
 
               <setting>INT. DARKENED ROOM</setting>
 
-<sd><ref name="Alastor Moody">Mad-Eye</ref> <ref name="Alastor Moody">Moody</ref> enters and closes the door behind him. <ref name="Harry">Harry</ref>  is </sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> <ref name="Alastor_Moody">Moody</ref> enters and closes the door behind him. <ref name="Harry_Potter">Harry</ref>  is </sd>
 <sd>in the room still sobbing. They sit. </sd>
  
 
@@ -5107,7 +5107,7 @@
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          Are you alright Potter?</speech>
 
-<sd><ref name="Harry">Harry</ref>  nods.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  nods.</sd>
 
 
 
@@ -5124,7 +5124,7 @@
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          I'd better take a look at it.</speech>
 
-<sd>We see <ref name="Harry">Harry</ref> 's arm, it has a skull and snake marking.</sd>
+<sd>We see <ref name="Harry_Potter">Harry</ref> 's arm, it has a skull and snake marking.</sd>
 
 
 
@@ -5156,7 +5156,7 @@
                          one of my dreams. One of my nightmares. </speech>
                          
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> starts shaking and struggling for air, he reaches for </sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> starts shaking and struggling for air, he reaches for </sd>
 <sd>his bottle but it's empty. He rushes to a chest with other bottles </sd>
 <sd>and struggles to find one.</sd>
  
@@ -5179,10 +5179,10 @@
                          they? Do you think that miserable oaf </speech>
                          would have led you into the woods if </speech>
                          I hadn't suggested it? Do you think </speech>
-                         <ref name="Cedric Diggory">Cedric Diggory</ref> would have told you to </speech>
+                         <ref name="Cedric_Diggory">Cedric Diggory</ref> would have told you to </speech>
                          hold the egg under the water if I hadn't </speech>
                          have told him first myself? Do you think </speech>
-                         <ref name="Neville Longbottom">Neville Longbottom</ref> the witless wonder </speech>
+                         <ref name="Neville_Longbottom">Neville Longbottom</ref> the witless wonder </speech>
                          could have provided you with gilliweed </speech>
                          if I hadn't have given him the book </speech>
                          that led you straight to it? Huh??</speech>
@@ -5193,9 +5193,9 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          It was you from the beginning. You put </speech>
                          my name in the goblet of fire. You bewitched </speech>
-                         <ref name="Viktor Krum">Krum</ref>. But...</speech>
+                         <ref name="Viktor_Krum">Krum</ref>. But...</speech>
  
-<sd><ref name="Alastor Moody">Mad-Eye</ref> makes sobbing noises making fun of <ref name="Harry">Harry</ref> .</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> makes sobbing noises making fun of <ref name="Harry_Potter">Harry</ref> .</sd>
 
 
 
@@ -5210,16 +5210,16 @@
                          for all silenced the great  <ref name="Harry Potter">Harry Potter</ref> .</speech>
  
                          
-<sd>A flash of magic occurs and <ref name="Alastor Moody">Mad-Eye</ref> is knocked into the wall. </sd>
-<sd><ref name="Albus Dumbledore">Dumbledore</ref> and <ref name="Severus Snape">Severus</ref> come rushing in. <ref name="Albus Dumbledore">Dumbledore</ref> takes <ref name="Alastor Moody">Mad-Eye</ref> </sd>
+<sd>A flash of magic occurs and <ref name="Alastor_Moody">Mad-Eye</ref> is knocked into the wall. </sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> and <ref name="Severus_Snape">Severus</ref> come rushing in. <ref name="Albus_Dumbledore">Dumbledore</ref> takes <ref name="Alastor_Moody">Mad-Eye</ref> </sd>
 <sd>by the neck...</sd>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         <ref name="Severus Snape">Severus</ref>...</speech>
+                         <ref name="Severus_Snape">Severus</ref>...</speech>
 
-<sd><ref name="Severus Snape">Severus</ref> administers some veritaserum. <ref name="Alastor Moody">Mad-Eye</ref> wriggles demonically.</sd>
+<sd><ref name="Severus_Snape">Severus</ref> administers some veritaserum. <ref name="Alastor_Moody">Mad-Eye</ref> wriggles demonically.</sd>
  
                
 
@@ -5230,12 +5230,12 @@
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         <ref name="Albus Dumbledore">Albus Dumbledore</ref>.</speech>
+                         <ref name="Albus_Dumbledore">Albus Dumbledore</ref>.</speech>
 
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Are you <ref name="Alastor Moody">Alastor Moody</ref>? Are ya?</speech>
+                         Are you <ref name="Alastor_Moody">Alastor Moody</ref>? Are ya?</speech>
 
 
 
@@ -5253,29 +5253,29 @@
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         <ref name="Harry">Harry</ref>  get away from there!</speech>
+                         <ref name="Harry_Potter">Harry</ref>  get away from there!</speech>
 
-<sd><ref name="Albus Dumbledore">Dumbledore</ref> approaches the chest. The chest opens, it contains </sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> approaches the chest. The chest opens, it contains </sd>
 <sd>a series of smaller chests. When the final chest is open we see </sd>
-<sd>that there's a pit within holding a man the real <ref name="Alastor Moody">Alastor Moody</ref>.</sd>
+<sd>that there's a pit within holding a man the real <ref name="Alastor_Moody">Alastor Moody</ref>.</sd>
  
                
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Are you alright <ref name="Alastor Moody">Alastor</ref>?</speech>
+                         Are you alright <ref name="Alastor_Moody">Alastor</ref>?</speech>
 
 
 
 <speech><speaker name="ALASTOR">ALASTOR</speaker>
-                         I'm sorry <ref name="Albus Dumbledore">Albus</ref>.</speech>
+                         I'm sorry <ref name="Albus_Dumbledore">Albus</ref>.</speech>
 
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         That's <ref name="Alastor Moody">Moody</ref>, but then who's...?</speech>
+                         That's <ref name="Alastor_Moody">Moody</ref>, but then who's...?</speech>
 
-<sd><ref name="Albus Dumbledore">Dumbledore</ref> holds up one of <ref name="Alastor Moody">Mad-Eye</ref>'s Bottles.</sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> holds up one of <ref name="Alastor_Moody">Mad-Eye</ref>'s Bottles.</sd>
 
 
 
@@ -5286,25 +5286,25 @@
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          Now we know who's been stealing it from </speech>
-                         your store <ref name="Severus Snape">Severus</ref>.</speech>
+                         your store <ref name="Severus_Snape">Severus</ref>.</speech>
  
-<sd><ref name="Albus Dumbledore">Dumbledore</ref> looks into the pit.</sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> looks into the pit.</sd>
 
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          We'll get you up in a minute.</speech>
 
-<sd><ref name="Alastor Moody">Alastor Moody</ref> groans. The <ref name="Alastor Moody">Mad-Eye</ref> <ref name="Alastor Moody">Moody</ref> they have captive in </sd>
+<sd><ref name="Alastor_Moody">Alastor Moody</ref> groans. The <ref name="Alastor_Moody">Mad-Eye</ref> <ref name="Alastor_Moody">Moody</ref> they have captive in </sd>
 <sd>a chair begins to twitch about restlessly making strange noises. </sd>
 <sd>He appears to be transforming. He rips off his fake eyepiece </sd>
-<sd>which falls on the floor, we see that he's transformed into <ref name="Barty Crouch Junior">Barty </sd>
+<sd>which falls on the floor, we see that he's transformed into <ref name="Barty_Crouch_Junior">Barty </sd>
 <sd>Crouch Junior</ref>.</sd>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         <ref name="Barty Crouch Junior">Barty Crouch Junior</ref>.</speech>
+                         <ref name="Barty_Crouch_Junior">Barty Crouch Junior</ref>.</speech>
 
 
 
@@ -5312,13 +5312,13 @@
                          I'll show you mine if you show me yours.</speech>
  
                          
-<sd><ref name="Barty Crouch Junior">Barty Jr</ref> rolls up his sleeve to reveal a skull and snake marking.</sd>
+<sd><ref name="Barty_Crouch_Junior">Barty Jr</ref> rolls up his sleeve to reveal a skull and snake marking.</sd>
  
                
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Your arm <ref name="Harry">Harry</ref> .</speech>
+                         Your arm <ref name="Harry_Potter">Harry</ref> .</speech>
 
 
 
@@ -5352,13 +5352,13 @@
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          (Speaking to all pupils) Today we acknowledge 
-                         a really terrible loss. <ref name="Cedric Diggory">Cedric Diggory</ref> </speech>
+                         a really terrible loss. <ref name="Cedric_Diggory">Cedric Diggory</ref> </speech>
                          was as you all know, exceptionally hard </speech>
                          working, intricately fair minded. And </speech>
                          most importantly a fierce fierce friend. </speech>
                          I think therefore you have the right </speech>
                          to know exactly how he died. You see, </speech>
-                         <ref name="Cedric Diggory">Cedric Diggory</ref> was murdered by <ref name="Voldemort">Lord </speech>
+                         <ref name="Cedric_Diggory">Cedric Diggory</ref> was murdered by <ref name="Voldemort">Lord </speech>
                          Voldemort.</ref> The ministry of magic does </speech>
                          not wish me to tell you this. But not </speech>
                          to do so I think would be an insult </speech>
@@ -5369,7 +5369,7 @@
                          our hearts beat as one. In light of </speech>
                          recent events the bonds of friendship </speech>
                          we made this year will be more important </speech>
-                         than ever. Remember that and <ref name="Cedric Diggory">Cedric</ref> </speech>
+                         than ever. Remember that and <ref name="Cedric_Diggory">Cedric</ref> </speech>
                          Diggory will not have died in vain, </speech>
                          you remember that. And we'll celebrate </speech>
                          a boy who was kind and honest and brave </speech>
@@ -5377,7 +5377,7 @@
  
               <setting>INT. BEDROOM</setting>
 
-<sd><ref name="Harry">Harry</ref>  is sitting on a bed, <ref name="Albus Dumbledore">Dumbledore</ref> walks in.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is sitting on a bed, <ref name="Albus_Dumbledore">Dumbledore</ref> walks in.</sd>
 
 
 
@@ -5385,7 +5385,7 @@
                          I never liked these curtains. Set them </speech>
                          on fire in my fourth year, by accident </speech>
                          of course. I put you in terrible danger </speech>
-                         this year <ref name="Harry">Harry</ref>  I'm sorry.</speech>
+                         this year <ref name="Harry_Potter">Harry</ref>  I'm sorry.</speech>
  
 
 
@@ -5401,12 +5401,12 @@
                          that night didn't you? They reappeared.</speech>
  
                          
-<sd><ref name="Harry">Harry</ref>  nods.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  nods.</sd>
 
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         No spell can reawaken the dead <ref name="Harry">Harry</ref>  </speech>
+                         No spell can reawaken the dead <ref name="Harry_Potter">Harry</ref>  </speech>
                          I trust you know that. Dark and diffiult </speech>
                          times lie ahead. Soon we must all face </speech>
                          the choice between what is right what </speech>
@@ -5415,8 +5415,8 @@
  
               <setting>EXT. HOGWARTS</setting>
 
-<sd>There's a large crowd gathered, the pupils are going home. <ref name="Viktor Krum">Viktor</ref> </sd>
-<sd><ref name="Viktor Krum">Krum</ref> gives <ref name="Hermione">Hermione</ref> a kiss and hands her some paper.</sd>
+<sd>There's a large crowd gathered, the pupils are going home. <ref name="Viktor_Krum">Viktor</ref> </sd>
+<sd><ref name="Viktor_Krum">Krum</ref> gives <ref name="Hermione_Granger">Hermione</ref> a kiss and hands her some paper.</sd>
  
 
 
@@ -5428,13 +5428,13 @@
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          Bye.</speech>
 
-<sd><ref name="Ron">Ron</ref> is sitting alone. The french sisters approach him, they both </sd>
+<sd><ref name="Ron_Weasley">Ron</ref> is sitting alone. The french sisters approach him, they both </sd>
 <sd>in turn give him a kiss on the head.</sd>
  
 
 
 <speech><speaker name="FLEUR">FLEUR</speaker>
-                         Au revoir <ref name="Ron">Ron</ref>.</speech>
+                         Au revoir <ref name="Ron_Weasley">Ron</ref>.</speech>
 
 <sd>The Beauxbatons girls leave in uniform, the crowd applauds. The </sd>
 <sd>Durmstrang boys leave too, shaking hands as they go.</sd>
@@ -5480,7 +5480,7 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Harry">Harry</ref>  will won't you?</speech>
+                         <ref name="Harry_Potter">Harry</ref>  will won't you?</speech>
 
 
 

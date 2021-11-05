@@ -24,7 +24,7 @@ s. (Viktor Krum|Viktor|Krum) r. <ref name="Viktor Krum">\1</ref>
 s. (Sirius Black|Sirius|Black) r. <ref name="Sirius Black">\1</ref>
 s. Barty AND (Bartimus Crouch|Barty Crouch|Mr Crouch) r. went through and marked Barty Crouch and Barty Crouch Junior manually, used <ref name="Bartimus Crouch"></ref> and <ref name="Barty Crouch Junior"></ref>
 s. (Fleur Delacour|Miss Delacour|Fleur) r. <ref name="Fleur Delacour">\1</ref>
-s. (Madame Maxime|Maxime) r. <ref name="Madame Maxine">\1</ref>
+s. (Madame Maxime|Maxime) r. <ref name="Madame Maxime">\1</ref>
 s. (Rubeus Hagrid|Monsieur Hagrid|Hagrid) r. <ref name="Rubeus Hagrid">\1</ref>
 s. (Peter Pettigrew|Peter|Wormtail) r. <ref name="Peter Pettigrew">\1</ref>
 s. (Moaning Myrtle|Myrtle) r. <ref name="Moaning Myrtle">\1</ref>
@@ -37,7 +37,7 @@ s. (Seamus Finnigan|Mr Finnigan|Seamus) r. <ref name="Seamus Finnigan">\1</ref>
 s. (Argus Filch|Filch) r. <ref name="Argus Filch">\1</ref>
 s. (Padma Patil|Padma) STRING NOT FOUND
 s. (Parvati Patil|Parvati) r. <ref name="Parvati Patil">\1</ref>
-s. (Minerva McGonagall|McGonagall|Professor McGonagall|Professor
+s. (Minerva McGonagall|McGonagall|Professor McGonagall) r. <ref name="Minerva_McGonagall">\1</ref>
 s. (Severus Snape|Professor Snape|Snape|Severus) r. <ref name="Severus Snape">\1</ref>
 s. (Rita Skeeter|Ms Skeeter|Rita|Skeeter) r. <ref name="Rita Skeeter">\1</ref>
 s. (Vincent Crabbe|Crabbe|Vincent) STRING NOT FOUND
@@ -56,4 +56,4 @@ s. (Dobby) STRING NOT FOUND
 s. (Nagini) r. <creature name="\1">\1</creature>
 s. (Dragons) r. <creature name="Dragon">\1</creature>
 s. (Merpeople|merpeople|mermaid|mermaids) r. <creature name="Merepeople">\1</creature>
-s. 
+EDIT: replaced all the spaced in ref tags with _
