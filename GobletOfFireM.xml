@@ -88,7 +88,7 @@
                          Step aside so I can give our guest a </speech>
                          proper greeting.</speech>
  
-<sd>A loud spell is cast and <ref name="Harry_Potter">Harry</ref>  wakes up in a flash of panic.</sd>
+<sd>A loud <spell type="curse" name="Avada Kedavra">spell</spell> is cast and <ref name="Harry_Potter">Harry</ref>  wakes up in a flash of panic.</sd>
  
           INT. BEDROOM
 
@@ -97,7 +97,7 @@
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          <ref name="Harry_Potter">Harry</ref> !</speech>
 
-<sd><ref name="Harry_Potter">Harry</ref>  is flustered and still panicing.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is flustered and still panicking.</sd>
 
 
 
@@ -509,7 +509,7 @@
               <setting>EXT. OUTSIDE - TIME PASSED</setting>
 
 <sd>The crowds have all gone. A man walks through the rubble kicking </sd>
-<sd>at things. He casts a spell which causes a bright flash and a </sd>
+<sd>at things. He casts a <spell type="dark charm" name="Mosmordrespell">spell</spell> which causes a bright flash and a </sd>
 <sd>large ghostly skull forms in the sky with a snake crawling from </sd>
 <sd>it. The man grins evilly, clearly demented. <ref name="Harry_Potter">Harry</ref>  stirs and witnesses </sd>
 <sd>the man standing there. <ref name="Harry_Potter">Harry</ref>  runs. The familiar voices of <ref name="Ron_Weasley">Ron</ref> </sd>
@@ -1032,7 +1032,7 @@
 
 <speech><speaker name="RON">RON</speaker>
                          Well, my dad did tell me about one... </speech>
-                         The imperious curse.</speech>
+                         The <spell type="curse">imperious</spell> curse.</speech>
  
 
 
@@ -1087,7 +1087,7 @@
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          Scores of witches and wizards have claimed </speech>
                          that they only do did you-know-whose </speech>
-                         bidding under the influence of the imperious </speech>
+                         bidding under the influence of the <spell type="curse">imperious</spell> </speech>
                          curse. But here's the rub, how do we </speech>
                          sort out the liars? Another.. another.. </speech>
                          Come on come on. Longbottom is it? Up.</speech>
@@ -1104,7 +1104,7 @@
 
 
 <speech><speaker name="NEVILLE">NEVILLE</speaker>
-                         There's the um... The cruciatus curse.</speech>
+                         There's the um... The <spell type="curse">cruciatus</spell> curse.</speech>
  
                          
 
@@ -1131,7 +1131,7 @@
                          Perhaps you could give us the last unforgivable </speech>
                          curse Miss <ref name="Granger">Granger</ref>.</speech>
  
-<sd><ref name="Hermione_Granger">Hermione</ref> shakes her head. He casts a spell and the spider disintegrates.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> shakes her head. He casts a <spell type="curse" name="Avada Kedavra">spell</spell> and the spider disintegrates.</sd>
  
                
 
@@ -1226,7 +1226,7 @@
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         You see this? This is an age line. <ref name="Albus_Dumbledore">Dumbledore</ref> </speech>
+                         You see this? This is an <spell type="charm">age line</spell>. <ref name="Albus_Dumbledore">Dumbledore</ref> </speech>
                          drew it himself.</speech>
  
 
@@ -2529,7 +2529,7 @@
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          Your wand harry! Your wand!</speech>
 
-<sd><ref name="Harry_Potter">Harry</ref>  summons a broom. He jumps on and flies off, the dragon </sd>
+                         <sd><ref name="Harry_Potter">Harry</ref> <spell type="charm" name="Accio">summons</spell> a broom. He jumps on and flies off, the dragon </sd>
 <sd>gives chase. The dragon bursts through the crowd and they look </sd>
 <sd>stunned.</sd>
  
@@ -3956,7 +3956,7 @@
 
 <sd><ref name="Ron_Weasley">Ron</ref> and the girl come up, they are coughing but safe. They're </sd>
 <sd>helped out of the water by a girl from Beauxbatons. Underwater </sd>
-<sd><ref name="Harry_Potter">Harry</ref>  casts a spell which propels him towards the surface, he </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  casts a <spell type="charm" name="Ascendio">spell</spell> which propels him towards the surface, he </sd>
 <sd>flies out and lands on the decking where the crowd are.</sd>
  
 
@@ -4389,7 +4389,7 @@
 <speech><speaker name="IGOR">IGOR</speaker>
                          I know for a fact this person took part </speech>
                          in the capture, and by means of the </speech>
-                         cruciatus curse, torture of the aurer </speech>
+                         <spell type="curse">cruciatus</spell> curse, torture of the aurer </speech>
                          <ref name="Frank Longbottom">Frank Longbottom</ref> and...</speech>
  
 
@@ -4781,7 +4781,7 @@
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
                          Kill the spare.</speech>
 
-<sd><ref name="Peter_Pettigrew">Wormtail</ref> casts a spell and kills <ref name="Cedric_Diggory">Cedric</ref>.</sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> casts a <spell type="curse" name="Avada Kedavra">spell</spell> and kills <ref name="Cedric_Diggory">Cedric</ref>.</sd>
 
 
 
@@ -4973,7 +4973,7 @@
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
                          That's better. And now...</speech>
 
-<sd><ref name="Voldemort">Voldemort</ref> casts at <ref name="Harry_Potter">Harry</ref>  and he wriggles in pain.</sd>
+<sd><ref name="Voldemort">Voldemort</ref> <spell type="curse" name="Crucio"></spell>casts at <ref name="Harry_Potter">Harry</ref>  and he wriggles in pain.</sd>
 
 
 
@@ -5006,7 +5006,7 @@
 <speech><speaker name="HARRY">HARRY</speaker>
                          Have it your way.</speech>
 
-<sd>They both cast and their streams of magic meet. They both struggle.</sd>
+<sd>They both cast<spell type="curse" name="Avada Kedavra"></spell><spell type="charm" name="Expelliarmus"></spell> and their streams of magic meet. They both struggle.</sd>
  
                
 

@@ -57,3 +57,4 @@ s. (Nagini) r. <creature name="\1">\1</creature>
 s. (Dragons) r. <creature name="Dragon">\1</creature>
 s. (Merpeople|merpeople|mermaid|mermaids) r. <creature name="Merepeople">\1</creature>
 EDIT: replaced all the spaced in ref tags with _
+s. addded <spell type="" name=""></spell> to the spells mentioned.  
