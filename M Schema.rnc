@@ -1,6 +1,0 @@
-datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
-
-start = root
-root = element root { title, movie_writer, sd, speech, speaker, ref}
-#Need to add attributes. Also, how will we want to format the elements since the stacking of elements is strange with our script.
-#only attribute I could find was @=name

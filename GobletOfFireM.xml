@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-                         <title>HARRY POTTER AND THE GOBLET OF FIRE</title>
+                         <info><title>HARRY POTTER AND THE GOBLET OF FIRE</title>
 
 
                                         Written by
 
-                         <movie_writer>Steven Kloves</movie_writer> 
+                         Steven Kloves
 
 
                                    Based on the book by
@@ -18,7 +18,7 @@
    IMSDb.com
 
 
-                     Please respect the work and keep the credits intact.
+                     Please respect the work and keep the credits intact.</info>
 
 
                
@@ -40,7 +40,7 @@
               <setting>EXT. DARKNESS</setting>
 
 <sd>The old man is wandering up to the house carrying a lit torch. </sd>
-<sd>He opens the front door, inside is just as dark. He begins climbing </sd>
+He opens the front door, inside is just as dark. He begins climbing </sd>
 <sd>the stairs, we hear whispers and hushed voices coming from upstairs. </sd>
 <sd>The old man waits outside the room where the conversation is </sd>
 <sd>taking place and listens on.</sd>
@@ -48,8 +48,8 @@
 
 
 <speech><speaker name="WORMTAIL">WORMTAIL</speaker>
-                         Oh no no no <ref name="Voldemort">my Lord Voldemort</ref>. I only </speech>
-                         meant... perhaps if we were to do it </speech>
+                         Oh no no no <ref name="Voldemort">my Lord Voldemort</ref>. I only 
+                         meant... perhaps if we were to do it 
                          without the boy..</speech>
  
 
