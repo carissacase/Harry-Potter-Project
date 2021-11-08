@@ -1,8 +1,8 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start= root
-root= element root {title,movie_writer,sd+, speech+}
-title= element title {text}
-movie_writer= element movie_writer {text}
+root= element root {title, speech+}
+title= element title {info,text}
+info= element info {text}
 sd= element sd {setting*, ref*+?, spell*+?, text}
 setting= element setting {
 
