@@ -1,10 +1,16 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 start= root
-root= element root {title, speech+}
-title= element title {info,text}
-info= element info {text}
-sd= element sd {setting*, ref*+?, spell*+?, text}
-setting= element setting {
+root= element root {info, div}
+info= element info {title, text}
+title= element title {text}
+div= element div {(sd | speech | setting | text)+}
+sd= element sd {(setting | text)+}
+setting= element setting {text}
+speech= element speech {(speaker | ref | text)+}
+speaker= element speaker {(name | text)+}
+ref= element ref {(name | text)+}
+name= attribute name {text}
+
 
 
 
