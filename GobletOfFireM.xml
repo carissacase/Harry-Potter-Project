@@ -55,8 +55,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         NO! The boy is everything, it cannot </speech>
-                         be done without him and it WILL be done </speech>
+                         NO! The boy is everything, it cannot 
+                         be done without him and it WILL be done 
                          exactly as I say.</speech>
  
 
@@ -68,7 +68,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Good. First, gather our old comrades. </speech>
+                         Good. First, gather our old comrades. 
                          Send them a sign.</speech>
  
 <sd>A snake slithers past the old man and into the room. </sd>
@@ -76,7 +76,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         <creature name="Nagini">Nagini</creature> tells me the old caretaker is </speech>
+                         <creature name="Nagini">Nagini</creature> tells me the old caretaker is 
                          standing outside the door.</speech>
  
 <sd><ref name="Peter_Pettigrew">Wormtail</ref> stands in the doorway and looks at the old man. The </sd>
@@ -85,7 +85,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Step aside so I can give our guest a </speech>
+                         Step aside so I can give our guest a 
                          proper greeting.</speech>
  
 <sd>A loud <spell type="curse" name="Avada Kedavra">spell</spell> is cast and <ref name="Harry_Potter">Harry</ref>  wakes up in a flash of panic.</sd>
@@ -107,7 +107,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Hermione_Granger">Hermione</ref>. Bad dream. When did you get </speech>
+                         <ref name="Hermione_Granger">Hermione</ref>. Bad dream. When did you get 
                          here?</speech>
  
 
@@ -135,8 +135,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Honestly. Get dressed, and don't go </speech>
-                         back to sleep. Come on <ref name="Ron_Weasley">Ron</ref>! Your mother </speech>
+                         Honestly. Get dressed, and don't go 
+                         back to sleep. Come on <ref name="Ron_Weasley">Ron</ref>! Your mother 
                          says breakfast's ready.</speech>
  
               <setting>EXT. GRASSLAND</setting>
@@ -165,21 +165,21 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         Sorry <ref name="Amos_Diggory">Amos</ref>. Some of us had a bit of </speech>
-                         a sleepy start. This is <ref name="Amos_Diggory">Amos Diggory</ref> </speech>
-                         everyone, he works with me at the ministry. </speech>
-                         And this strapping young lad must be </speech>
+                         Sorry <ref name="Amos_Diggory">Amos</ref>. Some of us had a bit of 
+                         a sleepy start. This is <ref name="Amos_Diggory">Amos Diggory</ref>
+                         everyone, he works with me at the ministry. 
+                         And this strapping young lad must be 
                          <ref name="Cedric_Diggory">Cedric</ref>, am I right?</speech>
  
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         Yes sir. </speech>
+                         Yes sir. 
 
 
 
 <speech><speaker name="AMOS">AMOS</speaker>
-                         Merlin's beard, you must be  <ref name="Harry Potter">Harry Potter</ref> .</speech>
+                         Merlin's beard, you must be  <ref name="Harry Potter">Harry Potter</ref> .
  
                          
 
@@ -217,7 +217,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Why are they all standing around that </speech>
+                         Why are they all standing around that 
                          manky old boot?</speech>
  
 
@@ -301,7 +301,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         Well kids, welcome to the Quidditch </speech>
+                         Well kids, welcome to the Quidditch 
                          World Cup!</speech>
  
 <sd>They walk into the crowd, taking in the sights. Music is playing </sd>
@@ -311,7 +311,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="AMOS">AMOS</speaker>
-                         Parting of the waves I think old chap, </speech>
+                         Parting of the waves I think old chap, 
                          see you at the match.</speech>
  
 <sd><ref name="Amos_Diggory">Amos</ref> and <ref name="Cedric_Diggory">Cedric</ref> separate and walk off.</sd>
@@ -334,7 +334,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         Girls. Choose a bunk and unpack. <ref name="Ron_Weasley">Ron</ref>, </speech>
+                         Girls. Choose a bunk and unpack. <ref name="Ron_Weasley">Ron</ref>, 
                          get out of the kitchen we're all hungry.</speech>
  
                          
@@ -379,21 +379,21 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="LUCIUS">LUCIUS</speaker>
-                         Well put it this way, if it rains... </speech>
+                         Well put it this way, if it rains... 
                          you'll be the first to know</speech>
  
 
 
 <speech><speaker name="DRACO">DRACO</speaker>
-                         Father and I are in the minister's box, </speech>
+                         Father and I are in the minister's box, 
                          by personal invitation of <ref name="Cornelius_Fudge">Cornelius 
                          Fudge</ref> himself.</speech>
  
 
 
 <speech><speaker name="LUCIUS">LUCIUS</speaker>
-                         Don't boast <ref name="Draco_Malfoy">Draco</ref>. There's no need with </speech>
-                         these people. Do enjoy yourself won't </speech>
+                         Don't boast <ref name="Draco_Malfoy">Draco</ref>. There's no need with 
+                         these people. Do enjoy yourself won't 
                          you. While you can.</speech>
  
 <sd>The ceremonies begin. Balloons fly and fireworks go off.</sd>
@@ -401,8 +401,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         Come on up, take your seats. I told </speech>
-                         you these seats would be worth waiting </speech>
+                         Come on up, take your seats. I told 
+                         you these seats would be worth waiting 
                          for.</speech>
  
 
@@ -444,9 +444,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="ANNOUNCER">ANNOUNCER</speaker>
-                         Good evening! It gives me great pleasure </speech>
-                         to welcome each and every one of you </speech>
-                         to the final of the 422nd Quidditch </speech>
+                         Good evening! It gives me great pleasure 
+                         to welcome each and every one of you 
+                         to the final of the 422nd Quidditch 
                          World Cup. Let the match begin!</speech>
  
               <setting>INT. TENT</setting>
@@ -454,8 +454,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         There's no one like <ref name="Viktor_Krum">Krum</ref>. He's like </speech>
-                         a bird the way he rides the wind. He's </speech>
+                         There's no one like <ref name="Viktor_Krum">Krum</ref>. He's like 
+                         a bird the way he rides the wind. He's 
                          more than an athlete, he's an artist.</speech>
  
                          
@@ -478,19 +478,19 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="BOYS">BOYS</speaker>
-                         When we're apart my heart beats only </speech>
+                         When we're apart my heart beats only 
                          for youuu!</speech>
  
 
 
 <speech><speaker name="FRED">FRED</speaker>
-                         Sounds like the irish have got their </speech>
+                         Sounds like the irish have got their 
                          pride on.</speech>
  
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         Stop! Stop it. It's not the irish. We've </speech>
+                         Stop! Stop it. It's not the irish. We've 
                          gotta get out of here. Now.</speech>
  
               <setting>EXT. OUTSIDE THE TENT</setting>
@@ -498,8 +498,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
-                         Get back to the portkey everybody, and </speech>
-                         stick together. <ref name="Fred_Weasley">Fred</ref>, <ref name="George_Weasley">George</ref>... <ref name="Ginny_Weasley">Ginny</ref> </speech>
+                         Get back to the portkey everybody, and 
+                         stick together. <ref name="Fred_Weasley">Fred</ref>, <ref name="George_Weasley">George</ref>... <ref name="Ginny_Weasley">Ginny</ref> 
                          is your responsibility.</speech>
  
 <sd>Some figures in pointed hoods carrying flaming torches are walking </sd>
@@ -518,7 +518,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Been looking for you for ages. Thought </speech>
+                         Been looking for you for ages. Thought 
                          we lost you.</speech>
  
 
@@ -555,7 +555,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         Do not lie! You have been discovered </speech>
+                         Do not lie! You have been discovered 
                          at the scene of the crime!</speech>
  
 
@@ -581,9 +581,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Those people tonight, in the masks... </speech>
-                         they're his too aren't they? they're </speech>
-                         his followers. </speech>
+                         Those people tonight, in the masks... 
+                         they're his too aren't they? they're 
+                         his followers.</speech>
  
 
 
@@ -618,7 +618,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="LADY OFFSCREEN">LADY OFFSCREEN</speaker>
-                         Anything from the trolley? Anything </speech>
+                         Anything from the trolley? Anything 
                          from the trolley?</speech>
  
 <sd>The lady appears at their door.</sd>
@@ -679,15 +679,15 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         This is horrible, how can the ministry </speech>
-                         not know who conjured it. Isn't there </speech>
+                         This is horrible, how can the ministry 
+                         not know who conjured it. Isn't there 
                          any security or?</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Loads according to Dad, that's what </speech>
-                         worried them so much. Happened right </speech>
+                         Loads according to Dad, that's what 
+                         worried them so much. Happened right 
                          under their noses.</speech>
  
 <sd><ref name="Hermione_Granger">Hermione</ref> sees <ref name="Harry_Potter">Harry</ref>  rubbing his head.</sd>
@@ -706,8 +706,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         You know <ref name="Sirius_Black">Sirius</ref> will want to hear about </speech>
-                         this. What you saw at the world cup, </speech>
+                         You know <ref name="Sirius_Black">Sirius</ref> will want to hear about 
+                         this. What you saw at the world cup, 
                          and the dream.</speech>
  
 <sd><ref name="Harry_Potter">Harry</ref>  has written a letter, he marks <ref name="Sirius_Black">Sirius Black</ref> on an envelope </sd>
@@ -726,7 +726,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Well there's something you don't see </speech>
+                         Well there's something you don't see 
                          every day.</speech>
  
 <sd>A large ship emerges from under the water and approaches too.</sd>
@@ -735,10 +735,10 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Now we're all settled in and sorted, </speech>
-                         I'd like to make an announcement. This </speech>
-                         castle will not only be your home this </speech>
-                         year but home to some very special guests </speech>
+                         Now we're all settled in and sorted, 
+                         I'd like to make an announcement. This 
+                         castle will not only be your home this 
+                         year but home to some very special guests 
                          as well. You see Hogwarts has been choosen...</speech>
  
                          
@@ -748,19 +748,19 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         So Hogwarts has been choosen to host </speech>
-                         a legendary event. The Tri-Wizard tournament. </speech>
-                         Now for those of you who do not know, </speech>
-                         the tri-wizard tournament brings together </speech>
-                         three schools for a series of magical </speech>
-                         contests. From each school a single </speech>
-                         contestant is selected to compete. Now </speech>
-                         let me be clear, if choosen you stand </speech>
-                         alone. And trust me when I say these </speech>
-                         contests are not for the faint hearted, </speech>
-                         but more of that later. For now please </speech>
-                         join me in welcoming the lovely ladies </speech>
-                         of the Beauxbatons Academy of magic </speech>
+                         So Hogwarts has been choosen to host 
+                         a legendary event. The Tri-Wizard tournament. 
+                         Now for those of you who do not know, 
+                         the tri-wizard tournament brings together 
+                         three schools for a series of magical 
+                         contests. From each school a single 
+                         contestant is selected to compete. Now 
+                         let me be clear, if choosen you stand 
+                         alone. And trust me when I say these 
+                         contests are not for the faint hearted, 
+                         but more of that later. For now please 
+                         join me in welcoming the lovely ladies 
+                         of the Beauxbatons Academy of magic 
                          and their headmistress Madam <ref name="Madame_Maxime">Maxime</ref>.</speech>
  
                          
@@ -775,8 +775,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         And now our friends from the north, </speech>
-                         please greet the proud sons of Durmstrang </speech>
+                         And now our friends from the north, 
+                         please greet the proud sons of Durmstrang 
                          and the high master <ref name="Igor_Karkaroff">Igor Karkaroff</ref>.</speech>
  
                          
@@ -808,21 +808,21 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MADAME MAXIME">MADAME MAXIME</speaker>
-                         <ref name="Albus_Dumbledore">Professor Dumbledore</ref>, my horses have </speech>
-                         travelled a long way. They will need </speech>
+                         <ref name="Albus_Dumbledore">Professor Dumbledore</ref>, my horses have 
+                         travelled a long way. They will need 
                          attending to.</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Not to worry <ref name="Madame_Maxime">Madame Maxime</ref>, our gamekeeper </speech>
-                         <ref name="Rubeus_Hagrid">Hagrid</ref>'s more than capable of seeing </speech>
+                         Not to worry <ref name="Madame_Maxime">Madame Maxime</ref>, our gamekeeper 
+                         <ref name="Rubeus_Hagrid">Hagrid</ref>'s more than capable of seeing 
                          to them.</speech>
  
 
 
 <speech><speaker name="MADAME MAXIME">MADAME MAXIME</speaker>
-                         But you know <ref name="Rubeus_Hagrid">Monsieur Hagrid</ref>, they drink </speech>
+                         But you know <ref name="Rubeus_Hagrid">Monsieur Hagrid</ref>, they drink 
                          only single malt whiskey.</speech>
  
 <sd>The man seated next to <ref name="Rubeus_Hagrid">Hagrid</ref> yelps. <ref name="Rubeus_Hagrid">Hagrid</ref> has stabbed a fork </sd>
@@ -838,11 +838,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Your attention please! I would like </speech>
-                         to say a few words. Eternal glory, that </speech>
-                         is what awaits the student who wins </speech>
-                         the tri-wizard tournament. But to do </speech>
-                         this that student must survive three </speech>
+                         Your attention please! I would like 
+                         to say a few words. Eternal glory, that 
+                         is what awaits the student who wins 
+                         the tri-wizard tournament. But to do 
+                         this that student must survive three 
                          tasks. Three extremely dangerous tasks.</speech>
  
                          
@@ -854,10 +854,10 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         For this reason the ministry has seen </speech>
-                         fit to impose a new rule. To explain </speech>
-                         all this we have the head of the department </speech>
-                         of international magic cooperation <ref name="Bartimus_Crouch">Mister </speech>
+                         For this reason the ministry has seen 
+                         fit to impose a new rule. To explain 
+                         all this we have the head of the department 
+                         of international magic cooperation <ref name="Bartimus_Crouch">Mister 
                          Bartimus Crouch</ref>.</speech>
  
 <sd>Thunder roars overhead, rain begins leaking through the roof </sd>
@@ -878,9 +878,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         He was a catcher. Half the cells in </speech>
-                         Azkaban are full thanks to him. He's </speech>
-                         supposed to be mad as a hatter though </speech>
+                         He was a catcher. Half the cells in 
+                         Azkaban are full thanks to him. He's 
+                         supposed to be mad as a hatter though 
                          these days.</speech>
  
 <sd>This character enters the room and begins walking. We see <ref name="Harry_Potter">Harry</ref>  </sd>
@@ -909,17 +909,17 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I don't know but I don't think it's </speech>
+                         I don't know but I don't think it's 
                          Pumpkin Juice.</speech>
  
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         After much deliberation the ministry </speech>
-                         has concluded that for their own safety </speech>
-                         no student under the age of seventeen </speech>
-                         shall be allowed to put forth their </speech>
-                         name for the tri-wizard tournament. </speech>
+                         After much deliberation the ministry 
+                         has concluded that for their own safety 
+                         no student under the age of seventeen 
+                         shall be allowed to put forth their 
+                         name for the tri-wizard tournament. 
                          This decision is final.</speech>
  
 <sd>The crowd is unsettled, people are booing.</sd>
@@ -927,13 +927,13 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="GEORGE">GEORGE</speaker>
-                         That's rubbish! You don't know what </speech>
+                         That's rubbish! You don't know what 
                          you're doing!</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Silence! </speech>
+                         Silence!</speech>
 
 <sd><ref name="Albus_Dumbledore">Dumbledore</ref> casts magic over a box which melds into a goblet containing </sd>
 <sd>a blue flame.</sd>
@@ -941,13 +941,13 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         The goblet of fire. Anyone wishing to </speech>
-                         submit themselves for the tournament </speech>
-                         merely write their name upon a piece </speech>
-                         of parchment and throw it in the flame </speech>
-                         before this hour on Thursday night. </speech>
-                         Do not do so lightly, if choosen there's </speech>
-                         no turning back. As from this moment </speech>
+                         The goblet of fire. Anyone wishing to 
+                         submit themselves for the tournament 
+                         merely write their name upon a piece 
+                         of parchment and throw it in the flame 
+                         before this hour on Thursday night. 
+                         Do not do so lightly, if choosen there's 
+                         no turning back. As from this moment 
                          the tri-wizard tournament has begun.</speech>
  
    <setting>INT. ASSEMBLY ROOM - NIGHT</setting>
@@ -967,13 +967,13 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Ministry malcontent. And your new defence </speech>
-                         against the dark arts teacher. I'm here </speech>
-                         because <ref name="Albus_Dumbledore">Dumbledore</ref> asked me, end of </speech>
-                         story, goodbye, the end. Any questions? </speech>
-                         When it comes to the dark arts, I believe </speech>
-                         in a practical approach. But first, </speech>
-                         which of you can tell me how many unforgivable </speech>
+                         Ministry malcontent. And your new defence 
+                         against the dark arts teacher. I'm here 
+                         because <ref name="Albus_Dumbledore">Dumbledore</ref> asked me, end of 
+                         story, goodbye, the end. Any questions? 
+                         When it comes to the dark arts, I believe 
+                         in a practical approach. But first, 
+                         which of you can tell me how many unforgivable 
                          curses there are?</speech>
  
 
@@ -989,25 +989,25 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Because they are unforgivable. Use of </speech>
+                         Because they are unforgivable. Use of 
                          any one of them will...</speech>
  
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Will earn you a one way ticket to Azkaban. </speech>
-                         Correct. Now the ministry says you're </speech>
-                         too young to see what these curses do. </speech>
-                         I say different! You need to know what </speech>
-                         you're up against, you need to be prepared, </speech>
-                         you need to find somewhere else to put </speech>
-                         your chewing gum other than the underside </speech>
+                         Will earn you a one way ticket to Azkaban. 
+                         Correct. Now the ministry says you're 
+                         too young to see what these curses do. 
+                         I say different! You need to know what 
+                         you're up against, you need to be prepared, 
+                         you need to find somewhere else to put 
+                         your chewing gum other than the underside 
                          of your desk <ref name="Seamus_Finnigan">Mr Finnigan</ref>!</speech>
  
 
 
 <speech><speaker name="PUPIL">PUPIL</speaker>
-                         Aw no way, the old codger can see out </speech>
+                         Aw no way, the old codger can see out 
                          the back of his head.</speech>
  
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> throws the chalk in anger.</sd>
@@ -1015,7 +1015,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         So, which curse shall we see first? </speech>
+                         So, which curse shall we see first? 
                          WEASLEY!</speech>
  
 
@@ -1031,15 +1031,15 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Well, my dad did tell me about one... </speech>
+                         Well, my dad did tell me about one... 
                          The <spell type="curse">imperious</spell> curse.</speech>
  
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Ahhh yes, your father would know all </speech>
-                         about that. Gave the ministry quite </speech>
-                         a bit of grief a few years ago. Perhaps </speech>
+                         Ahhh yes, your father would know all 
+                         about that. Gave the ministry quite 
+                         a bit of grief a few years ago. Perhaps 
                          this will show you why.</speech>
  
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> pops open a jar with a spider in it.</sd>
@@ -1047,7 +1047,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Hello. What a little beauty. </speech>
+                         Hello. What a little beauty.</speech>
 
 <sd>He uses his wand to send it around the class.</sd>
 
@@ -1075,8 +1075,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Talented isn't she? What shall I have </speech>
-                         her do next? Jump out the window? Drown </speech>
+                         Talented isn't she? What shall I have 
+                         her do next? Jump out the window? Drown 
                          herself?</speech>
  
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> has the spider over a bucket of water, it's wriggling.</sd>
@@ -1085,11 +1085,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Scores of witches and wizards have claimed </speech>
-                         that they only do did you-know-whose </speech>
-                         bidding under the influence of the <spell type="curse">imperious</spell> </speech>
-                         curse. But here's the rub, how do we </speech>
-                         sort out the liars? Another.. another.. </speech>
+                         Scores of witches and wizards have claimed 
+                         that they only do did you-know-whose 
+                         bidding under the influence of the <spell type="curse">imperious</spell> 
+                         curse. But here's the rub, how do we 
+                         sort out the liars? Another.. another.. 
                          Come on come on. Longbottom is it? Up.</speech>
  
                          
@@ -1098,7 +1098,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Professor Sprout tells me you have an </speech>
+                         Professor Sprout tells me you have an 
                          aptitude for herbology.</speech>
  
 
@@ -1110,7 +1110,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Correct! Correct! come come. Particularly </speech>
+                         Correct! Correct! come come. Particularly 
                          nasty. The torture curse.</speech>
  
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> begins torturing the spider with magic, it squeals.</sd>
@@ -1119,7 +1119,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Stop it! Can't you see it's bothering </speech>
+                         Stop it! Can't you see it's bothering 
                          him, stop it!</speech>
  
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> stops. <ref name="Neville_Longbottom">Neville</ref> is disturbed. <ref name="Alastor_Moody">Mad-Eye</ref> picks up the spider </sd>
@@ -1128,7 +1128,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Perhaps you could give us the last unforgivable </speech>
+                         Perhaps you could give us the last unforgivable 
                          curse Miss <ref name="Granger">Granger</ref>.</speech>
  
 <sd><ref name="Hermione_Granger">Hermione</ref> shakes her head. He casts a <spell type="curse" name="Avada Kedavra">spell</spell> and the spider disintegrates.</sd>
@@ -1137,8 +1137,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         The killing curse. Only one person is </speech>
-                         known to have survived it. And he's </speech>
+                         The killing curse. Only one person is 
+                         known to have survived it. And he's 
                          sitting in this room.</speech>
  
 <sd>He approaches <ref name="Harry_Potter">Harry</ref> 's desk and takes a drink.</sd>
@@ -1148,16 +1148,16 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Brilliant isn't he! Completely demented </speech>
-                         of course. Terrifying to be in the same </speech>
-                         room with, he's really BEEN there you </speech>
+                         Brilliant isn't he! Completely demented 
+                         of course. Terrifying to be in the same 
+                         room with, he's really BEEN there you 
                          know.</speech>
  
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         There's a reason those curses are unforgivable, </speech>
-                         and to perform them in a classroom. </speech>
+                         There's a reason those curses are unforgivable, 
+                         and to perform them in a classroom. 
                          I mean did you see <ref name="Neville_Longbottom">Neville</ref>'s face.</speech>
  
                          
@@ -1180,7 +1180,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Come on, we'll have a cup of tea. I </speech>
+                         Come on, we'll have a cup of tea. I 
                          want to show you something.</speech>
  
               <setting>INT. GOBLET ROOM</setting>
@@ -1191,8 +1191,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Eternal glory, be brilliant wouldn't </speech>
-                         it? In three years from now we'll be </speech>
+                         Eternal glory, be brilliant wouldn't 
+                         it? In three years from now we'll be 
                          old enough to be choosen.</speech>
  
 
@@ -1205,13 +1205,13 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="GEORGE">GEORGE</speaker>
-                         Thank you thank you, well lads we've </speech>
+                         Thank you thank you, well lads we've 
                          done it.</speech>
  
 
 
 <speech><speaker name="FRED">FRED</speaker>
-                         Cooked it up just this morning. </speech>
+                         Cooked it up just this morning. 
 
 
 
@@ -1226,7 +1226,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         You see this? This is an <spell type="charm">age line</spell>. <ref name="Albus_Dumbledore">Dumbledore</ref> </speech>
+                         You see this? This is an <spell type="charm">age line</spell>. <ref name="Albus_Dumbledore">Dumbledore</ref> 
                          drew it himself.</speech>
  
 
@@ -1237,8 +1237,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         So a genius like <ref name="Albus_Dumbledore">Dumbledore</ref> couldn't </speech>
-                         possibly be fooled by something pathetically </speech>
+                         So a genius like <ref name="Albus_Dumbledore">Dumbledore</ref> couldn't 
+                         possibly be fooled by something pathetically 
                          dimwitted such as an age potion.</speech>
  
 
@@ -1277,9 +1277,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Sit down please. And now the moment </speech>
-                         you've all been waiting for, the champions </speech>
-                         selection! </speech>
+                         Sit down please. And now the moment 
+                         you've all been waiting for, the champions 
+                         selection!</speech>
  
 <sd><ref name="Albus_Dumbledore">Dumbledore</ref> approaches the blue flame and it glows red. A name </sd>
 <sd>comes out. Everyone looks on anxiously.</sd>
@@ -1287,7 +1287,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         The Durmstrang champion is ... <ref name="Viktor_Krum">Viktor</ref> </speech>
+                         The Durmstrang champion is ... <ref name="Viktor_Krum">Viktor</ref> 
                          <ref name="Viktor_Krum">Krum</ref>!</speech>
  
 <sd>The Durmstrang crowd cheer. Another name comes out.</sd>
@@ -1295,7 +1295,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         The champion from Beauxbatons... <ref name="Fleur_Delacour">Fleur</ref> </speech>
+                         The champion from Beauxbatons... <ref name="Fleur_Delacour">Fleur</ref> 
                          Delacour</speech>
  
 <sd>The Beauxbatons girls cheer as <ref name="Fleur_Delacour">Fleur</ref> walks up. Another name comes </sd>
@@ -1312,10 +1312,10 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Excellent! we now have our three champions! </speech>
-                         But in the end only one will go down </speech>
-                         in history. Only one will hoist this </speech>
-                         chalice of champions, this vessel of </speech>
+                         Excellent! we now have our three champions! 
+                         But in the end only one will go down 
+                         in history. Only one will hoist this 
+                         chalice of champions, this vessel of 
                          victory the tri-wizard cup!</speech>
  
 <sd>People cheer, but the goblet glows red once more and another </sd>
@@ -1348,7 +1348,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOICE">VOICE</speaker>
-                         He's a cheat! He's not even seventeen </speech>
+                         He's a cheat! He's not even seventeen 
                          yet.</speech>
  
               <setting>INT. ROOM</setting>
@@ -1359,7 +1359,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         <ref name="Harry_Potter">Harry</ref> ! Did you put your name in the </speech>
+                         <ref name="Harry_Potter">Harry</ref> ! Did you put your name in the 
                          goblet of fire?</speech>
  
 
@@ -1370,7 +1370,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Did you ask one of the older students </speech>
+                         Did you ask one of the older students 
                          to do it for you?</speech>
  
 
@@ -1396,38 +1396,38 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         The hell he is. The goblet of fire is </speech>
-                         an exceptionally powerful magical object, </speech>
-                         only an exceptionally powerful conjurer </speech>
-                         could have hoodwinked it. Magic way </speech>
+                         The hell he is. The goblet of fire is 
+                         an exceptionally powerful magical object, 
+                         only an exceptionally powerful conjurer 
+                         could have hoodwinked it. Magic way 
                          beyond the talents of a fourth year.</speech>
  
                          
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         You seem to have given this a fair bit </speech>
+                         You seem to have given this a fair bit 
                          of thought <ref name="Alastor_Moody">Mad-Eye</ref>.</speech>
  
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         It was once my job to think as dark </speech>
+                         It was once my job to think as dark 
                          wizards do <ref name="Igor_Karkaroff">Karkaroff</ref> perhaps you remember?</speech>
  
                          
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         That doesn't help <ref name="Alastor_Moody">Alastor</ref>. Leave this </speech>
+                         That doesn't help <ref name="Alastor_Moody">Alastor</ref>. Leave this 
                          to you <ref name="Bartimus_Crouch">Barty</ref>.</speech>
  
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         The rules are absolute, the goblet of </speech>
-                         fire constitutes a binding magical contract. </speech>
-                         Mr Potter has no choice, he is as of </speech>
+                         The rules are absolute, the goblet of 
+                         fire constitutes a binding magical contract. 
+                         Mr Potter has no choice, he is as of 
                          tonight... a tri-wizards champion.</speech>
  
    <setting>INT. DARKENED TOWER ROOM</setting>
@@ -1435,7 +1435,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         This can't go on <ref name="Albus_Dumbledore">Albus</ref>. First the dark </speech>
+                         This can't go on <ref name="Albus_Dumbledore">Albus</ref>. First the dark 
                          mark, now this?</speech>
  
 
@@ -1458,29 +1458,29 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         Well the devil with <ref name="Bartimus_Crouch">Barty</ref> and his rules. </speech>
+                         Well the devil with <ref name="Bartimus_Crouch">Barty</ref> and his rules. 
                          And since when did you accomodate them...</speech>
  
                          
 
 
 <speech><speaker name="SEVERUS">SEVERUS</speaker>
-                         Master I too find it difficult to believe </speech>
-                         this mere coincidence, if we are to </speech>
-                         truly discover the meaning of these </speech>
-                         events perhaps we should for the time </speech>
+                         Master I too find it difficult to believe 
+                         this mere coincidence, if we are to 
+                         truly discover the meaning of these 
+                         events perhaps we should for the time 
                          being let them unfold.</speech>
  
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         Do nothing?? Offer him up as bait?  Potter  </speech>
+                         Do nothing?? Offer him up as bait?  Potter  
                          is a boy not a piece of meat.</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         I agree with <ref name="Severus_Snape">Severus</ref>. <ref name="Alastor_Moody">Alastor</ref>, keep </speech>
+                         I agree with <ref name="Severus_Snape">Severus</ref>. <ref name="Alastor_Moody">Alastor</ref>, keep 
                          an eye on <ref name="Harry_Potter">Harry</ref>  will you?</speech>
  
 
@@ -1491,8 +1491,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Don't let him know though, he must be </speech>
-                         anxious enough as it is... knowing what </speech>
+                         Don't let him know though, he must be 
+                         anxious enough as it is... knowing what 
                          lies ahead. Then again, we all are.</speech>
  
    <setting>INT. BEDROOM</setting>
@@ -1507,7 +1507,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Never mind. Doesn't matter. You could </speech>
+                         Never mind. Doesn't matter. You could 
                          have let your best friend know though.</speech>
  
                          
@@ -1524,22 +1524,22 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I didn't ask for this to happen <ref name="Ron_Weasley">Ron</ref>. </speech>
+                         I didn't ask for this to happen <ref name="Ron_Weasley">Ron</ref>. 
                          Okay? You're being stupid.</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Yeah that's me, <ref name="Ron_Weasley">Ron Weasley</ref> ... <ref name="Harry_Potter">Harry</ref>  </speech>
+                         Yeah that's me, <ref name="Ron_Weasley">Ron Weasley</ref> ... <ref name="Harry_Potter">Harry</ref>  
                          Potter's stupid friend.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I didn't put my name in that cup. I </speech>
-                         don't WANT eternal glory I just wanna </speech>
-                         be.. Look, I don't know what happened </speech>
-                         tonight and I don't know why, it just </speech>
+                         I didn't put my name in that cup. I 
+                         don't WANT eternal glory I just wanna 
+                         be.. Look, I don't know what happened 
+                         tonight and I don't know why, it just 
                          did ok.</speech>
  
 
@@ -1564,16 +1564,16 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RITA">RITA</speaker>
-                         I'm <ref name="Rita_Skeeter">Rita Skeeter</ref>, I write for the daily </speech>
-                         prophet. But of course you know that </speech>
-                         don't you. It's you we don't know, you're </speech>
-                         the news. What quirks lurk beneath those </speech>
-                         rosy cheeks? what mysteries do the muscles </speech>
-                         mask? does courage lie beneath those </speech>
-                         curls? In short, what makes a champion </speech>
-                         tick. Me, myself and I want to know. </speech>
-                         Not to mention my rabid readers. So, </speech>
-                         who's feeling up to sharing? Mmm? Shall </speech>
+                         I'm <ref name="Rita_Skeeter">Rita Skeeter</ref>, I write for the daily 
+                         prophet. But of course you know that 
+                         don't you. It's you we don't know, you're 
+                         the news. What quirks lurk beneath those 
+                         rosy cheeks? what mysteries do the muscles 
+                         mask? does courage lie beneath those 
+                         curls? In short, what makes a champion 
+                         tick. Me, myself and I want to know. 
+                         Not to mention my rabid readers. So, 
+                         who's feeling up to sharing? Mmm? Shall 
                          we start with the youngest. Lovely.</speech>
  
                          
@@ -1592,7 +1592,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RITA">RITA</speaker>
-                         You should feel right at home then. </speech>
+                         You should feel right at home then. 
                          Don't mind if I use the quill do you?</speech>
  
                          
@@ -1604,7 +1604,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RITA">RITA</speaker>
-                         So <ref name="Harry_Potter">Harry</ref> , here you sit, a mere boy of </speech>
+                         So <ref name="Harry_Potter">Harry</ref> , here you sit, a mere boy of 
                          twelve..</speech>
  
 
@@ -1616,21 +1616,21 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="RITA">RITA</speaker>
                          ...about to compete against three students. 
-                         Not only vastly more emotionally mature </speech>
-                         than yourself but have mastered spells </speech>
-                         that you wouldn't attempt in your dizziest </speech>
+                         Not only vastly more emotionally mature 
+                         than yourself but have mastered spells 
+                         that you wouldn't attempt in your dizziest 
                          daydreams. Concerned?</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I dunno I haven't really thought about </speech>
+                         I dunno I haven't really thought about 
                          it.</speech>
  
 
 
 <speech><speaker name="RITA">RITA</speaker>
-                         Course you're not just any ordinary </speech>
+                         Course you're not just any ordinary 
                          boy of twelve are you...</speech>
  
 
@@ -1641,9 +1641,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RITA">RITA</speaker>
-                         The story's legend. Do you think it </speech>
-                         was the trauma of your past that made </speech>
-                         you so keen to enter such a dangerous </speech>
+                         The story's legend. Do you think it 
+                         was the trauma of your past that made 
+                         you so keen to enter such a dangerous 
                          tournament.</speech>
  
 
@@ -1654,21 +1654,21 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RITA">RITA</speaker>
-                         Course you didn't. Everyone loves a </speech>
-                         rebel <ref name="Harry_Potter">Harry</ref> . (to the quill) Scratch </speech>
-                         that last. Speaking of your parents, </speech>
-                         were they alive, how do you think they'd </speech>
-                         feel? proud? or concerned that your </speech>
-                         attitude shows at best a pathological </speech>
-                         need for attention, at worst a psychotic </speech>
+                         Course you didn't. Everyone loves a 
+                         rebel <ref name="Harry_Potter">Harry</ref> . (to the quill) Scratch 
+                         that last. Speaking of your parents, 
+                         were they alive, how do you think they'd 
+                         feel? proud? or concerned that your 
+                         attitude shows at best a pathological 
+                         need for attention, at worst a psychotic 
                          deathwish.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
                          (looking at the notepad) Hey, my eyes 
-                         aren't glistening with the ghosts of </speech>
-                         my past. </speech>
+                         aren't glistening with the ghosts of 
+                         my past.</speech>
  
               <setting>INT. ROOFTOP</setting>
 
@@ -1679,12 +1679,12 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="SIR">SIR</speaker>
                          (VOICEOVER) <ref name="Harry_Potter">Harry</ref> . I couldn't risk sending 
-                         Edward. It was since the world cup and </speech>
-                         the ministry's been intercepting more </speech>
-                         and more owls and she's too easily recognised. </speech>
-                         We need to talk <ref name="Harry_Potter">Harry</ref> . Face to face. </speech>
-                         Meet me in the Griffindore common room </speech>
-                         at one o clock this Saturday night and </speech>
+                         Edward. It was since the world cup and 
+                         the ministry's been intercepting more 
+                         and more owls and she's too easily recognised. 
+                         We need to talk <ref name="Harry_Potter">Harry</ref> . Face to face. 
+                         Meet me in the Griffindore common room 
+                         at one o clock this Saturday night and 
                          make sure you're alone. P.S....</speech>
  
 <sd>The owl nips <ref name="Harry_Potter">Harry</ref> 's finger.</sd>
@@ -1713,8 +1713,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="RITA">RITA</speaker>
                          (VOICEOVER)  <ref name="Harry Potter">Harry Potter</ref>  aged 12, suspect 
-                         entrant in the tri-wizard tournament. </speech>
-                         His eyes swimming with the ghosts of </speech>
+                         entrant in the tri-wizard tournament. 
+                         His eyes swimming with the ghosts of 
                          his...</speech>
  
 <sd>Her voice becomes desperate as he crumples up the newspaper and </sd>
@@ -1729,9 +1729,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="SIR">SIR</speaker>
-                         I don't have much time <ref name="Harry_Potter">Harry</ref>  so let </speech>
-                         me get straight to it. Did you or did </speech>
-                         you not put your name into the goblet </speech>
+                         I don't have much time <ref name="Harry_Potter">Harry</ref>  so let 
+                         me get straight to it. Did you or did 
+                         you not put your name into the goblet 
                          of fire?</speech>
  
 
@@ -1742,9 +1742,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="SIR">SIR</speaker>
-                         Shh... I had to ask. Now, tell me about </speech>
-                         this dream of yours. You mentioned <ref name="Peter_Pettigrew">Wormtail</ref> </speech>
-                         and <ref name="Voldemort">Voldemort</ref>, but who was the third </speech>
+                         Shh... I had to ask. Now, tell me about 
+                         this dream of yours. You mentioned <ref name="Peter_Pettigrew">Wormtail</ref> 
+                         and <ref name="Voldemort">Voldemort</ref>, but who was the third 
                          man in the room?</speech>
  
 
@@ -1760,7 +1760,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         No. Umm.. <ref name="Voldemort">Voldemort</ref> was giving him a </speech>
+                         No. Umm.. <ref name="Voldemort">Voldemort</ref> was giving him a 
                          job to do. Something important.</speech>
  
 
@@ -1771,18 +1771,18 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         He wanted... me. I dunno why, but he </speech>
-                         was gonna use this man to get to me. </speech>
+                         He wanted... me. I dunno why, but he 
+                         was gonna use this man to get to me. 
                          I mean it was only a dream right?</speech>
  
                          
 
 
 <speech><speaker name="SIR">SIR</speaker>
-                         Yes. It's just a dream. Look <ref name="Harry_Potter">Harry</ref> , </speech>
-                         the deatheaters at the world cup, your </speech>
-                         name rising from that goblet these are </speech>
-                         not just coincidences. Hogwarts isn't </speech>
+                         Yes. It's just a dream. Look <ref name="Harry_Potter">Harry</ref> , 
+                         the deatheaters at the world cup, your 
+                         name rising from that goblet these are 
+                         not just coincidences. Hogwarts isn't 
                          safe any more.</speech>
  
 
@@ -1793,25 +1793,25 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="SIR">SIR</speaker>
-                         I'm saying the devils are inside the </speech>
-                         walls. <ref name="Igor_Karkaroff">Igor Karkaroff</ref>, he was a deatheater. </speech>
-                         And no one, no one stops being a deatheater. </speech>
-                         Then there's <ref name="Bartimus_Crouch">Barty Crouch</ref>, heart of </speech>
+                         I'm saying the devils are inside the 
+                         walls. <ref name="Igor_Karkaroff">Igor Karkaroff</ref>, he was a deatheater. 
+                         And no one, no one stops being a deatheater. 
+                         Then there's <ref name="Bartimus_Crouch">Barty Crouch</ref>, heart of 
                          stone, sent his OWN son to Azkaban.</speech>
  
                          
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Do you think one of them put my name </speech>
+                         Do you think one of them put my name 
                          in the goblet?</speech>
  
 
 
 <speech><speaker name="SIR">SIR</speaker>
-                         I haven't a clue who put your name in </speech>
-                         that goblet <ref name="Harry_Potter">Harry</ref>  but whoever did it </speech>
-                         is no friend to you. People die in this </speech>
+                         I haven't a clue who put your name in 
+                         that goblet <ref name="Harry_Potter">Harry</ref>  but whoever did it 
+                         is no friend to you. People die in this 
                          tournament.</speech>
  
 
@@ -1849,18 +1849,18 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         I heard voices. </speech>
+                         I heard voices.</speech>
 
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Maybe you're imagining things, wouldn't </speech>
+                         Maybe you're imagining things, wouldn't 
                          be the first time.</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         You're probably just practicing for </speech>
+                         You're probably just practicing for 
                          your next interview I expect.</speech>
  
 <sd><ref name="Ron_Weasley">Ron</ref> leaves. <ref name="Harry_Potter">Harry</ref>  goes to the fire again but <ref name="Sirius_Black">Sirius</ref> is gone. </sd>
@@ -1892,7 +1892,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="NEVILLE">NEVILLE</speaker>
-                         <ref name="Alastor_Moody">Moody</ref> gave it to me. That day we had </speech>
+                         <ref name="Alastor_Moody">Moody</ref> gave it to me. That day we had 
                          tea.</speech>
  
 <sd><ref name="Neville_Longbottom">Neville</ref> waves. <ref name="Hermione_Granger">Hermione</ref> and <ref name="Ron_Weasley">Ron</ref> are walking up to them.</sd>
@@ -1901,8 +1901,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          (Whispering to <ref name="Ron_Weasley">Ron</ref>) We've already been 
-                         through enough people why don't you </speech>
-                         just go and do it yourself? Ughh. What </speech>
+                         through enough people why don't you 
+                         just go and do it yourself? Ughh. What 
                          do you want me to say again?</speech>
  
 <sd><ref name="Ron_Weasley">Ron</ref> whispers some words to <ref name="Hermione_Granger">Hermione</ref>. It's clear <ref name="Ron_Weasley">Ron</ref> and <ref name="Harry_Potter">Harry</ref>  </sd>
@@ -1913,9 +1913,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Ronald">Ronald</ref>  would like me to tell you that </speech>
-                         <ref name="Seamus_Finnigan">Seamus</ref> told him that <ref name="Dean_Thomas">Dean</ref> was told by </speech>
-                         <ref name="Parvati_Patil">Parvati</ref> that <ref name="Rubeus_Hagrid">Hagrid</ref> was looking for </speech>
+                         <ref name="Ronald">Ronald</ref>  would like me to tell you that 
+                         <ref name="Seamus_Finnigan">Seamus</ref> told him that <ref name="Dean_Thomas">Dean</ref> was told by 
+                         <ref name="Parvati_Patil">Parvati</ref> that <ref name="Rubeus_Hagrid">Hagrid</ref> was looking for 
                          you.</speech>
  
 
@@ -1933,8 +1933,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Dean_Thomas">Dean</ref> was told by <ref name="Parvati_Patil">Parvati</ref> that... Please </speech>
-                         don't ask me say it again. <ref name="Rubeus_Hagrid">Hagrid</ref>'s </speech>
+                         <ref name="Dean_Thomas">Dean</ref> was told by <ref name="Parvati_Patil">Parvati</ref> that... Please 
+                         don't ask me say it again. <ref name="Rubeus_Hagrid">Hagrid</ref>'s 
                          looking for you.</speech>
  
 
@@ -1954,25 +1954,25 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         Did you bring your father's cloak like </speech>
+                         Did you bring your father's cloak like 
                          I asked you?</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Yeah I brought the cloak. <ref name="Rubeus_Hagrid">Hagrid</ref> where </speech>
+                         Yeah I brought the cloak. <ref name="Rubeus_Hagrid">Hagrid</ref> where 
                          are we going?</speech>
  
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         You'll see soon enough. Pay attention </speech>
+                         You'll see soon enough. Pay attention 
                          this is important.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         What's with the flower? <ref name="Rubeus_Hagrid">Hagrid</ref> have </speech>
+                         What's with the flower? <ref name="Rubeus_Hagrid">Hagrid</ref> have 
                          you combed your hair?</speech>
  
 <sd><ref name="Rubeus_Hagrid">Hagrid</ref> is looking more dapper than usual and is carrying a big </sd>
@@ -1981,7 +1981,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         As a matter of fact I have. You might </speech>
+                         As a matter of fact I have. You might 
                          like to try the same thing now and again.</speech>
  
                          
@@ -2007,8 +2007,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MADAME MAXIME">MADAME MAXIME</speaker>
-                         Oh <ref name="Rubeus_Hagrid">Hagrid</ref>. I thought you weren't coming, </speech>
-                         I thought perhaps... you had... forgotten </speech>
+                         Oh <ref name="Rubeus_Hagrid">Hagrid</ref>. I thought you weren't coming, 
+                         I thought perhaps... you had... forgotten 
                          me.</speech>
  
 
@@ -2019,7 +2019,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MADAME MAXIME">MADAME MAXIME</speaker>
-                         What is it you want to show me? When </speech>
+                         What is it you want to show me? When 
                          we spoke earlier you sounded so exhilirated.</speech>
  
                          
@@ -2047,23 +2047,23 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <creature name="Dragon">Dragons</creature>? That's the first task? You're </speech>
+                         <creature name="Dragon">Dragons</creature>? That's the first task? You're 
                          joking.</speech>
  
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         Come on <ref name="Harry_Potter">Harry</ref> . They're seriously misunderstood </speech>
-                         creatures. </speech>
+                         Come on <ref name="Harry_Potter">Harry</ref> . They're seriously misunderstood 
+                         creatures.</speech>
  
 <sd>A huge flame fires up.</sd>
 
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         Although, I have to admit that horntail </speech>
-                         is a right nasty piece of work. Poor </speech>
-                         <ref name="Ron_Weasley">Ron</ref> nearly fainted just seeing him you </speech>
+                         Although, I have to admit that horntail 
+                         is a right nasty piece of work. Poor 
+                         <ref name="Ron_Weasley">Ron</ref> nearly fainted just seeing him you 
                          know.</speech>
  
 
@@ -2074,8 +2074,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         Oh sure. His brother <ref name="Charlie_Weasley">Charlie</ref> helped </speech>
-                         bring him over from Romania. Didn't </speech>
+                         Oh sure. His brother <ref name="Charlie_Weasley">Charlie</ref> helped 
+                         bring him over from Romania. Didn't 
                          <ref name="Ron_Weasley">Ron</ref> tell you that?</speech>
  
 
@@ -2132,13 +2132,13 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <creature name="Dragon">Dragons</creature>. That's the first task. They've </speech>
+                         <creature name="Dragon">Dragons</creature>. That's the first task. They've 
                          got one for each of us.</speech>
  
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         Are you serious? And <ref name="Fleur_Delacour">Fleur</ref> and <ref name="Viktor_Krum">Krum</ref>, </speech>
+                         Are you serious? And <ref name="Fleur_Delacour">Fleur</ref> and <ref name="Viktor_Krum">Krum</ref>, 
                          do they...?</speech>
  
 
@@ -2149,7 +2149,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         Right. Hey listen, about the badges. </speech>
+                         Right. Hey listen, about the badges. 
                          I've asked them not to wear them.</speech>
  
                          
@@ -2197,17 +2197,17 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DRACO">DRACO</speaker>
-                         Why so tense Potter? My father and I </speech>
-                         have a bet you see. I don't think you're </speech>
-                         gonna last ten minutes in this tournament. </speech>
-                         He disagrees. He thinks you won't last </speech>
+                         Why so tense Potter? My father and I 
+                         have a bet you see. I don't think you're 
+                         gonna last ten minutes in this tournament. 
+                         He disagrees. He thinks you won't last 
                          FIVE.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I don't give a damn what you or your </speech>
-                         father thinks Malfoy. He's vile and </speech>
+                         I don't give a damn what you or your 
+                         father thinks Malfoy. He's vile and 
                          cruel, and you're just pathetic.</speech>
  
 <sd><ref name="Harry_Potter">Harry</ref>  walks away and <ref name="Draco_Malfoy">Draco</ref> angrily tries casting a spell. <ref name="Alastor_Moody">Mad-Eye</ref> </sd>
@@ -2216,7 +2216,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         I'll teach you to cast when someone's </speech>
+                         I'll teach you to cast when someone's 
                          back is turned.</speech>
  
 
@@ -2254,21 +2254,21 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Is that a threat! </speech>
+                         Is that a threat!</speech>
 
 <sd><ref name="Draco_Malfoy">Draco</ref> runs away. <ref name="Alastor_Moody">Mad-Eye</ref> shouts after him.</sd>
 
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         I could tell you stories about your </speech>
-                         father that would curl even your greasy </speech>
+                         I could tell you stories about your 
+                         father that would curl even your greasy 
                          hair boy! It doesn't end here!</speech>
  
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         We never use transfigration as a punishment, </speech>
+                         We never use transfigration as a punishment, 
                          surely <ref name="Albus_Dumbledore">Dumbledore</ref> told you that.</speech>
  
 
@@ -2294,9 +2294,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         That's a foal glass. Lets me keep an </speech>
-                         eye on my enemies. If I can see the </speech>
-                         whites of their eyes they're standing </speech>
+                         That's a foal glass. Lets me keep an 
+                         eye on my enemies. If I can see the 
+                         whites of their eyes they're standing 
                          right behind me.</speech>
  
 <sd>A noise emerges from a trunk on the floor and it shakes.</sd>
@@ -2304,36 +2304,36 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Wouldn't even bother telling you what's </speech>
-                         in ther. You wouldn't believe it if </speech>
-                         I did. Now... what are you going to </speech>
+                         Wouldn't even bother telling you what's 
+                         in ther. You wouldn't believe it if 
+                         I did. Now... what are you going to 
                          do about your dragon?</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Oh... um... You know I just thought </speech>
+                         Oh... um... You know I just thought 
                          I'd...</speech>
  
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Sit. Listen to me Potter. Your pal Diggory, </speech>
-                         by your age he could take a whistle </speech>
-                         into a watch and have it sing you the </speech>
-                         time. <ref name="Fleur_Delacour">Miss Delacour</ref>, she's as much a </speech>
-                         fairy princess as I am. As for <ref name="Viktor_Krum">Krum</ref>, </speech>
-                         his head may be filled with sawdust </speech>
-                         but <ref name="Igor_Karkaroff">Karkaroff</ref>'s is NOT. They'll have </speech>
-                         a strategy, and you can bet that it'll </speech>
-                         play to <ref name="Viktor_Krum">Krum</ref>'s strengths. Hmm? Come </speech>
+                         Sit. Listen to me Potter. Your pal Diggory, 
+                         by your age he could take a whistle 
+                         into a watch and have it sing you the 
+                         time. <ref name="Fleur_Delacour">Miss Delacour</ref>, she's as much a 
+                         fairy princess as I am. As for <ref name="Viktor_Krum">Krum</ref>, 
+                         his head may be filled with sawdust 
+                         but <ref name="Igor_Karkaroff">Karkaroff</ref>'s is NOT. They'll have 
+                         a strategy, and you can bet that it'll 
+                         play to <ref name="Viktor_Krum">Krum</ref>'s strengths. Hmm? Come 
                          on Potter. What are your strengths?</speech>
  
                          
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Um... I dunno.. I can fly. I mean I'm </speech>
+                         Um... I dunno.. I can fly. I mean I'm 
                          a fair flyer.</speech>
  
 
@@ -2374,8 +2374,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         How are you feeling? OK? The key is </speech>
-                         to concentrate. After that you just </speech>
+                         How are you feeling? OK? The key is 
+                         to concentrate. After that you just 
                          have to...</speech>
  
 
@@ -2389,8 +2389,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RITA">RITA</speaker>
-                         Young love! Ohh how.. stirring. If everything </speech>
-                         goes unfortunately today you might make </speech>
+                         Young love! Ohh how.. stirring. If everything 
+                         goes unfortunately today you might make 
                          the front page.</speech>
  
 
@@ -2411,9 +2411,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Good day champions. Gather round please. </speech>
-                         Now you've waited, you've wondered and </speech>
-                         at last the moment has arrived. The </speech>
+                         Good day champions. Gather round please. 
+                         Now you've waited, you've wondered and 
+                         at last the moment has arrived. The 
                          moment only four of you can fully appreciate.</speech>
  
                          
@@ -2438,9 +2438,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         Champions, in a circle around me. Miss </speech>
-                         Delacour over here, Mr <ref name="Viktor_Krum">Krum</ref>, and  Potter  </speech>
-                         over here. Right. <ref name="Fleur_Delacour">Miss Delacour</ref>, if </speech>
+                         Champions, in a circle around me. Miss 
+                         Delacour over here, Mr <ref name="Viktor_Krum">Krum</ref>, and  Potter  
+                         over here. Right. <ref name="Fleur_Delacour">Miss Delacour</ref>, if 
                          you will...</speech>
  
 <sd><ref name="Bartimus_Crouch">Barty</ref> holds up a bag. <ref name="Fleur_Delacour">Fleur</ref> takes out a little green dragon.</sd>
@@ -2463,7 +2463,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         The swedish short-snout. Which leaves... </speech>
+                         The swedish short-snout. Which leaves...</speech>
                          
  
 
@@ -2486,19 +2486,19 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         The hungarian horntail. These represent </speech>
-                         very real dragons, each of which has </speech>
-                         been given a golden egg to protect. </speech>
-                         Your objective is simple, collect the </speech>
-                         egg. This you must do, for each egg </speech>
-                         contains a clue without which you cannot </speech>
-                         hope to proceed to the next task. Any </speech>
+                         The hungarian horntail. These represent 
+                         very real dragons, each of which has 
+                         been given a golden egg to protect. 
+                         Your objective is simple, collect the 
+                         egg. This you must do, for each egg 
+                         contains a clue without which you cannot 
+                         hope to proceed to the next task. Any 
                          questions?</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Very well. Good luck champions. Mr Diggory </speech>
+                         Very well. Good luck champions. Mr Diggory 
                          the sound of the cannon...</speech>
  
 <sd>The cannon fires immediately.</sd>
@@ -2513,9 +2513,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          (VOICEOVER THE LOUDSPEAKER) Three of 
-                         our champions have now faced their dragons </speech>
-                         and so each one of them will proceed </speech>
-                         to the next task. And now our fourth </speech>
+                         our champions have now faced their dragons 
+                         and so each one of them will proceed 
+                         to the next task. And now our fourth 
                          and final contestant.</speech>
  
 <sd><ref name="Harry_Potter">Harry</ref>  enters the rocky arena. The crowd are cheering his name. </sd>
@@ -2590,7 +2590,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Who wants me to open it? You want me </speech>
+                         Who wants me to open it? You want me 
                          to open it?</speech>
  
 <sd>He opens the egg and a loud horrific screech comes out, he closes </sd>
@@ -2606,16 +2606,16 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="FRED">FRED</speaker>
-                         Alright everyone, go back to your knitting. </speech>
-                         This is gonna be uncomfortable enough </speech>
-                         without all you nosey sods listening </speech>
+                         Alright everyone, go back to your knitting. 
+                         This is gonna be uncomfortable enough 
+                         without all you nosey sods listening 
                          in.</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         I reckon you'd have to be barking mad </speech>
-                         to put your own name in the goblet of </speech>
+                         I reckon you'd have to be barking mad 
+                         to put your own name in the goblet of 
                          fire.</speech>
  
 
@@ -2627,14 +2627,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Wasn't just me who thought you'd done </speech>
-                         it. Everyone was saying it behind your </speech>
+                         Wasn't just me who thought you'd done 
+                         it. Everyone was saying it behind your 
                          back.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Brilliant. That makes me feel loads </speech>
+                         Brilliant. That makes me feel loads 
                          better.</speech>
  
 
@@ -2652,25 +2652,25 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Oh no no, I did. Don't you remember? </speech>
-                         I told <ref name="Hermione_Granger">Hermione</ref> to tell you that <ref name="Seamus_Finnigan">Seamus</ref> </speech>
-                         told me that <ref name="Parvati_Patil">Parvati</ref> told <ref name="Dean_Thomas">Dean</ref> that </speech>
-                         <ref name="Rubeus_Hagrid">Hagrid</ref> was looking for you. <ref name="Seamus_Finnigan">Seamus</ref> never </speech>
-                         actually told me anything, so it was </speech>
-                         really me all along. I thought you'd </speech>
-                         be alright, you know, after you figured </speech>
+                         Oh no no, I did. Don't you remember? 
+                         I told <ref name="Hermione_Granger">Hermione</ref> to tell you that <ref name="Seamus_Finnigan">Seamus</ref> 
+                         told me that <ref name="Parvati_Patil">Parvati</ref> told <ref name="Dean_Thomas">Dean</ref> that 
+                         <ref name="Rubeus_Hagrid">Hagrid</ref> was looking for you. <ref name="Seamus_Finnigan">Seamus</ref> never 
+                         actually told me anything, so it was 
+                         really me all along. I thought you'd 
+                         be alright, you know, after you figured 
                          that out.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Who could possibly figure that out? </speech>
+                         Who could possibly figure that out? 
                          That's completely mental.</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Yeah it is isn't it. Suppose I was a </speech>
+                         Yeah it is isn't it. Suppose I was a 
                          bit distraught.</speech>
  
 
@@ -2687,13 +2687,13 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          (Reading a newspaper) Look at this! 
-                         I can't believe it she's done it again. </speech>
-                         Miss <ref name="Granger">Granger</ref> a plain but ambitious girl </speech>
-                         seems to be developing a taste for famous </speech>
-                         wizards. Her latest prey sources report </speech>
-                         is none other than the Bulgarian bon-bon </speech>
-                         <ref name="Viktor_Krum">Viktor Krum</ref>. No word yet on how <ref name="Harry_Potter">Harry</ref>  </speech>
-                         Potter's taking this latest emotional </speech>
+                         I can't believe it she's done it again. 
+                         Miss <ref name="Granger">Granger</ref> a plain but ambitious girl 
+                         seems to be developing a taste for famous 
+                         wizards. Her latest prey sources report 
+                         is none other than the Bulgarian bon-bon 
+                         <ref name="Viktor_Krum">Viktor Krum</ref>. No word yet on how <ref name="Harry_Potter">Harry</ref>  
+                         Potter's taking this latest emotional 
                          blow.</speech>
  
 <sd>A young boy walks up holding a package.</sd>
@@ -2706,7 +2706,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Thank you Nigel. </speech>
+                         Thank you Nigel.</speech>
 
 <sd>Nigel is gazing at <ref name="Harry_Potter">Harry</ref> .</sd>
 
@@ -2720,14 +2720,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         I told him I'd get him <ref name="Harry_Potter">Harry</ref> 's autograph. </speech>
-                         Oh look mum's sent me something. Mum </speech>
+                         I told him I'd get him <ref name="Harry_Potter">Harry</ref> 's autograph. 
+                         Oh look mum's sent me something. Mum 
                          sent me a dress??</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Well it does match your eyes. Is there </speech>
+                         Well it does match your eyes. Is there 
                          a bonnet?</speech>
  
 
@@ -2751,7 +2751,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         They're not for <ref name="Ginny_Weasley">Ginny</ref> they're for you! </speech>
+                         They're not for <ref name="Ginny_Weasley">Ginny</ref> they're for you! 
                          Dress robes.</speech>
  
 
@@ -2764,16 +2764,16 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         The yule ball has been a tradition of </speech>
-                         the tri-wizard tournament since its </speech>
-                         inception. On Christmas eve night we </speech>
-                         and our guests gather in the great hall </speech>
-                         for well mannered frivolity. As representitives </speech>
-                         of the host school I expect each and </speech>
-                         every one of you to put your best foot </speech>
-                         forward, and I mean this literally because </speech>
-                         the yule ball is first and foremost... </speech>
-                         a dance. </speech>
+                         The yule ball has been a tradition of 
+                         the tri-wizard tournament since its 
+                         inception. On Christmas eve night we 
+                         and our guests gather in the great hall 
+                         for well mannered frivolity. As representitives 
+                         of the host school I expect each and 
+                         every one of you to put your best foot 
+                         forward, and I mean this literally because 
+                         the yule ball is first and foremost... 
+                         a dance.</speech>
  
 <sd>Groans emerge from the boys who are listening on. The girls seem </sd>
 <sd>a lot more excited.</sd>
@@ -2781,11 +2781,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         Silence. The house of Godrick Griffindore </speech>
-                         has commanded the respect of the wizard </speech>
-                         world for nearly ten centuries. I will </speech>
-                         not have you in the course of a single </speech>
-                         evening besmirching that name by behaving </speech>
+                         Silence. The house of Godrick Griffindore 
+                         has commanded the respect of the wizard 
+                         world for nearly ten centuries. I will 
+                         not have you in the course of a single 
+                         evening besmirching that name by behaving 
                          like a babbling, bumbling band of baboons.</speech>
  
                          
@@ -2801,22 +2801,22 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
                          (Continued) Now to dance is to let the 
-                         body breathe, inside every girl a secret </speech>
-                         swan slumbers longing to burst forth </speech>
+                         body breathe, inside every girl a secret 
+                         swan slumbers longing to burst forth 
                          and take flight.</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
                          (Whispering to <ref name="Seamus_Finnigan">Seamus</ref>) Something's about 
-                         to burst out of Hilary but I don't think </speech>
+                         to burst out of Hilary but I don't think 
                          it's a swan.</speech>
  
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         Inside every boy a lordly lion prepared </speech>
-                         to prance. <ref name="Ron_Weasley">Mr Weasley</ref>, will you join </speech>
+                         Inside every boy a lordly lion prepared 
+                         to prance. <ref name="Ron_Weasley">Mr Weasley</ref>, will you join 
                          me.</speech>
  
 <sd>She grabs <ref name="Ron_Weasley">Ron</ref> and pulls him up to dance. </sd>
@@ -2835,7 +2835,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         My waist. </speech>
+                         My waist.</speech>
 
 <sd>He does so and a wolf whistle comes from the crowd.</sd>
 
@@ -2849,7 +2849,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         One two three, one two three, one two </speech>
+                         One two three, one two three, one two 
                          three.</speech>
  
 
@@ -2883,14 +2883,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Why do they always have to travel in </speech>
-                         packs? How are you supposed to get one </speech>
+                         Why do they always have to travel in 
+                         packs? How are you supposed to get one 
                          alone to ask them...</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Blimey <ref name="Harry_Potter">Harry</ref> , you slayed dragons. If </speech>
+                         Blimey <ref name="Harry_Potter">Harry</ref> , you slayed dragons. If 
                          you can't get a date who can?</speech>
  
 
@@ -2908,13 +2908,13 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         I take after my mum. Though I didn't </speech>
-                         know her very well, she left when I </speech>
-                         was about three. No, not the maternal </speech>
-                         sort her, broke my dad's heart though. </speech>
-                         You know he was a tiny little fellow </speech>
-                         my dad, I could pick him up with one </speech>
-                         hand by the age of six and put him up </speech>
+                         I take after my mum. Though I didn't 
+                         know her very well, she left when I 
+                         was about three. No, not the maternal 
+                         sort her, broke my dad's heart though. 
+                         You know he was a tiny little fellow 
+                         my dad, I could pick him up with one 
+                         hand by the age of six and put him up 
                          in the dresser.</speech>
  
 <sd>They laugh together and have a moment.</sd>
@@ -2922,9 +2922,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         And then he died when I was still in </speech>
-                         school. So I had to make me own way </speech>
-                         as it were. But enough of me, what about </speech>
+                         And then he died when I was still in 
+                         school. So I had to make me own way 
+                         as it were. But enough of me, what about 
                          you!</speech>
  
               <setting>EXT. LAKESIDE</setting>
@@ -2936,7 +2936,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         This is mad. At this rate we'll be the </speech>
+                         This is mad. At this rate we'll be the 
                          only ones in our year without dates.</speech>
  
                          
@@ -2956,7 +2956,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         It might interest you to know that <ref name="Neville_Longbottom">Neville</ref>'s </speech>
+                         It might interest you to know that <ref name="Neville_Longbottom">Neville</ref>'s 
                          already got someone.</speech>
  
 <sd><ref name="Ron_Weasley">Ron</ref> gasps.</sd>
@@ -2982,15 +2982,15 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Come on. It's one thing for a bloke </speech>
-                         to show up alone. For a girl it's just </speech>
+                         Come on. It's one thing for a bloke 
+                         to show up alone. For a girl it's just 
                          sad.</speech>
  
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         I won't be going alone because believe </speech>
-                         it or not someone's asked me. And I </speech>
+                         I won't be going alone because believe 
+                         it or not someone's asked me. And I 
                          said yes.</speech>
  
 
@@ -3003,9 +3003,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Look. We've just got to grit our teeth </speech>
-                         and do it. Tonight when we get back </speech>
-                         to the common room, we'll both have </speech>
+                         Look. We've just got to grit our teeth 
+                         and do it. Tonight when we get back 
+                         to the common room, we'll both have 
                          partners. Agreed?</speech>
  
 
@@ -3031,7 +3031,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="CHO">CHO</speaker>
-                         Watch yourself on the stairs, it's a </speech>
+                         Watch yourself on the stairs, it's a 
                          bit icey at the top.</speech>
  
 
@@ -3047,7 +3047,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Um. (Mumbling) I just wondered if maybe </speech>
+                         Um. (Mumbling) I just wondered if maybe 
                          you wanted to go to the ball with me?</speech>
  
                          
@@ -3059,15 +3059,15 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Um. I was just wondering if maybe you </speech>
+                         Um. I was just wondering if maybe you 
                          wanted to go to the ball with me.</speech>
  
                          
 
 
 <speech><speaker name="CHO">CHO</speaker>
-                         Oh. Um. <ref name="Harry_Potter">Harry</ref>  I'm sorry but someone's </speech>
-                         already asked me. And well I've said </speech>
+                         Oh. Um. <ref name="Harry_Potter">Harry</ref>  I'm sorry but someone's 
+                         already asked me. And well I've said 
                          I'll go with him.</speech>
  
 
@@ -3125,14 +3125,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         There she was walking by. You know I </speech>
-                         like it when they walk. I couldn't help </speech>
+                         There she was walking by. You know I 
+                         like it when they walk. I couldn't help 
                          it, it just sort of slipped out.</speech>
  
 
 
 <speech><speaker name="GIRL">GIRL</speaker>
-                         Actually he sort of screamed at her, </speech>
+                         Actually he sort of screamed at her, 
                          it was a bit frightening.</speech>
  
 
@@ -3143,8 +3143,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         What else? I ran for it. I'm not cut </speech>
-                         out for this <ref name="Harry_Potter">Harry</ref> . I don't know what </speech>
+                         What else? I ran for it. I'm not cut 
+                         out for this <ref name="Harry_Potter">Harry</ref> . I don't know what 
                          got into me.</speech>
  
 <sd>The Patil twins walk past.</sd>
@@ -3190,8 +3190,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Well they're alright. No lace, no dodgy </speech>
-                         little collar. </speech>
+                         Well they're alright. No lace, no dodgy 
+                         little collar.</speech>
  
 
 
@@ -3202,7 +3202,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Traditional?? They're ancient! I look </speech>
+                         Traditional?? They're ancient! I look 
                          like my great aunt Tessie.</speech>
  
 <sd>He sniffs at his clothes.</sd>
@@ -3210,7 +3210,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         I smell like my great aunt Tessie. Murder </speech>
+                         I smell like my great aunt Tessie. Murder 
                          me <ref name="Harry_Potter">Harry</ref> .</speech>
  
               <setting>INT. DANCEHALL</setting>
@@ -3226,7 +3226,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Poor kid, bet she's alone in her room </speech>
+                         Poor kid, bet she's alone in her room 
                          crying her eyes out.</speech>
  
 
@@ -3237,21 +3237,21 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         <ref name="Hermione_Granger">Hermione</ref> of course. Come on <ref name="Harry_Potter">Harry</ref> , why'd </speech>
-                         you think she wouldn't tell us who she's </speech>
+                         <ref name="Hermione_Granger">Hermione</ref> of course. Come on <ref name="Harry_Potter">Harry</ref> , why'd 
+                         you think she wouldn't tell us who she's 
                          coming with?</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Because we'd take the mickey out of </speech>
+                         Because we'd take the mickey out of 
                          her if she did.</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Because nobody asked her. I would have </speech>
-                         taken her myself if she weren't so bleeding </speech>
+                         Because nobody asked her. I would have 
+                         taken her myself if she weren't so bleeding 
                          proud.</speech>
  
 <sd>The boys approach the Patil twins.</sd>
@@ -3271,7 +3271,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         Here you are Potter. Are you and Miss </speech>
+                         Here you are Potter. Are you and Miss 
                          Patil ready?</speech>
  
 
@@ -3282,9 +3282,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         To dance. It's traditional that the </speech>
-                         three champions or in this case four </speech>
-                         are the first to dance. Surely I told </speech>
+                         To dance. It's traditional that the 
+                         three champions or in this case four 
+                         are the first to dance. Surely I told 
                          you that.</speech>
  
 
@@ -3295,8 +3295,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
-                         Oh well now you know. Oh, as for your </speech>
-                         <ref name="Ron_Weasley">Mr Weasley</ref> you may proceed into the great </speech>
+                         Oh well now you know. Oh, as for your 
+                         <ref name="Ron_Weasley">Mr Weasley</ref> you may proceed into the great 
                          hall with Miss Patil.</speech>
  
 <sd><ref name="Hermione_Granger">Hermione</ref> enters the room all dressed up.</sd>
@@ -3354,7 +3354,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Hot isn't it? <ref name="Viktor_Krum">Viktor</ref>'s gone to get drinks. </speech>
+                         Hot isn't it? <ref name="Viktor_Krum">Viktor</ref>'s gone to get drinks. 
                          Care to join us?</speech>
  
 
@@ -3371,21 +3371,21 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         He's a Durmstrang. You're fraternising </speech>
+                         He's a Durmstrang. You're fraternising 
                          with the enemy.</speech>
  
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         The enemy?? Who was it wanting his autograph? </speech>
-                         Besides, the whole point of the tournament </speech>
-                         is international magical cooperation, </speech>
+                         The enemy?? Who was it wanting his autograph? 
+                         Besides, the whole point of the tournament 
+                         is international magical cooperation, 
                          to make friends.</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Hrmph, I think he's got a bit more than </speech>
+                         Hrmph, I think he's got a bit more than 
                          friendship on his mind.</speech>
  
 <sd><ref name="Hermione_Granger">Hermione</ref> walks off.</sd>
@@ -3393,7 +3393,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="PADMA">PADMA</speaker>
-                         Are you going to ask me to dance or </speech>
+                         Are you going to ask me to dance or 
                          not?</speech>
  
 
@@ -3412,7 +3412,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         How dare you! Besides I can take care </speech>
+                         How dare you! Besides I can take care 
                          of myself.</speech>
  
 
@@ -3445,14 +3445,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Next time there's a ball pluck up the </speech>
-                         courage and ask me before somebody else </speech>
+                         Next time there's a ball pluck up the 
+                         courage and ask me before somebody else 
                          does, and not as a last resort.</speech>
  
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Well that's completely off the point. </speech>
+                         Well that's completely off the point. 
                          <ref name="Harry_Potter">Harry</ref> ...</speech>
  
 <sd><ref name="Harry_Potter">Harry</ref>  walks up.</sd>
@@ -3460,7 +3460,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Where have you been? Nevermind! Off </speech>
+                         Where have you been? Nevermind! Off 
                          to bed both of you.</speech>
  
 <sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Ron_Weasley">Ron</ref> walk away.</sd>
@@ -3493,8 +3493,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Ah yes, the time is close now. <ref name="Harry_Potter">Harry</ref> ! </speech>
-                         At last! Step aside <ref name="Peter_Pettigrew">Wormtail</ref> so I can </speech>
+                         Ah yes, the time is close now. <ref name="Harry_Potter">Harry</ref> ! 
+                         At last! Step aside <ref name="Peter_Pettigrew">Wormtail</ref> so I can 
                          give our guest a proper greeting!</speech>
  
                          
@@ -3514,26 +3514,26 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         <ref name="Harry_Potter">Harry</ref>  you told me you'd figured the </speech>
-                         egg out weeks ago. The task is two days </speech>
+                         <ref name="Harry_Potter">Harry</ref>  you told me you'd figured the 
+                         egg out weeks ago. The task is two days 
                          from now.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Really? I had no idea. I suppose <ref name="Viktor_Krum">Viktor</ref>'s </speech>
+                         Really? I had no idea. I suppose <ref name="Viktor_Krum">Viktor</ref>'s 
                          already figured it out.</speech>
  
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         I wouldn't know, we didn't actually </speech>
-                         talk about the tournament. Actually </speech>
-                         we didn't really talk at all, <ref name="Viktor_Krum">Viktor</ref>'s </speech>
-                         more of a physical being. I just mean </speech>
-                         he's not particularly... Mostly he watches </speech>
-                         me study. It's a bit annoying actually. </speech>
-                         You are trying to figure this egg out </speech>
+                         I wouldn't know, we didn't actually 
+                         talk about the tournament. Actually 
+                         we didn't really talk at all, <ref name="Viktor_Krum">Viktor</ref>'s 
+                         more of a physical being. I just mean 
+                         he's not particularly... Mostly he watches 
+                         me study. It's a bit annoying actually. 
+                         You are trying to figure this egg out 
                          aren't you?</speech>
  
 
@@ -3544,17 +3544,17 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         I mean these tasks are supposed to test </speech>
-                         you, in the most brutal way they're </speech>
-                         almost cruel. And um, I'm scared for </speech>
-                         you. You got by the dragon mostly on </speech>
-                         nerve, I'm not sure it's going to be </speech>
+                         I mean these tasks are supposed to test 
+                         you, in the most brutal way they're 
+                         almost cruel. And um, I'm scared for 
+                         you. You got by the dragon mostly on 
+                         nerve, I'm not sure it's going to be 
                          enough this time.</speech>
  
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         Hey Potter. </speech>
+                         Hey Potter.</speech>
 
 
 
@@ -3574,20 +3574,20 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         Look I realise I never really thanked </speech>
-                         you properly for tipping me off about </speech>
+                         Look I realise I never really thanked 
+                         you properly for tipping me off about 
                          those dragons.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Forget about it. I'm sure you would </speech>
+                         Forget about it. I'm sure you would 
                          have done the same for me.</speech>
  
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         Exactly. You know the prefects bathroom </speech>
+                         Exactly. You know the prefects bathroom 
                          on the fifth floor?</speech>
  
 <sd><ref name="Harry_Potter">Harry</ref>  nods.</sd>
@@ -3595,8 +3595,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         It's not a bad place for a bath. Just </speech>
-                         take your egg and mull things over in </speech>
+                         It's not a bad place for a bath. Just 
+                         take your egg and mull things over in 
                          the hot water.</speech>
  
               <setting>INT. BATHROOM</setting>
@@ -3614,7 +3614,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MYRTLE">MYRTLE</speaker>
-                         I'd try putting it in the water if I </speech>
+                         I'd try putting it in the water if I 
                          were you.</speech>
  
 
@@ -3632,16 +3632,16 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MYRTLE">MYRTLE</speaker>
-                         I was circling a blocked drain the other </speech>
-                         day and could swear I saw a bit of polyjuice </speech>
-                         potion. Not being a bad boy again are </speech>
+                         I was circling a blocked drain the other 
+                         day and could swear I saw a bit of polyjuice 
+                         potion. Not being a bad boy again are 
                          you <ref name="Harry_Potter">Harry</ref> ?</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Polyjuice potion! Kicked the habit. </speech>
-                         <ref name="Moaning_Myrtle">Myrtle</ref>, did you say try putting it in </speech>
+                         Polyjuice potion! Kicked the habit. 
+                         <ref name="Moaning_Myrtle">Myrtle</ref>, did you say try putting it in 
                          the water?</speech>
  
 <sd><ref name="Moaning_Myrtle">Myrtle</ref> flies around again and gets in the water.</sd>
@@ -3649,7 +3649,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MYRTLE">MYRTLE</speaker>
-                         Well. That's what he did. The other </speech>
+                         Well. That's what he did. The other 
                          boy, the handsome one. <ref name="Cedric_Diggory">Cedric</ref>.</speech>
  
 <sd><ref name="Harry_Potter">Harry</ref>  takes the egg and puts it under the water.</sd>
@@ -3665,22 +3665,22 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOICE SINGING">VOICE SINGING</speaker>
-                         Come seek us where our voices sound. </speech>
-                         We cannot sing above the ground. An </speech>
-                         hour long you'll have to look, to recover </speech>
+                         Come seek us where our voices sound. 
+                         We cannot sing above the ground. An 
+                         hour long you'll have to look, to recover 
                          what we took.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Moaning_Myrtle">Myrtle</ref>, there aren't <creature name="Merepeople">Merpeople</creature> in the </speech>
+                         <ref name="Moaning_Myrtle">Myrtle</ref>, there aren't <creature name="Merepeople">Merpeople</creature> in the 
                          black lake are there?</speech>
  
 
 
 <speech><speaker name="MYRTLE">MYRTLE</speaker>
-                         Ahhh, very good. Took <ref name="Cedric_Diggory">Cedric</ref> ages to </speech>
-                         riddle it out. Almost all the bubbles </speech>
+                         Ahhh, very good. Took <ref name="Cedric_Diggory">Cedric</ref> ages to 
+                         riddle it out. Almost all the bubbles 
                          were gone...</speech>
  
 <sd><ref name="Moaning_Myrtle">Myrtle</ref> laughs and <ref name="Harry_Potter">Harry</ref>  is embarrassed.</sd>
@@ -3711,20 +3711,20 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Again obvious, though I must admit potentially </speech>
-                         problematic </speech>
+                         Again obvious, though I must admit potentially 
+                         problematic</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Potentially problematic? When was the </speech>
-                         last time you held your breath under </speech>
+                         Potentially problematic? When was the 
+                         last time you held your breath under 
                          the water for an hour <ref name="Hermione_Granger">Hermione</ref>?</speech>
  
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Look <ref name="Harry_Potter">Harry</ref> , we can do this. The three </speech>
+                         Look <ref name="Harry_Potter">Harry</ref> , we can do this. The three 
                          of us can figure it out.</speech>
  
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> <ref name="Alastor_Moody">Moody</ref> appears in the doorway.</sd>
@@ -3732,22 +3732,22 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Hate to break up this scholar session </speech>
-                         but <ref name="Minerva_McGonagall">Professor McGonagall</ref> would like </speech>
-                         to see you in her office. Not you Potter, </speech>
+                         Hate to break up this scholar session 
+                         but <ref name="Minerva_McGonagall">Professor McGonagall</ref> would like 
+                         to see you in her office. Not you Potter, 
                          just <ref name="Ron_Weasley">Weasley</ref> and <ref name="Granger">Granger</ref>.</speech>
  
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         But sir, the second task is only hours </speech>
+                         But sir, the second task is only hours 
                          away and...</speech>
  
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Exactly. Presumably  Potter  is well prepared </speech>
-                         by now and could do with a good night's </speech>
+                         Exactly. Presumably  Potter  is well prepared 
+                         by now and could do with a good night's 
                          sleep. Go. Now! Longbottom!</speech>
  
 <sd><ref name="Neville_Longbottom">Neville</ref> appears from behind a bookcase.</sd>
@@ -3755,31 +3755,31 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Why don't you help  Potter  put his books </speech>
+                         Why don't you help  Potter  put his books 
                          back.</speech>
  
 
 
 <speech><speaker name="NEVILLE">NEVILLE</speaker>
-                         You know, if you're interested in plants </speech>
-                         you'd be better with Gorshok's Guide </speech>
-                         to Herbology. Do you know there's a </speech>
-                         wizard in Nepal whose growing gravity </speech>
+                         You know, if you're interested in plants 
+                         you'd be better with Gorshok's Guide 
+                         to Herbology. Do you know there's a 
+                         wizard in Nepal whose growing gravity 
                          resistant trees?</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         <ref name="Neville_Longbottom">Neville</ref>. No offense, but I really don't </speech>
-                         care about plants. Now if there's a </speech>
-                         Tibetan turnip that will allow me to </speech>
-                         breathe underwater for an hour then </speech>
+                         <ref name="Neville_Longbottom">Neville</ref>. No offense, but I really don't 
+                         care about plants. Now if there's a 
+                         Tibetan turnip that will allow me to 
+                         breathe underwater for an hour then 
                          great.</speech>
  
 
 
 <speech><speaker name="NEVILLE">NEVILLE</speaker>
-                         I don't know about a turnip but you </speech>
+                         I don't know about a turnip but you 
                          can always use gilliweed.</speech>
  
               <setting>EXT. LAKESIDE</setting>
@@ -3816,14 +3816,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="NEVILLE">NEVILLE</speaker>
-                         Well there is some debate among herbologists </speech>
-                         as to the effects of freshwater versus </speech>
+                         Well there is some debate among herbologists 
+                         as to the effects of freshwater versus 
                          saltwater.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         You're telling me this now? You must </speech>
+                         You're telling me this now? You must 
                          be joking.</speech>
  
 
@@ -3834,7 +3834,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Well that makes you sight better than </speech>
+                         Well that makes you sight better than 
                          <ref name="Ron_Weasley">Ron</ref> and <ref name="Hermione_Granger">Hermione</ref>. Where are they anyway?</speech>
  
                          
@@ -3852,16 +3852,16 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          (Over a loudspeaker) Welcome to the 
-                         second task. Last night something was </speech>
-                         stolen from each of our champions. A </speech>
-                         treasure of sorts. These four treasures, </speech>
-                         one for each champion, now lie on the </speech>
-                         bottom of the black lake. In order to </speech>
-                         win each champion need only find their </speech>
-                         treasure and return to the surface. </speech>
-                         Simple enough. Except for this, they </speech>
-                         will have one hour to do so and one </speech>
-                         hour only. After that they'll be on </speech>
+                         second task. Last night something was 
+                         stolen from each of our champions. A 
+                         treasure of sorts. These four treasures, 
+                         one for each champion, now lie on the 
+                         bottom of the black lake. In order to 
+                         win each champion need only find their 
+                         treasure and return to the surface. 
+                         Simple enough. Except for this, they 
+                         will have one hour to do so and one 
+                         hour only. After that they'll be on 
                          their own.</speech>
  
 
@@ -3913,9 +3913,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          (Over the loudspeaker) The Beauxbatons 
-                         champion <ref name="Fleur_Delacour">Miss Delacour</ref> has unfortunately </speech>
-                         been forced to retire. She will take </speech>
-                         no further part in this task. </speech>
+                         champion <ref name="Fleur_Delacour">Miss Delacour</ref> has unfortunately 
+                         been forced to retire. She will take 
+                         no further part in this task.</speech>
  
               <setting>EXT. UNDERWATER</setting>
 
@@ -3962,7 +3962,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         <ref name="Harry_Potter">Harry</ref> ! </speech>
+                         <ref name="Harry_Potter">Harry</ref> !</speech>
 
 
 
@@ -3979,7 +3979,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="FLEUR">FLEUR</speaker>
                          (To <ref name="Harry_Potter">Harry</ref> ) You saved her, even though 
-                         she wasn't yours to save. My little </speech>
+                         she wasn't yours to save. My little 
                          sister!</speech>
  
 <sd><ref name="Fleur_Delacour">Fleur</ref> kisses <ref name="Harry_Potter">Harry</ref>  on the face.</sd>
@@ -3987,7 +3987,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="FLEUR">FLEUR</speaker>
-                         Thank you! And you... (Looks to <ref name="Ron_Weasley">Ron</ref>). </speech>
+                         Thank you! And you... (Looks to <ref name="Ron_Weasley">Ron</ref>). 
                          You helped!</speech>
  
 
@@ -4017,7 +4017,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Are you alright? You must be freezing! </speech>
+                         Are you alright? You must be freezing! 
                          Personally I think you behaved admirably.</speech>
  
                          
@@ -4036,7 +4036,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Attention! Attention! The winner is... </speech>
+                         Attention! Attention! The winner is... 
                          Mr Diggory!</speech>
  
 <sd><ref name="Cedric_Diggory">Cedric</ref> and his friends cheer.</sd>
@@ -4044,12 +4044,12 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         For showing unique command of the bubblehead </speech>
-                         shark. The way I see it, Mr Potter would </speech>
-                         have finished first had it not been </speech>
-                         for his determination to rescue not </speech>
-                         only <ref name="Ron_Weasley">Mr Weasley</ref> but the others as well. </speech>
-                         We've agreed to award him second place! </speech>
+                         For showing unique command of the bubblehead 
+                         shark. The way I see it, Mr Potter would 
+                         have finished first had it not been 
+                         for his determination to rescue not 
+                         only <ref name="Ron_Weasley">Mr Weasley</ref> but the others as well. 
+                         We've agreed to award him second place! 
                          For outstanding moral fibre.</speech>
  
                
@@ -4064,7 +4064,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Blimey even when you go wrong it turns </speech>
+                         Blimey even when you go wrong it turns 
                          out right.</speech>
  
 
@@ -4078,14 +4078,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         Congratulations Potter, fine achievement. </speech>
-                         Well done boy. I'm sorry we haven't </speech>
-                         spoken, after all your story is one </speech>
-                         I've heard many times. Quite remarkable. </speech>
-                         Tragic of course, to lose one's family. </speech>
-                         Never whole again are we? Still, life </speech>
-                         goes on. And here we stand. I'm sure </speech>
-                         your parents would be very proud today </speech>
+                         Congratulations Potter, fine achievement. 
+                         Well done boy. I'm sorry we haven't 
+                         spoken, after all your story is one 
+                         I've heard many times. Quite remarkable. 
+                         Tragic of course, to lose one's family. 
+                         Never whole again are we? Still, life 
+                         goes on. And here we stand. I'm sure 
+                         your parents would be very proud today 
                          Potter.</speech>
  
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> approaches them.</sd>
@@ -4093,9 +4093,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Bartimus! Not trying to lure  Potter  </speech>
-                         into one of the ministry's summer internships </speech>
-                         are we? Last boy who went into the department </speech>
+                         Bartimus! Not trying to lure  Potter  
+                         into one of the ministry's summer internships 
+                         are we? Last boy who went into the department 
                          of ministries never came out!</speech>
  
                          <sd><ref name="Bartimus_Crouch">Barty</ref> walks away from him.</sd>
@@ -4110,10 +4110,10 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         So I remember, I remember when I first </speech>
-                         met you all. Biggest bunch of misfits </speech>
-                         I've ever set eyes on. Always reminded </speech>
-                         me of myself a little. And here we all </speech>
+                         So I remember, I remember when I first 
+                         met you all. Biggest bunch of misfits 
+                         I've ever set eyes on. Always reminded 
+                         me of myself a little. And here we all 
                          are, four years later.</speech>
  
 
@@ -4124,9 +4124,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HAGRID">HAGRID</speaker>
-                         Maybe. But we've all got each other, </speech>
-                         and <ref name="Harry_Potter">Harry</ref>  of course. Soon to be! The </speech>
-                         youngest! Tri-Wizard champion there's </speech>
+                         Maybe. But we've all got each other, 
+                         and <ref name="Harry_Potter">Harry</ref>  of course. Soon to be! The 
+                         youngest! Tri-Wizard champion there's 
                          ever been! Hooray!</speech>
  
 <sd>They walk on singing the Hogwarts song. <ref name="Harry_Potter">Harry</ref>  holds his head </sd>
@@ -4143,14 +4143,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         A man has died here. And he won't be </speech>
+                         A man has died here. And he won't be 
                          the last, you must take action.</speech>
  
 
 
 <speech><speaker name="FUDGE">FUDGE</speaker>
-                         I will not. In times like these the </speech>
-                         wizard world looks to its leaders for </speech>
+                         I will not. In times like these the 
+                         wizard world looks to its leaders for 
                          strength <ref name="Albus_Dumbledore">Dumbledore</ref>.</speech>
  
 
@@ -4161,27 +4161,27 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="FUDGE">FUDGE</speaker>
-                         The tri-wizard tournament will not be </speech>
+                         The tri-wizard tournament will not be 
                          cancelled. I will not be seen as a coward.</speech>
  
                          
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         But surely that is what's right, no </speech>
+                         But surely that is what's right, no 
                          matter what others think.</speech>
  
 
 
 <speech><speaker name="FUDGE">FUDGE</speaker>
-                         What did you say? What did you say to </speech>
+                         What did you say? What did you say to 
                          me?</speech>
  
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Excuse me gentlemen, it may interest </speech>
-                         you to know that this conversation is </speech>
+                         Excuse me gentlemen, it may interest 
+                         you to know that this conversation is 
                          no longer private.</speech>
  
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> points to the door. <ref name="Harry_Potter">Harry</ref>  enters.</sd>
@@ -4200,11 +4200,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Oh not necessary <ref name="Harry_Potter">Harry</ref>  the minister </speech>
-                         and I are done. I'll be back in a moment. </speech>
-                         Minister, after you. <ref name="Harry_Potter">Harry</ref>  do feel free </speech>
-                         to indulge in a liquorice snack in my </speech>
-                         absence, but I have to warn you they're </speech>
+                         Oh not necessary <ref name="Harry_Potter">Harry</ref>  the minister 
+                         and I are done. I'll be back in a moment. 
+                         Minister, after you. <ref name="Harry_Potter">Harry</ref>  do feel free 
+                         to indulge in a liquorice snack in my 
+                         absence, but I have to warn you they're 
                          a little bit sharp.</speech>
  
 <sd><ref name="Harry_Potter">Harry</ref>  is left alone in the room. He puts his hand in the snackbowl </sd>
@@ -4243,14 +4243,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         <ref name="Igor_Karkaroff">Igor Karkaroff</ref>, you have been brought </speech>
-                         from Azkaban at your own request to </speech>
-                         present evidence to this counsel. Should </speech>
-                         your testimony prove consequential. </speech>
-                         Counsel may be prepared to order your </speech>
-                         immediate release. Until such time you </speech>
-                         remain in the eyes of the ministry a </speech>
-                         convicted deatheater. Do you accept </speech>
+                         <ref name="Igor_Karkaroff">Igor Karkaroff</ref>, you have been brought 
+                         from Azkaban at your own request to 
+                         present evidence to this counsel. Should 
+                         your testimony prove consequential. 
+                         Counsel may be prepared to order your 
+                         immediate release. Until such time you 
+                         remain in the eyes of the ministry a 
+                         convicted deatheater. Do you accept 
                          these terms?</speech>
  
 
@@ -4266,7 +4266,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         I have names sir. There was a Rosier, </speech>
+                         I have names sir. There was a Rosier, 
                          Evan Rosier.</speech>
  
 
@@ -4277,7 +4277,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         Dead? </speech>
+                         Dead?</speech>
 
 
 
@@ -4301,43 +4301,43 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         No! No! There was Rookwood, he was a </speech>
+                         No! No! There was Rookwood, he was a 
                          spy.</speech>
  
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         Augustus Rookwood? Of the department </speech>
+                         Augustus Rookwood? Of the department 
                          of ministries.</speech>
  
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         Ya ya, the same. He passed information </speech>
-                         to you know who from inside the ministry </speech>
+                         Ya ya, the same. He passed information 
+                         to you know who from inside the ministry 
                          itself.</speech>
  
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         Very well. Counsel will deliberate. </speech>
-                         In the meantime you will be returned </speech>
+                         Very well. Counsel will deliberate. 
+                         In the meantime you will be returned 
                          to Azkaban.</speech>
  
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         NO! WAIT! PLEASE! I have more. <ref name="Severus_Snape">Snape</ref>, </speech>
+                         NO! WAIT! PLEASE! I have more. <ref name="Severus_Snape">Snape</ref>, 
                          <ref name="Severus_Snape">Severus Snape</ref>.</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         The counsel is very much aware you have </speech>
-                         given evidence on this matter. <ref name="Severus_Snape">Severus</ref> </speech>
-                         <ref name="Severus_Snape">Snape</ref> was indeed a deatheater and prior </speech>
-                         to <ref name="Voldemort">Lord Voldemort</ref>'s downfall turned </speech>
-                         spy for us at great personal risk. Today </speech>
+                         The counsel is very much aware you have 
+                         given evidence on this matter. <ref name="Severus_Snape">Severus</ref> 
+                         <ref name="Severus_Snape">Snape</ref> was indeed a deatheater and prior 
+                         to <ref name="Voldemort">Lord Voldemort</ref>'s downfall turned 
+                         spy for us at great personal risk. Today 
                          he's no more a deatheater than I am.</speech>
  
                          
@@ -4346,7 +4346,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         It's a lie! <ref name="Severus_Snape">Severus Snape</ref> remains faithful </speech>
+                         It's a lie! <ref name="Severus_Snape">Severus Snape</ref> remains faithful 
                          to the dark lord.</speech>
  
 
@@ -4359,14 +4359,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="BARTY">BARTY</speaker>
-                         Unless the witness possesses any name </speech>
-                         of genuine consequence this session </speech>
+                         Unless the witness possesses any name 
+                         of genuine consequence this session 
                          is now concluded.</speech>
  
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         Oh no no no no no. I heard about one </speech>
+                         Oh no no no no no. I heard about one 
                          more.</speech>
  
 
@@ -4387,9 +4387,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         I know for a fact this person took part </speech>
-                         in the capture, and by means of the </speech>
-                         <spell type="curse">cruciatus</spell> curse, torture of the aurer </speech>
+                         I know for a fact this person took part 
+                         in the capture, and by means of the 
+                         <spell type="curse">cruciatus</spell> curse, torture of the aurer 
                          <ref name="Frank Longbottom">Frank Longbottom</ref> and...</speech>
  
 
@@ -4410,7 +4410,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="BARTY JR">BARTY JR</speaker>
-                         Get your hands off me you pathetic little </speech>
+                         Get your hands off me you pathetic little 
                          men. Hello father.</speech>
  
 
@@ -4429,41 +4429,41 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Curiosity's not a sin <ref name="Harry_Potter">Harry</ref> , but you </speech>
-                         should exercise caution. It's a pensieve, </speech>
-                         useful if like me you find your mind </speech>
-                         a wee bit stretched. It allows me to </speech>
-                         see what small things I've already seen. </speech>
-                         You see <ref name="Harry_Potter">Harry</ref>  I've searched and searched </speech>
-                         for something, some small detail. Something </speech>
-                         I might have overlooked, something that </speech>
-                         would explain why these terrible things </speech>
-                         have happened. Every time I get close </speech>
+                         Curiosity's not a sin <ref name="Harry_Potter">Harry</ref> , but you 
+                         should exercise caution. It's a pensieve, 
+                         useful if like me you find your mind 
+                         a wee bit stretched. It allows me to 
+                         see what small things I've already seen. 
+                         You see <ref name="Harry_Potter">Harry</ref>  I've searched and searched 
+                         for something, some small detail. Something 
+                         I might have overlooked, something that 
+                         would explain why these terrible things 
+                         have happened. Every time I get close 
                          to an answer it slips away, it's maddedning.</speech>
  
                          
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Sir, <ref name="Barty_Crouch_Junior">Mr Crouch's son</ref>, what happened </speech>
+                         Sir, <ref name="Barty_Crouch_Junior">Mr Crouch's son</ref>, what happened 
                          to him?</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         He was sent to Azkaban. Destroyed <ref name="Bartimus_Crouch">Barty</ref> </speech>
-                         to do it. But he had no choice, the </speech>
-                         evidence was overwhelming. Why do you </speech>
+                         He was sent to Azkaban. Destroyed <ref name="Bartimus_Crouch">Barty</ref> 
+                         to do it. But he had no choice, the 
+                         evidence was overwhelming. Why do you 
                          ask?</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         It's just that I had a dream about him. </speech>
-                         It was in the summer, before school. </speech>
-                         In the dream I was in a house and <ref name="Voldemort">Voldemort</ref> </speech>
-                         was there only he wasn't quite human, </speech>
-                         and <ref name="Peter_Pettigrew">Wormtail</ref> was there too and <ref name="Barty_Crouch_Junior">Mr Crouch's </speech>
+                         It's just that I had a dream about him. 
+                         It was in the summer, before school. 
+                         In the dream I was in a house and <ref name="Voldemort">Voldemort</ref> 
+                         was there only he wasn't quite human, 
+                         and <ref name="Peter_Pettigrew">Wormtail</ref> was there too and <ref name="Barty_Crouch_Junior">Mr Crouch's 
                          son</ref>.</speech>
  
 
@@ -4475,15 +4475,15 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Yes. Always the same one. Sir... these </speech>
-                         dreams, what I see, you don't think </speech>
+                         Yes. Always the same one. Sir... these 
+                         dreams, what I see, you don't think 
                          it's actually happening do you?</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         I think it's unwise for you to linger </speech>
-                         over these dreams <ref name="Harry_Potter">Harry</ref> , I think it's </speech>
+                         I think it's unwise for you to linger 
+                         over these dreams <ref name="Harry_Potter">Harry</ref> , I think it's 
                          best that you simply...</speech>
  
 <sd><ref name="Albus_Dumbledore">Dumbledore</ref> puts up his wand and pulls a quivering string of magic </sd>
@@ -4502,7 +4502,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="IGOR">IGOR</speaker>
-                         It's a sign <ref name="Severus_Snape">Severus</ref>, you know what it </speech>
+                         It's a sign <ref name="Severus_Snape">Severus</ref>, you know what it 
                          means as well as I.</speech>
  
 <sd>The door opens and they see <ref name="Harry_Potter">Harry</ref> . He looks at them. <ref name="Igor_Karkaroff">Igor</ref> leaves.</sd>
@@ -4511,8 +4511,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="SEVERUS">SEVERUS</speaker>
-                         Potter! What's your hurry? Congratulations, </speech>
-                         your performance in the black lake was </speech>
+                         Potter! What's your hurry? Congratulations, 
+                         your performance in the black lake was 
                          inspiring. Gilliweed, am I correct?</speech>
  
                          
@@ -4524,8 +4524,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="SEVERUS">SEVERUS</speaker>
-                         Ingenious. A rather rare herb gilliweed, </speech>
-                         not something found in your every day </speech>
+                         Ingenious. A rather rare herb gilliweed, 
+                         not something found in your every day 
                          garden. Nor is this, know what it is?</speech>
  
                          
@@ -4537,14 +4537,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="SEVERUS">SEVERUS</speaker>
-                         Veritaserum. Three drops of this and </speech>
-                         you-know-who himself will spill his </speech>
-                         darkest secrets. The use of this on </speech>
-                         a student is regrettably forbidden, </speech>
-                         however should you ever steal from my </speech>
-                         personal stores again, my hand might </speech>
-                         just slip over your morning pumpkin </speech>
-                         juice. </speech>
+                         Veritaserum. Three drops of this and 
+                         you-know-who himself will spill his 
+                         darkest secrets. The use of this on 
+                         a student is regrettably forbidden, 
+                         however should you ever steal from my 
+                         personal stores again, my hand might 
+                         just slip over your morning pumpkin 
+                         juice.</speech>
  
 
 
@@ -4554,10 +4554,10 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="SEVERUS">SEVERUS</speaker>
-                         Don't lie to me. Gilliweed might be </speech>
-                         innocuous, but boomslang skin? lacewing </speech>
-                         flies? You and your friends are brewing </speech>
-                         polyjuice potion and believe me I'm </speech>
+                         Don't lie to me. Gilliweed might be 
+                         innocuous, but boomslang skin? lacewing 
+                         flies? You and your friends are brewing 
+                         polyjuice potion and believe me I'm 
                          going to find out why.</speech>
  
 <sd><ref name="Severus_Snape">Severus</ref> closes the door in <ref name="Harry_Potter">Harry</ref> 's face.</sd>
@@ -4570,9 +4570,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Earlier today <ref name="Alastor_Moody">Professor Moody</ref> placed </speech>
-                         the tri-wizards cup deep within the </speech>
-                         maze. Only he knows its exact position. </speech>
+                         Earlier today <ref name="Alastor_Moody">Professor Moody</ref> placed 
+                         the tri-wizards cup deep within the 
+                         maze. Only he knows its exact position. 
                          Now as Mr Diggory...</speech>
  
 <sd>The crowd cheer on hearing his name.</sd>
@@ -4581,7 +4581,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          (continued) and Mr Potter tied for first 
-                         position they will be the first to enter </speech>
+                         position they will be the first to enter 
                          the maze. Followed by Mr <ref name="Viktor_Krum">Krum</ref>...</speech>
  
 <sd>The bulgarian crowd go nuts.</sd>
@@ -4590,11 +4590,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          (continued) The first person to touch 
-                         the cup will be the winner. I've instructed </speech>
-                         the staff to patrol the perimeter, if </speech>
-                         at any point should a contestant wish </speech>
-                         to withdraw from the task he or she </speech>
-                         need only send up red sparks with their </speech>
+                         the cup will be the winner. I've instructed 
+                         the staff to patrol the perimeter, if 
+                         at any point should a contestant wish 
+                         to withdraw from the task he or she 
+                         need only send up red sparks with their 
                          wands. Contestants, gather round.</speech>
  
                          
@@ -4602,11 +4602,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          (To the contestants) In the maze you'll 
-                         find not dragons or creatures of the </speech>
-                         deep. Instead you'll face something </speech>
-                         more challenging. You see, people change </speech>
-                         in the maze. Oh find the cup if you </speech>
-                         can, but be very weary you could just </speech>
+                         find not dragons or creatures of the 
+                         deep. Instead you'll face something 
+                         more challenging. You see, people change 
+                         in the maze. Oh find the cup if you 
+                         can, but be very weary you could just 
                          lose yourselves along the way.</speech>
  
 
@@ -4685,7 +4685,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
-                         You know for a moment there I thought </speech>
+                         You know for a moment there I thought 
                          you were gonna let it get me.</speech>
  
 
@@ -4748,7 +4748,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I've been here before in a dream. <ref name="Cedric_Diggory">Cedric</ref>, </speech>
+                         I've been here before in a dream. <ref name="Cedric_Diggory">Cedric</ref>, 
                          we have to get back to the cup? Now!</speech>
  
                          
@@ -4804,7 +4804,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="WORMTAIL">WORMTAIL</speaker>
-                         Bones of the father, unwillingly given. </speech>
+                         Bones of the father, unwillingly given.</speech>
                          
  
 <sd>A bone hovers in the air under <ref name="Peter_Pettigrew">Wormtail</ref>'s control, he drops it </sd>
@@ -4813,7 +4813,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="WORMTAIL">WORMTAIL</speaker>
-                         Flesh of the servent willingly sacrificed. </speech>
+                         Flesh of the servent willingly sacrificed.</speech>
                          
  
 <sd>He takes a knife and slashes his arm over the cauldron.</sd>
@@ -4831,7 +4831,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="WORMTAIL">WORMTAIL</speaker>
-                         The dark lord shall rise again. </speech>
+                         The dark lord shall rise again.</speech>
 
 <sd>The cauldron bursts into flame and a reformed <ref name="Voldemort">Voldemort</ref> emerges.</sd>
  
@@ -4865,38 +4865,38 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Welcome my friends. Thirty years it's </speech>
-                         been, and yet you stand before me as </speech>
-                         though it were only yesterday. I confess </speech>
-                         myself disappointed, not one of you </speech>
-                         tried to find me. </speech>
+                         Welcome my friends. Thirty years it's 
+                         been, and yet you stand before me as 
+                         though it were only yesterday. I confess 
+                         myself disappointed, not one of you 
+                         tried to find me.</speech>
  
 <sd><ref name="Voldemort">Voldemort</ref> begins slashing angrily at the hooded figures. </sd>
 
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Not even you, <ref name="Lucius_Malfoy">Lucius</ref>. </speech>
+                         Not even you, <ref name="Lucius_Malfoy">Lucius</ref>. 
 
 
 
 <speech><speaker name="LUCIUS">LUCIUS</speaker>
-                         My lord. Had I detected any sign or </speech>
+                         My lord. Had I detected any sign or 
                          even a whisper of your whereabouts.</speech>
  
                          
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         There were signs my friend, and more </speech>
-                         than whispers. </speech>
+                         There were signs my friend, and more 
+                         than whispers.</speech>
  
 
 
 <speech><speaker name="LUCIUS">LUCIUS</speaker>
-                         I assure you I never renounced the old </speech>
-                         ways. The face I have been obliged to </speech>
-                         present each day since your absence, </speech>
+                         I assure you I never renounced the old 
+                         ways. The face I have been obliged to 
+                         present each day since your absence, 
                          that was my true mask.</speech>
  
 
@@ -4907,8 +4907,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Out of fear, not loyalty. Still you </speech>
-                         have proved yourself useful these past </speech>
+                         Out of fear, not loyalty. Still you 
+                         have proved yourself useful these past 
                          few months <ref name="Peter_Pettigrew">Wormtail</ref>.</speech>
  
 <sd><ref name="Voldemort">Voldemort</ref> grants <ref name="Peter_Pettigrew">Wormtail</ref> a new hand.</sd>
@@ -4922,7 +4922,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
                          (To <ref name="Cedric_Diggory">Cedric</ref>'s corpse) Oh, such a handsome 
-                         boy. </speech>
+                         boy.</speech>
  
 
 
@@ -4934,20 +4934,20 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         <ref name="Harry_Potter">Harry</ref> ! I'd almost forgotten you were </speech>
-                         here. Standing on the bones of my father. </speech>
-                         I'd introduce you but word has it you're </speech>
-                         almost as famous as me these days. The </speech>
-                         boy who lived. How lies have fed your </speech>
-                         legend <ref name="Harry_Potter">Harry</ref> . Shall I reveal what really </speech>
-                         happened that night thirteen years ago? </speech>
-                         Shall I divulge how I truly lost my </speech>
-                         powers? It was love. You see when dear </speech>
-                         sweet <ref name="Lily_Potter">Lily Potter</ref>  gave her life for </speech>
-                         her only son she provided the ultimate </speech>
-                         protection. I could not touch you. It </speech>
-                         was old magic, something I should have </speech>
-                         forseen. But no matter, no matter. Things </speech>
+                         <ref name="Harry_Potter">Harry</ref> ! I'd almost forgotten you were 
+                         here. Standing on the bones of my father. 
+                         I'd introduce you but word has it you're 
+                         almost as famous as me these days. The 
+                         boy who lived. How lies have fed your 
+                         legend <ref name="Harry_Potter">Harry</ref> . Shall I reveal what really 
+                         happened that night thirteen years ago? 
+                         Shall I divulge how I truly lost my 
+                         powers? It was love. You see when dear 
+                         sweet <ref name="Lily_Potter">Lily Potter</ref>  gave her life for 
+                         her only son she provided the ultimate 
+                         protection. I could not touch you. It 
+                         was old magic, something I should have 
+                         forseen. But no matter, no matter. Things 
                          have changed, I can touch you now!</speech>
  
                          
@@ -4956,14 +4956,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Astonishing what a few drops of your </speech>
-                         blood will do eh <ref name="Harry_Potter">Harry</ref> ? Pick up your </speech>
-                         wand Potter. I said pick it up, get </speech>
-                         up. Get up! You've been taught how to </speech>
-                         duel I presume yes? First we bow to </speech>
-                         each other. Come on now <ref name="Harry_Potter">Harry</ref>  the niceties </speech>
-                         must be observed, <ref name="Albus_Dumbledore">Dumbledore</ref> would not </speech>
-                         want you to forget your manners now </speech>
+                         Astonishing what a few drops of your 
+                         blood will do eh <ref name="Harry_Potter">Harry</ref> ? Pick up your 
+                         wand Potter. I said pick it up, get 
+                         up. Get up! You've been taught how to 
+                         duel I presume yes? First we bow to 
+                         each other. Come on now <ref name="Harry_Potter">Harry</ref>  the niceties 
+                         must be observed, <ref name="Albus_Dumbledore">Dumbledore</ref> would not 
+                         want you to forget your manners now 
                          would he? I said bow!</speech>
  
 <sd><ref name="Voldemort">Voldemort</ref> forces <ref name="Harry_Potter">Harry</ref>  to bow with magic.</sd>
@@ -4978,14 +4978,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Atta boy <ref name="Harry_Potter">Harry</ref> , your parents would be </speech>
-                         proud. Especially your filthy mongrel </speech>
-                         mother. I'm going to kill you <ref name="Harry_Potter">Harry</ref>  </speech>
-                         Potter, I'm going to destroy you. After </speech>
-                         tonight no one will ever again question </speech>
-                         my powers. After tonight if they speak </speech>
-                         of you they'll speak only of how you </speech>
-                         begged for death, and I being a merciful </speech>
+                         Atta boy <ref name="Harry_Potter">Harry</ref> , your parents would be 
+                         proud. Especially your filthy mongrel 
+                         mother. I'm going to kill you <ref name="Harry_Potter">Harry</ref>  
+                         Potter, I'm going to destroy you. After 
+                         tonight no one will ever again question 
+                         my powers. After tonight if they speak 
+                         of you they'll speak only of how you 
+                         begged for death, and I being a merciful 
                          lord obliged. Get up.</speech>
  
 <sd><ref name="Voldemort">Voldemort</ref> pulls <ref name="Harry_Potter">Harry</ref>  to his feet, <ref name="Harry_Potter">Harry</ref>  begins to move away.</sd>
@@ -4994,9 +4994,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Don't you turn your back on me <ref name="Harry_Potter">Harry</ref>  </speech>
+                         Don't you turn your back on me <ref name="Harry_Potter">Harry</ref>  
                           Potter  I want you to look at me when 
-                         I kill you, I want to see the lights </speech>
+                         I kill you, I want to see the lights 
                          leave your eyes.</speech>
  
 <sd><ref name="Harry_Potter">Harry</ref>  takes steps toward <ref name="Voldemort">Voldemort</ref>.</sd>
@@ -5012,7 +5012,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
-                         Do nothing. He is mine to finish. He's </speech>
+                         Do nothing. He is mine to finish. He's 
                          mine!</speech>
  
 <sd>Shapes form in the surrounding magical energy. We hear <ref name="Albus_Dumbledore">Dumbledore</ref>'s </sd>
@@ -5022,8 +5022,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="HARRY">HARRY</speaker>'S DAD
                          (voice) <ref name="Harry_Potter">Harry</ref>  when the connection is 
-                         broken you must get to the portkey. </speech>
-                         We can delay it for a moment to give </speech>
+                         broken you must get to the portkey. 
+                         We can delay it for a moment to give 
                          you time but only a moment, do you understand?</speech>
  
                          
@@ -5070,23 +5070,23 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         He's back, he's back! <ref name="Voldemort">Voldemort</ref>'s back. </speech>
-                         <ref name="Cedric_Diggory">Cedric</ref>, he asked me to bring his body </speech>
+                         He's back, he's back! <ref name="Voldemort">Voldemort</ref>'s back. 
+                         <ref name="Cedric_Diggory">Cedric</ref>, he asked me to bring his body 
                          back. I couldn't leave him, not there.</speech>
  
                          
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         It's alright <ref name="Harry_Potter">Harry</ref> . It's alright, he's </speech>
+                         It's alright <ref name="Harry_Potter">Harry</ref> . It's alright, he's 
                          home, you both are.</speech>
  
 
 
 <speech><speaker name="FUDGE">FUDGE</speaker>
-                         Keep everybody in their seats. A boy </speech>
-                         has just been killed. The body must </speech>
-                         be moved <ref name="Albus_Dumbledore">Dumbledore</ref>, there are... too </speech>
+                         Keep everybody in their seats. A boy 
+                         has just been killed. The body must 
+                         be moved <ref name="Albus_Dumbledore">Dumbledore</ref>, there are... too 
                          many people.</speech>
  
 
@@ -5129,7 +5129,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         The cup was a portkey. Someone had bewitched </speech>
+                         The cup was a portkey. Someone had bewitched 
                          it.</speech>
  
 
@@ -5146,14 +5146,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         The dark lord. What was it like to stand </speech>
+                         The dark lord. What was it like to stand 
                          in his presence?</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         I dunno. It was like I'd fallen into </speech>
-                         one of my dreams. One of my nightmares. </speech>
+                         I dunno. It was like I'd fallen into 
+                         one of my dreams. One of my nightmares.</speech>
                          
  
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> starts shaking and struggling for air, he reaches for </sd>
@@ -5163,36 +5163,36 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Were there others? In the graveyard, </speech>
+                         Were there others? In the graveyard, 
                          were there others?</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Um. I don't think I said anything about </speech>
+                         Um. I don't think I said anything about 
                          a graveyard Professor.</speech>
  
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         Marvellous creatures dragons aren't </speech>
-                         they? Do you think that miserable oaf </speech>
-                         would have led you into the woods if </speech>
-                         I hadn't suggested it? Do you think </speech>
-                         <ref name="Cedric_Diggory">Cedric Diggory</ref> would have told you to </speech>
-                         hold the egg under the water if I hadn't </speech>
-                         have told him first myself? Do you think </speech>
-                         <ref name="Neville_Longbottom">Neville Longbottom</ref> the witless wonder </speech>
-                         could have provided you with gilliweed </speech>
-                         if I hadn't have given him the book </speech>
+                         Marvellous creatures dragons aren't 
+                         they? Do you think that miserable oaf 
+                         would have led you into the woods if 
+                         I hadn't suggested it? Do you think 
+                         <ref name="Cedric_Diggory">Cedric Diggory</ref> would have told you to 
+                         hold the egg under the water if I hadn't 
+                         have told him first myself? Do you think 
+                         <ref name="Neville_Longbottom">Neville Longbottom</ref> the witless wonder 
+                         could have provided you with gilliweed 
+                         if I hadn't have given him the book 
                          that led you straight to it? Huh??</speech>
  
                          
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         It was you from the beginning. You put </speech>
-                         my name in the goblet of fire. You bewitched </speech>
+                         It was you from the beginning. You put 
+                         my name in the goblet of fire. You bewitched 
                          <ref name="Viktor_Krum">Krum</ref>. But...</speech>
  
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> makes sobbing noises making fun of <ref name="Harry_Potter">Harry</ref> .</sd>
@@ -5200,13 +5200,13 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
-                         You won because I made it so Potter. </speech>
-                         You ended up in that graveyard tonight </speech>
-                         because it was meant to be so. And now </speech>
-                         the deed is done. The blood that runs </speech>
-                         through these veins runs within the </speech>
-                         dark lord. Imagine how he will reward </speech>
-                         me when he learns that I have once and </speech>
+                         You won because I made it so Potter. 
+                         You ended up in that graveyard tonight 
+                         because it was meant to be so. And now 
+                         the deed is done. The blood that runs 
+                         through these veins runs within the 
+                         dark lord. Imagine how he will reward 
+                         me when he learns that I have once and 
                          for all silenced the great  <ref name="Harry Potter">Harry Potter</ref> .</speech>
  
                          
@@ -5285,7 +5285,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Now we know who's been stealing it from </speech>
+                         Now we know who's been stealing it from 
                          your store <ref name="Severus_Snape">Severus</ref>.</speech>
  
 <sd><ref name="Albus_Dumbledore">Dumbledore</ref> looks into the pit.</sd>
@@ -5323,15 +5323,15 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="BARTY JR">BARTY JR</speaker>
-                         You know what this means don't you? </speech>
+                         You know what this means don't you? 
                          He's back. <ref name="Voldemort">Lord Voldemort</ref> has returned.</speech>
  
                          
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Send an owl to Azkaban, think they'll </speech>
-                         find they're missing a prisoner. </speech>
+                         Send an owl to Azkaban, think they'll 
+                         find they're missing a prisoner.</speech>
  
                          
 
@@ -5343,7 +5343,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Perhaps. Personally I've never had much </speech>
+                         Perhaps. Personally I've never had much 
                          time for heroes.</speech>
  
               <setting>INT. ASSEMBLY ROOM</setting>
@@ -5352,27 +5352,27 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          (Speaking to all pupils) Today we acknowledge 
-                         a really terrible loss. <ref name="Cedric_Diggory">Cedric Diggory</ref> </speech>
-                         was as you all know, exceptionally hard </speech>
-                         working, intricately fair minded. And </speech>
-                         most importantly a fierce fierce friend. </speech>
-                         I think therefore you have the right </speech>
-                         to know exactly how he died. You see, </speech>
-                         <ref name="Cedric_Diggory">Cedric Diggory</ref> was murdered by <ref name="Voldemort">Lord </speech>
-                         Voldemort.</ref> The ministry of magic does </speech>
-                         not wish me to tell you this. But not </speech>
-                         to do so I think would be an insult </speech>
-                         to his memory. Now the pain we all feel </speech>
-                         at this dreadful loss reminds me, reminds </speech>
-                         us that while we may come from different </speech>
-                         places and speak in different tongues, </speech>
-                         our hearts beat as one. In light of </speech>
-                         recent events the bonds of friendship </speech>
-                         we made this year will be more important </speech>
-                         than ever. Remember that and <ref name="Cedric_Diggory">Cedric</ref> </speech>
-                         Diggory will not have died in vain, </speech>
-                         you remember that. And we'll celebrate </speech>
-                         a boy who was kind and honest and brave </speech>
+                         a really terrible loss. <ref name="Cedric_Diggory">Cedric Diggory</ref> 
+                         was as you all know, exceptionally hard 
+                         working, intricately fair minded. And 
+                         most importantly a fierce fierce friend. 
+                         I think therefore you have the right 
+                         to know exactly how he died. You see, 
+                         <ref name="Cedric_Diggory">Cedric Diggory</ref> was murdered by <ref name="Voldemort">Lord 
+                         Voldemort.</ref> The ministry of magic does 
+                         not wish me to tell you this. But not 
+                         to do so I think would be an insult 
+                         to his memory. Now the pain we all feel 
+                         at this dreadful loss reminds me, reminds 
+                         us that while we may come from different 
+                         places and speak in different tongues, 
+                         our hearts beat as one. In light of 
+                         recent events the bonds of friendship 
+                         we made this year will be more important 
+                         than ever. Remember that and <ref name="Cedric_Diggory">Cedric</ref> 
+                         Diggory will not have died in vain, 
+                         you remember that. And we'll celebrate 
+                         a boy who was kind and honest and brave 
                          and true right to the very end.</speech>
  
               <setting>INT. BEDROOM</setting>
@@ -5382,22 +5382,22 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         I never liked these curtains. Set them </speech>
-                         on fire in my fourth year, by accident </speech>
-                         of course. I put you in terrible danger </speech>
+                         I never liked these curtains. Set them 
+                         on fire in my fourth year, by accident 
+                         of course. I put you in terrible danger 
                          this year <ref name="Harry_Potter">Harry</ref>  I'm sorry.</speech>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
-                         Professor, when I was in the graveyard </speech>
-                         there was a moment... um... when <ref name="Voldemort">Voldemort</ref>'s </speech>
+                         Professor, when I was in the graveyard 
+                         there was a moment... um... when <ref name="Voldemort">Voldemort</ref>'s 
                          wand and mine sort of connected.</speech>
  
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         Priorium Contatum. You saw your parents </speech>
+                         Priorium Contatum. You saw your parents 
                          that night didn't you? They reappeared.</speech>
  
                          
@@ -5406,11 +5406,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
-                         No spell can reawaken the dead <ref name="Harry_Potter">Harry</ref>  </speech>
-                         I trust you know that. Dark and diffiult </speech>
-                         times lie ahead. Soon we must all face </speech>
-                         the choice between what is right what </speech>
-                         is easy. But remember this, you have </speech>
+                         No spell can reawaken the dead <ref name="Harry_Potter">Harry</ref>  
+                         I trust you know that. Dark and diffiult 
+                         times lie ahead. Soon we must all face 
+                         the choice between what is right what 
+                         is easy. But remember this, you have 
                          friends here. You're not alone.</speech>
  
               <setting>EXT. HOGWARTS</setting>
@@ -5442,7 +5442,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="RON">RON</speaker>
-                         Do you think we'll ever just have a </speech>
+                         Do you think we'll ever just have a 
                          quiet year at Hogwarts?</speech>
  
 
@@ -5458,7 +5458,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Everything's going to change now isn't </speech>
+                         Everything's going to change now isn't 
                          it?</speech>
  
 
@@ -5469,7 +5469,7 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
-                         Promise you'll write this summer. Both </speech>
+                         Promise you'll write this summer. Both 
                          of you.</speech>
  
 
