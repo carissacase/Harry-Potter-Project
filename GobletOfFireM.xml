@@ -26,9 +26,9 @@
 
 <sd>TITLES<setting>INT. DARK ROOM - NIGHT TIME</setting></sd>
 
-<sd>An old man lights a gas oven with a match, he is preparing food. </sd>
-<sd>He notices a light on in the large house opposite, he stops what </sd>
-<sd>he's doing and walks to the door.</sd>
+<sd>An old man lights a gas oven with a match, he is preparing food. 
+He notices a light on in the large house opposite, he stops what 
+he's doing and walks to the door.</sd>
  
 
 
@@ -39,11 +39,11 @@
 
               <setting>EXT. DARKNESS</setting>
 
-<sd>The old man is wandering up to the house carrying a lit torch. </sd>
-He opens the front door, inside is just as dark. He begins climbing </sd>
-<sd>the stairs, we hear whispers and hushed voices coming from upstairs. </sd>
-<sd>The old man waits outside the room where the conversation is </sd>
-<sd>taking place and listens on.</sd>
+<sd>The old man is wandering up to the house carrying a lit torch.
+He opens the front door, inside is just as dark. He begins climbing 
+the stairs, we hear whispers and hushed voices coming from upstairs. 
+The old man waits outside the room where the conversation is 
+taking place and listens on.</sd>
  
 
 
@@ -79,8 +79,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          <creature name="Nagini">Nagini</creature> tells me the old caretaker is 
                          standing outside the door.</speech>
  
-<sd><ref name="Peter_Pettigrew">Wormtail</ref> stands in the doorway and looks at the old man. The </sd>
-<sd>old man looks terrified.</sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> stands in the doorway and looks at the old man. The 
+old man looks terrified.</sd>
  
 
 
@@ -260,8 +260,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="AMOS">AMOS</speaker>
                          Three!</speech>
 
-<sd>There's a white flash and suddenly they're all flying through </sd>
-<sd>the air. Everyone cheers. </sd>
+<sd>There's a white flash and suddenly they're all flying through 
+the air. Everyone cheers. </sd>
  
 
 
@@ -278,8 +278,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
                          Let! Go!</speech>
 
-<sd><ref name="Harry_Potter">Harry</ref> , <ref name="Hermione_Granger">Hermione</ref> and the young Weasleys crash to the ground with </sd>
-<sd>a thump. <ref name="Arthur_Weasley">Arthur</ref>, <ref name="Amos_Diggory">Amos</ref> and <ref name="Cedric_Diggory">Cedric</ref> come down more gracefully.</sd>
+<sd><ref name="Harry_Potter">Harry</ref> , <ref name="Hermione_Granger">Hermione</ref> and the young Weasleys crash to the ground with 
+a thump. <ref name="Arthur_Weasley">Arthur</ref>, <ref name="Amos_Diggory">Amos</ref> and <ref name="Cedric_Diggory">Cedric</ref> come down more gracefully.</sd>
  
                
 
@@ -295,8 +295,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          Thanks.</speech>
 
-<sd>They walk across the field and we see there's a massive crowd </sd>
-<sd>gathered and cheering, tents are set up all over.</sd>
+<sd>They walk across the field and we see there's a massive crowd 
+gathered and cheering, tents are set up all over.</sd>
  
 
 
@@ -304,9 +304,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          Well kids, welcome to the Quidditch 
                          World Cup!</speech>
  
-<sd>They walk into the crowd, taking in the sights. Music is playing </sd>
-<sd>and people fly about overhead on brooms. They approach a small </sd>
-<sd>tent.</sd>
+<sd>They walk into the crowd, taking in the sights. Music is playing 
+and people fly about overhead on brooms. They approach a small 
+tent.</sd>
  
 
 
@@ -328,8 +328,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>INT. TENT</setting>
 
-<sd>They enter the tent, the inside is many times bigger than the </sd>
-<sd>outside.</sd>
+<sd>They enter the tent, the inside is many times bigger than the 
+outside.</sd>
  
 
 
@@ -353,8 +353,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="TWINS">TWINS</speaker>
                          Feet off the table.</speech>
 
-<sd>They take their feet off the table and put them back on as soon </sd>
-<sd>as <ref name="Arthur_Weasley">Arthur</ref> has walked past.</sd>
+<sd>They take their feet off the table and put them back on as soon 
+as <ref name="Arthur_Weasley">Arthur</ref> has walked past.</sd>
  
 
 
@@ -363,8 +363,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>EXT. HILLSIDE</setting>
 
-<sd>We pan up the hillside onto a large stadium which seems to have </sd>
-<sd>a huge number of floors.</sd>
+<sd>We pan up the hillside onto a large stadium which seems to have 
+a huge number of floors.</sd>
 <setting>INT. STADIUM</setting>
 
 <sd>The Weasleys and <ref name="Harry_Potter">Harry</ref>  are finding their seats.</sd>
@@ -415,9 +415,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="FRED">FRED</speaker>
                          It's the Irish!</speech>
 
-<sd>Five green and white figures fly through the air on their brooms </sd>
-<sd>leaving a colored trail behind them. A glittering leprechaun </sd>
-<sd>appears in the sky and starts dancing. Everyone is excited.</sd>
+<sd>Five green and white figures fly through the air on their brooms 
+leaving a colored trail behind them. A glittering leprechaun 
+appears in the sky and starts dancing. Everyone is excited.</sd>
  
                
 
@@ -425,9 +425,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="GEORGE">GEORGE</speaker>
                          Here come the Bulgarians!</speech>
 
-<sd>Five red figures this time, one of them performs a stunt on his </sd>
-<sd>broom. One of them appears on the large screen. The crowd begins </sd>
-<sd>to chant '<ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>'. </sd>
+<sd>Five red figures this time, one of them performs a stunt on his 
+broom. One of them appears on the large screen. The crowd begins 
+to chant '<ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>'. </sd>
  
 
 
@@ -502,18 +502,18 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          stick together. <ref name="Fred_Weasley">Fred</ref>, <ref name="George_Weasley">George</ref>... <ref name="Ginny_Weasley">Ginny</ref> 
                          is your responsibility.</speech>
  
-<sd>Some figures in pointed hoods carrying flaming torches are walking </sd>
-<sd>across the campsite chanting ominous noises. The crowd is paniced </sd>
-<sd>and rushing all over. <ref name="Harry_Potter">Harry</ref>  is trampled unconscious.</sd>
+<sd>Some figures in pointed hoods carrying flaming torches are walking 
+across the campsite chanting ominous noises. The crowd is paniced 
+and rushing all over. <ref name="Harry_Potter">Harry</ref>  is trampled unconscious.</sd>
  
               <setting>EXT. OUTSIDE - TIME PASSED</setting>
 
-<sd>The crowds have all gone. A man walks through the rubble kicking </sd>
-<sd>at things. He casts a <spell type="dark charm" name="Mosmordrespell">spell</spell> which causes a bright flash and a </sd>
-<sd>large ghostly skull forms in the sky with a snake crawling from </sd>
-<sd>it. The man grins evilly, clearly demented. <ref name="Harry_Potter">Harry</ref>  stirs and witnesses </sd>
-<sd>the man standing there. <ref name="Harry_Potter">Harry</ref>  runs. The familiar voices of <ref name="Ron_Weasley">Ron</ref> </sd>
-<sd>and <ref name="Hermione_Granger">Hermione</ref> are calling for him.</sd>
+<sd>The crowds have all gone. A man walks through the rubble kicking 
+at things. He casts a <spell type="dark charm" name="Mosmordrespell">spell</spell> which causes a bright flash and a 
+large ghostly skull forms in the sky with a snake crawling from 
+it. The man grins evilly, clearly demented. <ref name="Harry_Potter">Harry</ref>  stirs and witnesses 
+the man standing there. <ref name="Harry_Potter">Harry</ref>  runs. The familiar voices of <ref name="Ron_Weasley">Ron</ref> 
+and <ref name="Hermione_Granger">Hermione</ref> are calling for him.</sd>
  
 
 
@@ -526,8 +526,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          What is THAT?</speech>
 
-<sd>They look at the monstrous thing in the sky, <ref name="Harry_Potter">Harry</ref>  holds his </sd>
-<sd>head in pain. Suddenly they are fired on. </sd>
+<sd>They look at the monstrous thing in the sky, <ref name="Harry_Potter">Harry</ref>  holds his 
+head in pain. Suddenly they are fired on. </sd>
  
 
 
@@ -612,8 +612,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>INT. TRAIN CARRIAGE</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref> , <ref name="Ron_Weasley">Ron</ref> and <ref name="Hermione_Granger">Hermione</ref> are seated on a train. A voice calls </sd>
-<sd>out.</sd>
+<sd><ref name="Harry_Potter">Harry</ref> , <ref name="Ron_Weasley">Ron</ref> and <ref name="Hermione_Granger">Hermione</ref> are seated on a train. A voice calls 
+out.</sd>
  
 
 
@@ -710,13 +710,13 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          this. What you saw at the world cup, 
                          and the dream.</speech>
  
-<sd><ref name="Harry_Potter">Harry</ref>  has written a letter, he marks <ref name="Sirius_Black">Sirius Black</ref> on an envelope </sd>
-<sd>and gives it to an owl.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  has written a letter, he marks <ref name="Sirius_Black">Sirius Black</ref> on an envelope 
+and gives it to an owl.</sd>
  
               <setting>EXT. HOGWARTS</setting>
 
-<sd>We see four flying horses flying through the air pulling a carriage </sd>
-<sd>coming in to land at Hogwarts. The crowds cheer.</sd>
+<sd>We see four flying horses flying through the air pulling a carriage 
+coming in to land at Hogwarts. The crowds cheer.</sd>
  
 
 
@@ -742,8 +742,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          as well. You see Hogwarts has been choosen...</speech>
  
                          
-<sd>A man runs up the aisle limping in a comical way, he whispers </sd>
-<sd>something to <ref name="Albus_Dumbledore">Dumbledore</ref> and leaves in the same fashion.</sd>
+<sd>A man runs up the aisle limping in a comical way, he whispers 
+something to <ref name="Albus_Dumbledore">Dumbledore</ref> and leaves in the same fashion.</sd>
  
 
 
@@ -764,8 +764,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          and their headmistress Madam <ref name="Madame_Maxime">Maxime</ref>.</speech>
  
                          
-<sd>A group of girls dressed in blue dance up the aisle and release </sd>
-<sd>butterflies into the air. They bow and everyone applauds.</sd>
+<sd>A group of girls dressed in blue dance up the aisle and release 
+butterflies into the air. They bow and everyone applauds.</sd>
  
 
 
@@ -780,9 +780,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          and the high master <ref name="Igor_Karkaroff">Igor Karkaroff</ref>.</speech>
  
                          
-<sd>A series of older boys walk up the aisle brandishing bo staffs, </sd>
-<sd>twirling them around and periodically stabbing them into the </sd>
-<sd>ground with a spark effect.</sd>
+<sd>A series of older boys walk up the aisle brandishing bo staffs, 
+twirling them around and periodically stabbing them into the 
+ground with a spark effect.</sd>
  
 
 
@@ -825,8 +825,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          But you know <ref name="Rubeus_Hagrid">Monsieur Hagrid</ref>, they drink 
                          only single malt whiskey.</speech>
  
-<sd>The man seated next to <ref name="Rubeus_Hagrid">Hagrid</ref> yelps. <ref name="Rubeus_Hagrid">Hagrid</ref> has stabbed a fork </sd>
-<sd>into his hand.</sd>
+<sd>The man seated next to <ref name="Rubeus_Hagrid">Hagrid</ref> yelps. <ref name="Rubeus_Hagrid">Hagrid</ref> has stabbed a fork 
+into his hand.</sd>
  
 
 
@@ -860,9 +860,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          of international magic cooperation <ref name="Bartimus_Crouch">Mister 
                          Bartimus Crouch</ref>.</speech>
  
-<sd>Thunder roars overhead, rain begins leaking through the roof </sd>
-<sd>and screams break out. A strange man stands in the doorway, he </sd>
-<sd>casts some magic upwards and seals the roof. Peace is restored.</sd>
+<sd>Thunder roars overhead, rain begins leaking through the roof 
+and screams break out. A strange man stands in the doorway, he 
+casts some magic upwards and seals the roof. Peace is restored.</sd>
  
                
 
@@ -883,9 +883,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          supposed to be mad as a hatter though 
                          these days.</speech>
  
-<sd>This character enters the room and begins walking. We see <ref name="Harry_Potter">Harry</ref>  </sd>
-<sd>through his mechanical eye. He limps, breathing heavily as he </sd>
-<sd>goes.</sd>
+<sd>This character enters the room and begins walking. We see <ref name="Harry_Potter">Harry</ref>  
+through his mechanical eye. He limps, breathing heavily as he 
+goes.</sd>
  
 
 
@@ -935,8 +935,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          Silence!</speech>
 
-<sd><ref name="Albus_Dumbledore">Dumbledore</ref> casts magic over a box which melds into a goblet containing </sd>
-<sd>a blue flame.</sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> casts magic over a box which melds into a goblet containing 
+a blue flame.</sd>
  
 
 
@@ -952,8 +952,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
    <setting>INT. ASSEMBLY ROOM - NIGHT</setting>
 
-<sd>We see a suspicious character enter the room where the goblet </sd>
-<sd>is still burning and close the door behind him.</sd>
+<sd>We see a suspicious character enter the room where the goblet 
+is still burning and close the door behind him.</sd>
  
               <setting>INT. CLASSROOM</setting>
 
@@ -1122,8 +1122,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          Stop it! Can't you see it's bothering 
                          him, stop it!</speech>
  
-<sd><ref name="Alastor_Moody">Mad-Eye</ref> stops. <ref name="Neville_Longbottom">Neville</ref> is disturbed. <ref name="Alastor_Moody">Mad-Eye</ref> picks up the spider </sd>
-<sd>which is still making a noise.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> stops. <ref name="Neville_Longbottom">Neville</ref> is disturbed. <ref name="Alastor_Moody">Mad-Eye</ref> picks up the spider 
+which is still making a noise.</sd>
  
 
 
@@ -1185,8 +1185,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
               <setting>INT. GOBLET ROOM</setting>
 
-<sd>Older students are placing their names into the flame and others </sd>
-<sd>are applauding, <ref name="Cedric_Diggory">Cedric</ref> is one of them.</sd>
+<sd>Older students are placing their names into the flame and others 
+are applauding, <ref name="Cedric_Diggory">Cedric</ref> is one of them.</sd>
  
 
 
@@ -1256,10 +1256,10 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="FRED">FRED</speaker>
                          Ready <ref name="George_Weasley">George</ref>?</speech>
 
-<sd>They jump inside the age line, and cheer. They put their names </sd>
-<sd>in the flame and do a high-five. The flame fires up and they're </sd>
-<sd>flung across the room onto the floor. When they get up they have </sd>
-<sd>full heads of grey hair and beards.</sd>
+<sd>They jump inside the age line, and cheer. They put their names 
+in the flame and do a high-five. The flame fires up and they're 
+flung across the room onto the floor. When they get up they have 
+full heads of grey hair and beards.</sd>
  
 
 
@@ -1268,9 +1268,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <sd><ref name="Fred_Weasley">Fred</ref> You said..</sd>
 
-<sd>They roll around fighting on the floor and the crowd cheer. The </sd>
-<sd>room suddenly becomes silent as <ref name="Viktor_Krum">Viktor Krum</ref> walks in and puts </sd>
-<sd>his name in the flame. He looks at <ref name="Hermione_Granger">Hermione</ref> and she smiles.</sd>
+<sd>They roll around fighting on the floor and the crowd cheer. The 
+room suddenly becomes silent as <ref name="Viktor_Krum">Viktor Krum</ref> walks in and puts 
+his name in the flame. He looks at <ref name="Hermione_Granger">Hermione</ref> and she smiles.</sd>
  
           INT. GOBLET ROOM - THURSDAY NIGHT
 
@@ -1281,8 +1281,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          you've all been waiting for, the champions 
                          selection!</speech>
  
-<sd><ref name="Albus_Dumbledore">Dumbledore</ref> approaches the blue flame and it glows red. A name </sd>
-<sd>comes out. Everyone looks on anxiously.</sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> approaches the blue flame and it glows red. A name 
+comes out. Everyone looks on anxiously.</sd>
  
 
 
@@ -1298,8 +1298,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          The champion from Beauxbatons... <ref name="Fleur_Delacour">Fleur</ref> 
                          Delacour</speech>
  
-<sd>The Beauxbatons girls cheer as <ref name="Fleur_Delacour">Fleur</ref> walks up. Another name comes </sd>
-<sd>out.</sd>
+<sd>The Beauxbatons girls cheer as <ref name="Fleur_Delacour">Fleur</ref> walks up. Another name comes 
+out.</sd>
  
 
 
@@ -1318,8 +1318,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          chalice of champions, this vessel of 
                          victory the tri-wizard cup!</speech>
  
-<sd>People cheer, but the goblet glows red once more and another </sd>
-<sd>name flies out. <ref name="Albus_Dumbledore">Dumbledore</ref> takes it and reads...</sd>
+<sd>People cheer, but the goblet glows red once more and another 
+name flies out. <ref name="Albus_Dumbledore">Dumbledore</ref> takes it and reads...</sd>
  
 
 
@@ -1342,8 +1342,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          Go on <ref name="Harry_Potter">Harry</ref> . <ref name="Harry_Potter">Harry</ref>  for goodness sake.</speech>
  
                          
-<sd><ref name="Harry_Potter">Harry</ref>  slowly walks up. <ref name="Albus_Dumbledore">Dumbledore</ref> gives him the paper. Voices </sd>
-<sd>in the crowd shout out.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  slowly walks up. <ref name="Albus_Dumbledore">Dumbledore</ref> gives him the paper. Voices 
+in the crowd shout out.</sd>
  
 
 
@@ -1353,8 +1353,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
               <setting>INT. ROOM</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref>  is in a room with the other champions. <ref name="Albus_Dumbledore">Dumbledore</ref> bursts </sd>
-<sd>in and grabs <ref name="Harry_Potter">Harry</ref> .</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is in a room with the other champions. <ref name="Albus_Dumbledore">Dumbledore</ref> bursts 
+in and grabs <ref name="Harry_Potter">Harry</ref> .</sd>
  
 
 
@@ -1549,8 +1549,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>INT. HOGWARTS</setting>
 
-<sd>A woman appears in a puff of smoke. She's well groomed and dressed </sd>
-<sd>colorfully.</sd>
+<sd>A woman appears in a puff of smoke. She's well groomed and dressed 
+colorfully.</sd>
  
 
 
@@ -1558,8 +1558,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          What a charismatic quartet. Hello!</speech>
  
                          
-<sd>The four tri-wizard champions are stood together in a group. </sd>
-<sd>She walks over to them and shakes each of their hands.</sd>
+<sd>The four tri-wizard champions are stood together in a group. 
+She walks over to them and shakes each of their hands.</sd>
  
 
 
@@ -1672,8 +1672,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
               <setting>INT. ROOFTOP</setting>
 
-<sd>An owl flies in with a letter for <ref name="Harry_Potter">Harry</ref> , he takes it and begins </sd>
-<sd>to read.</sd>
+<sd>An owl flies in with a letter for <ref name="Harry_Potter">Harry</ref> , he takes it and begins 
+to read.</sd>
  
 
 
@@ -1706,8 +1706,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          <ref name="Sirius_Black">Sirius</ref>?</speech>
 
-<sd><ref name="Harry_Potter">Harry</ref>  picks up a newspaper, the headline reads "THE CHAMPIONS </sd>
-<sd>ARE SELECTED" and reads.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  picks up a newspaper, the headline reads "THE CHAMPIONS 
+ARE SELECTED" and reads.</sd>
  
 
 
@@ -1717,9 +1717,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          His eyes swimming with the ghosts of 
                          his...</speech>
  
-<sd>Her voice becomes desperate as he crumples up the newspaper and </sd>
-<sd>puts it on the fire. The fire flares up a little, a face appears </sd>
-<sd>in it.</sd>
+<sd>Her voice becomes desperate as he crumples up the newspaper and 
+puts it on the fire. The fire flares up a little, a face appears 
+in it.</sd>
  
 
 
@@ -1863,8 +1863,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          You're probably just practicing for 
                          your next interview I expect.</speech>
  
-<sd><ref name="Ron_Weasley">Ron</ref> leaves. <ref name="Harry_Potter">Harry</ref>  goes to the fire again but <ref name="Sirius_Black">Sirius</ref> is gone. </sd>
-<sd>The newspaper in the fire has the headline "TEENAGE TRAGEDY".</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> leaves. <ref name="Harry_Potter">Harry</ref>  goes to the fire again but <ref name="Sirius_Black">Sirius</ref> is gone. 
+The newspaper in the fire has the headline "TEENAGE TRAGEDY".</sd>
  
           EXT. LAKESIDE
 
@@ -1905,8 +1905,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          just go and do it yourself? Ughh. What 
                          do you want me to say again?</speech>
  
-<sd><ref name="Ron_Weasley">Ron</ref> whispers some words to <ref name="Hermione_Granger">Hermione</ref>. It's clear <ref name="Ron_Weasley">Ron</ref> and <ref name="Harry_Potter">Harry</ref>  </sd>
-<sd>are not on speaking terms.</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> whispers some words to <ref name="Hermione_Granger">Hermione</ref>. It's clear <ref name="Ron_Weasley">Ron</ref> and <ref name="Harry_Potter">Harry</ref>  
+are not on speaking terms.</sd>
  
 <sd><ref name="Hermione_Granger">Hermione</ref> walks up to <ref name="Harry_Potter">Harry</ref> .</sd>
 
@@ -1975,8 +1975,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          What's with the flower? <ref name="Rubeus_Hagrid">Hagrid</ref> have 
                          you combed your hair?</speech>
  
-<sd><ref name="Rubeus_Hagrid">Hagrid</ref> is looking more dapper than usual and is carrying a big </sd>
-<sd>red flower.</sd>
+<sd><ref name="Rubeus_Hagrid">Hagrid</ref> is looking more dapper than usual and is carrying a big 
+red flower.</sd>
  
 
 
@@ -2036,8 +2036,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="MADAME MAXIME">MADAME MAXIME</speaker>
                          Ahh, c'est magnifique!</speech>
 
-<sd>In an opening we see people are running about, dragons are roaring </sd>
-<sd>and breathing fire.</sd>
+<sd>In an opening we see people are running about, dragons are roaring 
+and breathing fire.</sd>
  
 
 
@@ -2085,11 +2085,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
    <setting>EXT. HOGWARTS - DAYTIME</setting>
 
-<sd>We're zoomed in on a badge, it depicts <ref name="Cedric_Diggory">Cedric</ref> on a bright yellow </sd>
-<sd>background. Then the badge spins and shows <ref name="Harry_Potter">Harry</ref>  on a green background </sd>
-<sd>with the words " Potter  Stinks" on it. As <ref name="Harry_Potter">Harry</ref>  walks along other </sd>
-<sd>pupils aim insults at him saying he stinks. A young boy runs </sd>
-<sd>past.</sd>
+<sd>We're zoomed in on a badge, it depicts <ref name="Cedric_Diggory">Cedric</ref> on a bright yellow 
+background. Then the badge spins and shows <ref name="Harry_Potter">Harry</ref>  on a green background 
+with the words " Potter  Stinks" on it. As <ref name="Harry_Potter">Harry</ref>  walks along other 
+pupils aim insults at him saying he stinks. A young boy runs 
+past.</sd>
  
 
 
@@ -2113,9 +2113,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          Excuse me..</speech>
 
-<sd>They laugh, <ref name="Harry_Potter">Harry</ref>  pushes his way through. He approaches <ref name="Cedric_Diggory">Cedric</ref> </sd>
-<sd>who is standing around with his friends. <ref name="Cedric_Diggory">Cedric</ref>'s friends hurl </sd>
-<sd>off more insults.</sd>
+<sd>They laugh, <ref name="Harry_Potter">Harry</ref>  pushes his way through. He approaches <ref name="Cedric_Diggory">Cedric</ref> 
+who is standing around with his friends. <ref name="Cedric_Diggory">Cedric</ref>'s friends hurl 
+off more insults.</sd>
  
 
 
@@ -2210,8 +2210,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          father thinks Malfoy. He's vile and 
                          cruel, and you're just pathetic.</speech>
  
-<sd><ref name="Harry_Potter">Harry</ref>  walks away and <ref name="Draco_Malfoy">Draco</ref> angrily tries casting a spell. <ref name="Alastor_Moody">Mad-Eye</ref> </sd>
-<sd>appears and quickly turns Malfoy into a ferret.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  walks away and <ref name="Draco_Malfoy">Draco</ref> angrily tries casting a spell. <ref name="Alastor_Moody">Mad-Eye</ref> 
+appears and quickly turns Malfoy into a ferret.</sd>
  
 
 
@@ -2240,11 +2240,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          Technically it's a ferret.</speech>
 
-<sd><ref name="Alastor_Moody">Mad-Eye</ref> is making the ferret hover around. He sends it up the </sd>
-<sd>trouser leg of one of <ref name="Draco_Malfoy">Draco</ref>'s friends. He squirms and looks uncomfortable. </sd>
-<sd>Everyone else is laughing. <ref name="Alastor_Moody">Mad-Eye</ref> winks to <ref name="Harry_Potter">Harry</ref>  and he laughs. </sd>
-<sd>Eventually it comes back out and <ref name="Minerva_McGonagall">McGonagall</ref> turns <ref name="Draco_Malfoy">Draco</ref> back </sd>
-<sd>to normal.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> is making the ferret hover around. He sends it up the 
+trouser leg of one of <ref name="Draco_Malfoy">Draco</ref>'s friends. He squirms and looks uncomfortable. 
+Everyone else is laughing. <ref name="Alastor_Moody">Mad-Eye</ref> winks to <ref name="Harry_Potter">Harry</ref>  and he laughs. 
+Eventually it comes back out and <ref name="Minerva_McGonagall">McGonagall</ref> turns <ref name="Draco_Malfoy">Draco</ref> back 
+to normal.</sd>
  
 
 
@@ -2358,8 +2358,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>INT. WAITING TENT</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref>  is pacing nervously. <ref name="Hermione_Granger">Hermione</ref> is standing by the tent door </sd>
-<sd>whispering in.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is pacing nervously. <ref name="Hermione_Granger">Hermione</ref> is standing by the tent door 
+whispering in.</sd>
  
 
 
@@ -2383,8 +2383,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          Battle a dragon.</speech>
 
-<sd><ref name="Hermione_Granger">Hermione</ref> enters the tent and they hug. A bright camera flashes, </sd>
-<sd><ref name="Rita_Skeeter">Rita Skeeter</ref> the journalist approaches.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> enters the tent and they hug. A bright camera flashes, 
+<ref name="Rita_Skeeter">Rita Skeeter</ref> the journalist approaches.</sd>
  
 
 
@@ -2518,10 +2518,10 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          to the next task. And now our fourth 
                          and final contestant.</speech>
  
-<sd><ref name="Harry_Potter">Harry</ref>  enters the rocky arena. The crowd are cheering his name. </sd>
-<sd>He sees the golden egg sitting alone, he makes a run for it but </sd>
-<sd>the dragon appears. <ref name="Harry_Potter">Harry</ref> 's forced to retreat behind a rock as </sd>
-<sd>the dragon flames him. <ref name="Harry_Potter">Harry</ref>  stumbles and falls around the arena.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  enters the rocky arena. The crowd are cheering his name. 
+He sees the golden egg sitting alone, he makes a run for it but 
+the dragon appears. <ref name="Harry_Potter">Harry</ref> 's forced to retreat behind a rock as 
+the dragon flames him. <ref name="Harry_Potter">Harry</ref>  stumbles and falls around the arena.</sd>
  
                
 
@@ -2529,31 +2529,31 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          Your wand harry! Your wand!</speech>
 
-                         <sd><ref name="Harry_Potter">Harry</ref> <spell type="charm" name="Accio">summons</spell> a broom. He jumps on and flies off, the dragon </sd>
-<sd>gives chase. The dragon bursts through the crowd and they look </sd>
-<sd>stunned.</sd>
+                         <sd><ref name="Harry_Potter">Harry</ref> <spell type="charm" name="Accio">summons</spell> a broom. He jumps on and flies off, the dragon 
+gives chase. The dragon bursts through the crowd and they look 
+stunned.</sd>
  
               <setting>EXT. HOGWARTS SKY</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref>  is flying at high speed around the Hogwarts buildings. </sd>
-<sd>The dragon cuts him off and whips him off his broom, he lands </sd>
-<sd>on the roof of Hogwarts, hanging on for dear life. The dragon </sd>
-<sd>is clambering across the roof, strewing tiles as it goes. <ref name="Harry_Potter">Harry</ref>  </sd>
-<sd>reaches his broom but it's stuck. He jerks it loose and lets </sd>
-<sd>go of the roof just in time before the dragon swipes at him. </sd>
-<sd>He falls a long way but regains control. He flies on to an area </sd>
-<sd>with a bridge, he flies through a gap in the bridge but the dragon </sd>
-<sd>crashes into it and falls into the water.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is flying at high speed around the Hogwarts buildings. 
+The dragon cuts him off and whips him off his broom, he lands 
+on the roof of Hogwarts, hanging on for dear life. The dragon 
+is clambering across the roof, strewing tiles as it goes. <ref name="Harry_Potter">Harry</ref>  
+reaches his broom but it's stuck. He jerks it loose and lets 
+go of the roof just in time before the dragon swipes at him. 
+He falls a long way but regains control. He flies on to an area 
+with a bridge, he flies through a gap in the bridge but the dragon 
+crashes into it and falls into the water.</sd>
  
               <setting>INT. ARENA</setting>
 
-<sd>The crowds are mostly silent. We see <ref name="Harry_Potter">Harry</ref>  flying towards us </sd>
-<sd>and the crowd erupts. He goes straight for the golden egg.</sd>
+<sd>The crowds are mostly silent. We see <ref name="Harry_Potter">Harry</ref>  flying towards us 
+and the crowd erupts. He goes straight for the golden egg.</sd>
  
           INT. HOGWARTS
 
-<sd><ref name="Harry_Potter">Harry</ref>  is lifting the golden egg, people around him cheering. </sd>
-<sd><ref name="Fred and George Weasley">The Weasley twins</ref> have <ref name="Harry_Potter">Harry</ref>  sitting on their shoulders.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is lifting the golden egg, people around him cheering. 
+<ref name="Fred and George Weasley">The Weasley twins</ref> have <ref name="Harry_Potter">Harry</ref>  sitting on their shoulders.</sd>
  
 
 
@@ -2593,8 +2593,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          Who wants me to open it? You want me 
                          to open it?</speech>
  
-<sd>He opens the egg and a loud horrific screech comes out, he closes </sd>
-<sd>it again.</sd>
+<sd>He opens the egg and a loud horrific screech comes out, he closes 
+it again.</sd>
  
 
 
@@ -2680,8 +2680,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>INT. CLASSROOM</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref>  is looking at <ref name="Cho_Chang">Cho</ref>. When she looks back he spills drink </sd>
-<sd>from his mouth. They laugh at him.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is looking at <ref name="Cho_Chang">Cho</ref>. When she looks back he spills drink 
+from his mouth. They laugh at him.</sd>
  
 
 
@@ -2775,8 +2775,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          the yule ball is first and foremost... 
                          a dance.</speech>
  
-<sd>Groans emerge from the boys who are listening on. The girls seem </sd>
-<sd>a lot more excited.</sd>
+<sd>Groans emerge from the boys who are listening on. The girls seem 
+a lot more excited.</sd>
  
 
 
@@ -2868,8 +2868,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="MCGONAGALL">MCGONAGALL</speaker>
                          Everybody come together.</speech>
 
-<sd>The girls instantly stand and walk forward, the boys are all </sd>
-<sd>still seated.</sd>
+<sd>The girls instantly stand and walk forward, the boys are all 
+still seated.</sd>
  
 
 
@@ -2966,8 +2966,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="RON">RON</speaker>
                          Now I'm really depressed.</speech>
 
-<sd><ref name="Fred_Weasley">Fred</ref> hands <ref name="Ron_Weasley">Ron</ref> a note, it reads "GET A MOVE ON OR ALL THE GOOD </sd>
-<sd>ONES WILL HAVE GONE!".</sd>
+<sd><ref name="Fred_Weasley">Fred</ref> hands <ref name="Ron_Weasley">Ron</ref> a note, it reads "GET A MOVE ON OR ALL THE GOOD 
+ONES WILL HAVE GONE!".</sd>
  
 
 
@@ -3015,8 +3015,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>EXT. HOGWARTS - SNOWY</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref>  is walking up some steps. He reaches the top and bumps </sd>
-<sd>into <ref name="Cho_Chang">Cho</ref> who has come around the corner.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is walking up some steps. He reaches the top and bumps 
+into <ref name="Cho_Chang">Cho</ref> who has come around the corner.</sd>
  
 
 
@@ -3161,14 +3161,14 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>INT. DANCEHALL</setting>
 
-<sd>Soft music plays and everyone is well dressed, gathered in the </sd>
-<sd>hall. </sd>
+<sd>Soft music plays and everyone is well dressed, gathered in the 
+hall. </sd>
  
                
 <sd>ELSEWHERE</sd>
 
-<sd><ref name="Ron_Weasley">Ron</ref> is getting dressed in front of a mirror. He looks paniced </sd>
-<sd>and uncomfortable in his ridiculous dress robes.</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> is getting dressed in front of a mirror. He looks paniced 
+and uncomfortable in his ridiculous dress robes.</sd>
  
 
 
@@ -3215,8 +3215,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
               <setting>INT. DANCEHALL</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Ron_Weasley">Ron</ref> are walking down the stairs into the hall. <ref name="Ron_Weasley">Ron</ref> </sd>
-<sd>is fidgeting with his outfit.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Ron_Weasley">Ron</ref> are walking down the stairs into the hall. <ref name="Ron_Weasley">Ron</ref> 
+is fidgeting with his outfit.</sd>
  
 
 
@@ -3311,8 +3311,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          Yeah she does.</speech>
 
-<sd><ref name="Hermione_Granger">Hermione</ref> walks down the stairs. <ref name="Viktor_Krum">Viktor Krum</ref> takes her hand and </sd>
-<sd>they walk together.</sd>
+<sd><ref name="Hermione_Granger">Hermione</ref> walks down the stairs. <ref name="Viktor_Krum">Viktor Krum</ref> takes her hand and 
+they walk together.</sd>
  
 
 
@@ -3325,8 +3325,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="RON">RON</speaker>
                          No. Absolutely not.</speech>
 
-<sd>Loud music plays as the champions head to the dancefloor with </sd>
-<sd>their partners.</sd>
+<sd>Loud music plays as the champions head to the dancefloor with 
+their partners.</sd>
  
 
 
@@ -3343,13 +3343,13 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="PARVATI">PARVATI</speaker>
                          Now.</speech>
 
-<sd>They dance. Soon others are joining in, <ref name="Albus_Dumbledore">Dumbledore</ref> and <ref name="Minerva_McGonagall">McGonagall</ref>, </sd>
-<sd><ref name="Argus_Filch">Mr Filch</ref> and his cat, <ref name="Rubeus_Hagrid">Hagrid</ref> and <ref name="Madame_Maxime">Madame Maxime</ref>. <ref name="Alastor_Moody">Mad-Eye</ref> sits </sd>
-<sd>on the sidelines drinking. The scene changes, the music is now </sd>
-<sd>rock played by the Weird Sisters fronted by Jarvis Cocker from </sd>
-<sd>Pulp. Cool!. The crowd is jumping. <ref name="Harry_Potter">Harry</ref> , <ref name="Ron_Weasley">Ron</ref> and their dates </sd>
-<sd>are sitting some distance away looking miserable. <ref name="Hermione_Granger">Hermione</ref> comes </sd>
-<sd>up after a great time with <ref name="Viktor_Krum">Viktor</ref>.</sd>
+<sd>They dance. Soon others are joining in, <ref name="Albus_Dumbledore">Dumbledore</ref> and <ref name="Minerva_McGonagall">McGonagall</ref>, 
+<ref name="Argus_Filch">Mr Filch</ref> and his cat, <ref name="Rubeus_Hagrid">Hagrid</ref> and <ref name="Madame_Maxime">Madame Maxime</ref>. <ref name="Alastor_Moody">Mad-Eye</ref> sits 
+on the sidelines drinking. The scene changes, the music is now 
+rock played by the Weird Sisters fronted by Jarvis Cocker from 
+Pulp. Cool!. The crowd is jumping. <ref name="Harry_Potter">Harry</ref> , <ref name="Ron_Weasley">Ron</ref> and their dates 
+are sitting some distance away looking miserable. <ref name="Hermione_Granger">Hermione</ref> comes 
+up after a great time with <ref name="Viktor_Krum">Viktor</ref>.</sd>
  
 
 
@@ -3487,8 +3487,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="VOLDERMORT">VOLDERMORT</speaker>
                          Let me see it again.</speech>
 
-<sd>A sleeve is rolled up and a marking of a skull and snake in on </sd>
-<sd>the arm.</sd>
+<sd>A sleeve is rolled up and a marking of a skull and snake in on 
+the arm.</sd>
  
 
 
@@ -3498,8 +3498,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          give our guest a proper greeting!</speech>
  
                          
-<sd><ref name="Harry_Potter">Harry</ref>  wakes up. The floorboards are creaking, someone is walking </sd>
-<sd>up to his bed. It's <ref name="Neville_Longbottom">Neville</ref>.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  wakes up. The floorboards are creaking, someone is walking 
+up to his bed. It's <ref name="Neville_Longbottom">Neville</ref>.</sd>
  
 
 
@@ -3601,8 +3601,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
               <setting>INT. BATHROOM</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref>  is taking his clothes off, he gets in the bath. He has </sd>
-<sd>his golden egg on the side.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is taking his clothes off, he gets in the bath. He has 
+his golden egg on the side.</sd>
  
 
 
@@ -3784,8 +3784,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
               <setting>EXT. LAKESIDE</setting>
 
-                         <sd><ref name="Fred and George Weasley">The Weasley twins</ref> are shouting, busy taking bets. <ref name="Harry_Potter">Harry</ref>  is walking </sd>
-<sd>along with <ref name="Neville_Longbottom">Neville</ref>, he has some green plantlife in his hand.</sd>
+                         <sd><ref name="Fred and George Weasley">The Weasley twins</ref> are shouting, busy taking bets. <ref name="Harry_Potter">Harry</ref>  is walking 
+along with <ref name="Neville_Longbottom">Neville</ref>, he has some green plantlife in his hand.</sd>
  
                
 
@@ -3878,9 +3878,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          (Continued) You may begin at the start 
                          of the cannon.</speech>
  
-<sd>The cannon fires and the champions enter the water, three of </sd>
-<sd>them dive in while <ref name="Harry_Potter">Harry</ref>  is pushed. Underwater the effects of </sd>
-<sd>gilliweed take hold, <ref name="Harry_Potter">Harry</ref> 's hands and feet become webbed. </sd>
+<sd>The cannon fires and the champions enter the water, three of 
+them dive in while <ref name="Harry_Potter">Harry</ref>  is pushed. Underwater the effects of 
+gilliweed take hold, <ref name="Harry_Potter">Harry</ref> 's hands and feet become webbed. </sd>
  
           EXT. ABOVE WATER
 
@@ -3904,8 +3904,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
           EXT. UNDERWATER
 
-<sd><ref name="Harry_Potter">Harry</ref>  swims among the fish and rocks. Singing voices start echoing. </sd>
-<sd>We see <ref name="Fleur_Delacour">Fleur</ref> get trapped, she screams. </sd>
+<sd><ref name="Harry_Potter">Harry</ref>  swims among the fish and rocks. Singing voices start echoing. 
+We see <ref name="Fleur_Delacour">Fleur</ref> get trapped, she screams. </sd>
  
               <setting>EXT. ABOVE WATER</setting>
 
@@ -3919,11 +3919,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
               <setting>EXT. UNDERWATER</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref>  is still searching around. He hears muffled screams. He </sd>
-<sd>finds <ref name="Ron_Weasley">Ron</ref>, <ref name="Hermione_Granger">Hermione</ref>, <ref name="Cho_Chang">Cho Chang</ref> and a blonde girl from Beauxbatons </sd>
-<sd>tied in place by their ankles. <ref name="Cedric_Diggory">Cedric</ref> is there, he takes <ref name="Cho_Chang">Cho</ref> </sd>
-<sd>with him. <ref name="Harry_Potter">Harry</ref>  sets about freeing <ref name="Ron_Weasley">Ron</ref> and <ref name="Hermione_Granger">Hermione</ref> but vicious </sd>
-<sd><creature name="Merepeople">merpeople</creature> appear.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is still searching around. He hears muffled screams. He 
+finds <ref name="Ron_Weasley">Ron</ref>, <ref name="Hermione_Granger">Hermione</ref>, <ref name="Cho_Chang">Cho Chang</ref> and a blonde girl from Beauxbatons 
+tied in place by their ankles. <ref name="Cedric_Diggory">Cedric</ref> is there, he takes <ref name="Cho_Chang">Cho</ref> 
+with him. <ref name="Harry_Potter">Harry</ref>  sets about freeing <ref name="Ron_Weasley">Ron</ref> and <ref name="Hermione_Granger">Hermione</ref> but vicious 
+<creature name="Merepeople">merpeople</creature> appear.</sd>
  
 
 
@@ -3935,29 +3935,29 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="MERPERSON">MERPERSON</speaker>
                          Only one.</speech>
 
-<sd>What looks like a shark approaches at high speed. We see that </sd>
-<sd>it has legs and it's <ref name="Viktor_Krum">Viktor</ref>. He takes <ref name="Hermione_Granger">Hermione</ref> and heads for </sd>
-<sd>the surface. <ref name="Harry_Potter">Harry</ref>  frees <ref name="Ron_Weasley">Ron</ref>. </sd>
+<sd>What looks like a shark approaches at high speed. We see that 
+it has legs and it's <ref name="Viktor_Krum">Viktor</ref>. He takes <ref name="Hermione_Granger">Hermione</ref> and heads for 
+the surface. <ref name="Harry_Potter">Harry</ref>  frees <ref name="Ron_Weasley">Ron</ref>. </sd>
  
               <setting>EXT. ABOVE WATER</setting>
 
-<sd><ref name="Cedric_Diggory">Cedric</ref> and <ref name="Cho_Chang">Cho</ref> emerge, the crowd cheers. <ref name="Viktor_Krum">Viktor</ref> and <ref name="Hermione_Granger">Hermione</ref> </sd>
-<sd>next, the crows chants '<ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>'. The Beauxbatons girls </sd>
-<sd>look worried.</sd>
+<sd><ref name="Cedric_Diggory">Cedric</ref> and <ref name="Cho_Chang">Cho</ref> emerge, the crowd cheers. <ref name="Viktor_Krum">Viktor</ref> and <ref name="Hermione_Granger">Hermione</ref> 
+next, the crows chants '<ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>'. The Beauxbatons girls 
+look worried.</sd>
  
               <setting>EXT. UNDERWATER</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref>  looks over and sees the blonde girl that <ref name="Fleur_Delacour">Fleur</ref> was unable </sd>
-<sd>to rescue. He loosens her rope too and starts heading for the </sd>
-<sd>surface with the both of them. He's attacked and gets held down, </sd>
-<sd>he pushes <ref name="Ron_Weasley">Ron</ref> and the girl towards the surface.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  looks over and sees the blonde girl that <ref name="Fleur_Delacour">Fleur</ref> was unable 
+to rescue. He loosens her rope too and starts heading for the 
+surface with the both of them. He's attacked and gets held down, 
+he pushes <ref name="Ron_Weasley">Ron</ref> and the girl towards the surface.</sd>
  
               <setting>EXT. ABOVE WATER</setting>
 
-<sd><ref name="Ron_Weasley">Ron</ref> and the girl come up, they are coughing but safe. They're </sd>
-<sd>helped out of the water by a girl from Beauxbatons. Underwater </sd>
-<sd><ref name="Harry_Potter">Harry</ref>  casts a <spell type="charm" name="Ascendio">spell</spell> which propels him towards the surface, he </sd>
-<sd>flies out and lands on the decking where the crowd are.</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> and the girl come up, they are coughing but safe. They're 
+helped out of the water by a girl from Beauxbatons. Underwater 
+<ref name="Harry_Potter">Harry</ref>  casts a <spell type="charm" name="Ascendio">spell</spell> which propels him towards the surface, he 
+flies out and lands on the decking where the crowd are.</sd>
  
 
 
@@ -4053,8 +4053,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          For outstanding moral fibre.</speech>
  
                
-<sd>As they're walking away from the lake <ref name="Harry_Potter">Harry</ref> 's friends are cheering </sd>
-<sd>him.</sd>
+<sd>As they're walking away from the lake <ref name="Harry_Potter">Harry</ref> 's friends are cheering 
+him.</sd>
  
 
 
@@ -4129,8 +4129,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          youngest! Tri-Wizard champion there's 
                          ever been! Hooray!</speech>
  
-<sd>They walk on singing the Hogwarts song. <ref name="Harry_Potter">Harry</ref>  holds his head </sd>
-<sd>in pain. On the ground he sees <ref name="Bartimus_Crouch">Barty Crouch</ref> laying lifeless.</sd>
+<sd>They walk on singing the Hogwarts song. <ref name="Harry_Potter">Harry</ref>  holds his head 
+in pain. On the ground he sees <ref name="Bartimus_Crouch">Barty Crouch</ref> laying lifeless.</sd>
  
                
 
@@ -4207,19 +4207,19 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          absence, but I have to warn you they're 
                          a little bit sharp.</speech>
  
-<sd><ref name="Harry_Potter">Harry</ref>  is left alone in the room. He puts his hand in the snackbowl </sd>
-<sd>and takes a handful. It turns into a small creature which nips </sd>
-<sd>at his hand.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is left alone in the room. He puts his hand in the snackbowl 
+and takes a handful. It turns into a small creature which nips 
+at his hand.</sd>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
                          Agh!</speech>
 
-<sd>A compartment in the wall opens, there's a glowing blue pool </sd>
-<sd>of water there. He looks in. He falls and lands in another time </sd>
-<sd>and place. It's a courtroom, the walls have a red glow. <ref name="Albus_Dumbledore">Dumbledore</ref> </sd>
-<sd>is seated next to where <ref name="Harry_Potter">Harry</ref>  is.</sd>
+<sd>A compartment in the wall opens, there's a glowing blue pool 
+of water there. He looks in. He falls and lands in another time 
+and place. It's a courtroom, the walls have a red glow. <ref name="Albus_Dumbledore">Dumbledore</ref> 
+is seated next to where <ref name="Harry_Potter">Harry</ref>  is.</sd>
  
               <setting>INT. COURTROOM</setting>
 
@@ -4235,9 +4235,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="MAN">MAN</speaker>
                          Professor.</speech>
 
-<sd><ref name="Albus_Dumbledore">Dumbledore</ref> and the man shake hands. Their handshake goes through </sd>
-<sd><ref name="Harry_Potter">Harry</ref> 's body, he appears to be some kind of ghost with no presence. </sd>
-<sd>Proceedings begin, a cage is raised from inside the floor.</sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> and the man shake hands. Their handshake goes through 
+<ref name="Harry_Potter">Harry</ref> 's body, he appears to be some kind of ghost with no presence. 
+Proceedings begin, a cage is raised from inside the floor.</sd>
  
                
 
@@ -4403,9 +4403,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="IGOR">IGOR</speaker>
                          <ref name="Barty_Crouch_Junior">Barty Crouch</ref>! ... Junior.</speech>
 
-                         <sd><ref name="Barty_Crouch_Junior">Barty Crouch</ref> junior begins to run. <ref name="Alastor_Moody">Mad-Eye</ref> zaps him with magic, </sd>
-<sd>he falls into the center of the court. The crowd is in uproar. </sd>
-<sd>Guards seize <ref name="Barty_Crouch_Junior">Barty junior</ref>.</sd>
+                         <sd><ref name="Barty_Crouch_Junior">Barty Crouch</ref> junior begins to run. <ref name="Alastor_Moody">Mad-Eye</ref> zaps him with magic, 
+he falls into the center of the court. The crowd is in uproar. 
+Guards seize <ref name="Barty_Crouch_Junior">Barty junior</ref>.</sd>
  
 
 
@@ -4423,8 +4423,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="BARTY JR">BARTY JR</speaker>
                          GAHHHH!</speech>
 
-<sd><ref name="Harry_Potter">Harry</ref>  steps out of the blue pool and we're back in the darkened </sd>
-<sd>room.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  steps out of the blue pool and we're back in the darkened 
+room.</sd>
  
 
 
@@ -4486,8 +4486,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          over these dreams <ref name="Harry_Potter">Harry</ref> , I think it's 
                          best that you simply...</speech>
  
-<sd><ref name="Albus_Dumbledore">Dumbledore</ref> puts up his wand and pulls a quivering string of magic </sd>
-<sd>out from his head.</sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> puts up his wand and pulls a quivering string of magic 
+out from his head.</sd>
  
 
 
@@ -4496,8 +4496,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>INT. CORRIDOR</setting>
 
-<sd><ref name="Harry_Potter">Harry</ref>  is walking along, we hear raised voices from inside the </sd>
-<sd>herbs store.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  is walking along, we hear raised voices from inside the 
+herbs store.</sd>
  
 
 
@@ -4564,8 +4564,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>EXT. ARENA</setting>
 
-<sd>Music is playing and a large crowd is gathered. The champions </sd>
-<sd>emerge.</sd>
+<sd>Music is playing and a large crowd is gathered. The champions 
+emerge.</sd>
  
 
 
@@ -4621,36 +4621,36 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          On the count of three... ONE...</speech>
 
-<sd>The cannon goes off. <ref name="Argus_Filch">Mr Filch</ref> shrugs comically. <ref name="Albus_Dumbledore">Dumbledore</ref> groans. </sd>
-<sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Cedric_Diggory">Cedric</ref> enter the maze through different entrances. </sd>
-<sd>The entrance closes up behind <ref name="Harry_Potter">Harry</ref> . Heavy mist sets in, we pan </sd>
-<sd>out to see the maze is many stories tall. <ref name="Harry_Potter">Harry</ref>  starts traversing </sd>
-<sd>the maze, creature noises are all around.</sd>
+<sd>The cannon goes off. <ref name="Argus_Filch">Mr Filch</ref> shrugs comically. <ref name="Albus_Dumbledore">Dumbledore</ref> groans. 
+<ref name="Harry_Potter">Harry</ref>  and <ref name="Cedric_Diggory">Cedric</ref> enter the maze through different entrances. 
+The entrance closes up behind <ref name="Harry_Potter">Harry</ref> . Heavy mist sets in, we pan 
+out to see the maze is many stories tall. <ref name="Harry_Potter">Harry</ref>  starts traversing 
+the maze, creature noises are all around.</sd>
  
-<sd><ref name="Cedric_Diggory">Cedric</ref> is walking along, the maze walls begin to close in on </sd>
-<sd>him. He makes a run for it. <ref name="Fleur_Delacour">Fleur</ref> is running around scared, she </sd>
-<sd>is attacked and knocked down. <ref name="Viktor_Krum">Viktor</ref> comes along and sees she's </sd>
-<sd>unconscious on the ground, he walks on. <ref name="Harry_Potter">Harry</ref>  sees <ref name="Fleur_Delacour">Fleur</ref> being </sd>
-<sd>swallowed into the undergrowth.</sd>
+<sd><ref name="Cedric_Diggory">Cedric</ref> is walking along, the maze walls begin to close in on 
+him. He makes a run for it. <ref name="Fleur_Delacour">Fleur</ref> is running around scared, she 
+is attacked and knocked down. <ref name="Viktor_Krum">Viktor</ref> comes along and sees she's 
+unconscious on the ground, he walks on. <ref name="Harry_Potter">Harry</ref>  sees <ref name="Fleur_Delacour">Fleur</ref> being 
+swallowed into the undergrowth.</sd>
  
 
 
 <speech><speaker name="HARRY">HARRY</speaker>
                          <ref name="Fleur_Delacour">Fleur</ref>? <ref name="Fleur_Delacour">Fleur</ref>!</speech>
 
-<sd>He's too late she's disappeared. He sends up a red spark into </sd>
-<sd>the air. A heavy wind starts blowing, walls are closing in, <ref name="Harry_Potter">Harry</ref>  </sd>
-<sd>runs. <ref name="Harry_Potter">Harry</ref>  sees something shining in the distance and he moves </sd>
-<sd>towards it <ref name="Viktor_Krum">Viktor</ref> tries to zap him but misses.</sd>
+<sd>He's too late she's disappeared. He sends up a red spark into 
+the air. A heavy wind starts blowing, walls are closing in, <ref name="Harry_Potter">Harry</ref>  
+runs. <ref name="Harry_Potter">Harry</ref>  sees something shining in the distance and he moves 
+towards it <ref name="Viktor_Krum">Viktor</ref> tries to zap him but misses.</sd>
  
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
                          Get down!</speech>
 
-<sd><ref name="Harry_Potter">Harry</ref>  ducks and <ref name="Viktor_Krum">Viktor</ref> gets zapped by <ref name="Cedric_Diggory">Cedric</ref>. <ref name="Cedric_Diggory">Cedric</ref> runs up </sd>
-<sd>and kicks the wand out of <ref name="Viktor_Krum">Viktor</ref>'s hand. He points his wand at </sd>
-<sd><ref name="Viktor_Krum">Viktor</ref>'s body as if to finish him off, <ref name="Harry_Potter">Harry</ref>  runs up and intervenes.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  ducks and <ref name="Viktor_Krum">Viktor</ref> gets zapped by <ref name="Cedric_Diggory">Cedric</ref>. <ref name="Cedric_Diggory">Cedric</ref> runs up 
+and kicks the wand out of <ref name="Viktor_Krum">Viktor</ref>'s hand. He points his wand at 
+<ref name="Viktor_Krum">Viktor</ref>'s body as if to finish him off, <ref name="Harry_Potter">Harry</ref>  runs up and intervenes.</sd>
  
                
 
@@ -4670,17 +4670,17 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          He's bewitched!</speech>
 
-<sd>The two of them begin running towards the cup. The undergrowth </sd>
-<sd>grabs <ref name="Cedric_Diggory">Cedric</ref> and he falls to the ground. <ref name="Harry_Potter">Harry</ref>  looks back. <ref name="Cedric_Diggory">Cedric</ref> </sd>
-<sd>is pinned down with no means of escape.</sd>
+<sd>The two of them begin running towards the cup. The undergrowth 
+grabs <ref name="Cedric_Diggory">Cedric</ref> and he falls to the ground. <ref name="Harry_Potter">Harry</ref>  looks back. <ref name="Cedric_Diggory">Cedric</ref> 
+is pinned down with no means of escape.</sd>
  
 
 
 <speech><speaker name="CEDRIC">CEDRIC</speaker>
                          <ref name="Harry_Potter">Harry</ref> ! <ref name="Harry_Potter">Harry</ref> !</speech>
 
-<sd><ref name="Harry_Potter">Harry</ref>  zaps the plantlife and <ref name="Cedric_Diggory">Cedric</ref> wriggles free. <ref name="Harry_Potter">Harry</ref>  helps </sd>
-<sd>him up.</sd>
+<sd><ref name="Harry_Potter">Harry</ref>  zaps the plantlife and <ref name="Cedric_Diggory">Cedric</ref> wriggles free. <ref name="Harry_Potter">Harry</ref>  helps 
+him up.</sd>
  
 
 
@@ -4790,8 +4790,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
 <sd><ref name="Cedric_Diggory">Cedric</ref> lays dead on the ground.</sd>
 
-<sd><ref name="Peter_Pettigrew">Wormtail</ref> pulls <ref name="Harry_Potter">Harry</ref>  closer, a status grabs hold of <ref name="Harry_Potter">Harry</ref>  and </sd>
-<sd>traps him.</sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> pulls <ref name="Harry_Potter">Harry</ref>  closer, a status grabs hold of <ref name="Harry_Potter">Harry</ref>  and 
+traps him.</sd>
  
 
 
@@ -4807,8 +4807,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          Bones of the father, unwillingly given.</speech>
                          
  
-<sd>A bone hovers in the air under <ref name="Peter_Pettigrew">Wormtail</ref>'s control, he drops it </sd>
-<sd>into the cauldron.</sd>
+<sd>A bone hovers in the air under <ref name="Peter_Pettigrew">Wormtail</ref>'s control, he drops it 
+into the cauldron.</sd>
  
 
 
@@ -4824,9 +4824,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          Blood of the enemy forcibly taken.</speech>
  
                          
-<sd>He takes the knife to <ref name="Harry_Potter">Harry</ref>  and cuts at his arm. <ref name="Harry_Potter">Harry</ref>  shouts. </sd>
-<sd><ref name="Peter_Pettigrew">Wormtail</ref> takes the knife over to the cauldron and lets the drops </sd>
-<sd>fall into it.</sd>
+<sd>He takes the knife to <ref name="Harry_Potter">Harry</ref>  and cuts at his arm. <ref name="Harry_Potter">Harry</ref>  shouts. 
+<ref name="Peter_Pettigrew">Wormtail</ref> takes the knife over to the cauldron and lets the drops 
+fall into it.</sd>
  
 
 
@@ -4858,9 +4858,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
                          The other arm <ref name="Peter_Pettigrew">Wormtail</ref>.</speech>
 
-<sd><ref name="Peter_Pettigrew">Wormtail</ref> looks concerned, but does it anyway. <ref name="Voldemort">Voldemort</ref> sticks </sd>
-<sd>the wand into <ref name="Peter_Pettigrew">Wormtail</ref>'s arm. The sky changes, others have been </sd>
-<sd>summoned.</sd>
+<sd><ref name="Peter_Pettigrew">Wormtail</ref> looks concerned, but does it anyway. <ref name="Voldemort">Voldemort</ref> sticks 
+the wand into <ref name="Peter_Pettigrew">Wormtail</ref>'s arm. The sky changes, others have been 
+summoned.</sd>
  
 
 
@@ -5015,8 +5015,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          Do nothing. He is mine to finish. He's 
                          mine!</speech>
  
-<sd>Shapes form in the surrounding magical energy. We hear <ref name="Albus_Dumbledore">Dumbledore</ref>'s </sd>
-<sd>voice.</sd>
+<sd>Shapes form in the surrounding magical energy. We hear <ref name="Albus_Dumbledore">Dumbledore</ref>'s 
+voice.</sd>
  
 
 
@@ -5040,9 +5040,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          (voice) Let go. Sweetheart you're ready. 
                          Let go! Let go!</speech>
  
-<sd>The connection breaks, <ref name="Harry_Potter">Harry</ref>  runs over to <ref name="Cedric_Diggory">Cedric</ref>'s body and summons </sd>
-<sd>the cup over to them. In an instant the port out. <ref name="Voldemort">Voldemort</ref> looks </sd>
-<sd>angry.</sd>
+<sd>The connection breaks, <ref name="Harry_Potter">Harry</ref>  runs over to <ref name="Cedric_Diggory">Cedric</ref>'s body and summons 
+the cup over to them. In an instant the port out. <ref name="Voldemort">Voldemort</ref> looks 
+angry.</sd>
  
 
 
@@ -5051,9 +5051,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>EXT. ARENA</setting>
 
-<sd>Back at the arena <ref name="Harry_Potter">Harry</ref>  appears with <ref name="Cedric_Diggory">Cedric</ref>'s body. The crowd </sd>
-<sd>don't understand what has taken place and they all cheer, triumphant </sd>
-<sd>music starts to play. <ref name="Harry_Potter">Harry</ref>  weeps on <ref name="Cedric_Diggory">Cedric</ref>'s body. </sd>
+<sd>Back at the arena <ref name="Harry_Potter">Harry</ref>  appears with <ref name="Cedric_Diggory">Cedric</ref>'s body. The crowd 
+don't understand what has taken place and they all cheer, triumphant 
+music starts to play. <ref name="Harry_Potter">Harry</ref>  weeps on <ref name="Cedric_Diggory">Cedric</ref>'s body. </sd>
  
 
 
@@ -5099,8 +5099,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 
               <setting>INT. DARKENED ROOM</setting>
 
-<sd><ref name="Alastor_Moody">Mad-Eye</ref> <ref name="Alastor_Moody">Moody</ref> enters and closes the door behind him. <ref name="Harry_Potter">Harry</ref>  is </sd>
-<sd>in the room still sobbing. They sit. </sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> <ref name="Alastor_Moody">Moody</ref> enters and closes the door behind him. <ref name="Harry_Potter">Harry</ref>  is 
+in the room still sobbing. They sit. </sd>
  
 
 
@@ -5156,9 +5156,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          one of my dreams. One of my nightmares.</speech>
                          
  
-<sd><ref name="Alastor_Moody">Mad-Eye</ref> starts shaking and struggling for air, he reaches for </sd>
-<sd>his bottle but it's empty. He rushes to a chest with other bottles </sd>
-<sd>and struggles to find one.</sd>
+<sd><ref name="Alastor_Moody">Mad-Eye</ref> starts shaking and struggling for air, he reaches for 
+his bottle but it's empty. He rushes to a chest with other bottles 
+and struggles to find one.</sd>
  
 
 
@@ -5210,9 +5210,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
                          for all silenced the great  <ref name="Harry Potter">Harry Potter</ref> .</speech>
  
                          
-<sd>A flash of magic occurs and <ref name="Alastor_Moody">Mad-Eye</ref> is knocked into the wall. </sd>
-<sd><ref name="Albus_Dumbledore">Dumbledore</ref> and <ref name="Severus_Snape">Severus</ref> come rushing in. <ref name="Albus_Dumbledore">Dumbledore</ref> takes <ref name="Alastor_Moody">Mad-Eye</ref> </sd>
-<sd>by the neck...</sd>
+<sd>A flash of magic occurs and <ref name="Alastor_Moody">Mad-Eye</ref> is knocked into the wall. 
+<ref name="Albus_Dumbledore">Dumbledore</ref> and <ref name="Severus_Snape">Severus</ref> come rushing in. <ref name="Albus_Dumbledore">Dumbledore</ref> takes <ref name="Alastor_Moody">Mad-Eye</ref> 
+by the neck...</sd>
  
 
 
@@ -5255,9 +5255,9 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          <ref name="Harry_Potter">Harry</ref>  get away from there!</speech>
 
-<sd><ref name="Albus_Dumbledore">Dumbledore</ref> approaches the chest. The chest opens, it contains </sd>
-<sd>a series of smaller chests. When the final chest is open we see </sd>
-<sd>that there's a pit within holding a man the real <ref name="Alastor_Moody">Alastor Moody</ref>.</sd>
+<sd><ref name="Albus_Dumbledore">Dumbledore</ref> approaches the chest. The chest opens, it contains 
+a series of smaller chests. When the final chest is open we see 
+that there's a pit within holding a man the real <ref name="Alastor_Moody">Alastor Moody</ref>.</sd>
  
                
 
@@ -5295,11 +5295,11 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          We'll get you up in a minute.</speech>
 
-<sd><ref name="Alastor_Moody">Alastor Moody</ref> groans. The <ref name="Alastor_Moody">Mad-Eye</ref> <ref name="Alastor_Moody">Moody</ref> they have captive in </sd>
-<sd>a chair begins to twitch about restlessly making strange noises. </sd>
-<sd>He appears to be transforming. He rips off his fake eyepiece </sd>
-<sd>which falls on the floor, we see that he's transformed into <ref name="Barty_Crouch_Junior">Barty </sd>
-<sd>Crouch Junior</ref>.</sd>
+<sd><ref name="Alastor_Moody">Alastor Moody</ref> groans. The <ref name="Alastor_Moody">Mad-Eye</ref> <ref name="Alastor_Moody">Moody</ref> they have captive in 
+a chair begins to twitch about restlessly making strange noises. 
+He appears to be transforming. He rips off his fake eyepiece 
+which falls on the floor, we see that he's transformed into <ref name="Barty_Crouch_Junior">Barty 
+Crouch Junior</ref>.</sd>
  
 
 
@@ -5415,8 +5415,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
  
               <setting>EXT. HOGWARTS</setting>
 
-<sd>There's a large crowd gathered, the pupils are going home. <ref name="Viktor_Krum">Viktor</ref> </sd>
-<sd><ref name="Viktor_Krum">Krum</ref> gives <ref name="Hermione_Granger">Hermione</ref> a kiss and hands her some paper.</sd>
+<sd>There's a large crowd gathered, the pupils are going home. <ref name="Viktor_Krum">Viktor</ref> 
+<ref name="Viktor_Krum">Krum</ref> gives <ref name="Hermione_Granger">Hermione</ref> a kiss and hands her some paper.</sd>
  
 
 
@@ -5428,16 +5428,16 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          Bye.</speech>
 
-<sd><ref name="Ron_Weasley">Ron</ref> is sitting alone. The french sisters approach him, they both </sd>
-<sd>in turn give him a kiss on the head.</sd>
+<sd><ref name="Ron_Weasley">Ron</ref> is sitting alone. The french sisters approach him, they both 
+in turn give him a kiss on the head.</sd>
  
 
 
 <speech><speaker name="FLEUR">FLEUR</speaker>
                          Au revoir <ref name="Ron_Weasley">Ron</ref>.</speech>
 
-<sd>The Beauxbatons girls leave in uniform, the crowd applauds. The </sd>
-<sd>Durmstrang boys leave too, shaking hands as they go.</sd>
+<sd>The Beauxbatons girls leave in uniform, the crowd applauds. The 
+Durmstrang boys leave too, shaking hands as they go.</sd>
  
 
 
@@ -5487,8 +5487,8 @@ He opens the front door, inside is just as dark. He begins climbing </sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          Yeah. Every week.</speech>
 
-<sd>They look over the balcony, the flying horses pulling a carriage </sd>
-<sd>head off into the distance. The Bulgarians' ship goes underwater.</sd>
+<sd>They look over the balcony, the flying horses pulling a carriage 
+head off into the distance. The Bulgarians' ship goes underwater.</sd>
  
           FADE OUT.</div>
 
