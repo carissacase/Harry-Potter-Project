@@ -24,7 +24,7 @@
                
 <div><sd>We home in on a snake crawling through the undergrowth.</sd>
 
-<sd>TITLES<setting>INT. DARK ROOM - NIGHT TIME</setting></sd>
+<sd>TITLES<scene n="1"><setting>INT. DARK ROOM - NIGHT TIME</setting></scene></sd>
 
 <sd>An old man lights a gas oven with a match, he is preparing food. 
 He notices a light on in the large house opposite, he stops what 
@@ -37,7 +37,7 @@ he's doing and walks to the door.</sd>
 
 <sd>He leaves the house and heads towards the light.</sd>
 
-              <setting>EXT. DARKNESS</setting>
+              <scene n="2"><setting>EXT. DARKNESS</setting></scene>
 
 <sd>The old man is wandering up to the house carrying a lit torch.
 He opens the front door, inside is just as dark. He begins climbing 
@@ -139,7 +139,7 @@ old man looks terrified.</sd>
                          back to sleep. Come on <ref name="Ron_Weasley">Ron</ref>! Your mother 
                          says breakfast's ready.</speech>
  
-              <setting>EXT. GRASSLAND</setting>
+              <scene n="3"><setting>EXT. GRASSLAND</setting></scene>
 
 
 
@@ -326,7 +326,7 @@ tent.</sd>
 <speech><speaker name="ARTHUR">ARTHUR</speaker>
                          Home sweet home.</speech>
 
-              <setting>INT. TENT</setting>
+              <scene n="4"><setting>INT. TENT</setting></scene>
 
 <sd>They enter the tent, the inside is many times bigger than the 
 outside.</sd>
@@ -361,11 +361,11 @@ as <ref name="Arthur_Weasley">Arthur</ref> has walked past.</sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          (Smiling) I love magic.
 
-              <setting>EXT. HILLSIDE</setting>
+              <scene n="5"><setting>EXT. HILLSIDE</setting></scene>
 
 <sd>We pan up the hillside onto a large stadium which seems to have 
 a huge number of floors.</sd>
-<setting>INT. STADIUM</setting>
+<scene n="6"><setting>INT. STADIUM</setting></scene>
 
 <sd>The Weasleys and <ref name="Harry_Potter">Harry</ref>  are finding their seats.</sd>
 
@@ -449,7 +449,7 @@ to chant '<ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>
                          to the final of the 422nd Quidditch 
                          World Cup. Let the match begin!</speech>
  
-              <setting>INT. TENT</setting>
+              <scene n="7"><setting>INT. TENT</setting></scene>
 
 
 
@@ -493,7 +493,7 @@ to chant '<ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>
                          Stop! Stop it. It's not the irish. We've 
                          gotta get out of here. Now.</speech>
  
-              <setting>EXT. OUTSIDE THE TENT</setting>
+              <scene n="8"><setting>EXT. OUTSIDE THE TENT</setting></scene>
 
 
 
@@ -506,7 +506,7 @@ to chant '<ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>
 across the campsite chanting ominous noises. The crowd is paniced 
 and rushing all over. <ref name="Harry_Potter">Harry</ref>  is trampled unconscious.</sd>
  
-              <setting>EXT. OUTSIDE - TIME PASSED</setting>
+              <scene n="9"><setting>EXT. OUTSIDE - TIME PASSED</setting></scene>
 
 <sd>The crowds have all gone. A man walks through the rubble kicking 
 at things. He casts a <spell type="dark charm" name="Mosmordrespell">spell</spell> which causes a bright flash and a 
@@ -610,7 +610,7 @@ head in pain. Suddenly they are fired on. </sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          I dunno. I didn't see his face.</speech>
 
-              <setting>INT. TRAIN CARRIAGE</setting>
+              <scene n="10"><setting>INT. TRAIN CARRIAGE</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref> , <ref name="Ron_Weasley">Ron</ref> and <ref name="Hermione_Granger">Hermione</ref> are seated on a train. A voice calls 
 out.</sd>
@@ -713,7 +713,7 @@ out.</sd>
 <sd><ref name="Harry_Potter">Harry</ref>  has written a letter, he marks <ref name="Sirius_Black">Sirius Black</ref> on an envelope 
 and gives it to an owl.</sd>
  
-              <setting>EXT. HOGWARTS</setting>
+              <scene n="11"><setting>EXT. HOGWARTS</setting></scene>
 
 <sd>We see four flying horses flying through the air pulling a carriage 
 coming in to land at Hogwarts. The crowds cheer.</sd>
@@ -803,7 +803,7 @@ ground with a spark effect.</sd>
 
 <sd>They embrace.</sd>
 
-              <setting>EXT. HOGWARTS - STORMY - NIGHT</setting>
+              <scene n="12"><setting>EXT. HOGWARTS - STORMY - NIGHT</setting></scene>
 
 
 
@@ -833,7 +833,7 @@ into his hand.</sd>
 <speech><speaker name="MAN">MAN</speaker>
                          You idiot!</speech>
 
-              <setting>INT. ASSEMBLY ROOM</setting>
+              <scene n="13"><setting>INT. ASSEMBLY ROOM</setting></scene>
 
 
 
@@ -950,12 +950,12 @@ a blue flame.</sd>
                          no turning back. As from this moment 
                          the tri-wizard tournament has begun.</speech>
  
-   <setting>INT. ASSEMBLY ROOM - NIGHT</setting>
+   <scene n="14"><setting>INT. ASSEMBLY ROOM - NIGHT</setting></scene>
 
 <sd>We see a suspicious character enter the room where the goblet 
 is still burning and close the door behind him.</sd>
  
-              <setting>INT. CLASSROOM</setting>
+              <scene n="15"><setting>INT. CLASSROOM</setting></scene>
 
 
 
@@ -1143,7 +1143,7 @@ which is still making a noise.</sd>
  
 <sd>He approaches <ref name="Harry_Potter">Harry</ref> 's desk and takes a drink.</sd>
 
-              <setting>INT. STAIRS</setting>
+              <scene n="16"><setting>INT. STAIRS</setting></scene>
 
 
 
@@ -1183,7 +1183,7 @@ which is still making a noise.</sd>
                          Come on, we'll have a cup of tea. I 
                          want to show you something.</speech>
  
-              <setting>INT. GOBLET ROOM</setting>
+              <scene n="17"><setting>INT. GOBLET ROOM</setting></scene>
 
 <sd>Older students are placing their names into the flame and others 
 are applauding, <ref name="Cedric_Diggory">Cedric</ref> is one of them.</sd>
@@ -1351,7 +1351,7 @@ in the crowd shout out.</sd>
                          He's a cheat! He's not even seventeen 
                          yet.</speech>
  
-              <setting>INT. ROOM</setting>
+              <scene n="18"><setting>INT. ROOM</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  is in a room with the other champions. <ref name="Albus_Dumbledore">Dumbledore</ref> bursts 
 in and grabs <ref name="Harry_Potter">Harry</ref> .</sd>
@@ -1430,7 +1430,7 @@ in and grabs <ref name="Harry_Potter">Harry</ref> .</sd>
                          Mr Potter has no choice, he is as of 
                          tonight... a tri-wizards champion.</speech>
  
-   <setting>INT. DARKENED TOWER ROOM</setting>
+   <scene n="19"><setting>INT. DARKENED TOWER ROOM</setting></scene>
 
 
 
@@ -1495,7 +1495,7 @@ in and grabs <ref name="Harry_Potter">Harry</ref> .</sd>
                          anxious enough as it is... knowing what 
                          lies ahead. Then again, we all are.</speech>
  
-   <setting>INT. BEDROOM</setting>
+   <scene n="20"><setting>INT. BEDROOM</setting></scene>
 
 
 
@@ -1547,7 +1547,7 @@ in and grabs <ref name="Harry_Potter">Harry</ref> .</sd>
 <speech><speaker name="RON">RON</speaker>
                          Piss off.</speech>
 
-              <setting>INT. HOGWARTS</setting>
+              <scene n="21"><setting>INT. HOGWARTS</setting></scene>
 
 <sd>A woman appears in a puff of smoke. She's well groomed and dressed 
 colorfully.</sd>
@@ -1670,7 +1670,7 @@ She walks over to them and shakes each of their hands.</sd>
                          aren't glistening with the ghosts of 
                          my past.</speech>
  
-              <setting>INT. ROOFTOP</setting>
+              <scene n="22"><setting>INT. ROOFTOP</setting></scene>
 
 <sd>An owl flies in with a letter for <ref name="Harry_Potter">Harry</ref> , he takes it and begins 
 to read.</sd>
@@ -1699,7 +1699,7 @@ to read.</sd>
 <speech><speaker name="SIR">SIR</speaker>
                          (VOICEOVER CONT'D) The bird bites.
  
-   <setting>INT. GRIFFINDORE COMMON ROOM</setting>
+   <scene n="23"><setting>INT. GRIFFINDORE COMMON ROOM</setting></scene>
 
 
 
@@ -1947,7 +1947,7 @@ are not on speaking terms.</sd>
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          I'm NOT an owl!</speech>
 
-              <setting>INT. FOREST</setting>
+              <scene n="24"><setting>INT. FOREST</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Rubeus_Hagrid">Hagrid</ref> are walking through a dark forest.</sd>
 
@@ -2083,7 +2083,7 @@ and breathing fire.</sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          No he didn't. He didn't tell me a thing.</speech>
  
-   <setting>EXT. HOGWARTS - DAYTIME</setting>
+   <scene n="25"><setting>EXT. HOGWARTS - DAYTIME</setting></scene>
 
 <sd>We're zoomed in on a badge, it depicts <ref name="Cedric_Diggory">Cedric</ref> on a bright yellow 
 background. Then the badge spins and shows <ref name="Harry_Potter">Harry</ref>  on a green background 
@@ -2287,7 +2287,7 @@ to normal.</sd>
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          (To <ref name="Harry_Potter">Harry</ref> ) come with me.
 
-              <setting>INT. MAD-EYE'S ROOM</setting>
+              <scene n="26"><setting>INT. MAD-EYE'S ROOM</setting></scene>
 
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> takes off his prosthetic leg and takes a seat.</sd>
 
@@ -2352,11 +2352,11 @@ to normal.</sd>
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          You're allowed a wand.</speech>
 
-              <setting>EXT. ARENA - TOURNAMENT STAGE 1</setting>
+              <scene n="27"><setting>EXT. ARENA - TOURNAMENT STAGE 1</setting></scene>
 
 <sd>The crowds are cheering, people are taking bets.</sd>
 
-              <setting>INT. WAITING TENT</setting>
+              <scene n="28"><setting>INT. WAITING TENT</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  is pacing nervously. <ref name="Hermione_Granger">Hermione</ref> is standing by the tent door 
 whispering in.</sd>
@@ -2505,7 +2505,7 @@ whispering in.</sd>
 
 <sd>Transcribed by IMSDb.com</sd>
 
-              <setting>INT. TENT </setting>
+              <scene n="29"><setting>INT. TENT </setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  is sitting alone nervously.</sd>
 
@@ -2533,7 +2533,7 @@ the dragon flames him. <ref name="Harry_Potter">Harry</ref>  stumbles and falls 
 gives chase. The dragon bursts through the crowd and they look 
 stunned.</sd>
  
-              <setting>EXT. HOGWARTS SKY</setting>
+              <scene n="30"><setting>EXT. HOGWARTS SKY</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  is flying at high speed around the Hogwarts buildings. 
 The dragon cuts him off and whips him off his broom, he lands 
@@ -2545,7 +2545,7 @@ He falls a long way but regains control. He flies on to an area
 with a bridge, he flies through a gap in the bridge but the dragon 
 crashes into it and falls into the water.</sd>
  
-              <setting>INT. ARENA</setting>
+              <scene n="31"><setting>INT. ARENA</setting></scene>
 
 <sd>The crowds are mostly silent. We see <ref name="Harry_Potter">Harry</ref>  flying towards us 
 and the crowd erupts. He goes straight for the golden egg.</sd>
@@ -2678,7 +2678,7 @@ it again.</sd>
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          Boys.</speech>
 
-              <setting>INT. CLASSROOM</setting>
+              <scene n="32"><setting>INT. CLASSROOM</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  is looking at <ref name="Cho_Chang">Cho</ref>. When she looks back he spills drink 
 from his mouth. They laugh at him.</sd>
@@ -2759,7 +2759,7 @@ from his mouth. They laugh at him.</sd>
 <speech><speaker name="RON">RON</speaker>
                          Dress robes? for what?</speech>
 
-              <setting>INT. ASSEMBLY ROOM</setting>
+              <scene n="33"><setting>INT. ASSEMBLY ROOM</setting></scene>
 
 
 
@@ -2878,7 +2878,7 @@ still seated.</sd>
 
 <sd><ref name="Neville_Longbottom">Neville</ref> stands.</sd>
 
-              <setting>EXT. HOGWARTS - DAYTIME</setting>
+              <scene n="34"><setting>EXT. HOGWARTS - DAYTIME</setting></scene>
 
 
 
@@ -2927,7 +2927,7 @@ still seated.</sd>
                          as it were. But enough of me, what about 
                          you!</speech>
  
-              <setting>EXT. LAKESIDE</setting>
+              <scene n="35"><setting>EXT. LAKESIDE</setting></scene>
 
 <sd><ref name="Viktor_Krum">Viktor Krum</ref> is training, a group of girls are following him around.</sd>
  
@@ -3013,7 +3013,7 @@ ONES WILL HAVE GONE!".</sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          Agreed.</speech>
 
-              <setting>EXT. HOGWARTS - SNOWY</setting>
+              <scene n="36"><setting>EXT. HOGWARTS - SNOWY</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  is walking up some steps. He reaches the top and bumps 
 into <ref name="Cho_Chang">Cho</ref> who has come around the corner.</sd>
@@ -3081,7 +3081,7 @@ into <ref name="Cho_Chang">Cho</ref> who has come around the corner.</sd>
 <speech><speaker name="CHO">CHO</speaker>
                          <ref name="Harry_Potter">Harry</ref>  I really am sorry.</speech>
 
-              <setting>INT. COMMON ROOM</setting>
+              <scene n="37"><setting>INT. COMMON ROOM</setting></scene>
 
 <sd><ref name="Ron_Weasley">Ron</ref> is being helped into the room, he looks shaky.</sd>
 
@@ -3159,7 +3159,7 @@ into <ref name="Cho_Chang">Cho</ref> who has come around the corner.</sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          Hey!</speech>
 
-              <setting>INT. DANCEHALL</setting>
+              <scene n="38"><setting>INT. DANCEHALL</setting></scene>
 
 <sd>Soft music plays and everyone is well dressed, gathered in the 
 hall. </sd>
@@ -3213,7 +3213,7 @@ and uncomfortable in his ridiculous dress robes.</sd>
                          I smell like my great aunt Tessie. Murder 
                          me <ref name="Harry_Potter">Harry</ref> .</speech>
  
-              <setting>INT. DANCEHALL</setting>
+              <scene n="39"><setting>INT. DANCEHALL</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Ron_Weasley">Ron</ref> are walking down the stairs into the hall. <ref name="Ron_Weasley">Ron</ref> 
 is fidgeting with his outfit.</sd>
@@ -3476,7 +3476,7 @@ up after a great time with <ref name="Viktor_Krum">Viktor</ref>.</sd>
 <speech><speaker name="HERMIONE">HERMIONE</speaker>
                          <ref name="Ron_Weasley">Ron</ref> you spoil everything!</speech>
 
-              <setting>INT. BEDROOM</setting>
+              <scene n="40"><setting>INT. BEDROOM</setting></scene>
 
 <sd>NIGHTMARE SEQUENCE</sd>
 
@@ -3509,7 +3509,7 @@ up to his bed. It's <ref name="Neville_Longbottom">Neville</ref>.</sd>
                          
 <sd>He chuckles and dances off.</sd>
 
-              <setting>EXT. A BRIDGE OUTSIDE HOGWARTS</setting>
+              <scene n="41"><setting>EXT. A BRIDGE OUTSIDE HOGWARTS</setting></scene>
 
 
 
@@ -3599,7 +3599,7 @@ up to his bed. It's <ref name="Neville_Longbottom">Neville</ref>.</sd>
                          take your egg and mull things over in 
                          the hot water.</speech>
  
-              <setting>INT. BATHROOM</setting>
+              <scene n="42"><setting>INT. BATHROOM</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  is taking his clothes off, he gets in the bath. He has 
 his golden egg on the side.</sd>
@@ -3685,7 +3685,7 @@ his golden egg on the side.</sd>
  
 <sd><ref name="Moaning_Myrtle">Myrtle</ref> laughs and <ref name="Harry_Potter">Harry</ref>  is embarrassed.</sd>
 
-              <setting>INT. COMMON ROOM</setting>
+              <scene n="43"><setting>INT. COMMON ROOM</setting></scene>
 
 
 
@@ -3782,7 +3782,7 @@ his golden egg on the side.</sd>
                          I don't know about a turnip but you 
                          can always use gilliweed.</speech>
  
-              <setting>EXT. LAKESIDE</setting>
+              <scene n="44"><setting>EXT. LAKESIDE</setting></scene>
 
                          <sd><ref name="Fred and George Weasley">The Weasley twins</ref> are shouting, busy taking bets. <ref name="Harry_Potter">Harry</ref>  is walking 
 along with <ref name="Neville_Longbottom">Neville</ref>, he has some green plantlife in his hand.</sd>
@@ -3907,7 +3907,7 @@ gilliweed take hold, <ref name="Harry_Potter">Harry</ref> 's hands and feet beco
 <sd><ref name="Harry_Potter">Harry</ref>  swims among the fish and rocks. Singing voices start echoing. 
 We see <ref name="Fleur_Delacour">Fleur</ref> get trapped, she screams. </sd>
  
-              <setting>EXT. ABOVE WATER</setting>
+              <scene n="45"><setting>EXT. ABOVE WATER</setting></scene>
 
 
 
@@ -3917,7 +3917,7 @@ We see <ref name="Fleur_Delacour">Fleur</ref> get trapped, she screams. </sd>
                          been forced to retire. She will take 
                          no further part in this task.</speech>
  
-              <setting>EXT. UNDERWATER</setting>
+              <scene n="46"><setting>EXT. UNDERWATER</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  is still searching around. He hears muffled screams. He 
 finds <ref name="Ron_Weasley">Ron</ref>, <ref name="Hermione_Granger">Hermione</ref>, <ref name="Cho_Chang">Cho Chang</ref> and a blonde girl from Beauxbatons 
@@ -3939,20 +3939,20 @@ with him. <ref name="Harry_Potter">Harry</ref>  sets about freeing <ref name="Ro
 it has legs and it's <ref name="Viktor_Krum">Viktor</ref>. He takes <ref name="Hermione_Granger">Hermione</ref> and heads for 
 the surface. <ref name="Harry_Potter">Harry</ref>  frees <ref name="Ron_Weasley">Ron</ref>. </sd>
  
-              <setting>EXT. ABOVE WATER</setting>
+              <scene n="47"><setting>EXT. ABOVE WATER</setting></scene>
 
 <sd><ref name="Cedric_Diggory">Cedric</ref> and <ref name="Cho_Chang">Cho</ref> emerge, the crowd cheers. <ref name="Viktor_Krum">Viktor</ref> and <ref name="Hermione_Granger">Hermione</ref> 
 next, the crows chants '<ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>, <ref name="Viktor_Krum">Krum</ref>'. The Beauxbatons girls 
 look worried.</sd>
  
-              <setting>EXT. UNDERWATER</setting>
+              <scene n="48"><setting>EXT. UNDERWATER</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  looks over and sees the blonde girl that <ref name="Fleur_Delacour">Fleur</ref> was unable 
 to rescue. He loosens her rope too and starts heading for the 
 surface with the both of them. He's attacked and gets held down, 
 he pushes <ref name="Ron_Weasley">Ron</ref> and the girl towards the surface.</sd>
  
-              <setting>EXT. ABOVE WATER</setting>
+              <scene n="49"><setting>EXT. ABOVE WATER</setting></scene>
 
 <sd><ref name="Ron_Weasley">Ron</ref> and the girl come up, they are coughing but safe. They're 
 helped out of the water by a girl from Beauxbatons. Underwater 
@@ -4105,7 +4105,7 @@ him.</sd>
 <speech><speaker name="MAD-EYE">MAD-EYE</speaker>
                          And they say I'm mad.</speech>
 
-              <setting>EXT. DARK FOREST</setting>
+              <scene n="50"><setting>EXT. DARK FOREST</setting></scene>
 
 
 
@@ -4138,7 +4138,7 @@ in pain. On the ground he sees <ref name="Bartimus_Crouch">Barty Crouch</ref> la
 <speech><speaker name="HARRY">HARRY</speaker>
                          <ref name=" Bartimus Crouch">Mr Crouch</ref>?</speech>
 
-              <setting>INT. HOGWARTS DARK ROOM</setting>
+              <scene n="51"><setting>INT. HOGWARTS DARK ROOM</setting></scene>
 
 
 
@@ -4221,7 +4221,7 @@ of water there. He looks in. He falls and lands in another time
 and place. It's a courtroom, the walls have a red glow. <ref name="Albus_Dumbledore">Dumbledore</ref> 
 is seated next to where <ref name="Harry_Potter">Harry</ref>  is.</sd>
  
-              <setting>INT. COURTROOM</setting>
+              <scene n="52"><setting>INT. COURTROOM</setting></scene>
 
 
 
@@ -4494,7 +4494,7 @@ out from his head.</sd>
 <speech><speaker name="DUMBLEDORE">DUMBLEDORE</speaker>
                          Cast them away.</speech>
 
-              <setting>INT. CORRIDOR</setting>
+              <scene n="53"><setting>INT. CORRIDOR</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  is walking along, we hear raised voices from inside the 
 herbs store.</sd>
@@ -4562,7 +4562,7 @@ herbs store.</sd>
  
 <sd><ref name="Severus_Snape">Severus</ref> closes the door in <ref name="Harry_Potter">Harry</ref> 's face.</sd>
 
-              <setting>EXT. ARENA</setting>
+              <scene n="54"><setting>EXT. ARENA</setting></scene>
 
 <sd>Music is playing and a large crowd is gathered. The champions 
 emerge.</sd>
@@ -4715,7 +4715,7 @@ him up.</sd>
 <speech><speaker name="HARRY">HARRY</speaker>
                          Together, on three. One, two, three!</speech>
  
-   <setting>EXT. GRAVEYARD</setting>
+   <scene n="55"><setting>EXT. GRAVEYARD</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  and <ref name="Cedric_Diggory">Cedric</ref> have ported to a graveyard. </sd>
 
@@ -5049,7 +5049,7 @@ angry.</sd>
 <speech><speaker name="VOLDEMORT">VOLDEMORT</speaker>
                          No!</speech>
 
-              <setting>EXT. ARENA</setting>
+              <scene n="56"><setting>EXT. ARENA</setting></scene>
 
 <sd>Back at the arena <ref name="Harry_Potter">Harry</ref>  appears with <ref name="Cedric_Diggory">Cedric</ref>'s body. The crowd 
 don't understand what has taken place and they all cheer, triumphant 
@@ -5097,7 +5097,7 @@ music starts to play. <ref name="Harry_Potter">Harry</ref>  weeps on <ref name="
                          
 <sd><ref name="Amos_Diggory">Amos</ref> breaks down wailing. The crowd look on distraught.</sd>
 
-              <setting>INT. DARKENED ROOM</setting>
+              <scene n="57"><setting>INT. DARKENED ROOM</setting></scene>
 
 <sd><ref name="Alastor_Moody">Mad-Eye</ref> <ref name="Alastor_Moody">Moody</ref> enters and closes the door behind him. <ref name="Harry_Potter">Harry</ref>  is 
 in the room still sobbing. They sit. </sd>
@@ -5346,7 +5346,7 @@ Crouch Junior</ref>.</sd>
                          Perhaps. Personally I've never had much 
                          time for heroes.</speech>
  
-              <setting>INT. ASSEMBLY ROOM</setting>
+              <scene n="58"><setting>INT. ASSEMBLY ROOM</setting></scene>
 
 
 
@@ -5375,7 +5375,7 @@ Crouch Junior</ref>.</sd>
                          a boy who was kind and honest and brave 
                          and true right to the very end.</speech>
  
-              <setting>INT. BEDROOM</setting>
+              <scene n="59"><setting>INT. BEDROOM</setting></scene>
 
 <sd><ref name="Harry_Potter">Harry</ref>  is sitting on a bed, <ref name="Albus_Dumbledore">Dumbledore</ref> walks in.</sd>
 
@@ -5413,7 +5413,7 @@ Crouch Junior</ref>.</sd>
                          is easy. But remember this, you have 
                          friends here. You're not alone.</speech>
  
-              <setting>EXT. HOGWARTS</setting>
+              <scene n="60"><setting>EXT. HOGWARTS</setting></scene>
 
 <sd>There's a large crowd gathered, the pupils are going home. <ref name="Viktor_Krum">Viktor</ref> 
 <ref name="Viktor_Krum">Krum</ref> gives <ref name="Hermione_Granger">Hermione</ref> a kiss and hands her some paper.</sd>

@@ -59,3 +59,6 @@ s. (Merpeople|merpeople|mermaid|mermaids) r. <creature name="Merepeople">\1</cre
 EDIT: replaced all the spaced in ref tags with _
 s. addded <spell type="" name=""></spell> to the spells mentioned.  
 searched </sd>\n<sd>  replaced with \n
+searched (<setting>) and replaced with <scene>\1
+searched (</setting>) and replaced with \1</scene>
+searched <scene> replaced <scene n="">  went and numbered them as well 
