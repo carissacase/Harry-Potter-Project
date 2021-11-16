@@ -62,3 +62,4 @@ searched </sd>\n<sd>  replaced with \n
 searched (<setting>) and replaced with <scene>\1
 searched (</setting>) and replaced with \1</scene>
 searched <scene> replaced <scene n="">  went and numbered them as well 
+Had to manually add in the missing </speech> tags
