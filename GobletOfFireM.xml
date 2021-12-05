@@ -1306,7 +1306,7 @@ full heads of grey hair and beards.</sd>
 room suddenly becomes silent as <ref name="Viktor_Krum">Viktor Krum</ref> walks in and puts 
 his name in the flame. He looks at <ref name="Hermione_Granger">Hermione</ref> and she smiles.</sd>
  
-          INT. GOBLET ROOM - THURSDAY NIGHT
+          <scene n="17"><setting>INT. GOBLET ROOM - THURSDAY NIGHT</setting></scene>
 <!-- whc: you're missing a "scene" tag here. Probably your regex didn't include 
  instructions to search for text including a dash? -->
 
@@ -1912,7 +1912,7 @@ in it.</sd>
 <sd><ref name="Ron_Weasley">Ron</ref> leaves. <ref name="Harry_Potter">Harry</ref>  goes to the fire again but <ref name="Sirius_Black">Sirius</ref> is gone. 
 The newspaper in the fire has the headline "TEENAGE TRAGEDY".</sd>
  
-          EXT. LAKESIDE
+          <scene n="24"><setting>EXT. LAKESIDE</setting></scene>
 
 
 
