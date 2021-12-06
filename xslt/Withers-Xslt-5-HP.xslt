@@ -6,6 +6,7 @@
    
 <xsl:template match="/">
     <html>
+        <?xml-stylesheet type="text/css" href="index.css"?>
         <head><title>Harry Potter and the Goblet of Fire</title></head>
         <body>
             <h1>Harry Potter and the Goblet of Fire</h1>
@@ -48,10 +49,10 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
    <xsl:template match="speaker">
-        <h4><xsl:apply-templates/></h4>
+        <strong><xsl:apply-templates/></strong>
     </xsl:template>
     <xsl:template match="setting">
-        <h5><strong><xsl:apply-templates/></strong></h5>
+        <h4><xsl:apply-templates/></h4>
     </xsl:template>
     
 </xsl:stylesheet>
