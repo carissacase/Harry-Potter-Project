@@ -20,10 +20,14 @@
         <li><xsl:apply-templates select="@chapTitle"/><ul>
             
             <xsl:apply-templates select="spell"/>
+        </ul><ul>
+            
+            <xsl:apply-templates select="creature"/>
         </ul></li>
     </xsl:template>
     <xsl:template match="spell">
         <li><xsl:apply-templates/></li>
     </xsl:template>
+    
     
 </xsl:stylesheet>
