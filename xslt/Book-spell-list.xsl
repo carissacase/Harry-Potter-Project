@@ -6,24 +6,23 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
     <xsl:template match="/">
-        <html><head></head><body><xsl:apply-templates select="//story"/></body></html>
+        <html><head></head><body>
+            <xsl:apply-templates select="//story"/>
+        </body></html>
     </xsl:template>
-    
     
     <xsl:template match="story">
         <ol><xsl:apply-templates select="chapter"/></ol>
-        
-        
-        
     </xsl:template>
+    
     <xsl:template match="chapter">
-        <li><xsl:apply-templates select="@chapTitle"/><ul>
-            
-            <xsl:apply-templates select="spell"/>
-        </ul></li>
+        <li><xsl:apply-templates select="@chapTitle"/><br/>
+            <xsl:apply-templates select="string-join(distinct-values(child::spell), '; ')"/>
+        </li>
     </xsl:template>
-    <xsl:template match="spell">
-        <li><xsl:apply-templates/></li>
-    </xsl:template>
+    
+    
+    
+    
     
 </xsl:stylesheet>
