@@ -16,10 +16,29 @@
     </xsl:template>
     
     <xsl:template match="chapter">
+
         <li><xsl:apply-templates select="@chapTitle"/><br/>
-            <xsl:apply-templates select="string-join(distinct-values(child::spell), '; ')"/>
+            <xsl:text>Spells cast: </xsl:text><xsl:apply-templates select="string-join(distinct-values(child::spell), '; ')"/>
         </li>
+
+        <!-- WHC: OK, look at what I did above. it actually got rid of 
+            a template rule. Now you can do the same thing with creature
+            and character. You can do that either within this same list,
+            or you can generate an otherwise identical stylesheet that 
+            creates an independent list of each of them.
+            
+            <ul><xsl:apply-templates select="creature"/></ul>
+            
+            <ul><xsl:apply-templates select="character"/></ul>  -->
     </xsl:template>
+   <!-- WHC: Now you won't need these template rules.
+    
+    <xsl:template match="creature">
+        <li><xsl:apply-templates/></li>
+    </xsl:template>
+    <xsl:template match="character">
+        <li><xsl:apply-templates/></li>
+    </xsl:template>    -->
     
     
     
