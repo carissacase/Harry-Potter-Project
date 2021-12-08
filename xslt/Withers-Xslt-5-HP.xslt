@@ -51,6 +51,9 @@
    <xsl:template match="speaker">
         <strong><xsl:apply-templates/></strong>
     </xsl:template>
+   <xsl:template match="scene">
+        <div id="{@n}"><xsl:apply-templates/></div>
+    </xsl:template>
     <xsl:template match="setting">
         <h4><strong><xsl:apply-templates/></strong></h4>
     </xsl:template>
