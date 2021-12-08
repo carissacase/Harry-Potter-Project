@@ -20,6 +20,7 @@
         <li><xsl:apply-templates select="@chapTitle"/><br/>
             <xsl:text>Spells cast: </xsl:text><xsl:apply-templates select="string-join(distinct-values(child::spell), '; ')"/>
         </li>
+        
 
         <!-- WHC: OK, look at what I did above. it actually got rid of 
             a template rule. Now you can do the same thing with creature
