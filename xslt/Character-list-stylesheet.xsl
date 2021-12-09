@@ -6,8 +6,10 @@
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
     <xsl:template match="/">
-        <html><head></head><body>
+        <html><head><!-- add css link --></head><body>
+            <!-- text of webpage here -->
             <xsl:apply-templates select="//story"/>
+            <!-- more text of webpage here -->
         </body></html>
     </xsl:template>
     
@@ -17,8 +19,10 @@
     
     <xsl:template match="chapter">
         
-        <li><xsl:apply-templates select="@chapTitle"/><br/>
-            <xsl:text>Characters included: </xsl:text><xsl:apply-templates select="string-join(distinct-values(child::character), '; ')"/>
-        </li>
+        <li><u><xsl:apply-templates select="@chapTitle"/></u><br/>
+            <b><xsl:text>Characters included: </xsl:text></b><xsl:apply-templates select="string-join(distinct-values(.//character/@charName/translate(., '_', ' ')), '; ')"/><br/>
+            <xsl:if test="count(.//spell) &gt; 0"><b><xsl:text>Spells included: </xsl:text></b><xsl:apply-templates select="string-join(distinct-values(.//spell), '; ')"/><br/></xsl:if>
+            <xsl:if test="count(.//creature) &gt; 0"><b><xsl:text>Creatures included: </xsl:text></b><xsl:apply-templates select="string-join(distinct-values(.//creature/@name/translate(., '_', ' ')), '; ')"/><br/></xsl:if>
+        </li><br/>
     </xsl:template>
 </xsl:stylesheet>
