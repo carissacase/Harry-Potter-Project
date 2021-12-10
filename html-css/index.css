@@ -53,7 +53,7 @@ font-family: arial, helvetica, sans-serif;
     text-align: left;
 }
 .dropdown-content a:hover {
-    background-color: #ddd;
+    background-color: white;
 }
 .dropdown:hover .dropdown-content {
     display: block;
