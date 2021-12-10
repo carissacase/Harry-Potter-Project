@@ -12,7 +12,7 @@
             <h1>Harry Potter and the Goblet of Fire</h1>
             
             <h2>Table of Contents/Scenes</h2>
-            <ol>
+           <!--ignore this TOC--> <ol>
                 <li>The Riddle House<!--INT.DarkRoom--></li>
                 <li>The Scar</li>
                 <li>The Invitation</li>
@@ -49,7 +49,10 @@
                 <li>The Parting of the Ways</li>
                 <li>The Beginning</li>
               
-            </ol>
+            </ol> 
+            
+            <h2><xsl:text>Scenes: </xsl:text><xsl:apply-templates select="//scene" mode="toc"/></h2>
+            
             <xsl:apply-templates/>         
    </body>
     </html>
@@ -66,6 +69,9 @@
     </xsl:template>
    <xsl:template match="scene">
         <div id="{@n}"><xsl:apply-templates/></div>
+    </xsl:template>
+    <xsl:template match="scene" mode="toc">
+        <p><a href="#{@n}"><xsl:value-of select="@n"/></a></p>
     </xsl:template>
     <xsl:template match="setting">
         <h4><strong><xsl:apply-templates/></strong></h4>
