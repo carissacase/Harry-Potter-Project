@@ -11,46 +11,6 @@
         <body>
             <h1>Harry Potter and the Goblet of Fire</h1>
             
-            <h2>Table of Contents/Scenes</h2>
-           <!--ignore this TOC--> <ol>
-                <li>The Riddle House<!--INT.DarkRoom--></li>
-                <li>The Scar</li>
-                <li>The Invitation</li>
-                <li>Back to the Burrow</li>
-                <li>Weasleys' Wizard Wheezes</li>
-                <li>The Portkey<!--Ext.Grassland--></li>
-                <li>Bagman and Crouch</li>
-                <li>The Quidditch World Cup<!--Int.Tent--></li>
-                <li>The Dark Mark<!--Int.tent--></li>
-                <li>Mayhem at the Ministry</li>
-                <li>Aboard the Hogwarts Express<!--Int.TrainCarriage--></li>
-                <li>The Triwizard Tournament<!--Ext.Hogwarts--></li>
-                <li>Mad-Eye Moody<!--Int.Classroom--></li>
-                <li>The Goblet of Fire<!--Int.Goblet Room--></li>
-                <li>The Four Champions<!--Int.Goblet Room Thursday Night--></li>
-                <li>The Weighing of the Wands<!--Int.Hogwarts--></li>
-                <li>The Hungarian Horntail<!--Ext.Lakeside--></li>
-                <li>The First Task<!--Ext.Arena-Tournament Stage 1--></li>
-                <li>The House-Elf Liberation Front</li>
-                <li>The Unexpected Task<!--Int.Assembly Room--></li>
-                <li>The Yule Ball<!--Int.Dancehall--></li>
-                <li>Rita Skeeter's Scoop</li>
-                <li>The Egg and the Eye<!--Ext.A Bridge Outside Hogwarts--></li>
-                <li>The Second Task<!--Ext.Lakeside--></li>
-                <li>Padfoot Returns</li>
-                <li>The Madness of Mr.Crouch<!--Ext.Above Water for the last time--></li>
-                <li>The Dream</li>
-                <li>The Pensieve<!--Int Hogwarts Dark Room--></li>
-                <li>The Third Task<!--Ext.Arena--></li>
-                <li>Flesh, Blood, and Bone<!--Ext.Graveyard--></li>
-                <li>The Death Eaters</li>
-                <li>Priori Incantatem</li>
-                <li>Veritaserum<!--Ext.Arena--></li>
-                <li>The Parting of the Ways</li>
-                <li>The Beginning</li>
-              
-            </ol> 
-            
             <h2><xsl:text>Scenes: </xsl:text><xsl:apply-templates select="//scene" mode="toc"/></h2>
             
             <xsl:apply-templates/>         
@@ -71,7 +31,7 @@
         <div id="{@n}"><xsl:apply-templates/></div>
     </xsl:template>
     <xsl:template match="scene" mode="toc">
-        <p><a href="#{@n}"><xsl:value-of select="@n"/></a></p>
+        <a href="#{@n}"><xsl:value-of select="@n"/></a><xsl:text>&#xA0;&#xA0;&#xA0;</xsl:text>
     </xsl:template>
     <xsl:template match="setting">
         <h4><strong><xsl:apply-templates/></strong></h4>
