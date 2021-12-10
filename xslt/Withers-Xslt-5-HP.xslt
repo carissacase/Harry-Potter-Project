@@ -43,7 +43,7 @@
                 <li>The Pensieve<!--Int Hogwarts Dark Room--></li>
                 <li>The Third Task<!--Ext.Arena--></li>
                 <li>Flesh, Blood, and Bone<!--Ext.Graveyard--></li>
-                <li>The Death Eaters<!--Voldemort-"Hold out your arm"--></li>
+                <li>The Death Eaters</li>
                 <li>Priori Incantatem</li>
                 <li>Veritaserum<!--Ext.Arena--></li>
                 <li>The Parting of the Ways</li>

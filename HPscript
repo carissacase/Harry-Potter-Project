@@ -1,47 +1,46 @@
-
-   <html xmlns="http://www.w3.org/1999/xhtml">
+<html>
+   <link rel="stylesheet" type="text/css" href="index.css">
    <head>
-      <link rel="stylesheet" type="text/css" href="index.css"/>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <title>Harry Potter and the Goblet of Fire</title>
    </head>
    <body>
       <h1>Harry Potter and the Goblet of Fire</h1>
       <h2>Table of Contents/Scenes</h2>
       <ol>
-         <li><a href="id{@1}">The Riddle House</a></li>
+         <li>The Riddle House</li>
          <li>The Scar</li>
          <li>The Invitation</li>
          <li>Back to the Burrow</li>
          <li>Weasleys' Wizard Wheezes</li>
-         <li><a href="id{@2}">The Portkey</a></li>
+         <li>The Portkey</li>
          <li>Bagman and Crouch</li>
-         <li><a href="id{@3}">The Quidditch World Cup</a></li>
-         <li><a href="id{@4}">The Dark Mark</a></li>
+         <li>The Quidditch World Cup</li>
+         <li>The Dark Mark</li>
          <li>Mayhem at the Ministry</li>
-         <li><a href="id{@5}">Aboard the Hogwarts Express</a></li>
-         <li><a href="id{@6}">The Triwizard Tournament</a></li>
-         <li><a href="id{@7}">Mad-Eye Moody</a></li>
-         <li><a href="id{@8}">The Goblet of Fire</a></li>
-         <li><a href="id{@9}">The Four Champions</a></li>
-         <li><a href="id{@10}">The Weighing of the Wands</a></li>
-         <li><a href="id{@11}">The Hungarian Horntail</a></li>
-         <li><a href="id{@12}">The First Task</a></li>
+         <li>Aboard the Hogwarts Express</li>
+         <li>The Triwizard Tournament</li>
+         <li>Mad-Eye Moody</li>
+         <li>The Goblet of Fire</li>
+         <li>The Four Champions</li>
+         <li>The Weighing of the Wands</li>
+         <li>The Hungarian Horntail</li>
+         <li>The First Task</li>
          <li>The House-Elf Liberation Front</li>
-         <li><a href="id{@13}">The Unexpected Task</a></li>
-         <li><a href="id{@14}">The Yule Ball</a></li>
+         <li>The Unexpected Task</li>
+         <li>The Yule Ball</li>
          <li>Rita Skeeter's Scoop</li>
-         <li><a href="id{@15}">The Egg and the Eye</a></li>
-         <li><a href="id{@16}">The Second Task</a></li>
+         <li>The Egg and the Eye</li>
+         <li>The Second Task</li>
          <li>Padfoot Returns</li>
-         <li><a href="id{@17}">The Madness of Mr.Crouch</a></li>
+         <li>The Madness of Mr.Crouch</li>
          <li>The Dream</li>
-         <li><a href="id{@18}">The Pensieve</a></li>
-         <li><a href="id{@19}">The Third Task</a></li>
-         <li><a href="id{@20}">Flesh, Blood, and Bone</a></li>
+         <li>The Pensieve</li>
+         <li>The Third Task</li>
+         <li>Flesh, Blood, and Bone</li>
          <li>The Death Eaters</li>
          <li>Priori Incantatem</li>
-         <li><a href="id{@21}">Veritaserum</a></li>
+         <li>Veritaserum</li>
          <li>The Parting of the Ways</li>
          <li>The Beginning</li>
       </ol>
@@ -75,7 +74,7 @@
       
       
       <div id="1">
-         <h4 id="id{@1}"><strong>INT. DARK ROOM - NIGHT TIME</strong></h4>
+         <h4><strong>INT. DARK ROOM - NIGHT TIME</strong></h4>
          
          
          <p>An old man lights a gas oven with a match, he is preparing food. 
@@ -221,7 +220,7 @@
       
       
       <div id="3">
-         <h4 id="id{@2}"><strong>EXT. GRASSLAND</strong></h4>
+         <h4><strong>EXT. GRASSLAND</strong></h4>
          
          
          
@@ -1632,7 +1631,7 @@
             his name in the flame. He looks at Hermione and she smiles.</p>
          
          
-         <div id="18">
+         <div id="17">
             <h4><strong>INT. GOBLET ROOM - THURSDAY NIGHT</strong></h4>
          </div>
          
@@ -1731,7 +1730,7 @@
          </div>
       
       
-      <div id="19">
+      <div id="18">
          <h4><strong>INT. ROOM</strong></h4>
          
          
@@ -1827,7 +1826,7 @@
          </div>
       
       
-      <div id="20">
+      <div id="19">
          <h4><strong>INT. DARKENED TOWER ROOM</strong></h4>
          
          
@@ -1906,7 +1905,7 @@
          </div>
       
       
-      <div id="21">
+      <div id="20">
          <h4><strong>INT. BEDROOM</strong></h4>
          
          
@@ -1971,7 +1970,7 @@
          </div>
       
       
-      <div id="22">
+      <div id="21">
          <h4><strong>INT. HOGWARTS</strong></h4>
          
          
@@ -2117,7 +2116,7 @@
          </div>
       
       
-      <div id="23">
+      <div id="22">
          <h4><strong>INT. ROOFTOP</strong></h4>
          
          
@@ -2155,7 +2154,7 @@
          </div>
       
       
-      <div id="24">
+      <div id="23">
          <h4><strong>INT. GRIFFINDORE COMMON ROOM</strong></h4>
          
          
@@ -2353,7 +2352,7 @@
             The newspaper in the fire has the headline "TEENAGE TRAGEDY".</p>
          
          
-         <div id="25">
+         <div id="24">
             <h4><strong>EXT. LAKESIDE</strong></h4>
          </div>
          
@@ -2455,7 +2454,7 @@
          </div>
       
       
-      <div id="26">
+      <div id="24">
          <h4><strong>INT. FOREST</strong></h4>
          
          
@@ -2622,7 +2621,7 @@
          </div>
       
       
-      <div id="27">
+      <div id="25">
          <h4><strong>EXT. HOGWARTS - DAYTIME</strong></h4>
          
          
@@ -2870,7 +2869,7 @@
          </div>
       
       
-      <div id="28">
+      <div id="26">
          <h4><strong>INT. MAD-EYE'S ROOM</strong></h4>
          
          
@@ -2949,7 +2948,7 @@
          </div>
       
       
-      <div id="29">
+      <div id="27">
          <h4><strong>EXT. ARENA - TOURNAMENT STAGE 1</strong></h4>
          
          
@@ -2958,7 +2957,7 @@
          </div>
       
       
-      <div id="30">
+      <div id="28">
          <h4><strong>INT. WAITING TENT</strong></h4>
          
          
@@ -3141,7 +3140,7 @@
          </div>
       
       
-      <div id="31">
+      <div id="29">
          <h4><strong>INT. TENT </strong></h4>
          
          
@@ -3178,7 +3177,7 @@
          </div>
       
       
-      <div id="32">
+      <div id="30">
          <h4><strong>EXT. HOGWARTS SKY</strong></h4>
          
          
@@ -3195,7 +3194,7 @@
          </div>
       
       
-      <div id="33">
+      <div id="31">
          <h4><strong>INT. ARENA</strong></h4>
          
          
@@ -3356,7 +3355,7 @@
          </div>
       
       
-      <div id="34">
+      <div id="32">
          <h4><strong>INT. CLASSROOM</strong></h4>
          
          
@@ -3457,7 +3456,7 @@
          </div>
       
       
-      <div id="35">
+      <div id="33">
          <h4><strong>INT. ASSEMBLY ROOM</strong></h4>
          
          
@@ -3602,7 +3601,7 @@
          </div>
       
       
-      <div id="36">
+      <div id="34">
          <h4><strong>EXT. HOGWARTS - DAYTIME</strong></h4>
          
          
@@ -3663,7 +3662,7 @@
          </div>
       
       
-      <div id="37">
+      <div id="35">
          <h4><strong>EXT. LAKESIDE</strong></h4>
          
          
@@ -3770,7 +3769,7 @@
          </div>
       
       
-      <div id="38">
+      <div id="36">
          <h4><strong>EXT. HOGWARTS - SNOWY</strong></h4>
          
          
@@ -3854,7 +3853,7 @@
          </div>
       
       
-      <div id="39">
+      <div id="37">
          <h4><strong>INT. COMMON ROOM</strong></h4>
          
          
@@ -3952,7 +3951,7 @@
          </div>
       
       
-      <div id="40">
+      <div id="38">
          <h4><strong>INT. DANCEHALL</strong></h4>
          
          
@@ -4022,7 +4021,7 @@
          </div>
       
       
-      <div id="41">
+      <div id="39">
          <h4><strong>INT. DANCEHALL</strong></h4>
          
          
@@ -4340,7 +4339,7 @@
          </div>
       
       
-      <div id="42">
+      <div id="40">
          <h4><strong>INT. BEDROOM</strong></h4>
          
          
@@ -4385,7 +4384,7 @@
          </div>
       
       
-      <div id="43">
+      <div id="41">
          <h4><strong>EXT. A BRIDGE OUTSIDE HOGWARTS</strong></h4>
          
          
@@ -4493,7 +4492,7 @@
          </div>
       
       
-      <div id="44">
+      <div id="42">
          <h4><strong>INT. BATHROOM</strong></h4>
          
          
@@ -4601,7 +4600,7 @@
          </div>
       
       
-      <div id="45">
+      <div id="43">
          <h4><strong>INT. COMMON ROOM</strong></h4>
          
          
@@ -4718,7 +4717,7 @@
          </div>
       
       
-      <div id="46">
+      <div id="44">
          <h4><strong>EXT. LAKESIDE</strong></h4>
          
          
@@ -4869,7 +4868,7 @@
          </div>
       
       
-      <div id="47">
+      <div id="45">
          <h4><strong>EXT. ABOVE WATER</strong></h4>
          
          
@@ -4884,7 +4883,7 @@
          </div>
       
       
-      <div id="48">
+      <div id="46">
          <h4><strong>EXT. UNDERWATER</strong></h4>
          
          
@@ -4914,7 +4913,7 @@
          </div>
       
       
-      <div id="49">
+      <div id="47">
          <h4><strong>EXT. ABOVE WATER</strong></h4>
          
          
@@ -4925,7 +4924,7 @@
          </div>
       
       
-      <div id="50">
+      <div id="48">
          <h4><strong>EXT. UNDERWATER</strong></h4>
          
          
@@ -4937,7 +4936,7 @@
          </div>
       
       
-      <div id="51">
+      <div id="49">
          <h4><strong>EXT. ABOVE WATER</strong></h4>
          
          
@@ -5124,7 +5123,7 @@
          </div>
       
       
-      <div id="52">
+      <div id="50">
          <h4><strong>EXT. DARK FOREST</strong></h4>
          
          
@@ -5166,7 +5165,7 @@
          </div>
       
       
-      <div id="53">
+      <div id="51">
          <h4><strong>INT. HOGWARTS DARK ROOM</strong></h4>
          
          
@@ -5267,7 +5266,7 @@
          </div>
       
       
-      <div id="54">
+      <div id="52">
          <h4><strong>INT. COURTROOM</strong></h4>
          
          
@@ -5590,7 +5589,7 @@
          </div>
       
       
-      <div id="55">
+      <div id="53">
          <h4><strong>INT. CORRIDOR</strong></h4>
          
          
@@ -5673,7 +5672,7 @@
          </div>
       
       
-      <div id="56">
+      <div id="54">
          <h4><strong>EXT. ARENA</strong></h4>
          
          
@@ -5860,7 +5859,7 @@
          </div>
       
       
-      <div id="57">
+      <div id="55">
          <h4><strong>EXT. GRAVEYARD</strong></h4>
          
          
@@ -6264,7 +6263,7 @@
          </div>
       
       
-      <div id="58">
+      <div id="56">
          <h4><strong>EXT. ARENA</strong></h4>
          
          
@@ -6325,7 +6324,7 @@
          </div>
       
       
-      <div id="59">
+      <div id="57">
          <h4><strong>INT. DARKENED ROOM</strong></h4>
          
          
@@ -6625,7 +6624,7 @@
          </div>
       
       
-      <div id="60">
+      <div id="58">
          <h4><strong>INT. ASSEMBLY ROOM</strong></h4>
          
          
@@ -6659,7 +6658,7 @@
          </div>
       
       
-      <div id="61">
+      <div id="59">
          <h4><strong>INT. BEDROOM</strong></h4>
          
          
@@ -6707,7 +6706,7 @@
          
          
          
-         <div id="62">
+         <div id="60">
             <h4><strong>EXT. HOGWARTS</strong></h4>
          </div>
          
