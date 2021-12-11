@@ -27,14 +27,14 @@ font-family: arial, helvetica, sans-serif;
     font-size: 16px;
     border: none;
     outline: none;
-    color: blue;
+    color: yellow;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
 }
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: white;
 }
 .dropdown-content {
     display: none;
