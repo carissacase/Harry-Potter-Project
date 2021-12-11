@@ -13,7 +13,7 @@ font-family: arial, helvetica, sans-serif;
 .navbar a {
     float: left;
     font-size: 16px;
-    color: Yellow;
+    color: #FFD700;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -34,26 +34,26 @@ font-family: arial, helvetica, sans-serif;
     margin: 0;
 }
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: white;
+    background-color: #F5F5F5;
 }
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: purple;
+    background-color: #CD5C5C;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
 .dropdown-content a {
     float: none;
-    color: blue;
+    color: #FFD700;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
     text-align: left;
 }
 .dropdown-content a:hover {
-    background-color: white;
+    background-color: #F5F5F5;
 }
 .dropdown:hover .dropdown-content {
     display: block;
