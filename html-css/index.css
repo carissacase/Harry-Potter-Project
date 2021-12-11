@@ -10,6 +10,7 @@ text-align: center;
     overflow: hidden;
     background-color: #8B0000;
     z-index: 500;
+    text-align: center;
 }
 .navbar a {
     float: center;
