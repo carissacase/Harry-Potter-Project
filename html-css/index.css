@@ -2,6 +2,7 @@ body {
 background-color: #BDB76B;
 color: #800080;
 font-family: arial, helvetica, sans-serif;
+text-align: center;
 }
 .navbar {
     display: flex;
