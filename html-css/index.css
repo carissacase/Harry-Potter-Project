@@ -7,7 +7,7 @@ font-family: arial, helvetica, sans-serif;
     display: flex;
     width: 100%;
     overflow: hidden;
-    background-color: #CD5C5C;
+    background-color: #8B0000;
     z-index: 500;
 }
 .navbar a {
