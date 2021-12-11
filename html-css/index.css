@@ -12,7 +12,7 @@ text-align: center;
     z-index: 500;
 }
 .navbar a {
-    float: left;
+    float: center;
     font-size: 16px;
     color: #FFD700;
     text-align: center;
