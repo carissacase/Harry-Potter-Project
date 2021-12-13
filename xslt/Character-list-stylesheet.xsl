@@ -23,6 +23,7 @@
     <xsl:template match="chapter">
         
         <li><u><xsl:apply-templates select="@chapTitle"/></u><br/>
+            <u><xsl:text>Page number: </xsl:text><xsl:apply-templates select=".//page[1]/@n"/><br/></u>
             <b><xsl:text>Characters included: </xsl:text></b><xsl:apply-templates select="string-join(distinct-values(.//character/@charName/translate(., '_', ' ')), '; ')"/><br/>
             <xsl:if test="count(.//spell) &gt; 0"><b><xsl:text>Spells included: </xsl:text></b><xsl:apply-templates select="string-join(distinct-values(.//spell), '; ')"/><br/></xsl:if>
             <xsl:if test="count(.//creature) &gt; 0"><b><xsl:text>Creatures included: </xsl:text></b><xsl:apply-templates select="string-join(distinct-values(.//creature/@name/translate(., '_', ' ')), '; ')"/><br/></xsl:if>
