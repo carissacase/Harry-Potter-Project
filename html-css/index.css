@@ -10,6 +10,22 @@ color: #800080;
 font-family: HARRYP; <!-- arial, helvetica, sans-serif;-->
 text-align: center;
 }
+h1 {
+    font-size: 30px;
+  color: black;
+  text-align: center;
+  font-family: 'HARRYP';
+}
+h2 {
+  color: black;
+    font-size: 15px;
+  text-align: center;
+  font-family: 'HARRYP';
+}
+p {
+  color: black;
+  text-align: center;
+  font-family: HARRYP;
 .navbar {
     display: flex;
     width: 100%;
