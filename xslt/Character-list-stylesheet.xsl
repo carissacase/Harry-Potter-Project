@@ -24,7 +24,7 @@
         
         <li><u><xsl:apply-templates select="@chapTitle"/></u><br/>
             <b><xsl:text>Page: </xsl:text></b><xsl:apply-templates select=".//page[1]/@n"/><br/>
-            <xsl:if test="count(.//@scene) &gt; 0"><b><xsl:text>Movie scene: </xsl:text></b><a href="Harry-Potter-Project/html-css/HPscript.html#{@scene}"><xsl:apply-templates select=".//@scene"/></a><br/></xsl:if>
+            <xsl:if test="count(.//@scene) &gt; 0"><b><xsl:text>Movie scene: </xsl:text></b><a href=".//Harry-Potter-Project/html-css/HPscript.html#{@scene}"><xsl:apply-templates select=".//@scene"/></a><br/></xsl:if>
             
             <b><xsl:text>Characters included: </xsl:text></b><xsl:apply-templates select="string-join(distinct-values(.//character/@charName/translate(., '_', ' ')), '; ')"/><br/>
             <xsl:if test="count(.//spell) &gt; 0"><b><xsl:text>Spells included: </xsl:text></b><xsl:apply-templates select="string-join(distinct-values(.//spell), '; ')"/><br/></xsl:if>
