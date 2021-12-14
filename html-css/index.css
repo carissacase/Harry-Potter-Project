@@ -1,17 +1,15 @@
 
 @font-face {
+    src: url("font/HARRYP__.TTF") format('TFF');
     font-family: "Harry P";
-    src: url("font/HARRYP__.TTF") format('ttf');
     font-style: normal;
     font-weight: normal;
 }
-
 
 body {
 background-color: #BDB76B;
 color: #800080;
 font-family: arial, helvetica, sans-serif;
-text-align: center;
 }
 
 h1 {
