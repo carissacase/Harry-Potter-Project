@@ -19,13 +19,14 @@ h1 {
     color: #800080;
     font-family: "Harry P";
     text-align: center;
-    font-size: 35px;
+    font-size: 48px;
 }
 
 h2{
      color: #800080;
     font-family: "Harry P";
-    font-size: 28px;
+    text-align: center;
+    font-size: 32px;
 }
 
 .navbar {
