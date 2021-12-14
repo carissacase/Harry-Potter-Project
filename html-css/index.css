@@ -6,10 +6,13 @@
     font-weight: normal;
 }
 
+/* https://carissacase.github.io/Harry-Potter-Project/html-css/font/HARRYP__.TTF */
+
 body {
 background-color: #BDB76B;
 color: #800080;
 font-family: arial, helvetica, sans-serif;
+text-align: left;
 }
 
 h1 {
