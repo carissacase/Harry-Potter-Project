@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'HARRYP';
-    src: url(Harry-Potter-Project/font/HARRYP__.TTF);
+    src: url("Harry-Potter-Project/font/HARRYP__.TTF") format('ttf');
     font-style:normal;
     font-weight: 100;
 }
