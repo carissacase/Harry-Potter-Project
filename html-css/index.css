@@ -1,15 +1,31 @@
+
 @font-face {
-    font-family: 'Harry P';
+    font-family: "Harry P";
     src: url("font/HARRYP__.TTF") format('ttf');
-    font-style:normal;
-    font-weight: 100;
+    font-style: normal;
+    font-weight: normal;
 }
+
+
 body {
 background-color: #BDB76B;
 color: #800080;
-font-family: Harry P; <!-- arial, helvetica, sans-serif;-->
+font-family: arial, helvetica, sans-serif;
 text-align: center;
 }
+
+h1 {
+    color: #800080;
+    font-family: "Harry P";
+    text-align: center;
+}
+
+h2{
+     color: #800080;
+    font-family: "Harry P";
+    text-align: center;
+}
+
 .navbar {
     display: flex;
     width: 100%;
@@ -78,5 +94,4 @@ text-align: center;
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 200px;
- <img src="HP.jpg" alt="HP">}
+  width: 200px; }
