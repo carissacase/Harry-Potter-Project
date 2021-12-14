@@ -1,7 +1,13 @@
+@font-face {
+    font-family: 'HARRYP';
+    src: url(/Harry-Potter-Project/font/HARRYP__.TTF);
+    font-style:normal;
+    font-weight: 100;
+}
 body {
 background-color: #BDB76B;
 color: #800080;
-font-family: arial, helvetica, sans-serif;
+font-family: HARRYP; <!-- arial, helvetica, sans-serif;-->
 text-align: center;
 }
 .navbar {
