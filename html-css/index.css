@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'HARRYP';
+    font-family: 'Harry P';
     src: url("Harry-Potter-Project/font/HARRYP__.TTF") format('ttf');
     font-style:normal;
     font-weight: 100;
@@ -7,25 +7,25 @@
 body {
 background-color: #BDB76B;
 color: #800080;
-font-family: HARRYP; <!-- arial, helvetica, sans-serif;-->
+font-family: Harry P; <!-- arial, helvetica, sans-serif;-->
 text-align: center;
 }
 h1 {
     font-size: 30px;
   color: black;
   text-align: center;
-  font-family: 'HARRYP';
+  font-family: 'Harry P';
 }
 h2 {
   color: black;
     font-size: 15px;
   text-align: center;
-  font-family: 'HARRYP';
+  font-family: 'Harry P';
 }
 p {
   color: black;
   text-align: center;
-  font-family: HARRYP;
+  font-family: Harry P;
 .navbar {
     display: flex;
     width: 100%;
