@@ -41,7 +41,9 @@
             We then put it into xslts to filter the html pages.  We sought to compare the amount of characters, creatures, and spells in each chapter in the book
             and each scene in the movie. </p>
         <h2>XSLT FOR NOVEL CHARACTER/CREATURE/SPELL ANALYSIS:</h2><br/>
-        <code>
+        <img src="/Harry-Potter-Project/images/xslt-part-1.png" alt="XSLT Screenshot" style="width:800px;height:600px;"/>
+        <img src="/Harry-Potter-Project/images/xslt-part-2.png" alt="XSLT Bottom Screenshot" style="width:800px;height:600px;"/>
+        <!--<code>
             <?xml version="1.0" encoding="UTF-8"?>
             <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
                 xmlns:xs="http://www.w3.org/2001/XMLSchema"
@@ -86,7 +88,7 @@
                             <p>One thing that we would change with this method is rather than just tagging when each character was mentioned, we would tag when the character was participating in dialogue so we could then compare with how many times the character participated in dialogue in the movie script. This would give a more comprehensive comparison of the plot of the novel and the movie.</p> 
                             <p>Unfortunately since the book is under copyright we are not able to upload it to the website. However, it is assumed that the viewers of this website are Harry Potter fans, and we have included information such as which chapters include which characters, creatures and spells so anyone at home who owns a copy of the book would easily be able to refer to that.</p>
                             <xsl:apply-templates select="//story"/>
-                            <!-- more text of webpage here -->
+                             more text of webpage here 
                         </body></html>
                 </xsl:template>
                 
@@ -105,7 +107,7 @@
                         <xsl:if test="count(.//creature) &gt; 0"><b><xsl:text>Creatures included: </xsl:text></b><xsl:apply-templates select="string-join(distinct-values(.//creature/@name/translate(., '_', ' ')), '; ')"/><br/></xsl:if>
                     </li><br/>
                 </xsl:template>
-            </xsl:stylesheet></code>
+            </xsl:stylesheet></code>-->
         <h2>BOOK SCHEMA</h2><br/>
         <code>datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
             
