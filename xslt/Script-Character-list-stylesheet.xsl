@@ -8,7 +8,7 @@
     <xsl:template match="/">
         <html><head><meta name="viewport" content="width=device-width, initial-scale=1.0" />
             <link rel="stylesheet" type="text/css" href="index.css"/> </head><body>
-                <h1>Harry Potter Project</h1>
+                <h1>Harry Potter and the Goblet of Fire Project</h1>
                 <div id="navbar">
                     <div class="navbar">
                         <a href="/Harry-Potter-Project/index.xhtml">Home</a>
@@ -33,7 +33,7 @@
                             <button class="dropbtn">Reference</button>
                             <div class="dropdown-content">
                                 <a href="/Harry-Potter-Project/html-css/discussion.html">Movie Script Source</a>
-                                <a href="/Harry-Potter-Project/html-css/discussion.html">Discussion</a>
+                                
                             </div>                                 
                         </div>
                     </div>
