@@ -38,6 +38,7 @@
                         </div>
                     </div>
                 </div>
+                <h2>Movie Scene Analysis</h2>
                 <p>This project was conducted in order to compare the Harry Potter: Goblet of Fire novel and movie to see how the plot differentiates between the two. To analyze the novel, we used Regex and XML markup to find every single time a character, spell, or creature spoke or was mentioned. They were tagged so we could then compile a list of which characters, spells, and c were mentioned in which scene.  </p>
                 <p>One thing that we would change with this method is rather than just tagging when each character was mentioned, we would tag when the character was participating in dialogue so we could then compare with how many times the character participated in dialogue in the movie script. This would give a more comprehensive comparison of the plot of the novel and the movie.</p> 
                

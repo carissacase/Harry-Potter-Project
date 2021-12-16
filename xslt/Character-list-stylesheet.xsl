@@ -38,6 +38,7 @@
                         </div>
                     </div>
                 </div>
+                <h2>Book Chapter Analysis</h2>
             <p>This project was conducted in order to compare the Harry Potter: Goblet of Fire novel and movie to see how the plot differentiates between the two. To analyze the novel, we used Regex and XML markup to find every single time a character was mentioned and tag that mention so we could then compile a list of which characters were mentioned in which chapter.</p>
             <p>One thing that we would change with this method is rather than just tagging when each character was mentioned, we would tag when the character was participating in dialogue so we could then compare with how many times the character participated in dialogue in the movie script. This would give a more comprehensive comparison of the plot of the novel and the movie.</p> 
             <p>Unfortunately since the book is under copyright we are not able to upload it to the website. However, it is assumed that the viewers of this website are Harry Potter fans, and we have included information such as which chapters include which characters, creatures and spells so anyone at home who owns a copy of the book would easily be able to refer to that.</p>
