@@ -24,8 +24,8 @@
                         <div class="dropdown">
                             <button class="dropbtn">Content</button>
                             <div class="dropdown-content">
-                                <a href="/Harry-Potter-Project/html-css/Character-list-output.html">Character/Creature References</a>
-                                <a href="/Harry-Potter-Project/html-css/NOVEL-ANALYSIS.html">Novel Analysis</a>
+                                <a href="/Harry-Potter-Project/html-css/Character-list-output.html">Book Chapter Analysis</a>
+                                <a href="/Harry-Potter-Project/html-css/Script-Character-list-output.html">Movie Scene Analysis</a>
                                 <a href="/Harry-Potter-Project/html-css/discussion.html">Discussion</a>
                             </div>                                 
                         </div>
