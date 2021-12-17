@@ -34,7 +34,7 @@
         <a href="#{@n}"><xsl:value-of select="@n"/></a><xsl:text>&#xA0;&#xA0;&#xA0;</xsl:text>
     </xsl:template>
     <xsl:template match="setting">
-        <h4><strong><xsl:apply-templates/></strong></h4>
+        <h4><i><xsl:apply-templates/></i></h4>
     </xsl:template>
     
 </xsl:stylesheet>
