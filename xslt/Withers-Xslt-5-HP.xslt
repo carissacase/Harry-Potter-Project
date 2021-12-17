@@ -28,11 +28,14 @@
         <strong><xsl:apply-templates/></strong>
     </xsl:template>
    <xsl:template match="scene">
-        <div id="{@n}"><xsl:apply-templates/></div>
+       <h4><i>Scene <xsl:value-of select="@n"/></i></h4><div id="{@n}"><xsl:apply-templates/></div>
     </xsl:template>
     <xsl:template match="scene" mode="toc">
         <a href="#{@n}"><xsl:value-of select="@n"/></a><xsl:text>&#xA0;&#xA0;&#xA0;</xsl:text>
     </xsl:template>
+   <!-- <xsl:template match="scene">
+        <h4><i>Scene <xsl:value-of select="@n"/></i></h4>
+    </xsl:template>-->
     <xsl:template match="setting">
         <h4><i><xsl:apply-templates/></i></h4>
     </xsl:template>
