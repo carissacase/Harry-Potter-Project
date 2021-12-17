@@ -48,12 +48,12 @@
     </xsl:template>
     
     <xsl:template match="div">
-        <ul><xsl:apply-templates select="scene"/></ul>
+        <ol><xsl:apply-templates select="scene"/></ol>
     </xsl:template>
     
     <xsl:template match="scene">
         
-        <li><u><xsl:text>Scene: </xsl:text><xsl:apply-templates select="@n"/></u><br/>
+        <li><u><xsl:text>Scene</xsl:text></u><br/>
             
             <b><xsl:if test="count(.//speaker/@name) &gt; 0"><xsl:text>Characters included: </xsl:text></xsl:if></b><xsl:apply-templates select="string-join(distinct-values(.//speaker/@name/translate(., '_', ' ')), '; ')"/><br/>
             <xsl:if test="count(.//spell) &gt; 0"><b><xsl:text>Spells included: </xsl:text></b><xsl:apply-templates select="string-join(distinct-values(.//spell), '; ')"/><br/></xsl:if>
