@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Character Speech Frequency Analysis</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="index.css"/>  
+    </head>
+    <body>
+        <h1>Harry Potter and the Goblet of Fire Project</h1>
+        <div id="navbar">
+            <div class="navbar">
+                <a href="/Harry-Potter-Project/index.xhtml">Home</a>
+                <div class="dropdown">
+                    <button class="dropbtn">About</button>
+                    <div class="dropdown-content">
+                        <a href="/Harry-Potter-Project/html-css/team.html">Harry Potter Project Staff</a>
+                        <a href="/Harry-Potter-Project/html-css/goals.html">Legacy</a>
+                        <a href="/Harry-Potter-Project/html-css/methodology.html">Methodology</a>                       
+                    </div>
+                </div>           
+                <a href="/Harry-Potter-Project/html-css/HPscript.html">Movie Script</a>
+                <div class="dropdown">
+                    <button class="dropbtn">Content</button>
+                    <div class="dropdown-content">
+                        <a href="/Harry-Potter-Project/html-css/Character-list-output.html">Book Chapter Analysis</a>
+                        <a href="/Harry-Potter-Project/html-css/Script-Character-list-output.html">Movie Scene Analysis</a>
+                        <a href="/Harry-Potter-Project/html-css/discussion.html">Character Speech Frequency Analysis</a>
+                    </div>                                 
+                </div>
+                <div class="dropdown">
+                    <button class="dropbtn">Reference</button>
+                    <div class="dropdown-content">
+                        <a href="/Harry-Potter-Project/html-css/discussion.html">Movie Script Source</a>
+                        
+                    </div>                                 
+                </div>
+            </div>
+        </div>
+        <h2>Character Speech Frequency Analysis (Movie)</h2>
+        <p>I was assigned with finding out how many times each character has speaking lines throughout Harry Potter and The Goblet of Fire. Below will be my finised svg table depicting the
+        total number of times each casted character speaks. Below that is the xsl I modified to complete the task at hand. All of the svg was recycled from another one of my group mates
+       . Their work is commented out to display their original work if inspected. Below the svg you will notice my svg output. This is the code that draws the table making it visual.
+        Most of the names are very close together to depict every casted character.</p><hr/>
+        <h3>Character Speech Frequency Analysis:</h3><br/>
+        <img src="/Harry-Potter-Project/images/svg-part-3.png" alt="svg pt 3" style="width:1000px;"/>
+        <h3>XSL</h3>
+        <!--<code>
+            <xsl:stylesheet 
+                xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+            xmlns:xs="http://www.w3.org/2001/XMLSchema"
+            xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="xs math"
+            xmlns="http://www.w3.org/1999/xhtml" version="3.0"
+            />
+            <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
+                omit-xml-declaration="yes"/>
+            
+            <xsl:template match="/">
+                <html>
+                    <head>Speaker analysis</head>
+                    <body>
+                         <!--<h1>Names of speakers in each scene</h1>
+                <ol><xsl:for-each select="descendant::scene">
+                    <li><xsl:value-of select="descendant::speaker/@name=>distinct-values()"/>
+                    </li></xsl:for-each></ol>
+                
+                <h1>Number of speakers in each scene</h1>
+                <ol><xsl:for-each select="descendant::scene">
+                    <li><xsl:value-of select="descendant::speaker/@name=>distinct-values()=>count()"/>
+                    </li></xsl:for-each></ol>
+                
+                
+                <h1>Names of speaking characters</h1>
+                <ul>
+                    <xsl:for-each select="distinct-values(//speaker/@name)">
+                        <li><xsl:value-of select="."/></li>
+                    </xsl:for-each>
+                </ul>-->
+                       <h1>Table of speech frequency</h1>
+                        <table>
+                            <tr><th>Speaker</th><th>Frequency</th></tr>
+                            <xsl:for-each-group select="//speaker" group-by="@name">
+                                <tr><td><xsl:value-of select="@name"/></td>
+                                    <td><xsl:value-of select="count(current-group())"/></td></tr>
+                            </xsl:for-each-group>
+                        </table>
+                    </body>
+                        
+                        
+                        
+                </html>
+            </xsl:template>
+            
+            </xsl:stylesheet>
+        </code>
+        
+        
+       <h2>SVG Output</h2>
+           
+        <!--<code> 
+            ?xml version="1.0" encoding="UTF-8"?>
+            <svg xmlns="http://www.w3.org/2000/svg" width="225%" height="150%">
+                <g transform="translate(70, 550)">
+                    <text x="375" y="-475" text-anchor="middle">"Table of Speech Frequency in the Movie Script"</text>
+                    <line x1="20"
+                        x2="20"
+                        y1="300"
+                        y2="-2200"
+                        stroke="black"
+                        stroke-width="1"/>
+                    <line x1="20"
+                        x2="1200"
+                        y1="300"
+                        y2="300"
+                        stroke="black"
+                        stroke-width="1"/>
+                    <text x="20" y="315" text-anchor="middle">0</text>
+                    <text x="80" y="315" text-anchor="middle">10</text>
+                    <text x="140" y="315" text-anchor="middle">20</text>
+                    <text x="200" y="315" text-anchor="middle">30</text>
+                    <text x="260" y="315" text-anchor="middle">40</text>
+                    <text x="320" y="315" text-anchor="middle">50</text>
+                    <text x="380" y="315" text-anchor="middle">60</text>
+                    <text x="440" y="315" text-anchor="middle">70</text>
+                    <text x="500" y="315" text-anchor="middle">80</text>
+                    <text x="560" y="315" text-anchor="middle">90</text>
+                    <text x="620" y="315" text-anchor="middle">100</text>
+                    <text x="680" y="315" text-anchor="middle">110</text>
+                    <text x="740" y="315" text-anchor="middle">120</text>
+                    <text x="800" y="315" text-anchor="middle">130</text>
+                    <text x="860" y="315" text-anchor="middle">140</text>
+                    <text x="920" y="315" text-anchor="middle">150</text>
+                    <text x="980" y="315" text-anchor="middle">160</text>
+                    <text x="1040" y="315" text-anchor="middle">170</text>
+                    <text x="-30" y="220" text-anchor="middle"> OLD_MAN</text>
+                    <rect x="20" y="210" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    
+                    <text x="-30" y="210" text-anchor="middle"> WORMTAIL</text>
+                    <rect x="20" y="200" height="10" width="6" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="200" text-anchor="middle"> VOLDEMORT</text>
+                    <rect x="20" y="190" height="10" width="132" stroke="black" stroke-width="5" fill="green"/>
+                    
+                    <text x="-30" y="190" text-anchor="middle"> UNKNOWN_MAN</text>
+                    <rect x="20" y="180" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="180" text-anchor="middle"> HERMIONE</text>
+                    <rect x="20" y="170" height="10" width="378" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="170" text-anchor="middle"> HARRY</text>
+                    <rect x="20" y="160" height="10" width="972" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="160" text-anchor="middle">RON</text>
+                    <rect x="20" y="150" height="10" width="450" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="150" text-anchor="middle"> ARTHUR</text>
+                    <rect x="20" y="140" height="10" width="114" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="140" text-anchor="middle"> AMOS</text>
+                    <rect x="20" y="130" height="10" width="54" stroke="black" stroke-width="5" fill="yellow"/>
+                    
+                    <text x="-30" y="130" text-anchor="middle"> CEDRIC</text>
+                    <rect x="20" y="120" height="10" width="132" stroke="black" stroke-width="5" fill="yellow"/>
+                    
+                    <text x="-30" y="120" text-anchor="middle"> FRED</text>
+                    <rect x="20" y="110" height="10" width="78" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="110" text-anchor="middle"> GEORGE</text>
+                    <rect x="20" y="100" height="10" width="72" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="100" text-anchor="middle"> TWINS</text>
+                    <rect x="20" y="90" height="10" width="30" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="90" text-anchor="middle"> LUCIUS</text>
+                    <rect x="20" y="80" height="10" width="24" stroke="black" stroke-width="5" fill="green"/>
+                    
+                    <text x="-30" y="80" text-anchor="middle"> DRACO</text>
+                    <rect x="20" y="70" height="10" width="18" stroke="black" stroke-width="5" fill="green"/>
+                    
+                    <text x="-30" y="70" text-anchor="middle"> WEASLEYS</text>
+                    <rect x="20" y="60" height="10" width="6" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="60" text-anchor="middle"> ANNOUNCER</text>
+                    <rect x="20" y="50" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="50" text-anchor="middle"> GINNY</text>
+                    <rect x="20" y="40" height="10" width="12" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="40" text-anchor="middle"> BOYS</text>
+                    <rect x="20" y="30" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="30" text-anchor="middle"> BARTY</text>
+                    <rect x="20" y="20" height="10" width="156" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="20" text-anchor="middle"> LADY_OFFSCREEN</text>
+                    <rect x="20" y="10" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="10" text-anchor="middle"> LADY</text>
+                    <rect x="20" y="0" height="10" width="12" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="0" text-anchor="middle"> CHO</text>
+                    <rect x="20" y="-10" height="10" width="48" stroke="black" stroke-width="5" fill="blue"/>
+                    
+                    <text x="-30" y="-10" text-anchor="middle"> HAGRID</text>
+                    <rect x="20" y="-20" height="10" width="96" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-20" text-anchor="middle"> DUMBLEDORE</text>
+                    <rect x="20" y="-30" height="10" width="426" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-30" text-anchor="middle"> STUDENT</text>
+                    <rect x="20" y="-40" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-40" text-anchor="middle"> IGOR</text>
+                    <rect x="20" y="-50" height="10" width="90" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-50" text-anchor="middle"> MADAME_MAXIME</text>
+                    <rect x="20" y="-60" height="10" width="48" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-60" text-anchor="middle"> MAN</text>
+                    <rect x="20" y="-70" height="10" width="12" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-70" text-anchor="middle"> MAD-EYE</text>
+                    <rect x="20" y="-80" height="10" width="324" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-80" text-anchor="middle"> PUPIL</text>
+                    <rect x="20" y="-90" height="10" width="12" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-90" text-anchor="middle"> NEVILLE</text>
+                    <rect x="20" y="-100" height="10" width="78" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-100" text-anchor="middle"> FRED_WEASLEY</text>
+                    <rect x="20" y="-110" height="10" width="6" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-110" text-anchor="middle"> VOICE</text>
+                    <rect x="20" y="-120" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-120" text-anchor="middle"> MCGONAGALL</text>
+                    <rect x="20" y="-130" height="10" width="126" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-130" text-anchor="middle"> SEVERUS</text>
+                    <rect x="20" y="-140" height="10" width="36" stroke="black" stroke-width="5" fill="green"/>
+                    
+                    <text x="-30" y="-140" text-anchor="middle"> RITA</text>
+                    <rect x="20" y="-150" height="10" width="72" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-150" text-anchor="middle"> SIR</text>
+                    <rect x="20" y="-160" height="10" width="66" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-160" text-anchor="middle"> BOY</text>
+                    <rect x="20" y="-170" height="10" width="12" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-170" text-anchor="middle"> VIKTOR</text>
+                    <rect x="20" y="-180" height="10" width="12" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-180" text-anchor="middle"> SEAMUS</text>
+                    <rect x="20" y="-190" height="10" width="12" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-190" text-anchor="middle"> NIGEL</text>
+                    <rect x="20" y="-200" height="10" width="6" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-200" text-anchor="middle"> GIRL</text>
+                    <rect x="20" y="-210" height="10" width="12" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-210" text-anchor="middle"> PATILS</text>
+                    <rect x="20" y="-220" height="10" width="6" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-220" text-anchor="middle"> PARVATI</text>
+                    <rect x="20" y="-230" height="10" width="30" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-230" text-anchor="middle"> PADMA</text>
+                    <rect x="20" y="-240" height="10" width="12" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-240" text-anchor="middle"> MYRTLE</text>
+                    <rect x="20" y="-250" height="10" width="36" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-250" text-anchor="middle"> VOICE_SINGING</text>
+                    <rect x="20" y="-260" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-260" text-anchor="middle"> FRIEND</text>
+                    <rect x="20" y="-270" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-270" text-anchor="middle"> MERPERSON</text>
+                    <rect x="20" y="-280" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-280" text-anchor="middle"> FLEUR</text>
+                    <rect x="20" y="-290" height="10" width="18" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-290" text-anchor="middle"> FUDGE</text>
+                    <rect x="20" y="-300" height="10" width="30" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-300" text-anchor="middle"> BARTY_JR</text>
+                    <rect x="20" y="-310" height="10" width="30" stroke="black" stroke-width="5" fill="white"/>
+                    
+                    <text x="-30" y="-310" text-anchor="middle"> JAMES_POTTER</text>
+                    <rect x="20" y="-320" height="10" width="6" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-320" text-anchor="middle"> LILY_POTTER</text>
+                    <rect x="20" y="-330" height="10" width="6" stroke="black" stroke-width="5" fill="red"/>
+                    
+                    <text x="-30" y="-330" text-anchor="middle"> ALASTOR</text>
+                    <rect x="20" y="-340" height="10" width="6" stroke="black" stroke-width="5" fill="white"/>
+                    
+                </g>
+            </svg>
+        </code>-->
+    </body>
+</html>
+
