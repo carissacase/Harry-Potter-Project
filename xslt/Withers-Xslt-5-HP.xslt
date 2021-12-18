@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    exclude-result-prefixes="xs"
-    version="2.0">
     xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="xs math"
     xmlns="http://www.w3.org/1999/xhtml" version="3.0">
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
         omit-xml-declaration="yes"/>
+    
     <xsl:template match="/">
         <html><head><meta name="viewport" content="width=device-width, initial-scale=1.0" />
-            <link rel="stylesheet" type="text/css" href="index.css"/> </head><body></body>
+            <link rel="stylesheet" type="text/css" href="index.css"/> </head><body>
                 <h1>Harry Potter and the Goblet of Fire Project</h1>
                 <div id="navbar">
                     <div class="navbar">
@@ -35,24 +34,19 @@
                             <button class="dropbtn">Reference</button>
                             <div class="dropdown-content">
                                 <a href="/Harry-Potter-Project/html-css/discussion.html">Movie Script Source</a>
+                                
                             </div>                                 
                         </div>
                     </div>
                 </div>
-      
-<xsl:template match="/">
-    <html>
-        <link rel="stylesheet" type="text/css" href="index.css"/>
-        <head><title>Harry Potter and the Goblet of Fire</title></head>
-        <body>
             <h1>Harry Potter and the Goblet of Fire</h1>
             
             <h2><xsl:text>Scenes: </xsl:text><xsl:apply-templates select="//scene" mode="toc"/></h2>
             
             <xsl:apply-templates/>         
-   </body>
+    </body>
     </html>
-  </xsl:template>
+  </xsl:template> 
  
     <xsl:template match="speech">
         <p><xsl:apply-templates/></p>
@@ -75,5 +69,4 @@
     <xsl:template match="setting">
         <h4><i><xsl:apply-templates/></i></h4>
     </xsl:template>
-    
 </xsl:stylesheet>
