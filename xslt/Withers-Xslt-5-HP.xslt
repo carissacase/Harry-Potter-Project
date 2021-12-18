@@ -3,7 +3,43 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     exclude-result-prefixes="xs"
     version="2.0">
-   
+    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="xs math"
+    xmlns="http://www.w3.org/1999/xhtml" version="3.0">
+    <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat"
+        omit-xml-declaration="yes"/>
+    <xsl:template match="/">
+        <html><head><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <link rel="stylesheet" type="text/css" href="index.css"/> </head><body></body>
+                <h1>Harry Potter and the Goblet of Fire Project</h1>
+                <div id="navbar">
+                    <div class="navbar">
+                        <a href="/Harry-Potter-Project/index.xhtml">Home</a>
+                        <div class="dropdown">
+                            <button class="dropbtn">About</button>
+                            <div class="dropdown-content">
+                                <a href="/Harry-Potter-Project/html-css/team.html">Harry Potter Project Staff</a>
+                                <a href="/Harry-Potter-Project/html-css/goals.html">Legacy</a>
+                                <a href="/Harry-Potter-Project/html-css/methodology.html">Methodology</a>                       
+                            </div>
+                        </div>           
+                        <a href="/Harry-Potter-Project/html-css/HPscript.html">Movie Script</a>
+                        <div class="dropdown">
+                            <button class="dropbtn">Content</button>
+                            <div class="dropdown-content">
+                                <a href="/Harry-Potter-Project/html-css/Character-list-output.html">Book Chapter Analysis</a>
+                                <a href="/Harry-Potter-Project/html-css/Script-Character-list-output.html">Movie Scene Analysis</a>
+                                <a href="/Harry-Potter-Project/html-css/discussion.html">Discussion</a>
+                            </div>                                 
+                        </div>
+                        <div class="dropdown">
+                            <button class="dropbtn">Reference</button>
+                            <div class="dropdown-content">
+                                <a href="/Harry-Potter-Project/html-css/discussion.html">Movie Script Source</a>
+                            </div>                                 
+                        </div>
+                    </div>
+                </div>
+      
 <xsl:template match="/">
     <html>
         <link rel="stylesheet" type="text/css" href="index.css"/>
